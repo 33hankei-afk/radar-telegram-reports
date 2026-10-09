@@ -1,0 +1,40 @@
+name: Validate domestic Telegram reports
+on:
+  push:
+    paths:
+      - "latest.json"
+      - "latest.md"
+      - "reports/**"
+      - "scripts/validate_report.py"
+      - ".github/workflows/validate-reports.yml"
+  pull_request:
+    paths:
+      - "latest.json"
+      - "latest.md"
+      - "reports/**"
+      - "scripts/validate_report.py"
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Validate archive and latest
+        shell: bash
+        run: |
+          set -euo pipefail
+          if [[ -f latest.json ]]; then
+            test -f latest.md
+            python scripts/validate_report.py latest.json --markdown latest.md
+          fi
+          for report in reports/*.json; do
+            [[ -f "$report" ]] || continue
+            md="${report%.json}.md"
+            test -f "$md"
+            python scripts/validate_report.py "$report" --markdown "$md"
+          done
