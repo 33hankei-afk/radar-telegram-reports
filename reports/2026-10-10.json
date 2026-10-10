@@ -1,7 +1,7 @@
 {
   "schema": "telegram_summaries_v1",
   "date_kst": "2026-10-10",
-  "observed_at_kst": "2026-10-10T21:00:15+09:00",
+  "observed_at_kst": "2026-10-10T21:32:08+09:00",
   "entries": [
     {
       "channel": "FastStockNewsUSA",
@@ -756,9 +756,41 @@
       "products_processes": "NAND 사업·미국 IPO 추진",
       "stage": "추진·미확정",
       "claim_type": "기사 제목·미리보기"
+    },
+    {
+      "channel": "athletes_village",
+      "post_id": "23698",
+      "url": "https://t.me/athletes_village/23698",
+      "views_display": "790",
+      "published_at_kst": "2026-10-10T20:59:00+09:00",
+      "title": "솔리다임 IPO 추진 기사와 제목 표현 논평",
+      "summary_ko": "[T4 AI 메모리·저장장치] SK하이닉스(000660)의 미국 낸드플래시 계열사 솔리다임 IPO 추진을 다룬 기사 제목·미리보기와 제목 표현에 관한 채널 논평을 읽었다. 미리보기에는 주주 반발과 회사의 ‘확정된 사안이 없다’는 입장, 시장의 내년 미국 나스닥 상장 가능성 관측이 담겼다. 기사 전문의 네 가지 이유는 이 게시글에서 확인하지 못했으며 상장 완료로 해석하지 않는다.",
+      "primary_theme": "T4",
+      "secondary_themes": [],
+      "theme_reason": "확인된 기사 미리보기가 솔리다임을 SK하이닉스의 미국 NAND 계열사라고 명시하고 그 IPO 추진을 다룬다. 메모리 기업의 자본 조달·지배구조 사안으로 분류한다.",
+      "companies": "SK하이닉스(000660) / 솔리다임",
+      "products_processes": "NAND 플래시 계열사 / IPO 추진",
+      "stage": "IPO 추진·시장 관측; 회사는 확정 사항 없음",
+      "claim_type": "기사 제목·공개 미리보기 / 채널 논평; 전문 미확인"
+    },
+    {
+      "channel": "stock_messenger",
+      "post_id": "34922",
+      "url": "https://t.me/stock_messenger/34922",
+      "views_display": "365",
+      "published_at_kst": "2026-10-10T21:06:00+09:00",
+      "title": "디지털 옵티머스의 범용 게임 AI 개발 진전 주장",
+      "summary_ko": "[OTHER 기타] 채널은 머스크가 디지털 옵티머스의 개발 진전을 공개했다고 전했다. 화면을 보는 것만으로 디아블로 캠페인 약 절반까지 진행하고, 카운터스트라이크에서도 플레이하며 리그 오브 레전드는 학습 중이라는 설명이다. 범용 게임 에이전트를 목표로 하지만 모델 구조·학습 방식·정량 성능은 공개되지 않았고 현재 성능은 머스크의 설명에 기반한다고 원문이 명시한다.",
+      "primary_theme": "OTHER",
+      "secondary_themes": [],
+      "theme_reason": "게임 화면을 인식하고 행동을 결정하는 범용 AI 에이전트 개발에 관한 본문이다. 광통신·패키징·전력반도체·메모리·데이터센터 전력 제품의 직접 근거는 없다.",
+      "companies": "일론 머스크 / 범용 게임 AI",
+      "products_processes": "Digital Optimus / 시각 인식·행동 결정 AI 에이전트",
+      "stage": "개발·학습 중(채널이 전한 발언); 정량 검증 미공개",
+      "claim_type": "채널의 발언 전재; 독립 성능 검증 아님"
     }
   ],
-  "coverage_note": "기준일 2026-10-10 KST, 게시일 판정 범위 00:00~21:00:15(최초 조회 시각). 조회수 대조는 2026-10-10T21:29:27+09:00까지 수행해 같은 순간의 정확한 측정값이 아니다. 고정 59개 채널 모두 접근 시도; 최신 공개 목록 50개는 페이지 끝까지 읽었음. 당일 00:00 경계까지 날짜·번호·조회수가 검증된 범위 29/59, 부분 22, 실패 8. 부분: faststocknews, insidertracking, yeouidostory2, gaoshoukorea, faststocknewsusa, growthresearch, shmstory, hs_academy, hanachina, brain_and_body_research, aetherjapanresearch, meritz_research, jeilstock, huhpharm, easobi, smallcap, egzion, eqmirae, athletes_village, rafikiresearch, maddingStock, globaletfi. 실패: yeouido_lab, jstockclass, pikachu_aje, kimcharger, earlystock1, macrojunglemicrolens, awake_realtimecheck, goupstock. 실제 식별한 원문 956건(과거 포함); 공개 footer 날짜 확인 648건 중 당일 92건; 날짜 미확인 308건은 순위와 entries 제외. 글번호 미확인 1건도 제외. 00:00 경계 미도달: insidertracking, hanachina, aetherjapanresearch, eqmirae. Exa로 읽은 과거/미확인 날짜 본문 및 검색·수집일은 당일 글로 대체하지 않음. 알려진 날짜 미확인 범위와 목록 오류 때문에 순위는 확인한 게시글 기준 TOP20(일부 누락 가능). 첨부 이미지·표·동영상·PDF 내부는 미확인, 관련 글 전체는 확인된 당일 텍스트·미리보기 범위만 뜻함. SEARFin 공개 목록 웹 읽기 실패; 읽힌 12MF 리비전은 2026-10-08 18:00 KST(2026-10-01 대비)이며 당일 원문 번호·footer 날짜·조회수 대조가 불가해 상/하향 entries와 표는 미확인 상태로 비웠음. 보고서/JSON 선정 50건, 관련 주분류 합계 40건(모델 종류 미확인 Fable 캡션 1건은 OTHER로 표시).",
+  "coverage_note": "기준일 2026-10-10 KST, 게시일 판정 범위 00:00~21:32:08(최신 목록 재조회 기준시각). 조회수 대조는 2026-10-10T21:40:16+09:00까지 수행해 같은 순간의 정확한 측정값이 아니다. 고정 59개 채널 모두 접근 시도; 최신 공개 목록 50개는 페이지 끝까지 읽었음. 당일 00:00 경계까지 날짜·번호·조회수가 검증된 범위 29/59, 부분 22, 실패 8. 부분: faststocknews, insidertracking, yeouidostory2, gaoshoukorea, faststocknewsusa, growthresearch, shmstory, hs_academy, hanachina, brain_and_body_research, aetherjapanresearch, meritz_research, jeilstock, huhpharm, easobi, smallcap, egzion, eqmirae, athletes_village, rafikiresearch, maddingStock, globaletfi. 실패: yeouido_lab, jstockclass, pikachu_aje, kimcharger, earlystock1, macrojunglemicrolens, awake_realtimecheck, goupstock. 실제 식별한 원문 965건(과거 포함); 공개 footer 날짜 확인 655건 중 당일 99건; 날짜 미확인 310건은 순위와 entries 제외. 글번호 미확인 1건도 제외. 00:00 경계 미도달: insidertracking, hanachina, aetherjapanresearch, eqmirae. Exa로 읽은 과거/미확인 날짜 본문 및 검색·수집일은 당일 글로 대체하지 않음. 알려진 날짜 미확인 범위와 목록 오류 때문에 순위는 확인한 게시글 기준 TOP20(일부 누락 가능). 첨부 이미지·표·동영상·PDF 내부는 미확인, 관련 글 전체는 확인된 당일 텍스트·미리보기 범위만 뜻함. SEARFin 공개 목록 웹 읽기 실패; 읽힌 12MF 리비전은 2026-10-08 18:00 KST(2026-10-01 대비)이며 당일 원문 번호·footer 날짜·조회수 대조가 불가해 상/하향 entries와 표는 미확인 상태로 비웠음. 보고서/JSON 선정 52건, 관련 주분류 합계 42건(모델 종류 미확인 Fable 캡션 1건은 OTHER로 표시). 최신 목록 50개를 재조회해 끝의 원문 번호를 직접 대조했다. 추가로 식별한 9건 중 7건은 footer 날짜·시각·조회수를 확인했으며, insidertracking/65902와 FastStockNewsUSA/23680는 본문·번호·목록 조회수만 읽혀 날짜·시각 검증에서 제외했다.",
   "top20_urls": [
     "https://t.me/FastStockNewsUSA/23679",
     "https://t.me/HANAchina/70176",
@@ -821,7 +853,9 @@
     "https://t.me/bumgore/55058",
     "https://t.me/habit4117/85683",
     "https://t.me/insidertracking/65894",
-    "https://t.me/athletes_village/23696"
+    "https://t.me/athletes_village/23696",
+    "https://t.me/stock_messenger/34922",
+    "https://t.me/athletes_village/23698"
   ],
   "consensus_up": [],
   "consensus_down": [],
@@ -893,17 +927,17 @@
       "awake_realtimecheck",
       "goupstock"
     ],
-    "observed_post_count": 50,
-    "identified_post_count": 956,
-    "verified_today_post_count": 92,
-    "date_verified_post_count": 648,
-    "date_missing_post_count": 308,
+    "observed_post_count": 52,
+    "identified_post_count": 965,
+    "verified_today_post_count": 99,
+    "date_verified_post_count": 655,
+    "date_missing_post_count": 310,
     "identifier_missing_post_count": 1,
-    "scope_date_missing_post_count": 117,
+    "scope_date_missing_post_count": 119,
     "ranking_complete": false,
     "scope_start_kst": "2026-10-10T00:00:00+09:00",
-    "scope_end_kst": "2026-10-10T21:00:15+09:00",
-    "collection_ended_at_kst": "2026-10-10T21:29:27+09:00",
+    "scope_end_kst": "2026-10-10T21:32:08+09:00",
+    "collection_ended_at_kst": "2026-10-10T21:40:16+09:00",
     "latest_list_pages_read_full": 50,
     "original_list_failed_channels": [
       "yeouido_lab",
@@ -939,16 +973,16 @@
       },
       {
         "channel": "insidertracking",
-        "observed_posts": 20,
+        "observed_posts": 21,
         "date_verified": 10,
         "today_verified": 10,
-        "date_missing": 10,
-        "scope_date_missing": 10,
+        "date_missing": 11,
+        "scope_date_missing": 11,
         "midnight_reached": false,
         "fully_verified": false,
         "scope_old_anchor": null,
         "oldest_post_id": "65856",
-        "latest_post_id": "65901",
+        "latest_post_id": "65902",
         "latest_verified_kst": "2026-10-10T20:23:00+09:00"
       },
       {
@@ -1037,31 +1071,31 @@
       },
       {
         "channel": "gaoshoukorea",
-        "observed_posts": 15,
-        "date_verified": 11,
-        "today_verified": 4,
+        "observed_posts": 16,
+        "date_verified": 12,
+        "today_verified": 5,
         "date_missing": 4,
         "scope_date_missing": 1,
         "midnight_reached": true,
         "fully_verified": false,
         "scope_old_anchor": 64983,
         "oldest_post_id": "64970",
-        "latest_post_id": "64993",
-        "latest_verified_kst": "2026-10-10T18:00:00+09:00"
+        "latest_post_id": "65001",
+        "latest_verified_kst": "2026-10-10T20:55:00+09:00"
       },
       {
         "channel": "faststocknewsusa",
-        "observed_posts": 20,
-        "date_verified": 9,
-        "today_verified": 2,
-        "date_missing": 11,
-        "scope_date_missing": 3,
+        "observed_posts": 23,
+        "date_verified": 11,
+        "today_verified": 4,
+        "date_missing": 12,
+        "scope_date_missing": 4,
         "midnight_reached": true,
         "fully_verified": false,
         "scope_old_anchor": 23674,
         "oldest_post_id": "23660",
-        "latest_post_id": "23679",
-        "latest_verified_kst": "2026-10-10T16:15:00+09:00"
+        "latest_post_id": "23682",
+        "latest_verified_kst": "2026-10-10T21:15:00+09:00"
       },
       {
         "channel": "tazastock",
@@ -1317,17 +1351,17 @@
       },
       {
         "channel": "magonia_b",
-        "observed_posts": 19,
-        "date_verified": 18,
-        "today_verified": 4,
+        "observed_posts": 21,
+        "date_verified": 20,
+        "today_verified": 6,
         "date_missing": 1,
         "scope_date_missing": 0,
         "midnight_reached": true,
         "fully_verified": true,
         "scope_old_anchor": 12438,
         "oldest_post_id": "12423",
-        "latest_post_id": "12442",
-        "latest_verified_kst": "2026-10-10T17:24:00+09:00"
+        "latest_post_id": "12444",
+        "latest_verified_kst": "2026-10-10T21:05:00+09:00"
       },
       {
         "channel": "jeilstock",
@@ -1359,17 +1393,17 @@
       },
       {
         "channel": "stock_messenger",
-        "observed_posts": 20,
-        "date_verified": 20,
-        "today_verified": 1,
+        "observed_posts": 21,
+        "date_verified": 21,
+        "today_verified": 2,
         "date_missing": 0,
         "scope_date_missing": 0,
         "midnight_reached": true,
         "fully_verified": true,
         "scope_old_anchor": 34920,
         "oldest_post_id": "34902",
-        "latest_post_id": "34921",
-        "latest_verified_kst": "2026-10-10T09:44:00+09:00"
+        "latest_post_id": "34922",
+        "latest_verified_kst": "2026-10-10T21:06:00+09:00"
       },
       {
         "channel": "pikachu_aje",
@@ -1667,17 +1701,17 @@
       },
       {
         "channel": "athletes_village",
-        "observed_posts": 20,
-        "date_verified": 13,
-        "today_verified": 1,
+        "observed_posts": 21,
+        "date_verified": 14,
+        "today_verified": 2,
         "date_missing": 7,
         "scope_date_missing": 1,
         "midnight_reached": true,
         "fully_verified": false,
         "scope_old_anchor": 23695,
         "oldest_post_id": "23678",
-        "latest_post_id": "23697",
-        "latest_verified_kst": "2026-10-10T12:28:00+09:00"
+        "latest_post_id": "23698",
+        "latest_verified_kst": "2026-10-10T20:59:00+09:00"
       },
       {
         "channel": "bio_shinhan",
@@ -1752,7 +1786,15 @@
     ],
     "consensus_status": "unverified",
     "consensus_note": "SEARFin 당일 발표 유무·수치·회차를 확인하지 못함. 읽힌 12MF 리비전 본문은 2026-10-08 18:00 KST, 기준 2026-10-01. 당일 공백을 없음으로 해석하지 않음.",
-    "media_content_verified": false
+    "media_content_verified": false,
+    "latest_refresh_started_at_kst": "2026-10-10T21:32:08+09:00",
+    "latest_refresh_checked_channels": 50,
+    "refresh_added_identified_posts": 9,
+    "refresh_added_verified_today_posts": 7,
+    "latest_refresh_metadata_unverified_urls": [
+      "https://t.me/insidertracking/65902",
+      "https://t.me/FastStockNewsUSA/23680"
+    ]
   },
   "theme_groups": [
     {
@@ -1784,7 +1826,8 @@
         "https://t.me/growthresearch/30264",
         "https://t.me/Brain_And_Body_Research/112985",
         "https://t.me/Brain_And_Body_Research/112986",
-        "https://t.me/cahier_de_market/10956"
+        "https://t.me/cahier_de_market/10956",
+        "https://t.me/athletes_village/23698"
       ]
     },
     {
@@ -1827,7 +1870,8 @@
         "https://t.me/bumgore/55058",
         "https://t.me/habit4117/85683",
         "https://t.me/insidertracking/65894",
-        "https://t.me/athletes_village/23696"
+        "https://t.me/athletes_village/23696",
+        "https://t.me/stock_messenger/34922"
       ]
     }
   ]
