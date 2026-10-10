@@ -1,6 +1,6 @@
 # 2026년 10월 10일 국내 텔레그램 커뮤니티 — 사우디 공습·유조선 운임·AI 수익성
 
-**기준일:** 2026-10-10 KST · **게시일 판정/관측 기준시각:** 21:00:15 KST · **판정 범위:** 00:00~21:00:15 · **조회수·원문 대조 종료:** 2026-10-10T21:29:27+09:00
+**기준일:** 2026-10-10 KST · **게시일 판정/관측 기준시각:** 21:32:08 KST · **판정 범위:** 00:00~21:32:08 · **조회수·원문 대조 종료:** 2026-10-10T21:40:16+09:00
 
 **당일 범위 확인:** 29/59(공개 목록·번호·날짜·조회수 기준), 부분 22, 실패 8. 최신 페이지 끝까지 읽기 50개와 당일 전수 확인은 다른 수치다. 첨부 이미지·표·영상·PDF 내부까지 확인했다는 뜻이 아니다.
 
@@ -8,9 +8,9 @@
 
 **실패 채널:** yeouido_lab, jstockclass, pikachu_aje, kimcharger, earlystock1, macrojunglemicrolens, awake_realtimecheck, goupstock.
 
-**관측 글 수:** 실제 원문 식별 956건(과거 포함), 날짜 확인 648건(당일 92·과거 556), 날짜 미확인 308건 및 글번호 미확인 1건. 보고서/JSON 선정 50건, 관련 글 40건.
+**관측 글 수:** 실제 원문 식별 965건(과거 포함), 날짜 확인 655건(당일 99·과거 556), 날짜 미확인 310건 및 글번호 미확인 1건. 보고서/JSON 선정 52건, 관련 글 42건.
 
-**순위 완전성:** 확인한 게시글 기준 TOP20(일부 누락 가능). 조회수의 K 표기는 원문을 유지했고 정렬에만 근사 환산했다. 같은 4.22K 두 글은 공동 18위이며 반올림 범위 안의 정확한 우열을 주장하지 않는다. 조회수 관측은 순차적으로 이뤄졌다.
+**순위 완전성:** 확인한 게시글 기준 TOP20(일부 누락 가능). 조회수의 K 표기는 원문을 유지했고 정렬에만 근사 환산했다. 같은 4.22K 두 글은 공동 19위이며 반올림 범위 안의 정확한 우열을 주장하지 않는다. 조회수 관측은 순차적으로 이뤄졌다.
 
 **읽은 범위:** 날짜·번호·조회수가 모두 확인된 10월 10일 원문의 텍스트와 공개 링크 미리보기. 본문에서 다른 글을 재요약한 조회수·수집 완료 숫자는 사용하지 않았다. 링크된 기사·영상·첨부자료의 전문을 읽은 것으로 취급하지 않았다.
 
@@ -61,7 +61,7 @@
 
 ## 3) 메모리·반도체·AI 관련 확인 글 전체
 
-주분류 합계는 **40건**이며 모든 theme_urls는 6개 그룹 중 정확히 하나에 속한다. 보조 분류는 본문 근거가 있는 경우만 기록한다. TOP20과 중복되는 글도 같은 channel/post_id/url을 유지한다. 기타에는 Fable 기본 모델 캡션 1건을 관련성 일부 미확인으로 표시했다.
+주분류 합계는 **42건**이며 모든 theme_urls는 6개 그룹 중 정확히 하나에 속한다. 보조 분류는 본문 근거가 있는 경우만 기록한다. TOP20과 중복되는 글도 같은 channel/post_id/url을 유지한다. 기타에는 Fable 기본 모델 캡션 1건을 관련성 일부 미확인으로 표시했다.
 
 ### T1 광통신·광반도체
 
@@ -96,7 +96,7 @@
 
 ### T4 AI 메모리·저장장치
 
-**확인 글 6건.** HBM 단가·마진 전망, 메모리 공급·가격과 PC·아이폰 수요, 솔리다임 IPO 추진 및 HBM 원가 시나리오가 읽혔다. 전망·IPO 추진은 확정 실적이나 상장 완료와 구분했다.
+**확인 글 7건.** 솔리다임 IPO 기사 공유 원문을 각각 보존하며 기사 전문을 읽지 못한 경우 제목·미리보기로 표시한다. HBM 단가·마진 전망, 메모리 공급·가격과 PC·아이폰 수요, 솔리다임 IPO 추진 및 HBM 원가 시나리오가 읽혔다. 전망·IPO 추진은 확정 실적이나 상장 완료와 구분했다.
 
 | 한국어 제목 / TOP20 참조 | 기업·산업 | 제품·공정 | 확인된 진행 단계 / 근거 성격 | 핵심 내용(별도 요약) | 채널 · 게시글번호 · KST | 조회수 원문 | 원문 URL(클릭) |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -106,6 +106,7 @@
 | HBM 가격 인상과 GPU 마진의 시나리오 계산 · TOP20 17 | 엔비디아·HBM 공급망; 원문 표기 MS | HBM 원가·GPU 마진·용량 시나리오 | 가격 시나리오·채널 추론 / 조건부 시나리오·채널 해석 | 게시글의 가정은 R200 288GB에서 GPU 원가 $13,750 중 HBM $4,320(31.4%), 192GB로 낮추면 HBM $2,880·GM 75.0%→77.6%다. ASP 15% 인상한 $63,250와 목표 GM 72%에서 허용 HBM 원가 $8,280, 288GB당 $28.75(+91.7%)·192GB당 $43.13(+187.5%)를 제시한다. FY28 GM 72~73% 관련 문구도 채널의 가정·해석이며 원문 수치를 교정하지 않았다. | cahier_de_market · 10956 · 15:45 | 4.46K | [https://t.me/cahier_de_market/10956](https://t.me/cahier_de_market/10956) |
 | 삼성전자 HBM 단가·이익의 2027년 전망 | 삼성전자 | HBM 단가·이익·장기계약·P5 팹 | 가격 전망·계약 주장·양산 예정 / 증권사 전망 전재 | 모건스탠리 전망으로 삼성전자 HBM 단가 2026E $2.00/Gb→2027E $3.66/Gb(+83.4%), 기존 $3.01 대비 +21.6%를 전달한다. 영업이익 16.8조원(62.8%)→87.8조원(80.7%), +423%는 원문 수치다. 메모리 캐파 60~70%의 빅테크 10곳·5년 롤링 계약과 P5 팹 2028년 중반 양산 예정도 설명한다. 실현 실적이나 양산 완료로 바꾸지 않았다. | growthresearch · 30264 · 16:36 | 1.77K | [https://t.me/growthresearch/30264](https://t.me/growthresearch/30264) |
 | 솔리다임 미국 IPO 추진 기사 미리보기 | SK하이닉스·솔리다임 | NAND 사업·미국 IPO 추진 | 추진·미확정 / 기사 제목·미리보기 | SK하이닉스의 미국 NAND 계열사 솔리다임 IPO 추진과 주주 반발을 소개한 기사 제목·미리보기다. 회사가 확정된 사안이 없다고 했다는 조건을 보존한다. 미국 상장 완료나 시기를 확정하지 않았다. | tazastock · 78896 · 20:38 | 850 | [https://t.me/tazastock/78896](https://t.me/tazastock/78896) |
+| 솔리다임 IPO 추진 기사와 제목 표현 논평 | SK하이닉스(000660) / 솔리다임 | NAND 플래시 계열사 / IPO 추진 | IPO 추진·시장 관측; 회사는 확정 사항 없음 / 기사 제목·공개 미리보기 / 채널 논평; 전문 미확인 | SK하이닉스(000660)의 미국 낸드플래시 계열사 솔리다임 IPO 추진을 다룬 기사 제목·미리보기와 제목 표현에 관한 채널 논평을 읽었다. 미리보기에는 주주 반발과 회사의 ‘확정된 사안이 없다’는 입장, 시장의 내년 미국 나스닥 상장 가능성 관측이 담겼다. 기사 전문의 네 가지 이유는 이 게시글에서 확인하지 못했으며 상장 완료로 해석하지 않는다. | athletes_village · 23698 · 20:59 | 790 | [https://t.me/athletes_village/23698](https://t.me/athletes_village/23698) |
 
 분류 근거·보조 분류:
 
@@ -120,6 +121,8 @@
 - [https://t.me/growthresearch/30264](https://t.me/growthresearch/30264) — HBM 제품의 가격·이익·캐파와 양산 계획을 본문이 직접 설명한다. 보조 분류 없음.
 
 - [https://t.me/tazastock/78896](https://t.me/tazastock/78896) — 본문이 솔리다임을 미국 NAND 계열사로 명시한다. 보조 분류 없음.
+
+- [https://t.me/athletes_village/23698](https://t.me/athletes_village/23698) — 확인된 기사 미리보기가 솔리다임을 SK하이닉스의 미국 NAND 계열사라고 명시하고 그 IPO 추진을 다룬다. 메모리 기업의 자본 조달·지배구조 사안으로 분류한다. 보조 분류 없음.
 
 ### T5 데이터센터 전력공급·냉각
 
@@ -138,7 +141,7 @@
 
 ### OTHER 기타
 
-**확인 글 29건.** AI 매출 회계·모델·정책·연구거점·시장·일정과 일반 노광장비 가격 등이다. 재요약 채널의 주장과 제목/캡션만 읽힌 글은 그 수준으로 표시했다.
+**확인 글 30건.** 디지털 옵티머스의 범용 게임 에이전트 개발 진전 주장(정량 검증 미공개)을 포함한다. AI 매출 회계·모델·정책·연구거점·시장·일정과 일반 노광장비 가격 등이다. 재요약 채널의 주장과 제목/캡션만 읽힌 글은 그 수준으로 표시했다.
 
 | 한국어 제목 / TOP20 참조 | 기업·산업 | 제품·공정 | 확인된 진행 단계 / 근거 성격 | 핵심 내용(별도 요약) | 채널 · 게시글번호 · KST | 조회수 원문 | 원문 URL(클릭) |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -171,6 +174,7 @@
 | 레딧 관심도: 유가·엔비디아·마이크론 | 엔비디아·마이크론 | 주식 관심도 캡션 | 미확인 / 채널 캡션 | 레딧의 관심이 유가·엔비디아·마이크론에 집중됐다는 짧은 캡션이다. 관심도 측정 기간·방법 및 첨부 이미지의 세부 수치는 확인하지 못했다. | insidertracking · 65893 · 19:20 | 2.83K | [https://t.me/insidertracking/65893](https://t.me/insidertracking/65893) |
 | AI 소프트웨어 기회 관련 영상 제목 | 기업명 미확인 | AI 소프트웨어 영상 제목 | 제목만 확인·영상 미확인 / 영상 제목·미리보기 | 게시글의 YouTube 제목은 AI가 위기보다 기회가 된 기업과 52주 신고가를 언급하며 AI 소프트웨어 해시태그를 표시한다. 원영상과 해당 기업명·주장 근거는 확인하지 못했다. | insidertracking · 65894 · 20:04 | 2.07K | [https://t.me/insidertracking/65894](https://t.me/insidertracking/65894) |
 | OpenAI·앤트로픽 Gross·Net 연환산 매출 비교 | OpenAI·앤트로픽 | AI 서비스 매출 인식·연환산 지표 | 비교 분석·조건 미확인 / 채널 분석 | 채널은 OpenAI의 Net 기준 7월 약 300억달러→9월 약 500억달러, Gross 비교치 400억달러→680(700)억달러를 구분한다. Net 성장 +67%, Gross +70%, 3분기 전체 +77%·기업 부문 +107%는 원문 표기다. 모든 클라우드 파트너에 같은 Net 처리가 적용되는지는 미확인이라고 명시한다. | tazastock · 78895 · 20:06 | 758 | [https://t.me/tazastock/78895](https://t.me/tazastock/78895) |
+| 디지털 옵티머스의 범용 게임 AI 개발 진전 주장 | 일론 머스크 / 범용 게임 AI | Digital Optimus / 시각 인식·행동 결정 AI 에이전트 | 개발·학습 중(채널이 전한 발언); 정량 검증 미공개 / 채널의 발언 전재; 독립 성능 검증 아님 | 채널은 머스크가 디지털 옵티머스의 개발 진전을 공개했다고 전했다. 화면을 보는 것만으로 디아블로 캠페인 약 절반까지 진행하고, 카운터스트라이크에서도 플레이하며 리그 오브 레전드는 학습 중이라는 설명이다. 범용 게임 에이전트를 목표로 하지만 모델 구조·학습 방식·정량 성능은 공개되지 않았고 현재 성능은 머스크의 설명에 기반한다고 원문이 명시한다. | stock_messenger · 34922 · 21:06 | 365 | [https://t.me/stock_messenger/34922](https://t.me/stock_messenger/34922) |
 
 분류 근거·보조 분류:
 
@@ -232,22 +236,26 @@
 
 - [https://t.me/tazastock/78895](https://t.me/tazastock/78895) — AI 매출 회계·지표 비교가 주제이며 하드웨어 공정·공급망 연결은 없다. 보조 분류 없음.
 
+- [https://t.me/stock_messenger/34922](https://t.me/stock_messenger/34922) — 게임 화면을 인식하고 행동을 결정하는 범용 AI 에이전트 개발에 관한 본문이다. 광통신·패키징·전력반도체·메모리·데이터센터 전력 제품의 직접 근거는 없다. 보조 분류 없음.
+
 ## 확인 범위와 누락 상세
+
+최신 공개 목록 50개를 재조회해 끝의 원문 번호를 직접 대조했다. 추가로 식별한 원문 9건 중 7건을 날짜·시각·조회수까지 확인했다. [https://t.me/insidertracking/65902](https://t.me/insidertracking/65902)와 [https://t.me/FastStockNewsUSA/23680](https://t.me/FastStockNewsUSA/23680)는 본문·번호·목록 조회수는 읽혔지만 원문 footer 날짜·시각이 빠져 TOP20 및 JSON entries에서 제외했다.
 
 전수 판정은 원문 시간순 목록에서 00:00 이전의 실제 footer 날짜를 확인하고, 그 이후 보이는 글의 번호·footer 날짜·조회수를 모두 대조한 경우다. 경계보다 오래된 글의 날짜 누락은 당일 전수 판정과 구분하되 아래 전체 관측 누락 수에 보존했다. 실패를 0건 게시로 해석하지 않는다.
 
 | 요청 핸들 | 상태 | 식별한 원문(과거 포함) | 날짜 확인 | 당일 확인 | 날짜 미확인 | 당일 경계 이후 날짜 미확인 | 00:00 경계 | 실제 관측 글번호 범위 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | faststocknews | 부분 | 20 | 9 | 3 | 11 | 4 | 도달 | 126280~126299 |
-| insidertracking | 부분 | 20 | 10 | 10 | 10 | 10 | 미도달 | 65856~65901 |
+| insidertracking | 부분 | 21 | 10 | 10 | 11 | 11 | 미도달 | 65856~65902 |
 | corevalue | 전수(목록·메타) | 20 | 18 | 2 | 2 | 0 | 도달 | 47281~47300 |
 | yeouidostory2 | 부분 | 19 | 17 | 8 | 2 | 1 | 도달 | 118237~118256 |
 | bornlupin | 전수(목록·메타) | 18 | 17 | 1 | 1 | 0 | 도달 | 20540~20559 |
 | one_going | 전수(목록·메타) | 20 | 20 | 0 | 0 | 0 | 도달 | 4281~4300 |
 | yeouido_lab | 실패 | 0 | 0 | 0 | 0 | 0 | 미도달 | 미확인 |
 | bullishbee11 | 전수(목록·메타) | 20 | 19 | 1 | 1 | 0 | 도달 | 3465~3485 |
-| gaoshoukorea | 부분 | 15 | 11 | 4 | 4 | 1 | 도달 | 64970~64993 |
-| faststocknewsusa | 부분 | 20 | 9 | 2 | 11 | 3 | 도달 | 23660~23679 |
+| gaoshoukorea | 부분 | 16 | 12 | 5 | 4 | 1 | 도달 | 64970~65001 |
+| faststocknewsusa | 부분 | 23 | 11 | 4 | 12 | 4 | 도달 | 23660~23682 |
 | tazastock | 전수(목록·메타) | 20 | 20 | 11 | 0 | 0 | 도달 | 78877~78896 |
 | growthresearch | 부분 | 20 | 11 | 3 | 9 | 5 | 도달 | 30246~30266 |
 | ym_research | 전수(목록·메타) | 18 | 15 | 0 | 3 | 0 | 도달 | 6470~6491 |
@@ -266,10 +274,10 @@
 | sypark_strategy | 전수(목록·메타) | 20 | 13 | 0 | 7 | 0 | 도달 | 18082~18101 |
 | habit4117 | 전수(목록·메타) | 20 | 19 | 4 | 1 | 0 | 도달 | 85667~85686 |
 | meritz_research | 부분 | 18 | 3 | 0 | 15 | 1 | 도달 | 44768~44787 |
-| magonia_b | 전수(목록·메타) | 19 | 18 | 4 | 1 | 0 | 도달 | 12423~12442 |
+| magonia_b | 전수(목록·메타) | 21 | 20 | 6 | 1 | 0 | 도달 | 12423~12444 |
 | jeilstock | 부분 | 19 | 14 | 0 | 5 | 2 | 도달 | 46784~46805 |
 | jstockclass | 실패 | 0 | 0 | 0 | 0 | 0 | 미도달 | 미확인 |
-| stock_messenger | 전수(목록·메타) | 20 | 20 | 1 | 0 | 0 | 도달 | 34902~34921 |
+| stock_messenger | 전수(목록·메타) | 21 | 21 | 2 | 0 | 0 | 도달 | 34902~34922 |
 | pikachu_aje | 실패 | 0 | 0 | 0 | 0 | 0 | 미도달 | 미확인 |
 | HanaResearch | 전수(목록·메타) | 17 | 12 | 0 | 5 | 0 | 도달 | 20583~20605 |
 | kimcharger | 실패 | 0 | 0 | 0 | 0 | 0 | 미도달 | 미확인 |
@@ -291,7 +299,7 @@
 | report_figure_by_offset | 전수(목록·메타) | 12 | 12 | 1 | 0 | 0 | 도달 | 13236~13256 |
 | yieldnspread | 전수(목록·메타) | 17 | 8 | 0 | 9 | 0 | 도달 | 6600~6620 |
 | shinhanresearch | 전수(목록·메타) | 20 | 7 | 0 | 13 | 0 | 도달 | 53009~53028 |
-| athletes_village | 부분 | 20 | 13 | 1 | 7 | 1 | 도달 | 23678~23697 |
+| athletes_village | 부분 | 21 | 14 | 2 | 7 | 1 | 도달 | 23678~23698 |
 | bio_shinhan | 전수(목록·메타) | 20 | 5 | 0 | 15 | 0 | 도달 | 4808~4827 |
 | goupstock | 실패 | 0 | 0 | 0 | 0 | 0 | 미도달 | 미확인 |
 | rafikiresearch | 부분 | 20 | 12 | 0 | 8 | 2 | 도달 | 25732~25752 |
@@ -302,11 +310,11 @@
 
 공개 목록 최초 접근 실패 9개: yeouido_lab, aetherjapanresearch, jstockclass, pikachu_aje, kimcharger, earlystock1, macrojunglemicrolens, awake_realtimecheck, goupstock. aetherjapanresearch는 별도 직접 링크 3개를 읽어 부분으로 기록했지만 당일 footer 메타는 미확인이다.
 
-날짜가 확인되지 않은 308개 실제 원문은 아래에 채널별로 보존한다. 이 URL들은 후보 원문이 실재한다는 확인일 뿐, 당일 순위·관련 글·JSON entries에는 들어가지 않는다. 게시글 번호를 확인하지 못한 gaoshoukorea 목록의 1개 footer는 주소를 만들지 않았다.
+날짜가 확인되지 않은 310개 실제 원문은 아래에 채널별로 보존한다. 이 URL들은 후보 원문이 실재한다는 확인일 뿐, 당일 순위·관련 글·JSON entries에는 들어가지 않는다. 게시글 번호를 확인하지 못한 gaoshoukorea 목록의 1개 footer는 주소를 만들지 않았다.
 
 **faststocknews 날짜 미확인:** [https://t.me/FastStockNews/126281](https://t.me/FastStockNews/126281), [https://t.me/FastStockNews/126285](https://t.me/FastStockNews/126285), [https://t.me/FastStockNews/126286](https://t.me/FastStockNews/126286), [https://t.me/FastStockNews/126287](https://t.me/FastStockNews/126287), [https://t.me/FastStockNews/126288](https://t.me/FastStockNews/126288), [https://t.me/FastStockNews/126290](https://t.me/FastStockNews/126290), [https://t.me/FastStockNews/126291](https://t.me/FastStockNews/126291), [https://t.me/FastStockNews/126293](https://t.me/FastStockNews/126293), [https://t.me/FastStockNews/126294](https://t.me/FastStockNews/126294), [https://t.me/FastStockNews/126296](https://t.me/FastStockNews/126296), [https://t.me/FastStockNews/126297](https://t.me/FastStockNews/126297).
 
-**insidertracking 날짜 미확인:** [https://t.me/insidertracking/65880](https://t.me/insidertracking/65880), [https://t.me/insidertracking/65883](https://t.me/insidertracking/65883), [https://t.me/insidertracking/65884](https://t.me/insidertracking/65884), [https://t.me/insidertracking/65885](https://t.me/insidertracking/65885), [https://t.me/insidertracking/65887](https://t.me/insidertracking/65887), [https://t.me/insidertracking/65889](https://t.me/insidertracking/65889), [https://t.me/insidertracking/65890](https://t.me/insidertracking/65890), [https://t.me/insidertracking/65900](https://t.me/insidertracking/65900), [https://t.me/insidertracking/65901](https://t.me/insidertracking/65901), [https://t.me/insidertracking/65857](https://t.me/insidertracking/65857).
+**insidertracking 날짜 미확인:** [https://t.me/insidertracking/65880](https://t.me/insidertracking/65880), [https://t.me/insidertracking/65883](https://t.me/insidertracking/65883), [https://t.me/insidertracking/65884](https://t.me/insidertracking/65884), [https://t.me/insidertracking/65885](https://t.me/insidertracking/65885), [https://t.me/insidertracking/65887](https://t.me/insidertracking/65887), [https://t.me/insidertracking/65889](https://t.me/insidertracking/65889), [https://t.me/insidertracking/65890](https://t.me/insidertracking/65890), [https://t.me/insidertracking/65900](https://t.me/insidertracking/65900), [https://t.me/insidertracking/65901](https://t.me/insidertracking/65901), [https://t.me/insidertracking/65857](https://t.me/insidertracking/65857), [https://t.me/insidertracking/65902](https://t.me/insidertracking/65902).
 
 **corevalue 날짜 미확인:** [https://t.me/corevalue/47284](https://t.me/corevalue/47284), [https://t.me/corevalue/47294](https://t.me/corevalue/47294).
 
@@ -318,7 +326,7 @@
 
 **gaoshoukorea 날짜 미확인:** [https://t.me/gaoshoukorea/64970](https://t.me/gaoshoukorea/64970), [https://t.me/gaoshoukorea/64973](https://t.me/gaoshoukorea/64973), [https://t.me/gaoshoukorea/64978](https://t.me/gaoshoukorea/64978), [https://t.me/gaoshoukorea/64985](https://t.me/gaoshoukorea/64985).
 
-**faststocknewsusa 날짜 미확인:** [https://t.me/FastStockNewsUSA/23660](https://t.me/FastStockNewsUSA/23660), [https://t.me/FastStockNewsUSA/23664](https://t.me/FastStockNewsUSA/23664), [https://t.me/FastStockNewsUSA/23665](https://t.me/FastStockNewsUSA/23665), [https://t.me/FastStockNewsUSA/23667](https://t.me/FastStockNewsUSA/23667), [https://t.me/FastStockNewsUSA/23669](https://t.me/FastStockNewsUSA/23669), [https://t.me/FastStockNewsUSA/23671](https://t.me/FastStockNewsUSA/23671), [https://t.me/FastStockNewsUSA/23672](https://t.me/FastStockNewsUSA/23672), [https://t.me/FastStockNewsUSA/23673](https://t.me/FastStockNewsUSA/23673), [https://t.me/FastStockNewsUSA/23675](https://t.me/FastStockNewsUSA/23675), [https://t.me/FastStockNewsUSA/23676](https://t.me/FastStockNewsUSA/23676), [https://t.me/FastStockNewsUSA/23677](https://t.me/FastStockNewsUSA/23677).
+**faststocknewsusa 날짜 미확인:** [https://t.me/FastStockNewsUSA/23660](https://t.me/FastStockNewsUSA/23660), [https://t.me/FastStockNewsUSA/23664](https://t.me/FastStockNewsUSA/23664), [https://t.me/FastStockNewsUSA/23665](https://t.me/FastStockNewsUSA/23665), [https://t.me/FastStockNewsUSA/23667](https://t.me/FastStockNewsUSA/23667), [https://t.me/FastStockNewsUSA/23669](https://t.me/FastStockNewsUSA/23669), [https://t.me/FastStockNewsUSA/23671](https://t.me/FastStockNewsUSA/23671), [https://t.me/FastStockNewsUSA/23672](https://t.me/FastStockNewsUSA/23672), [https://t.me/FastStockNewsUSA/23673](https://t.me/FastStockNewsUSA/23673), [https://t.me/FastStockNewsUSA/23675](https://t.me/FastStockNewsUSA/23675), [https://t.me/FastStockNewsUSA/23676](https://t.me/FastStockNewsUSA/23676), [https://t.me/FastStockNewsUSA/23677](https://t.me/FastStockNewsUSA/23677), [https://t.me/FastStockNewsUSA/23680](https://t.me/FastStockNewsUSA/23680).
 
 **growthresearch 날짜 미확인:** [https://t.me/growthresearch/30253](https://t.me/growthresearch/30253), [https://t.me/growthresearch/30254](https://t.me/growthresearch/30254), [https://t.me/growthresearch/30255](https://t.me/growthresearch/30255), [https://t.me/growthresearch/30256](https://t.me/growthresearch/30256), [https://t.me/growthresearch/30259](https://t.me/growthresearch/30259), [https://t.me/growthresearch/30260](https://t.me/growthresearch/30260), [https://t.me/growthresearch/30261](https://t.me/growthresearch/30261), [https://t.me/growthresearch/30263](https://t.me/growthresearch/30263), [https://t.me/growthresearch/30265](https://t.me/growthresearch/30265).
 
