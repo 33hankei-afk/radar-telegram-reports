@@ -5,14 +5,14 @@ on:
       - "latest.json"
       - "latest.md"
       - "reports/**"
-      - "scripts/validate_report.py"
+      - "scripts/**"
       - ".github/workflows/validate-reports.yml"
   pull_request:
     paths:
       - "latest.json"
       - "latest.md"
       - "reports/**"
-      - "scripts/validate_report.py"
+      - "scripts/**"
   workflow_dispatch:
 permissions:
   contents: read
@@ -38,3 +38,12 @@ jobs:
             test -f "$md"
             python scripts/validate_report.py "$report" --markdown "$md"
           done
+      - name: Validate publication health reporter
+        run: |
+          python scripts/report_health.py --as-of 2026-10-10 --output /tmp/radar-health.json
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          x = json.loads(Path('/tmp/radar-health.json').read_text(encoding='utf-8'))
+          assert x['status'] in ('published', 'published_partial'), x
+          PY
