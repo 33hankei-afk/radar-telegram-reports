@@ -1,0 +1,35 @@
+name: Check daily Telegram report delivery
+on:
+  schedule:
+    # 21:45 and 22:15 Asia/Seoul; GitHub cron is UTC and may be delayed.
+    - cron: '45 12 * * *'
+    - cron: '15 13 * * *'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  check-publication:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Verify current KST report is present
+        shell: bash
+        run: |
+          set -euo pipefail
+          python scripts/report_health.py --output /tmp/telegram-report-health.json
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          result=json.loads(Path('/tmp/telegram-report-health.json').read_text(encoding='utf-8'))
+          with open(__import__('os').environ['GITHUB_STEP_SUMMARY'],'a',encoding='utf-8') as f:
+              f.write('## Domestic Telegram daily report publication\n\n')
+              f.write(f"Status: **{result['status']}**\n\n")
+              f.write(f"Today (KST): {result['check_date_kst']}  |  GitHub latest: {result['report_date_kst']}\n\n")
+              f.write(f"Entries: {result['entry_count']}  |  Fully verified channels: {result['verified_full_channels']}\n\n")
+              if result['errors']: f.write('Errors: '+ '; '.join(result['errors'])+'\n')
+          if result['status'] not in ('published','published_partial'):
+              raise SystemExit('Daily Telegram report missing/stale/invalid: '+str(result['errors']))
+          PY
