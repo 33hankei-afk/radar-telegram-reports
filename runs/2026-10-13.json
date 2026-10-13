@@ -1,9 +1,9 @@
 {
   "date_kst": "2026-10-13",
   "status": "running",
-  "stage": "publishing",
+  "stage": "verifying",
   "started_at_kst": "2026-10-13T21:22:26.448+09:00",
-  "updated_at_kst": "2026-10-13T21:27:36.372+09:00",
+  "updated_at_kst": "2026-10-13T21:27:54.369+09:00",
   "ended_at_kst": null,
   "attempt": 1,
   "verified_posts": 55,
@@ -20,7 +20,12 @@
     "awake_realtimecheck",
     "goupstock"
   ],
-  "published_paths": [],
+  "published_paths": [
+    "reports/2026-10-13.json",
+    "reports/2026-10-13.md",
+    "latest.md",
+    "latest.json"
+  ],
   "errors": [
     "첫 묶음의 공개 목록은 읽혔으나 Exa 추출 결과에서 2026-10-13 KST 날짜·게시글 번호·조회수를 함께 확인할 수 없어 검증 글로 집계하지 않음",
     "59개 목록 접근 시도 완료. 50개 부분 확인, 9개 직접 목록 실패.",
