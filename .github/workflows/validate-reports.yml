@@ -40,7 +40,10 @@ jobs:
           done
       - name: Validate publication health reporter
         run: |
-          python scripts/report_health.py --as-of 2026-10-10 --output /tmp/radar-health.json
+          # This is a schema/publication smoke test for the checked-in report.
+          # The daily-delivery workflow separately checks the actual KST date.
+          report_date="$(python -c 'import json; from pathlib import Path; print(json.loads(Path("latest.json").read_text(encoding="utf-8"))["date_kst"])')"
+          python scripts/report_health.py --as-of "$report_date" --output /tmp/radar-health.json
           python - <<'PY'
           import json
           from pathlib import Path
