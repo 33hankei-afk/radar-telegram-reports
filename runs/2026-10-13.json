@@ -1,0 +1,16 @@
+{
+  "date_kst": "2026-10-13",
+  "status": "running",
+  "stage": "started",
+  "started_at_kst": "2026-10-13T21:22:26.448+09:00",
+  "updated_at_kst": "2026-10-13T21:22:26.448+09:00",
+  "ended_at_kst": null,
+  "attempt": 1,
+  "verified_posts": 0,
+  "checked_channels": 0,
+  "verified_full_channels": 0,
+  "failed_channels": [],
+  "published_paths": [],
+  "errors": [],
+  "history": []
+}
