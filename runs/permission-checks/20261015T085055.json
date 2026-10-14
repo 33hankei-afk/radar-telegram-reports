@@ -1,0 +1,8 @@
+{
+  "kind": "github_permission_check",
+  "checked_at_kst": "2026-10-15T08:50:55+09:00",
+  "report_run": false,
+  "scope": "Create File confirmation check for the authorized daily report workflow",
+  "app_permission": "full_access",
+  "note": "Diagnostic only. This file is neither a daily report nor proof that the 59-channel task executed. latest.json is not changed by this check."
+}
