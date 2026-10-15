@@ -1,15 +1,19 @@
 {
   "date_kst": "2026-10-15",
   "status": "running",
-  "stage": "started",
+  "stage": "collecting",
   "started_at_kst": "2026-10-15T21:46:38+09:00",
-  "updated_at_kst": "2026-10-15T21:46:38+09:00",
+  "updated_at_kst": "2026-10-15T21:50:00+09:00",
   "ended_at_kst": null,
   "attempt": 1,
   "verified_posts": 0,
-  "checked_channels": 0,
+  "checked_channels": 10,
   "verified_full_channels": 0,
-  "failed_channels": [],
+  "failed_channels": [
+    "yeouido_lab"
+  ],
   "published_paths": [],
-  "errors": []
+  "errors": [
+    "텔레그램 공개 페이지 메타데이터 보존이 불완전하여 검색 인덱스 원문 보기로 게시글 번호·시각을 추가 대조 중"
+  ]
 }
