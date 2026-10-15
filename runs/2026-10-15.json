@@ -16,7 +16,10 @@
     "awake_realtimecheck",
     "searfin"
   ],
-  "published_paths": [],
+  "published_paths": [
+    "reports/2026-10-15.json",
+    "reports/2026-10-15.md"
+  ],
   "errors": [
     "59개 대상 중 4개 공개 페이지 접근 실패",
     "SEARFin 공개 페이지 접근 실패",
