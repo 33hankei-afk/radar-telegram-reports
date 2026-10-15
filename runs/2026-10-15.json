@@ -1,23 +1,25 @@
 {
   "date_kst": "2026-10-15",
   "status": "running",
-  "stage": "collecting",
+  "stage": "publishing",
   "started_at_kst": "2026-10-15T21:46:38+09:00",
-  "updated_at_kst": "2026-10-15T22:00:00+09:00",
+  "updated_at_kst": "2026-10-15T21:51:12+09:00",
   "ended_at_kst": null,
   "attempt": 1,
-  "verified_posts": 0,
+  "verified_posts": 167,
   "checked_channels": 59,
   "verified_full_channels": 0,
   "failed_channels": [
     "pikachu_aje",
     "earlystock1",
     "macrojunglemicrolens",
-    "awake_realtimecheck"
+    "awake_realtimecheck",
+    "searfin"
   ],
   "published_paths": [],
   "errors": [
-    "공개 페이지 4개 채널 접근 실패",
-    "나머지 채널은 최신 공개 목록을 확인했으나 당일 00:00까지의 전수 스크롤 여부를 확정할 수 없어 부분 확인으로 분류 예정"
+    "59개 대상 중 4개 공개 페이지 접근 실패",
+    "SEARFin 공개 페이지 접근 실패",
+    "전수 스크롤 완료 채널 0개로 부분 보고서 발행"
   ]
 }
