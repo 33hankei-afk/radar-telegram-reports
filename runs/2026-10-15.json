@@ -1,7 +1,7 @@
 {
   "date_kst": "2026-10-15",
   "status": "running",
-  "stage": "publishing",
+  "stage": "verifying",
   "started_at_kst": "2026-10-15T21:46:38+09:00",
   "updated_at_kst": "2026-10-15T21:51:12+09:00",
   "ended_at_kst": null,
@@ -18,7 +18,9 @@
   ],
   "published_paths": [
     "reports/2026-10-15.json",
-    "reports/2026-10-15.md"
+    "reports/2026-10-15.md",
+    "latest.md",
+    "latest.json"
   ],
   "errors": [
     "59개 대상 중 4개 공개 페이지 접근 실패",
