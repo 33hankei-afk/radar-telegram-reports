@@ -1,10 +1,10 @@
 {
   "date_kst": "2026-10-15",
-  "status": "running",
-  "stage": "verifying",
+  "status": "partial",
+  "stage": "finished",
   "started_at_kst": "2026-10-15T21:46:38+09:00",
-  "updated_at_kst": "2026-10-15T21:51:12+09:00",
-  "ended_at_kst": null,
+  "updated_at_kst": "2026-10-15T21:53:47+09:00",
+  "ended_at_kst": "2026-10-15T21:53:47+09:00",
   "attempt": 1,
   "verified_posts": 167,
   "checked_channels": 59,
@@ -26,5 +26,13 @@
     "59개 대상 중 4개 공개 페이지 접근 실패",
     "SEARFin 공개 페이지 접근 실패",
     "전수 스크롤 완료 채널 0개로 부분 보고서 발행"
-  ]
+  ],
+  "verification": {
+    "dated_json_exact": true,
+    "dated_md_exact": true,
+    "latest_json_matches_dated": true,
+    "latest_md_matches_dated": true,
+    "top20_links_visible": true,
+    "theme_links_visible": true
+  }
 }
