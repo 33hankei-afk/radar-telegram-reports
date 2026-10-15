@@ -3,17 +3,21 @@
   "status": "running",
   "stage": "collecting",
   "started_at_kst": "2026-10-15T21:46:38+09:00",
-  "updated_at_kst": "2026-10-15T21:50:00+09:00",
+  "updated_at_kst": "2026-10-15T22:00:00+09:00",
   "ended_at_kst": null,
   "attempt": 1,
   "verified_posts": 0,
-  "checked_channels": 10,
+  "checked_channels": 59,
   "verified_full_channels": 0,
   "failed_channels": [
-    "yeouido_lab"
+    "pikachu_aje",
+    "earlystock1",
+    "macrojunglemicrolens",
+    "awake_realtimecheck"
   ],
   "published_paths": [],
   "errors": [
-    "텔레그램 공개 페이지 메타데이터 보존이 불완전하여 검색 인덱스 원문 보기로 게시글 번호·시각을 추가 대조 중"
+    "공개 페이지 4개 채널 접근 실패",
+    "나머지 채널은 최신 공개 목록을 확인했으나 당일 00:00까지의 전수 스크롤 여부를 확정할 수 없어 부분 확인으로 분류 예정"
   ]
 }
