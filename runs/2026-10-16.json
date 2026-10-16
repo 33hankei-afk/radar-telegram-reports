@@ -3,15 +3,26 @@
   "status": "running",
   "stage": "collecting",
   "started_at_kst": "2026-10-16T21:54:47+09:00",
-  "updated_at_kst": "2026-10-16T21:56:00+09:00",
+  "updated_at_kst": "2026-10-16T22:02:00+09:00",
   "ended_at_kst": null,
   "attempt": 1,
-  "verified_posts": 0,
-  "checked_channels": 10,
+  "verified_posts": 168,
+  "checked_channels": 59,
   "verified_full_channels": 0,
-  "failed_channels": [],
+  "failed_channels": [
+    "yeouido_lab",
+    "aetherjapanresearch",
+    "jstockclass",
+    "pikachu_aje",
+    "earlystock1",
+    "macrojunglemicrolens",
+    "awake_realtimecheck",
+    "goupstock"
+  ],
   "published_paths": [],
   "errors": [
-    "첫 10개 채널 공개 목록과 게시글 직접 URL 대조 진행"
+    "8개 고정 채널 공개 페이지 접근 실패",
+    "SEARFin 공개 페이지 접근 실패",
+    "전수 스크롤 완료 채널 0개로 부분 확인"
   ]
 }
