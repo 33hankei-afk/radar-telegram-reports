@@ -1,9 +1,9 @@
 {
   "date_kst": "2026-10-16",
   "status": "running",
-  "stage": "collecting",
+  "stage": "publishing",
   "started_at_kst": "2026-10-16T21:54:47+09:00",
-  "updated_at_kst": "2026-10-16T22:02:00+09:00",
+  "updated_at_kst": "2026-10-16T22:04:00+09:00",
   "ended_at_kst": null,
   "attempt": 1,
   "verified_posts": 168,
@@ -17,12 +17,14 @@
     "earlystock1",
     "macrojunglemicrolens",
     "awake_realtimecheck",
-    "goupstock"
+    "goupstock",
+    "searfin"
   ],
   "published_paths": [],
   "errors": [
-    "8개 고정 채널 공개 페이지 접근 실패",
-    "SEARFin 공개 페이지 접근 실패",
-    "전수 스크롤 완료 채널 0개로 부분 확인"
-  ]
+    "8개 고정 채널 공개 페이지 접근 또는 본문 식별 실패",
+    "SEARFin 공개 텍스트는 관측했으나 게시글 번호·직접 URL 검증 실패",
+    "59개 채널을 처리했으나 00:00 경계까지 전수 스크롤 완료 채널 0개"
+  ],
+  "publication_results": {}
 }
