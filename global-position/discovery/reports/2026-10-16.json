@@ -90,7 +90,7 @@
       "url": "https://news.google.com/rss/search?q=%22Michael+Hartnett%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-      "items": 2,
+      "items": 1,
       "name": "PIMCO",
       "note": "RSS 후보만 확인 · 원문/GPT 분석과 구분",
       "status": "checked",
@@ -120,15 +120,15 @@
     {
       "items": 0,
       "name": "Reddit r/stocks",
-      "note": "RSS 후보만 확인 · 원문/GPT 분석과 구분",
-      "status": "checked",
+      "note": "HTTPError",
+      "status": "failed",
       "url": "https://www.reddit.com/r/stocks/new/.rss"
     },
     {
-      "items": 0,
+      "items": 1,
       "name": "Reddit r/investing",
-      "note": "HTTPError",
-      "status": "failed",
+      "note": "RSS 후보만 확인 · 원문/GPT 분석과 구분",
+      "status": "checked",
       "url": "https://www.reddit.com/r/investing/new/.rss"
     },
     {
@@ -179,25 +179,6 @@
       "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
       "title_ko": "PIMCO declares USD 0.1125 payout for PIMCO Corporate & Income Strategy Fund stock - ad-hoc-news.de",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNb0NPYktWWHAtd3NTM29WMWNHMWY5UTY4RXpWOTBjYXg3RnNKMlMzQXNNX3BmczFVTWFEOHRXclh1TS1uZ2NoOFNrYjkwVzVieUpIR1VvMlRXc3RSV3UyWHpQYUhoakNnWkljOXhnb1hudG84eFZuVlFqUXZYVnlNdi00N2d6ck9nMkNCT2VBNnZlbVZqNWRUYUo3OFdZYlVNTTRkTVNXN2UtUTFqbEJMZzBUdjBfZWJYX1Q1bUdzLVRHeW93M3JWOTc2Zw?oc=5"
-    },
-    {
-      "access": "headline_only",
-      "actors": [
-        "pimco"
-      ],
-      "claim_type": "unverified",
-      "direction": "unknown",
-      "event_date": null,
-      "event_key": "headline:7b24ffdbd7fbd62d57975998",
-      "id": "D1f73fa6f079e92a2",
-      "mechanisms": [],
-      "published_at_kst": "2026-10-16T01:22:44+09:00",
-      "published_date": "2026-10-16",
-      "publisher": "TradingView",
-      "source_kind": "candidate",
-      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
-      "title_ko": "ETFs Investing in PIMCO Dynamic Income Opportunities Fund Stocks - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9CWXNQN2xtQUZNNkZFVmRyaVlUXzE4YWUwZXFSRHV4QVc1Q05wbVhRbmo5SmNPUUFUeUlWcUt0T0NxRzMyYzVfWVhVbEVRZVpZOVZSY2JPdTJ0N3pLbWZkcQ?oc=5"
     },
     {
       "access": "headline_only",
@@ -317,12 +298,29 @@
       "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
       "title_ko": "European bond market turmoil places hedge funds under scrutiny - Hedgeweek",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOb3NqanU0WERMTFBKNXlGdEJuQTFMZVJIYVljYjVhMlNaVUJ3QnNKQ3Y0dzhHZ0VpWW1KQ1Y0UXI2T0o2WkVHb08wZGJBX2JaWkZlS2s0VU5YZ05fQ3Y2SVdPOWhrS2JaZmZKVFRyWFd0UktkeXk4UC1JUDNxVEFVdEVXMzZmV01Rb3NJc2xDdV95aHM?oc=5"
+    },
+    {
+      "access": "headline_only",
+      "actors": [],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:ce5dd1387f3a2bf6a9c26f0b",
+      "id": "Ddd2c914a82b2ab91",
+      "mechanisms": [],
+      "published_at_kst": "2026-10-16T17:48:15+09:00",
+      "published_date": "2026-10-16",
+      "publisher": "Reddit r/investing",
+      "source_kind": "community",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "Can a domino effect happen between AI slowing down and the end of the carry trade?",
+      "url": "https://www.reddit.com/r/investing/comments/1x7b0am/can_a_domino_effect_happen_between_ai_slowing/"
     }
   ],
-  "generated_at_kst": "2026-10-16T19:43:41.770290+09:00",
+  "generated_at_kst": "2026-10-16T19:47:07.906757+09:00",
   "producer": "rss_discovery",
   "schema": "global_position_v1",
-  "window_end_kst": "2026-10-16T19:43:41.770290+09:00",
-  "window_start_kst": "2026-10-15T19:43:41.770290+09:00",
-  "content_sha256": "9d8161814805e7e62bd6f4bfbcf0d47d155deeabe10323ec3abcfefae23af9b3"
+  "window_end_kst": "2026-10-16T19:47:07.906757+09:00",
+  "window_start_kst": "2026-10-15T19:47:07.906757+09:00",
+  "content_sha256": "11ec57d420ef708ab8accfed7cef0c44941d9b2a5ead07892b8cfa484dc08c4e"
 }
