@@ -271,23 +271,6 @@
       "claim_type": "unverified",
       "direction": "unknown",
       "event_date": null,
-      "event_key": "headline:199fefb60f43fdbf8ba1d66a",
-      "id": "D399c87f22b8da25a",
-      "mechanisms": [],
-      "published_at_kst": "2026-10-16T17:40:11+09:00",
-      "published_date": "2026-10-16",
-      "publisher": "Hedgeweek",
-      "source_kind": "candidate",
-      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
-      "title_ko": "Hedge fund tax strategies fuel surge in US margin lending - Hedgeweek",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNDRfU0xQWUQtZ3NKMWxJR25IYzVhbkxqaEkwSmY5Tl82d0pnb1czUk9LTndMM2dUeWlNVGlCQVpuSXBUMnJqMFV0cUNoVldCWXJQcjVjamtHelVwNWxIaHN6YTJyUFVLM0piNDlrY3hrcDRmeVhRZkVSRzg0cjJLV1R1ajQzY0pEQVN1Yg?oc=5"
-    },
-    {
-      "access": "headline_only",
-      "actors": [],
-      "claim_type": "unverified",
-      "direction": "unknown",
-      "event_date": null,
       "event_key": "headline:de56552cbb8d3bd80b0a5bc5",
       "id": "D8e3fc43674fc9fe9",
       "mechanisms": [],
@@ -298,6 +281,23 @@
       "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
       "title_ko": "European bond market turmoil places hedge funds under scrutiny - Hedgeweek",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOb3NqanU0WERMTFBKNXlGdEJuQTFMZVJIYVljYjVhMlNaVUJ3QnNKQ3Y0dzhHZ0VpWW1KQ1Y0UXI2T0o2WkVHb08wZGJBX2JaWkZlS2s0VU5YZ05fQ3Y2SVdPOWhrS2JaZmZKVFRyWFd0UktkeXk4UC1JUDNxVEFVdEVXMzZmV01Rb3NJc2xDdV95aHM?oc=5"
+    },
+    {
+      "access": "headline_only",
+      "actors": [],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:199fefb60f43fdbf8ba1d66a",
+      "id": "D399c87f22b8da25a",
+      "mechanisms": [],
+      "published_at_kst": "2026-10-16T17:40:11+09:00",
+      "published_date": "2026-10-16",
+      "publisher": "Hedgeweek",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "Hedge fund tax strategies fuel surge in US margin lending - Hedgeweek",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNDRfU0xQWUQtZ3NKMWxJR25IYzVhbkxqaEkwSmY5Tl82d0pnb1czUk9LTndMM2dUeWlNVGlCQVpuSXBUMnJqMFV0cUNoVldCWXJQcjVjamtHelVwNWxIaHN6YTJyUFVLM0piNDlrY3hrcDRmeVhRZkVSRzg0cjJLV1R1ajQzY0pEQVN1Yg?oc=5"
     },
     {
       "access": "headline_only",
@@ -317,10 +317,10 @@
       "url": "https://www.reddit.com/r/investing/comments/1x7b0am/can_a_domino_effect_happen_between_ai_slowing/"
     }
   ],
-  "generated_at_kst": "2026-10-16T19:47:07.906757+09:00",
+  "generated_at_kst": "2026-10-16T19:53:22.380780+09:00",
   "producer": "rss_discovery",
   "schema": "global_position_v1",
-  "window_end_kst": "2026-10-16T19:47:07.906757+09:00",
-  "window_start_kst": "2026-10-15T19:47:07.906757+09:00",
-  "content_sha256": "11ec57d420ef708ab8accfed7cef0c44941d9b2a5ead07892b8cfa484dc08c4e"
+  "window_end_kst": "2026-10-16T19:53:22.380780+09:00",
+  "window_start_kst": "2026-10-15T19:53:22.380780+09:00",
+  "content_sha256": "f583175174e25685193fdb5259981078fe94e4b9cbc040ed4fe93e31ac2d2217"
 }

@@ -1,8 +1,8 @@
 # 글로벌 포지션 일보 · 2026-10-16
 
-취합 구간: 2026-10-15T19:47:07.906757+09:00 ~ 2026-10-16T19:47:07.906757+09:00
+취합 구간: 2026-10-15T19:53:22.380780+09:00 ~ 2026-10-16T19:53:22.380780+09:00
 
-발행: 2026-10-16T19:47:07.906757+09:00 · rss_discovery
+발행: 2026-10-16T19:53:22.380780+09:00 · rss_discovery
 
 자동 공개 RSS 후보 수집입니다. 제목만으로 실제 헤지펀드 포지션이나 매수·매도 압력을 판단하지 않습니다.
 
@@ -88,9 +88,9 @@
 
 |De70eb45b3330bb5c|2026-10-16T14:02:00+09:00|미확인||candidate / headline_only / unverified|Hedge funds' role comes into focus following European bonds turmoil - Reuters · 공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.|[https://news.google.com/rss/articles/CBMiugFBVV95cUxNOXExeXEzNDNZOWtnSFNGYU5jLUJKLUJPc2lMNGZQRWE4c2VSOW8zVEV0eGFEOFJIMnFhM3YxMVdhZk1USG0zNGtWdEE3cXZJTEtJamJSY2pOMVU0clcybWljQjlsNnM0NGhDRkUwMlhCbnRQWGljZEZ5ZkE4eEptUHBGRkRfc2ZScG9FOVZJS0dsMjEzX1BqTzFJSFV4R2NmbXU5Z3BCdnREQ0ZyQld5cnVwVFZmZzRhakE?oc=5](https://news.google.com/rss/articles/CBMiugFBVV95cUxNOXExeXEzNDNZOWtnSFNGYU5jLUJKLUJPc2lMNGZQRWE4c2VSOW8zVEV0eGFEOFJIMnFhM3YxMVdhZk1USG0zNGtWdEE3cXZJTEtJamJSY2pOMVU0clcybWljQjlsNnM0NGhDRkUwMlhCbnRQWGljZEZ5ZkE4eEptUHBGRkRfc2ZScG9FOVZJS0dsMjEzX1BqTzFJSFV4R2NmbXU5Z3BCdnREQ0ZyQld5cnVwVFZmZzRhakE?oc=5)|
 
-|D399c87f22b8da25a|2026-10-16T17:40:11+09:00|미확인||candidate / headline_only / unverified|Hedge fund tax strategies fuel surge in US margin lending - Hedgeweek · 공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.|[https://news.google.com/rss/articles/CBMijAFBVV95cUxQNDRfU0xQWUQtZ3NKMWxJR25IYzVhbkxqaEkwSmY5Tl82d0pnb1czUk9LTndMM2dUeWlNVGlCQVpuSXBUMnJqMFV0cUNoVldCWXJQcjVjamtHelVwNWxIaHN6YTJyUFVLM0piNDlrY3hrcDRmeVhRZkVSRzg0cjJLV1R1ajQzY0pEQVN1Yg?oc=5](https://news.google.com/rss/articles/CBMijAFBVV95cUxQNDRfU0xQWUQtZ3NKMWxJR25IYzVhbkxqaEkwSmY5Tl82d0pnb1czUk9LTndMM2dUeWlNVGlCQVpuSXBUMnJqMFV0cUNoVldCWXJQcjVjamtHelVwNWxIaHN6YTJyUFVLM0piNDlrY3hrcDRmeVhRZkVSRzg0cjJLV1R1ajQzY0pEQVN1Yg?oc=5)|
-
 |D8e3fc43674fc9fe9|2026-10-16T17:40:11+09:00|미확인||candidate / headline_only / unverified|European bond market turmoil places hedge funds under scrutiny - Hedgeweek · 공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.|[https://news.google.com/rss/articles/CBMikwFBVV95cUxOb3NqanU0WERMTFBKNXlGdEJuQTFMZVJIYVljYjVhMlNaVUJ3QnNKQ3Y0dzhHZ0VpWW1KQ1Y0UXI2T0o2WkVHb08wZGJBX2JaWkZlS2s0VU5YZ05fQ3Y2SVdPOWhrS2JaZmZKVFRyWFd0UktkeXk4UC1JUDNxVEFVdEVXMzZmV01Rb3NJc2xDdV95aHM?oc=5](https://news.google.com/rss/articles/CBMikwFBVV95cUxOb3NqanU0WERMTFBKNXlGdEJuQTFMZVJIYVljYjVhMlNaVUJ3QnNKQ3Y0dzhHZ0VpWW1KQ1Y0UXI2T0o2WkVHb08wZGJBX2JaWkZlS2s0VU5YZ05fQ3Y2SVdPOWhrS2JaZmZKVFRyWFd0UktkeXk4UC1JUDNxVEFVdEVXMzZmV01Rb3NJc2xDdV95aHM?oc=5)|
+
+|D399c87f22b8da25a|2026-10-16T17:40:11+09:00|미확인||candidate / headline_only / unverified|Hedge fund tax strategies fuel surge in US margin lending - Hedgeweek · 공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.|[https://news.google.com/rss/articles/CBMijAFBVV95cUxQNDRfU0xQWUQtZ3NKMWxJR25IYzVhbkxqaEkwSmY5Tl82d0pnb1czUk9LTndMM2dUeWlNVGlCQVpuSXBUMnJqMFV0cUNoVldCWXJQcjVjamtHelVwNWxIaHN6YTJyUFVLM0piNDlrY3hrcDRmeVhRZkVSRzg0cjJLV1R1ajQzY0pEQVN1Yg?oc=5](https://news.google.com/rss/articles/CBMijAFBVV95cUxQNDRfU0xQWUQtZ3NKMWxJR25IYzVhbkxqaEkwSmY5Tl82d0pnb1czUk9LTndMM2dUeWlNVGlCQVpuSXBUMnJqMFV0cUNoVldCWXJQcjVjamtHelVwNWxIaHN6YTJyUFVLM0piNDlrY3hrcDRmeVhRZkVSRzg0cjJLV1R1ajQzY0pEQVN1Yg?oc=5)|
 
 |Ddd2c914a82b2ab91|2026-10-16T17:48:15+09:00|미확인||community / headline_only / unverified|Can a domino effect happen between AI slowing down and the end of the carry trade? · 공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.|[https://www.reddit.com/r/investing/comments/1x7b0am/can_a_domino_effect_happen_between_ai_slowing/](https://www.reddit.com/r/investing/comments/1x7b0am/can_a_domino_effect_happen_between_ai_slowing/)|
 
