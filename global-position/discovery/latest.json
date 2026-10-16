@@ -1,0 +1,328 @@
+{
+  "assessments": {
+    "ai_positioning": {
+      "confidence": "낮음",
+      "counter_ids": [],
+      "evidence_ids": [],
+      "label": "판단 자료 부족",
+      "limitations": [
+        "전체 헤지펀드의 실제 포지션을 추정한 수치가 아닙니다."
+      ],
+      "summary": "원문 검증 자료를 기다립니다."
+    },
+    "korea_path": {
+      "confidence": "낮음",
+      "counter_ids": [],
+      "evidence_ids": [],
+      "label": "판단 자료 부족",
+      "limitations": [
+        "전체 헤지펀드의 실제 포지션을 추정한 수치가 아닙니다."
+      ],
+      "summary": "원문 검증 자료를 기다립니다."
+    },
+    "liquidity": {
+      "confidence": "낮음",
+      "counter_ids": [],
+      "evidence_ids": [],
+      "label": "판단 자료 부족",
+      "limitations": [
+        "전체 헤지펀드의 실제 포지션을 추정한 수치가 아닙니다."
+      ],
+      "summary": "원문 검증 자료를 기다립니다."
+    },
+    "pressure": {
+      "confidence": "낮음",
+      "counter_ids": [],
+      "evidence_ids": [],
+      "label": "판단 자료 부족",
+      "limitations": [
+        "전체 헤지펀드의 실제 포지션을 추정한 수치가 아닙니다."
+      ],
+      "summary": "원문 검증 자료를 기다립니다."
+    }
+  },
+  "complete": true,
+  "core_targets": [
+    {
+      "change": "미확인",
+      "evidence_ids": [],
+      "focus": "AI·M7 과밀 / 옵션 / 포지션 비대칭",
+      "id": "tuteja",
+      "institution": "Goldman Sachs",
+      "name": "Shawn Tuteja",
+      "role": "ETF·맞춤형 바스켓 변동성 트레이딩",
+      "summary_ko": "원문 검증 일보 대기"
+    },
+    {
+      "change": "미확인",
+      "evidence_ids": [],
+      "focus": "펀드 자금흐름 / 현금·과열 / 자산배분",
+      "id": "hartnett",
+      "institution": "BofA Global Research",
+      "name": "Michael Hartnett",
+      "role": "최고 투자전략가 · Flow Show",
+      "summary_ko": "원문 검증 일보 대기"
+    },
+    {
+      "change": "미확인",
+      "evidence_ids": [],
+      "focus": "금리·채권 / 조달·유동성 / 위험자산 배분",
+      "id": "pimco",
+      "institution": "PIMCO",
+      "name": "PIMCO",
+      "role": "기관 · Ivascyn / Balls / Wilding 등",
+      "summary_ko": "원문 검증 일보 대기"
+    }
+  ],
+  "coverage": [
+    {
+      "items": 0,
+      "name": "Shawn Tuteja",
+      "note": "RSS 후보만 확인 · 원문/GPT 분석과 구분",
+      "status": "checked",
+      "url": "https://news.google.com/rss/search?q=%22Shawn+Tuteja%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "items": 1,
+      "name": "Michael Hartnett",
+      "note": "RSS 후보만 확인 · 원문/GPT 분석과 구분",
+      "status": "checked",
+      "url": "https://news.google.com/rss/search?q=%22Michael+Hartnett%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "items": 2,
+      "name": "PIMCO",
+      "note": "RSS 후보만 확인 · 원문/GPT 분석과 구분",
+      "status": "checked",
+      "url": "https://news.google.com/rss/search?q=PIMCO+%28Ivascyn+OR+Balls+OR+Wilding+OR+outlook+OR+flows%29+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "items": 1,
+      "name": "글로벌 포지션·프라임브로커",
+      "note": "RSS 후보만 확인 · 원문/GPT 분석과 구분",
+      "status": "checked",
+      "url": "https://news.google.com/rss/search?q=%28%22hedge+fund%22+OR+%22prime+broker%22%29+%28positioning+OR+deleveraging+OR+%22net+exposure%22+OR+%22gross+exposure%22%29+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "items": 2,
+      "name": "CTA·옵션·자금흐름",
+      "note": "RSS 후보만 확인 · 원문/GPT 분석과 구분",
+      "status": "checked",
+      "url": "https://news.google.com/rss/search?q=%28CTA+OR+%22volatility+control%22+OR+%22dealer+gamma%22+OR+%22short+covering%22+OR+%22fund+flows%22%29+%28stocks+OR+equity+OR+equities%29+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "items": 4,
+      "name": "국채·조달·캐리",
+      "note": "RSS 후보만 확인 · 원문/GPT 분석과 구분",
+      "status": "checked",
+      "url": "https://news.google.com/rss/search?q=%28%22treasury+basis%22+OR+%22basis+trade%22+OR+repo+OR+%22margin+call%22+OR+%22yen+carry%22%29+%28%22hedge+fund%22+OR+leverage+OR+trade%29+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "items": 0,
+      "name": "Reddit r/stocks",
+      "note": "RSS 후보만 확인 · 원문/GPT 분석과 구분",
+      "status": "checked",
+      "url": "https://www.reddit.com/r/stocks/new/.rss"
+    },
+    {
+      "items": 0,
+      "name": "Reddit r/investing",
+      "note": "HTTPError",
+      "status": "failed",
+      "url": "https://www.reddit.com/r/investing/new/.rss"
+    },
+    {
+      "items": 0,
+      "name": "Reddit r/wallstreetbets",
+      "note": "HTTPError",
+      "status": "failed",
+      "url": "https://www.reddit.com/r/wallstreetbets/new/.rss"
+    }
+  ],
+  "coverage_note": "자동 공개 RSS 후보 수집입니다. 제목만으로 실제 헤지펀드 포지션이나 매수·매도 압력을 판단하지 않습니다.",
+  "date_kst": "2026-10-16",
+  "entries": [
+    {
+      "access": "headline_only",
+      "actors": [
+        "hartnett"
+      ],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:332f0dd11ded556050ad6075",
+      "id": "Df2f091596e9f2233",
+      "mechanisms": [],
+      "published_at_kst": "2026-10-16T19:37:38+09:00",
+      "published_date": "2026-10-16",
+      "publisher": "Investing.com",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "Stay risk-off as higher real yields and AI volatility threaten stocks: Hartnett - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZjR4VzZtUEJMaUdjcm8ySDhDYmRyZUpEMVRnLUZvR3EyRkJ6a3puQ21hd2JuaUlKdVJzU0I0TS1SenBWdjZwcndiWnp4Y0ctUWhTZkg3YnZseGNJcEhkOEVuN0k2RmpyT3M2MklrSG5SMFMzUjR6NTF3cG5kbUNUZ05ZS3lwTERjdFJoeFVqSnJHbkNCdFpjQzlVVnE5ZnRhLUwzYzkwS01mQnNDRXlCRURIdWo4bkstSHNneFJrY2E2WDJiOUtQT01fRDVMSjQ?oc=5"
+    },
+    {
+      "access": "headline_only",
+      "actors": [
+        "pimco"
+      ],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:1328ded979b96f53cfafd3b2",
+      "id": "Dfa766771ea5edf96",
+      "mechanisms": [],
+      "published_at_kst": "2026-10-16T08:50:28+09:00",
+      "published_date": "2026-10-16",
+      "publisher": "ad-hoc-news.de",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "PIMCO declares USD 0.1125 payout for PIMCO Corporate & Income Strategy Fund stock - ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNb0NPYktWWHAtd3NTM29WMWNHMWY5UTY4RXpWOTBjYXg3RnNKMlMzQXNNX3BmczFVTWFEOHRXclh1TS1uZ2NoOFNrYjkwVzVieUpIR1VvMlRXc3RSV3UyWHpQYUhoakNnWkljOXhnb1hudG84eFZuVlFqUXZYVnlNdi00N2d6ck9nMkNCT2VBNnZlbVZqNWRUYUo3OFdZYlVNTTRkTVNXN2UtUTFqbEJMZzBUdjBfZWJYX1Q1bUdzLVRHeW93M3JWOTc2Zw?oc=5"
+    },
+    {
+      "access": "headline_only",
+      "actors": [
+        "pimco"
+      ],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:7b24ffdbd7fbd62d57975998",
+      "id": "D1f73fa6f079e92a2",
+      "mechanisms": [],
+      "published_at_kst": "2026-10-16T01:22:44+09:00",
+      "published_date": "2026-10-16",
+      "publisher": "TradingView",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "ETFs Investing in PIMCO Dynamic Income Opportunities Fund Stocks - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9CWXNQN2xtQUZNNkZFVmRyaVlUXzE4YWUwZXFSRHV4QVc1Q05wbVhRbmo5SmNPUUFUeUlWcUt0T0NxRzMyYzVfWVhVbEVRZVpZOVZSY2JPdTJ0N3pLbWZkcQ?oc=5"
+    },
+    {
+      "access": "headline_only",
+      "actors": [],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:d9818d600309e84090335da6",
+      "id": "D30c18f3ebca15f64",
+      "mechanisms": [],
+      "published_at_kst": "2026-10-16T13:03:00+09:00",
+      "published_date": "2026-10-16",
+      "publisher": "TradingView",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "Hedge funds suffer worst day since August as AI stock selloff deepens - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZW5NdEpnMkV0TU5YYWwyUU92N2U1NUxKX1FxZF9KYUFOdHp6Zlg5VXdSWE1WM2xqYlRZSFdmZFhId1JvelAtTEhEb3VXODBhUVpIbHFpYld3ZWhCZ3o1TWYwOWwwZXhkLW1LX0VBbVk1UkZ3c3czbVRVcjRPRk1ZTTV1MDF2ZzJ5QmYtUE5NRzFRZnU0MXY1OUE3TDY0RkRYQTBQVjhQaE01eXJQQmxpeW8xOUZyenV4TW1DUUwtZ2xEc0FieFlEUURWQkZNSTg?oc=5"
+    },
+    {
+      "access": "headline_only",
+      "actors": [],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:edbb0178de01bdad12e0e6e8",
+      "id": "D6280283dc43afd51",
+      "mechanisms": [],
+      "published_at_kst": "2026-10-16T03:24:32+09:00",
+      "published_date": "2026-10-16",
+      "publisher": "investingLive",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "Short covering is driving price action in markets today - investingLive",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaDl5U2J2STl3cG9fYTZaaTdqTE1SRFgySG5QQ0lSZE1MdFVGOE1TV1RzVXZXOXNvQWdla0tRdVR5MVVVQlFJYXpVeFFCUG55eFZrX1lHU2hBaEtfMmVCR2k2dXhNVkJMNkNqUy1yQmNySmlZYlVFWlFfbUNRUUdtc1lNLTVSc2ZfVElUVTJrQTBnX1E?oc=5"
+    },
+    {
+      "access": "headline_only",
+      "actors": [],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:a3443ccb4a96e71b80878548",
+      "id": "D34f626fd963131a3",
+      "mechanisms": [],
+      "published_at_kst": "2026-10-15T23:37:11+09:00",
+      "published_date": "2026-10-15",
+      "publisher": "https://www.dars.gov.et/",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "Claros Mortgage Trust (CMTG) Shares Edge Up 2.59% to $1.19 as Buyers Hold the Line Above Support - CTA Positioning - https://www.dars.gov.et/",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRlFzaHk1QlF1QnFkaC0xQTJNR1N1SHMtOURETGlzaDI0OFBZWndWQ2llRWdPSlZxd1daV1laNVl6TUZ0aFYycy1fZVBNdGR4R0VxX05tQXhrYXhKSzRmZkxyTWtsNWJtb2hpcGJiQTJiYjdWdC1iN3IyV3R0SmszY3BjOVNrSVRtSHo0V3U0Tk5VOFdXc29kSVlqWW9La1VxYnViMmZZTGZiYkVYb2dqanYzcTVRVWYteWN0UThIZVZQb0xmTjM5c3pVV1A?oc=5"
+    },
+    {
+      "access": "headline_only",
+      "actors": [],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:9ebda2b8441aff8e029396d6",
+      "id": "D0a3d7685c00e4390",
+      "mechanisms": [],
+      "published_at_kst": "2026-10-16T17:40:11+09:00",
+      "published_date": "2026-10-16",
+      "publisher": "Hedgeweek",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "French repo market remains stable despite hedge fund bond sell-off - Hedgeweek",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZzZXNUpCNmVOOFJ3QlB6emNGVTd0LS03a0RVT3pDWk9ac1JjY0Z5bm93c1dqUTdLeV9RLVJnLUd5T2ZSZXpVbEJsUThxSEpUZ0JnVUZWWUhtdDNVLWVfZDRQdTJseGFjel96M2xGMUpDVEpycU4yeFpvbkR3dlRhemp4ZXZNZlYwLUJUWVBTS0MySFNER3ZJaA?oc=5"
+    },
+    {
+      "access": "headline_only",
+      "actors": [],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:d14f96f225e55cb31ae184ad",
+      "id": "De70eb45b3330bb5c",
+      "mechanisms": [],
+      "published_at_kst": "2026-10-16T14:02:00+09:00",
+      "published_date": "2026-10-16",
+      "publisher": "Reuters",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "Hedge funds' role comes into focus following European bonds turmoil - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOXExeXEzNDNZOWtnSFNGYU5jLUJKLUJPc2lMNGZQRWE4c2VSOW8zVEV0eGFEOFJIMnFhM3YxMVdhZk1USG0zNGtWdEE3cXZJTEtJamJSY2pOMVU0clcybWljQjlsNnM0NGhDRkUwMlhCbnRQWGljZEZ5ZkE4eEptUHBGRkRfc2ZScG9FOVZJS0dsMjEzX1BqTzFJSFV4R2NmbXU5Z3BCdnREQ0ZyQld5cnVwVFZmZzRhakE?oc=5"
+    },
+    {
+      "access": "headline_only",
+      "actors": [],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:199fefb60f43fdbf8ba1d66a",
+      "id": "D399c87f22b8da25a",
+      "mechanisms": [],
+      "published_at_kst": "2026-10-16T17:40:11+09:00",
+      "published_date": "2026-10-16",
+      "publisher": "Hedgeweek",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "Hedge fund tax strategies fuel surge in US margin lending - Hedgeweek",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNDRfU0xQWUQtZ3NKMWxJR25IYzVhbkxqaEkwSmY5Tl82d0pnb1czUk9LTndMM2dUeWlNVGlCQVpuSXBUMnJqMFV0cUNoVldCWXJQcjVjamtHelVwNWxIaHN6YTJyUFVLM0piNDlrY3hrcDRmeVhRZkVSRzg0cjJLV1R1ajQzY0pEQVN1Yg?oc=5"
+    },
+    {
+      "access": "headline_only",
+      "actors": [],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:de56552cbb8d3bd80b0a5bc5",
+      "id": "D8e3fc43674fc9fe9",
+      "mechanisms": [],
+      "published_at_kst": "2026-10-16T17:40:11+09:00",
+      "published_date": "2026-10-16",
+      "publisher": "Hedgeweek",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "European bond market turmoil places hedge funds under scrutiny - Hedgeweek",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOb3NqanU0WERMTFBKNXlGdEJuQTFMZVJIYVljYjVhMlNaVUJ3QnNKQ3Y0dzhHZ0VpWW1KQ1Y0UXI2T0o2WkVHb08wZGJBX2JaWkZlS2s0VU5YZ05fQ3Y2SVdPOWhrS2JaZmZKVFRyWFd0UktkeXk4UC1JUDNxVEFVdEVXMzZmV01Rb3NJc2xDdV95aHM?oc=5"
+    }
+  ],
+  "generated_at_kst": "2026-10-16T19:43:41.770290+09:00",
+  "producer": "rss_discovery",
+  "schema": "global_position_v1",
+  "window_end_kst": "2026-10-16T19:43:41.770290+09:00",
+  "window_start_kst": "2026-10-15T19:43:41.770290+09:00",
+  "content_sha256": "9d8161814805e7e62bd6f4bfbcf0d47d155deeabe10323ec3abcfefae23af9b3"
+}

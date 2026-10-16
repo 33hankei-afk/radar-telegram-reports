@@ -1,0 +1,487 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "DayTradingRadar global_position_v1",
+  "type": "object",
+  "required": [
+    "schema",
+    "date_kst",
+    "generated_at_kst",
+    "window_start_kst",
+    "window_end_kst",
+    "producer",
+    "complete",
+    "entries",
+    "assessments",
+    "core_targets",
+    "coverage",
+    "content_sha256"
+  ],
+  "properties": {
+    "schema": {
+      "const": "global_position_v1"
+    },
+    "date_kst": {
+      "type": "string",
+      "format": "date"
+    },
+    "generated_at_kst": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "window_start_kst": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "window_end_kst": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "producer": {
+      "enum": [
+        "gpt_verified",
+        "rss_discovery"
+      ]
+    },
+    "complete": {
+      "type": "boolean"
+    },
+    "entries": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "event_key",
+          "publisher",
+          "title_ko",
+          "summary_ko",
+          "url",
+          "published_at_kst",
+          "published_date",
+          "event_date",
+          "actors",
+          "mechanisms",
+          "source_kind",
+          "access",
+          "claim_type",
+          "direction"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "event_key": {
+            "type": "string",
+            "minLength": 1
+          },
+          "publisher": {
+            "type": "string"
+          },
+          "title_ko": {
+            "type": "string"
+          },
+          "summary_ko": {
+            "type": "string"
+          },
+          "url": {
+            "type": "string",
+            "format": "uri",
+            "pattern": "^https://"
+          },
+          "published_at_kst": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "format": "date-time"
+          },
+          "published_date": {
+            "type": "string",
+            "format": "date"
+          },
+          "event_date": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "format": "date"
+          },
+          "actors": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "mechanisms": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "source_kind": {
+            "enum": [
+              "primary",
+              "news",
+              "community",
+              "candidate"
+            ]
+          },
+          "access": {
+            "enum": [
+              "full_text",
+              "partial_text",
+              "headline_only"
+            ]
+          },
+          "claim_type": {
+            "enum": [
+              "opinion",
+              "reported_flow",
+              "observed_metric",
+              "unverified"
+            ]
+          },
+          "direction": {
+            "enum": [
+              "risk_add",
+              "risk_reduce",
+              "short_cover",
+              "hedge",
+              "mixed",
+              "unknown"
+            ]
+          }
+        }
+      }
+    },
+    "context_entries": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "event_key",
+          "publisher",
+          "title_ko",
+          "summary_ko",
+          "url",
+          "published_at_kst",
+          "published_date",
+          "event_date",
+          "actors",
+          "mechanisms",
+          "source_kind",
+          "access",
+          "claim_type",
+          "direction"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "event_key": {
+            "type": "string",
+            "minLength": 1
+          },
+          "publisher": {
+            "type": "string"
+          },
+          "title_ko": {
+            "type": "string"
+          },
+          "summary_ko": {
+            "type": "string"
+          },
+          "url": {
+            "type": "string",
+            "format": "uri",
+            "pattern": "^https://"
+          },
+          "published_at_kst": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "format": "date-time"
+          },
+          "published_date": {
+            "type": "string",
+            "format": "date"
+          },
+          "event_date": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "format": "date"
+          },
+          "actors": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "mechanisms": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "source_kind": {
+            "enum": [
+              "primary",
+              "news",
+              "community",
+              "candidate"
+            ]
+          },
+          "access": {
+            "enum": [
+              "full_text",
+              "partial_text",
+              "headline_only"
+            ]
+          },
+          "claim_type": {
+            "enum": [
+              "opinion",
+              "reported_flow",
+              "observed_metric",
+              "unverified"
+            ]
+          },
+          "direction": {
+            "enum": [
+              "risk_add",
+              "risk_reduce",
+              "short_cover",
+              "hedge",
+              "mixed",
+              "unknown"
+            ]
+          }
+        }
+      }
+    },
+    "assessments": {
+      "type": "object",
+      "required": [
+        "pressure",
+        "ai_positioning",
+        "liquidity",
+        "korea_path"
+      ],
+      "properties": {
+        "pressure": {
+          "type": "object",
+          "required": [
+            "label",
+            "confidence",
+            "summary",
+            "evidence_ids",
+            "counter_ids",
+            "limitations"
+          ],
+          "properties": {
+            "label": {
+              "type": "string"
+            },
+            "confidence": {
+              "type": "string"
+            },
+            "summary": {
+              "type": "string"
+            },
+            "evidence_ids": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "counter_ids": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "limitations": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
+          }
+        },
+        "ai_positioning": {
+          "type": "object",
+          "required": [
+            "label",
+            "confidence",
+            "summary",
+            "evidence_ids",
+            "counter_ids",
+            "limitations"
+          ],
+          "properties": {
+            "label": {
+              "type": "string"
+            },
+            "confidence": {
+              "type": "string"
+            },
+            "summary": {
+              "type": "string"
+            },
+            "evidence_ids": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "counter_ids": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "limitations": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
+          }
+        },
+        "liquidity": {
+          "type": "object",
+          "required": [
+            "label",
+            "confidence",
+            "summary",
+            "evidence_ids",
+            "counter_ids",
+            "limitations"
+          ],
+          "properties": {
+            "label": {
+              "type": "string"
+            },
+            "confidence": {
+              "type": "string"
+            },
+            "summary": {
+              "type": "string"
+            },
+            "evidence_ids": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "counter_ids": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "limitations": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
+          }
+        },
+        "korea_path": {
+          "type": "object",
+          "required": [
+            "label",
+            "confidence",
+            "summary",
+            "evidence_ids",
+            "counter_ids",
+            "limitations"
+          ],
+          "properties": {
+            "label": {
+              "type": "string"
+            },
+            "confidence": {
+              "type": "string"
+            },
+            "summary": {
+              "type": "string"
+            },
+            "evidence_ids": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "counter_ids": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "limitations": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
+          }
+        }
+      }
+    },
+    "core_targets": {
+      "type": "array",
+      "minItems": 3,
+      "maxItems": 3,
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "summary_ko",
+          "change",
+          "evidence_ids"
+        ]
+      }
+    },
+    "coverage": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": [
+          "name",
+          "status",
+          "note"
+        ],
+        "properties": {
+          "name": {
+            "type": "string"
+          },
+          "status": {
+            "enum": [
+              "checked",
+              "partial",
+              "blocked",
+              "failed"
+            ]
+          },
+          "note": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "content_sha256": {
+      "type": "string",
+      "pattern": "^[a-f0-9]{64}$"
+    }
+  },
+  "description": "Also run scripts/global_position_contract.py validation for hash, clock, reference and evidence-grade checks; JSON Schema alone is insufficient."
+}
