@@ -1,10 +1,10 @@
 {
   "date_kst": "2026-10-16",
-  "status": "running",
-  "stage": "verifying",
+  "status": "partial",
+  "stage": "finished",
   "started_at_kst": "2026-10-16T21:54:47+09:00",
-  "updated_at_kst": "2026-10-16T22:05:10+09:00",
-  "ended_at_kst": null,
+  "updated_at_kst": "2026-10-16T22:05:42+09:00",
+  "ended_at_kst": "2026-10-16T22:05:42+09:00",
   "attempt": 1,
   "verified_posts": 168,
   "checked_channels": 59,
@@ -36,5 +36,14 @@
     "reports/2026-10-16.md": "success",
     "latest.md": "success",
     "latest.json": "success"
+  },
+  "verification": {
+    "remote_reread_passed": true,
+    "date_kst_matches": true,
+    "report_json_valid": true,
+    "report_markdown_urls_valid": true,
+    "latest_json_matches_dated_json": true,
+    "latest_md_matches_dated_md": true,
+    "verified_at_kst": "2026-10-16T22:05:42+09:00"
   }
 }
