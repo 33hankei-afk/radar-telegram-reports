@@ -85,7 +85,7 @@ def save(obj,root):
  root=Path(root);reports=root/'reports';reports.mkdir(parents=True,exist_ok=True)
  raw=json.dumps(obj,ensure_ascii=False,indent=2)+'\n';md=markdown(obj)
  for path,value in ((reports/(obj['date_kst']+'.json'),raw),(reports/(obj['date_kst']+'.md'),md),(root/'latest.md',md),(root/'latest.json',raw)):
-  tmp=path.with_suffix(path.suffix+'.tmp');tmp.write_text(value);tmp.replace(path)
+  tmp=path.with_suffix(path.suffix+'.tmp');tmp.write_text(value,encoding='utf-8');tmp.replace(path)
 
 if __name__=='__main__':
  import argparse
