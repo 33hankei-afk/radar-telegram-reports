@@ -1,15 +1,17 @@
 {
   "date_kst": "2026-10-16",
   "status": "running",
-  "stage": "started",
+  "stage": "collecting",
   "started_at_kst": "2026-10-16T21:54:47+09:00",
-  "updated_at_kst": "2026-10-16T21:54:47+09:00",
+  "updated_at_kst": "2026-10-16T21:56:00+09:00",
   "ended_at_kst": null,
   "attempt": 1,
   "verified_posts": 0,
-  "checked_channels": 0,
+  "checked_channels": 10,
   "verified_full_channels": 0,
   "failed_channels": [],
   "published_paths": [],
-  "errors": []
+  "errors": [
+    "첫 10개 채널 공개 목록과 게시글 직접 URL 대조 진행"
+  ]
 }
