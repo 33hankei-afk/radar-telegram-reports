@@ -1,12 +1,12 @@
 {
   "date_kst": "2026-10-17",
   "status": "running",
-  "stage": "collecting",
+  "stage": "publishing",
   "started_at_kst": "2026-10-17T21:43:34+09:00",
-  "updated_at_kst": "2026-10-17T21:58:47+09:00",
+  "updated_at_kst": "2026-10-17T22:07:27+09:00",
   "ended_at_kst": null,
   "attempt": 1,
-  "verified_posts": 11,
+  "verified_posts": 78,
   "checked_channels": 59,
   "verified_full_channels": 0,
   "failed_channels": [
@@ -26,7 +26,9 @@
     "latest.json"
   ],
   "errors": [
-    "목록 일부는 본문만 읽히며 글번호·연도·날짜·시각 또는 조회수 누락. 직접 원문 대조 중이며 전수 확인 0개.",
-    "SEARFin 당일 리비전 직접 URL·게시글 번호 미확인"
-  ]
+    "전수 스크롤 미완료. 부분 확인 51개, 접근·당일 직접 식별 실패 8개.",
+    "SEARFin 10월 17일 리비전의 글번호·직접 URL·게시시각 미확인. 전일 수치 미사용.",
+    "날짜 등 필수 메타데이터 미확인 후보 236건(과거 포함)은 집계 제외."
+  ],
+  "publication_events": []
 }
