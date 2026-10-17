@@ -3,7 +3,7 @@
   "status": "running",
   "stage": "publishing",
   "started_at_kst": "2026-10-17T21:43:34+09:00",
-  "updated_at_kst": "2026-10-17T22:07:36+09:00",
+  "updated_at_kst": "2026-10-17T22:07:39+09:00",
   "ended_at_kst": null,
   "attempt": 1,
   "verified_posts": 78,
@@ -42,6 +42,12 @@
       "phase": "final",
       "status": "succeeded",
       "commit_sha": "56fbb7579db10b56359533efe9e1a5980e6eed86"
+    },
+    {
+      "path": "latest.md",
+      "phase": "final",
+      "status": "succeeded",
+      "commit_sha": "cfabce81c9e939064786739293abeda328565d6b"
     }
   ]
 }
