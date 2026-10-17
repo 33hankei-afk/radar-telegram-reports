@@ -3,7 +3,7 @@
   "status": "running",
   "stage": "publishing",
   "started_at_kst": "2026-10-17T21:43:34+09:00",
-  "updated_at_kst": "2026-10-17T22:07:27+09:00",
+  "updated_at_kst": "2026-10-17T22:07:29+09:00",
   "ended_at_kst": null,
   "attempt": 1,
   "verified_posts": 78,
@@ -30,5 +30,12 @@
     "SEARFin 10월 17일 리비전의 글번호·직접 URL·게시시각 미확인. 전일 수치 미사용.",
     "날짜 등 필수 메타데이터 미확인 후보 236건(과거 포함)은 집계 제외."
   ],
-  "publication_events": []
+  "publication_events": [
+    {
+      "path": "reports/2026-10-17.json",
+      "phase": "final",
+      "status": "succeeded",
+      "commit_sha": "70cd71d9c4cd84994075ed5ce126fbc8099837aa"
+    }
+  ]
 }
