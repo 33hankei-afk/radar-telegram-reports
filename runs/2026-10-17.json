@@ -3,7 +3,7 @@
   "status": "running",
   "stage": "collecting",
   "started_at_kst": "2026-10-17T21:43:34+09:00",
-  "updated_at_kst": "2026-10-17T21:51:57+09:00",
+  "updated_at_kst": "2026-10-17T21:58:47+09:00",
   "ended_at_kst": null,
   "attempt": 1,
   "verified_posts": 11,
@@ -16,7 +16,8 @@
     "earlystock1",
     "macrojunglemicrolens",
     "awake_realtimecheck",
-    "goupstock"
+    "goupstock",
+    "yeouido_lab"
   ],
   "published_paths": [
     "reports/2026-10-17.json",
@@ -25,6 +26,7 @@
     "latest.json"
   ],
   "errors": [
-    "일부 공개 목록에서 게시글 식별자·날짜 footer가 빠져 직접 원문 대조를 진행 중"
+    "목록 일부는 본문만 읽히며 글번호·연도·날짜·시각 또는 조회수 누락. 직접 원문 대조 중이며 전수 확인 0개.",
+    "SEARFin 당일 리비전 직접 URL·게시글 번호 미확인"
   ]
 }
