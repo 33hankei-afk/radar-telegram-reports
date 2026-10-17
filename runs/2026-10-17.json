@@ -1,10 +1,10 @@
 {
   "date_kst": "2026-10-17",
-  "status": "running",
-  "stage": "verifying",
+  "status": "partial",
+  "stage": "finished",
   "started_at_kst": "2026-10-17T21:43:34+09:00",
-  "updated_at_kst": "2026-10-17T22:07:44+09:00",
-  "ended_at_kst": null,
+  "updated_at_kst": "2026-10-17T22:08:36+09:00",
+  "ended_at_kst": "2026-10-17T22:08:36+09:00",
   "attempt": 1,
   "verified_posts": 78,
   "checked_channels": 59,
@@ -55,5 +55,35 @@
       "status": "succeeded",
       "commit_sha": "7646a439beb1404cd74717385cbd268ae725bb62"
     }
-  ]
+  ],
+  "partial_channels": 51,
+  "related_posts": 38,
+  "metadata_unverified_candidates": 236,
+  "report_observed_at_kst": "2026-10-17T22:05:52+09:00",
+  "remote_verification": {
+    "status": "passed",
+    "files": [
+      {
+        "path": "reports/2026-10-17.json",
+        "sha": "b313f24eec3162a39d8578ebc46e270413b2d9e4",
+        "exact_match": true
+      },
+      {
+        "path": "reports/2026-10-17.md",
+        "sha": "5e39a0c6bbf032084644de6ee870d8418104060e",
+        "exact_match": true
+      },
+      {
+        "path": "latest.md",
+        "sha": "5e39a0c6bbf032084644de6ee870d8418104060e",
+        "exact_match": true
+      },
+      {
+        "path": "latest.json",
+        "sha": "b313f24eec3162a39d8578ebc46e270413b2d9e4",
+        "exact_match": true
+      }
+    ],
+    "schema_and_url_validation": "passed"
+  }
 }
