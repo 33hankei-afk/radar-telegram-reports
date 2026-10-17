@@ -1,9 +1,9 @@
 {
   "date_kst": "2026-10-17",
   "status": "running",
-  "stage": "publishing",
+  "stage": "verifying",
   "started_at_kst": "2026-10-17T21:43:34+09:00",
-  "updated_at_kst": "2026-10-17T21:49:20+09:00",
+  "updated_at_kst": "2026-10-17T21:49:24+09:00",
   "ended_at_kst": null,
   "attempt": 1,
   "verified_posts": 11,
@@ -12,7 +12,9 @@
   "failed_channels": [],
   "published_paths": [
     "reports/2026-10-17.json",
-    "reports/2026-10-17.md"
+    "reports/2026-10-17.md",
+    "latest.md",
+    "latest.json"
   ],
   "errors": [
     "일부 공개 목록에서 게시글 식별자·날짜 footer가 빠져 직접 원문 대조를 진행 중"
