@@ -1,9 +1,9 @@
 {
   "date_kst": "2026-10-17",
   "status": "running",
-  "stage": "publishing",
+  "stage": "verifying",
   "started_at_kst": "2026-10-17T21:43:34+09:00",
-  "updated_at_kst": "2026-10-17T22:07:42+09:00",
+  "updated_at_kst": "2026-10-17T22:07:44+09:00",
   "ended_at_kst": null,
   "attempt": 1,
   "verified_posts": 78,
