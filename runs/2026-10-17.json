@@ -3,18 +3,20 @@
   "status": "running",
   "stage": "collecting",
   "started_at_kst": "2026-10-17T21:43:34+09:00",
-  "updated_at_kst": "2026-10-17T21:51:24+09:00",
+  "updated_at_kst": "2026-10-17T21:51:57+09:00",
   "ended_at_kst": null,
   "attempt": 1,
   "verified_posts": 11,
-  "checked_channels": 45,
+  "checked_channels": 59,
   "verified_full_channels": 0,
   "failed_channels": [
     "aetherjapanresearch",
     "jstockclass",
     "pikachu_aje",
     "earlystock1",
-    "macrojunglemicrolens"
+    "macrojunglemicrolens",
+    "awake_realtimecheck",
+    "goupstock"
   ],
   "published_paths": [
     "reports/2026-10-17.json",
