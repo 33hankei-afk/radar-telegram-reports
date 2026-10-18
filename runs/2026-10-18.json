@@ -1,10 +1,10 @@
 {
   "date_kst": "2026-10-18",
-  "status": "running",
-  "stage": "publishing",
+  "status": "partial",
+  "stage": "finished",
   "started_at_kst": "2026-10-18T21:24:20+09:00",
-  "updated_at_kst": "2026-10-18T21:42:13.831+09:00",
-  "ended_at_kst": null,
+  "updated_at_kst": "2026-10-18T21:42:50.506+09:00",
+  "ended_at_kst": "2026-10-18T21:42:50.000+09:00",
   "attempt": 1,
   "verified_posts": 80,
   "checked_channels": 59,
@@ -27,7 +27,8 @@
   ],
   "errors": [
     "59개 채널 전수 스크롤 미완료: 부분 확인 51개, 당일 직접 식별 실패 8개.",
-    "SEARFin 당일 리비전 글번호·URL·시각 미확인. 전일 수치 미사용."
+    "SEARFin 당일 리비전 글번호·URL·시각 미확인. 전일 수치 미사용.",
+    "과거 글 포함 154개 후보의 날짜·시각·조회수 필수 원문 메타데이터 대조 불충분으로 보고서에서 제외."
   ],
   "publication_events": [
     {
@@ -54,5 +55,21 @@
       "status": "succeeded",
       "commit_sha": "247f3381bb86e71d25de88e2f0dbb39ba4e9eb70"
     }
-  ]
+  ],
+  "verified_file_shas": {
+    "reports/2026-10-18.json": "1e7787b5cc173863c665c4c6ed88f7f58b5a53e2",
+    "reports/2026-10-18.md": "90ea916df14a28ea6906f883dbf846bde685cbc7",
+    "latest.md": "90ea916df14a28ea6906f883dbf846bde685cbc7",
+    "latest.json": "1e7787b5cc173863c665c4c6ed88f7f58b5a53e2"
+  },
+  "metadata_unverified_candidates_including_older": 154,
+  "verification": {
+    "report_validator": "passed",
+    "date_match": true,
+    "direct_url_references": true,
+    "theme_primary_unique": true,
+    "theme_count": 38,
+    "github_readback_exact": true,
+    "latest_matches_dated_report": true
+  }
 }
