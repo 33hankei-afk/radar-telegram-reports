@@ -3,14 +3,23 @@
   "status": "running",
   "stage": "publishing",
   "started_at_kst": "2026-10-18T21:24:20+09:00",
-  "updated_at_kst": "2026-10-18T21:29:08+09:00",
+  "updated_at_kst": "2026-10-18T21:29:10+09:00",
   "ended_at_kst": null,
   "attempt": 1,
   "verified_posts": 23,
   "checked_channels": 5,
   "verified_full_channels": 0,
   "failed_channels": [],
-  "published_paths": [],
+  "published_paths": [
+    "reports/2026-10-18.json"
+  ],
   "errors": [],
-  "publication_events": []
+  "publication_events": [
+    {
+      "path": "reports/2026-10-18.json",
+      "phase": "early",
+      "status": "succeeded",
+      "commit_sha": "4adc3ea1d5bfefd38e2aa93a8192937a57c96bee"
+    }
+  ]
 }
