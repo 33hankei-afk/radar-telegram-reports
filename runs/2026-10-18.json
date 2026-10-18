@@ -1,9 +1,9 @@
 {
   "date_kst": "2026-10-18",
   "status": "running",
-  "stage": "collecting",
+  "stage": "publishing",
   "started_at_kst": "2026-10-18T21:24:20+09:00",
-  "updated_at_kst": "2026-10-18T21:39:13.424+09:00",
+  "updated_at_kst": "2026-10-18T21:41:48.973+09:00",
   "ended_at_kst": null,
   "attempt": 1,
   "verified_posts": 80,
@@ -26,8 +26,8 @@
     "latest.json"
   ],
   "errors": [
-    "일부 공개 목록은 과거 자료 또는 메타데이터 누락 상태. 직접 게시글 대조 진행 중.",
-    "SEARFin 당일 리비전 번호·URL 미확인. 전일 수치 미사용."
+    "59개 채널 전수 스크롤 미완료: 부분 확인 51개, 당일 직접 식별 실패 8개.",
+    "SEARFin 당일 리비전 글번호·URL·시각 미확인. 전일 수치 미사용."
   ],
   "publication_events": [
     {
