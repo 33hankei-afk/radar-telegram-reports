@@ -3,7 +3,7 @@
   "status": "running",
   "stage": "publishing",
   "started_at_kst": "2026-10-18T21:24:20+09:00",
-  "updated_at_kst": "2026-10-18T21:29:10+09:00",
+  "updated_at_kst": "2026-10-18T21:29:13+09:00",
   "ended_at_kst": null,
   "attempt": 1,
   "verified_posts": 23,
@@ -11,7 +11,8 @@
   "verified_full_channels": 0,
   "failed_channels": [],
   "published_paths": [
-    "reports/2026-10-18.json"
+    "reports/2026-10-18.json",
+    "reports/2026-10-18.md"
   ],
   "errors": [],
   "publication_events": [
@@ -20,6 +21,12 @@
       "phase": "early",
       "status": "succeeded",
       "commit_sha": "4adc3ea1d5bfefd38e2aa93a8192937a57c96bee"
+    },
+    {
+      "path": "reports/2026-10-18.md",
+      "phase": "early",
+      "status": "succeeded",
+      "commit_sha": "1cbdfa91d11549333325cbc01965f7ac1d8a3de3"
     }
   ]
 }
