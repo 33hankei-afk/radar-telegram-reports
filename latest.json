@@ -1,1207 +1,374 @@
 {
   "schema": "telegram_summaries_v1",
-  "date_kst": "2026-10-17",
-  "observed_at_kst": "2026-10-17T22:05:52+09:00",
+  "date_kst": "2026-10-18",
+  "observed_at_kst": "2026-10-18T21:29:05+09:00",
   "entries": [
     {
-      "channel": "tlsrltnf",
-      "post_id": "22622",
-      "url": "https://t.me/tlsrltnf/22622",
-      "views_display": "578",
-      "views_approx": 578.0,
-      "published_at_kst": "2026-10-17T00:25:00+09:00",
-      "summary_ko": "개발망 공개 소식을 전달하고 이후 테스트망·메인넷 일정을 추측했다. 개발망과 실제 메인넷 출시를 구분했다.",
-      "title": "LighterEVM 개발망 출시 소식",
-      "verification": "직접 위젯 본문·게시일·시각·조회수 및 URL 대조; 위젯 기본 UTC 시각을 KST로 변환",
-      "evidence_file": "candidate_widgets_330.json"
-    },
-    {
-      "channel": "HS_academy",
-      "post_id": "11034",
-      "url": "https://t.me/HS_academy/11034",
-      "views_display": "8.32K",
-      "views_approx": 8320.0,
-      "published_at_kst": "2026-10-17T00:47:00+09:00",
-      "summary_ko": "[OTHER 기타] 조정을 촉발한 코어위브가 추가 저점을 만드는지 지켜보자는 투자 의견이다. AI 데이터센터 수요가 남아 있어도 금융 공급이 훼손되면 사업에 영향이 생길 수 있다고 설명했다.",
-      "title": "코어위브 신저점 여부로 조정 원인 점검",
-      "primary_theme": "OTHER",
-      "theme_reason": "AI 데이터센터의 수요와 금융 공급을 구분하는 시장 분석.",
-      "entities": "CoreWeave·AI 데이터센터",
-      "stage": "시장 견해 / 자금조달 리스크",
-      "secondary_themes": [],
-      "verification": "직접 위젯 본문·게시일·시각·조회수 및 URL 대조; 위젯 기본 UTC 시각을 KST로 변환",
-      "evidence_file": "candidate_widgets_50.json"
-    },
-    {
-      "channel": "magonia_b",
-      "post_id": "12521",
-      "url": "https://t.me/magonia_b/12521",
-      "views_display": "806",
-      "views_approx": 806.0,
-      "published_at_kst": "2026-10-17T01:59:00+09:00",
-      "summary_ko": "기업 지표 연계 옵션 승인 소식을 인용하고 실적·매출 위험의 헤지와 예측시장 확장 가능성을 논평했다. 승인 범위의 독립 법률 검토는 하지 않았다.",
-      "title": "기업 KPI 연계 바이너리 옵션 관련 견해",
-      "verification": "직접 위젯 본문·게시일·시각·조회수 및 URL 대조; 위젯 기본 UTC 시각을 KST로 변환",
-      "evidence_file": "candidate_widgets_160.json"
-    },
-    {
-      "channel": "bullishbee11",
-      "post_id": "3567",
-      "url": "https://t.me/bullishbee11/3567",
-      "views_display": "10.9K",
-      "views_approx": 10900.0,
-      "published_at_kst": "2026-10-17T02:12:00+09:00",
-      "summary_ko": "급락 시 관심을 둘 섹터를 다룬 영상 링크를 안내했다. 캡션에 없는 구체적인 섹터·매매 규칙은 추정하지 않았다.",
-      "title": "주가 급락 시 관심 섹터 영상 안내",
-      "verification": "직접 위젯 본문·게시일·시각·조회수 및 URL 대조; 위젯 기본 UTC 시각을 KST로 변환",
-      "evidence_file": "candidate_widgets_600.json"
-    },
-    {
-      "channel": "athletes_village",
-      "post_id": "23790",
-      "url": "https://t.me/athletes_village/23790",
-      "views_display": "4.75K",
-      "views_approx": 4750.0,
-      "published_at_kst": "2026-10-17T02:37:00+09:00",
-      "summary_ko": "뉴욕타임스의 신임 대변인 해임 기사를 공유하고 미국 고용의 유연성을 빗대어 논평했다. 일반 고용지표에 대한 통계 분석은 아니다.",
-      "title": "미국 신임 대변인 조기 해임 기사 공유",
-      "verification": "직접 위젯 본문·게시일·시각·조회수 및 URL 대조; 위젯 기본 UTC 시각을 KST로 변환",
-      "evidence_file": "candidate_widgets_460.json"
-    },
-    {
-      "channel": "FastStockNewsUSA",
-      "post_id": "23819",
-      "url": "https://t.me/FastStockNewsUSA/23819",
-      "views_display": "6.4K",
-      "views_approx": 6400.0,
-      "published_at_kst": "2026-10-17T03:21:00+09:00",
-      "summary_ko": "WTI가 100달러를 넘어섰다는 짧은 시황 캡션이다. 정확한 계약월·호가 시각·실시간 가격은 별도 대조하지 않았다.",
-      "title": "WTI 100달러 상회 캡션",
-      "verification": "직접 위젯 본문·게시일·시각·조회수 및 URL 대조; 위젯 기본 UTC 시각을 KST로 변환",
-      "evidence_file": "candidate_widgets_650.json"
-    },
-    {
-      "channel": "TNBfolio",
-      "post_id": "71584",
-      "url": "https://t.me/TNBfolio/71584",
-      "views_display": "8.53K",
-      "views_approx": 8530.0,
-      "published_at_kst": "2026-10-17T04:48:00+09:00",
-      "summary_ko": "[OTHER 기타] 반도체지수의 연속 하락과 코어위브 주식·채권 불안을 연결했다. AI 수요 자체보다 금리와 자금조달 부담을 핵심 위험으로 본 채널 분석이다.",
-      "title": "SOX 연속 하락과 AI 기업 조달비용 부담",
-      "primary_theme": "OTHER",
-      "theme_reason": "반도체지수·서버기업과 AI 인프라 조달비용을 함께 다룸.",
-      "entities": "SOX·CoreWeave·AI 서버",
-      "stage": "주가·신용 리스크 분석",
-      "secondary_themes": [],
-      "verification": "직접 위젯 본문·게시일·시각·조회수 및 URL 대조; 위젯 기본 UTC 시각을 KST로 변환",
-      "evidence_file": "candidate_widgets_210.json"
-    },
-    {
-      "channel": "TNBfolio",
-      "post_id": "71585",
-      "url": "https://t.me/TNBfolio/71585",
-      "views_display": "3.48K",
-      "views_approx": 3480.0,
-      "published_at_kst": "2026-10-17T05:42:00+09:00",
-      "summary_ko": "2026 회계연도 미국 재정적자가 약 1.99조달러에 이르렀다는 내용을 전달하고 사회보장·메디케어·이자 지출 부담을 설명했다. 원자료를 별도 대조한 확정 통계로 제시하지 않았다.",
-      "title": "미국 재정적자·순이자 비용 확대 주장",
-      "verification": "직접 위젯 본문·게시일·시각·조회수 및 URL 대조; 위젯 기본 UTC 시각을 KST로 변환",
-      "evidence_file": "candidate_widgets_220.json"
-    },
-    {
-      "channel": "bornlupin",
-      "post_id": "20670",
-      "url": "https://t.me/bornlupin/20670",
-      "views_display": "6.85K",
-      "views_approx": 6850.0,
-      "published_at_kst": "2026-10-17T05:44:00+09:00",
-      "summary_ko": "[OTHER 기타] 젠슨 황이 AI 시장 혼란을 두고 결국 지나갈 것이라고 말했다는 짧은 캡션이다.",
-      "title": "젠슨 황의 AI 시장 혼란 낙관 발언",
-      "primary_theme": "OTHER",
-      "theme_reason": "원문에 AI 시장 혼란과 CEO 발언이 명시되지만 세부 제품·공정은 없음.",
-      "entities": "NVIDIA·AI",
-      "stage": "경영진 견해",
-      "verification": "직접 위젯 본문·게시일·시각·조회수 및 URL 대조; 위젯 기본 UTC 시각을 KST로 변환",
-      "evidence_file": "born_widgets.json",
-      "secondary_themes": []
-    },
-    {
-      "channel": "bornlupin",
-      "post_id": "20671",
-      "url": "https://t.me/bornlupin/20671",
-      "views_display": "6.81K",
-      "views_approx": 6810.0,
-      "published_at_kst": "2026-10-17T05:48:00+09:00",
-      "summary_ko": "트럼프의 이란 관련 강경 발언을 짧게 전달했다. 발언 원문과 맥락의 독립 검증은 별도로 하지 않았다.",
-      "title": "트럼프의 이란 관련 강경 발언 전달",
-      "verification": "직접 위젯 본문·게시일·시각·조회수 및 URL 대조; 위젯 기본 UTC 시각을 KST로 변환",
-      "evidence_file": "born_widgets.json"
-    },
-    {
-      "channel": "bornlupin",
-      "post_id": "20672",
-      "url": "https://t.me/bornlupin/20672",
-      "views_display": "6.79K",
-      "views_approx": 6790.0,
-      "published_at_kst": "2026-10-17T05:50:00+09:00",
-      "summary_ko": "앤트로픽의 직원당 매출이 메타·구글보다 2~4배 높다는 비교 주장이다. 원문의 계산 근거나 기준 기간은 확인되지 않는다.",
-      "title": "앤트로픽 직원당 매출 비교 주장",
-      "verification": "직접 위젯 본문·게시일·시각·조회수 및 URL 대조; 위젯 기본 UTC 시각을 KST로 변환",
-      "evidence_file": "born_widgets.json"
-    },
-    {
-      "channel": "bornlupin",
-      "post_id": "20673",
-      "url": "https://t.me/bornlupin/20673",
-      "views_display": "7.16K",
-      "views_approx": 7160.0,
-      "published_at_kst": "2026-10-17T06:05:00+09:00",
-      "summary_ko": "사전 계획 거래로 이사가 10월 15~16일 보통주 296주를 매수했다는 내부자 거래 내용을 전했다. 독립 공시 대조를 완료했다는 뜻은 아니다.",
-      "title": "네비우스 이사의 약 5만달러 주식 매수 전달",
-      "verification": "직접 위젯 본문·게시일·시각·조회수 및 URL 대조; 위젯 기본 UTC 시각을 KST로 변환",
-      "evidence_file": "born_widgets.json"
-    },
-    {
-      "channel": "bornlupin",
-      "post_id": "20674",
-      "url": "https://t.me/bornlupin/20674",
-      "views_display": "14.4K",
-      "views_approx": 14400.0,
-      "published_at_kst": "2026-10-17T06:07:00+09:00",
-      "summary_ko": "[OTHER 기타] 블룸버그 기사를 인용해 젠슨 황이 AI를 초기 산업으로 평가하고 장기 투자수익을 강조했다고 전했다. 차입비용 상승과 AI 설비투자 위축 우려도 함께 언급했다.",
-      "title": "젠슨 황, AI 변동성보다 장기 펀더멘털 강조",
-      "primary_theme": "OTHER",
-      "theme_reason": "AI 산업·자본적지출·경영진 견해가 중심이며 특정 세부 제품 수급 사실은 아님.",
-      "entities": "NVIDIA·AI 투자",
-      "stage": "경영진 전망 / 자금조달 위험",
-      "verification": "직접 위젯 본문·게시일·시각·조회수 및 URL 대조; 위젯 기본 UTC 시각을 KST로 변환",
-      "evidence_file": "born_widgets.json",
-      "secondary_themes": []
-    },
-    {
-      "channel": "bullishbee11",
-      "post_id": "3568",
-      "url": "https://t.me/bullishbee11/3568",
-      "views_display": "10.1K",
-      "views_approx": 10100.0,
-      "published_at_kst": "2026-10-17T06:19:00+09:00",
-      "summary_ko": "[OTHER 기타] SOXL의 특정 가격 구간 재진입 가능성을 언급하고 장 막판 도달 후 월요일을 지켜보겠다고 했다. 차트 내부 가격은 캡션에 없어 수치로 만들지 않았다.",
-      "title": "SOXL 단타 구간과 다음 거래일 관찰",
-      "primary_theme": "OTHER",
-      "theme_reason": "반도체 레버리지 ETF의 매매 구간을 다루며 실물 제품 수급 정보는 아님.",
-      "entities": "SOXL·반도체 ETF",
-      "stage": "개인 매매 견해",
-      "secondary_themes": [],
-      "verification": "직접 위젯 본문·게시일·시각·조회수 및 URL 대조; 위젯 기본 UTC 시각을 KST로 변환",
-      "evidence_file": "candidate_widgets_600.json"
-    },
-    {
-      "channel": "sejongdata2013",
-      "post_id": "12365",
-      "url": "https://t.me/sejongdata2013/12365",
-      "views_display": "1.53K",
-      "views_approx": 1530.0,
-      "published_at_kst": "2026-10-17T06:30:00+09:00",
-      "summary_ko": "10월 16일 종가를 기준으로 작성한 실적 스크리닝 자료를 다음날 공유했다. 첨부파일의 개별 기업 수치와 전수 내용은 확인하지 않았다.",
-      "title": "10월 16일 종가 기준 3분기 실적 스크리닝 안내",
-      "verification": "직접 위젯 본문·게시일·시각·조회수 및 URL 대조; 위젯 기본 UTC 시각을 KST로 변환",
-      "evidence_file": "latest_widgets_24.json"
-    },
-    {
-      "channel": "TNBfolio",
-      "post_id": "71586",
-      "url": "https://t.me/TNBfolio/71586",
-      "views_display": "13.2K",
-      "views_approx": 13200.0,
-      "published_at_kst": "2026-10-17T07:02:00+09:00",
-      "summary_ko": "[T4 AI 메모리·저장장치] 메모리 ETF DRAM의 주간 약 19% 하락과 연속 순유출을 소개했다. 메모리·포토닉스 관련 펀드의 가격·투자자 흐름을 다룬 것으로 실물 공급부족을 확인한 자료는 아니다.",
-      "title": "메모리 ETF 급락과 연속 자금 유출 분석",
-      "primary_theme": "T4",
-      "theme_reason": "메모리 ETF와 메모리 투자자금 유출을 명시.",
-      "entities": "메모리 ETF DRAM",
-      "stage": "가격·펀드수급 분석",
-      "secondary_themes": [],
-      "verification": "직접 위젯 본문·게시일·시각·조회수 및 URL 대조; 위젯 기본 UTC 시각을 KST로 변환",
-      "evidence_file": "candidate_widgets_220.json"
-    },
-    {
-      "channel": "maddingStock",
-      "post_id": "18587",
-      "url": "https://t.me/maddingStock/18587",
-      "views_display": "2.13K",
-      "views_approx": 2130.0,
-      "published_at_kst": "2026-10-17T07:03:00+09:00",
-      "summary_ko": "[OTHER 기타] 에너지·초대형주가 지수를 방어하는 동안 차입 의존 AI·기술주의 약세가 확산됐다는 시황이다. 국내 성장주·방어주에 대한 영향은 채널의 해석으로 구분했다.",
-      "title": "미국 에너지·초대형주 방어와 AI 종목 약세",
-      "primary_theme": "OTHER",
-      "theme_reason": "AI 연계주와 자금조달·금리 부담을 직접 언급.",
-      "entities": "AI 주식·금리·시장 폭",
-      "stage": "시장 분석 / 국내 영향 추론",
-      "secondary_themes": [],
-      "verification": "직접 위젯의 Published 날짜·본문과 공개 목록의 동일 글번호 링크·시각·조회수를 교차 대조; 위젯 기본 UTC 시각을 KST로 변환",
-      "evidence_file": "latest_widgets_40.json"
-    },
-    {
-      "channel": "habit4117",
-      "post_id": "86021",
-      "url": "https://t.me/habit4117/86021",
-      "views_display": "3.82K",
-      "views_approx": 3820.0,
-      "published_at_kst": "2026-10-17T07:54:00+09:00",
-      "summary_ko": "공무원 이전 예상 수요에 비해 세종의 향후 입주 물량이 적다는 기사를 공유했다. 기사 게시일과 텔레그램 재공유일을 구분했다.",
-      "title": "공무원 이전 수요와 세종 전월세 부족 보도",
-      "verification": "직접 위젯 본문·게시일·시각·조회수 및 URL 대조; 위젯 기본 UTC 시각을 KST로 변환",
-      "evidence_file": "candidate_widgets_120.json"
-    },
-    {
-      "channel": "rafikiresearch",
-      "post_id": "25941",
-      "url": "https://t.me/rafikiresearch/25941",
-      "views_display": "4.05K",
-      "views_approx": 4050.0,
-      "published_at_kst": "2026-10-17T08:01:00+09:00",
-      "summary_ko": "[T4 AI 메모리·저장장치] AI 이용자·빅테크·데이터센터·메모리의 밸류체인 위치를 나누고 메모리 주문에 가수요가 섞일 가능성을 제기했다. 실제 중복 주문이 확인됐다는 뜻은 아니다.",
-      "title": "AI 밸류체인에서 메모리 가수요 가능성",
-      "primary_theme": "T4",
-      "theme_reason": "메모리 주문과 가수요 위험을 직접 논의.",
-      "entities": "메모리 주문·AI 밸류체인",
-      "stage": "채널 추론 / 수요 반증 가능성",
-      "secondary_themes": [],
-      "verification": "직접 위젯의 Published 날짜·본문과 공개 목록의 동일 글번호 링크·시각·조회수를 교차 대조; 위젯 기본 UTC 시각을 KST로 변환",
-      "evidence_file": "candidate_widgets_480.json"
-    },
-    {
-      "channel": "habit4117",
-      "post_id": "86022",
-      "url": "https://t.me/habit4117/86022",
-      "views_display": "3.59K",
-      "views_approx": 3590.0,
-      "published_at_kst": "2026-10-17T08:08:00+09:00",
-      "summary_ko": "신인 K팝 그룹의 데뷔를 소개한 영상 캡션이다. 영상 내부 내용은 검증하지 않았다.",
-      "title": "A2O LITE 데뷔 영상 캡션",
-      "verification": "직접 위젯 본문·게시일·시각·조회수 및 URL 대조; 위젯 기본 UTC 시각을 KST로 변환",
-      "evidence_file": "candidate_widgets_120.json"
-    },
-    {
-      "channel": "bornlupin",
-      "post_id": "20675",
-      "url": "https://t.me/bornlupin/20675",
-      "views_display": "6.31K",
-      "views_approx": 6310.0,
-      "published_at_kst": "2026-10-17T08:41:00+09:00",
-      "summary_ko": "[OTHER 기타] 10월 19~23일 중국 GDP, 주요 기업 실적, 한국은행 결정과 NVIDIA GTC의 AI 인프라·피지컬 AI 관련 행사를 정리한 일정표다. 일정 완료나 발표 결과로 해석하지 않는다.",
-      "title": "다음주 지표·실적·GTC 주요 일정 정리",
-      "primary_theme": "OTHER",
-      "theme_reason": "AI 인프라·에이전틱 AI·피지컬 AI 관련 행사 일정을 원문에서 명시.",
-      "entities": "AI 행사·기업실적",
-      "stage": "예정 일정",
-      "verification": "직접 위젯 본문·게시일·시각·조회수 및 URL 대조; 위젯 기본 UTC 시각을 KST로 변환",
-      "evidence_file": "born_widgets.json",
-      "secondary_themes": []
-    },
-    {
-      "channel": "bornlupin",
-      "post_id": "20676",
-      "url": "https://t.me/bornlupin/20676",
-      "views_display": "9.42K",
-      "views_approx": 9420.0,
-      "published_at_kst": "2026-10-17T09:03:00+09:00",
-      "summary_ko": "[OTHER 기타] WSJ를 인용해 코어위브 주식 보유 투자자가 투자적격 고객의 약 1,300억달러 수주잔고를 강조했다고 전했다. 해당 투자자의 이해관계가 있으며, 수주잔고의 매출 전환과 상환 능력이 중요하다는 설명이다.",
-      "title": "코어위브 투자자의 수주잔고·신용위험 반론",
-      "primary_theme": "OTHER",
-      "theme_reason": "AI 컴퓨팅 계약·수주잔고와 기업 신용위험 논쟁을 직접 다룸.",
-      "entities": "CoreWeave·AI 컴퓨팅",
-      "stage": "수주잔고 주장 / 리스크 반론",
-      "verification": "직접 위젯 본문·게시일·시각·조회수 및 URL 대조; 위젯 기본 UTC 시각을 KST로 변환",
-      "evidence_file": "born_widgets.json",
-      "secondary_themes": []
-    },
-    {
-      "channel": "bornlupin",
-      "post_id": "20677",
-      "url": "https://t.me/bornlupin/20677",
-      "views_display": "18K",
-      "views_approx": 18000.0,
-      "published_at_kst": "2026-10-17T09:04:00+09:00",
-      "summary_ko": "[OTHER 기타] Axios를 인용해 AWS CFO가 AI 지출의 실수요와 투자 지속 가능성을 강조했다고 전했다. 약 5,000억달러 수주잔고와 3년 미만 AI 서버 투자 회수기간은 경영진 설명으로 구분한다.",
-      "title": "AWS CFO, AI 투자 지속 가능성과 회수기간 설명",
-      "primary_theme": "OTHER",
-      "theme_reason": "AI 서버·설비투자·수주잔고의 사업성에 관한 경영진 설명.",
-      "entities": "AWS·AI 서버",
-      "stage": "경영진 설명 / 투자회수 주장",
-      "verification": "직접 위젯 본문·게시일·시각·조회수 및 URL 대조; 위젯 기본 UTC 시각을 KST로 변환",
-      "evidence_file": "born_widgets.json",
-      "secondary_themes": []
-    },
-    {
-      "channel": "eqmirae",
-      "post_id": "3244",
-      "url": "https://t.me/eqmirae/3244",
-      "views_display": "1.9K",
-      "views_approx": 1900.0,
-      "published_at_kst": "2026-10-17T09:36:00+09:00",
-      "summary_ko": "[OTHER 기타] 미래에셋증권이 국가·업종별 EPS와 국내 영업이익 컨센서스를 정리했다. 반도체 이익 기여와 비반도체 업종 하향을 비교한 전망 자료이며 SEARFin 리비전 표와 섞지 않았다.",
-      "title": "주간 이익동향과 반도체 이익 기여도 점검",
-      "primary_theme": "OTHER",
-      "theme_reason": "반도체를 포함한 업종별 이익 추정·밸류에이션 비교. 세부 제품 수급은 미확인.",
-      "entities": "반도체·업종 이익 컨센서스",
-      "stage": "증권사 추정치 / 실적 전망",
-      "secondary_themes": [],
-      "verification": "직접 위젯의 Published 날짜·본문과 공개 목록의 동일 글번호 링크·시각·조회수를 교차 대조; 위젯 기본 UTC 시각을 KST로 변환",
-      "evidence_file": "latest_widgets_32.json"
-    },
-    {
-      "channel": "kimcharger",
-      "post_id": "14337",
-      "url": "https://t.me/kimcharger/14337",
-      "views_display": "3.74K",
-      "views_approx": 3740.0,
-      "published_at_kst": "2026-10-17T09:54:00+09:00",
-      "summary_ko": "[T4 AI 메모리·저장장치] 블랙아웃 기간의 부정적 분위기를 과거 조정과 비교했다. 메모리 장기계약·주주환원의 가시성이 높아졌다는 판단과 향후 빅테크 실적을 통해 AI 투자 지속성을 확인하자는 의견이다.",
-      "title": "메모리 장기계약과 빅테크 실적에 대한 시장 의견",
-      "primary_theme": "T4",
-      "theme_reason": "메모리 업체 LTA와 주주환원 가시성을 직접 언급.",
-      "entities": "메모리 LTA·AI 수요",
-      "stage": "채널 견해 / 계약 세부 미공개",
-      "secondary_themes": [],
-      "verification": "직접 위젯의 Published 날짜·본문과 공개 목록의 동일 글번호 링크·시각·조회수를 교차 대조; 위젯 기본 UTC 시각을 KST로 변환",
-      "evidence_file": "candidate_widgets_200.json"
-    },
-    {
-      "channel": "kimcharger",
-      "post_id": "14338",
-      "url": "https://t.me/kimcharger/14338",
-      "views_display": "3.52K",
-      "views_approx": 3520.0,
-      "published_at_kst": "2026-10-17T10:00:00+09:00",
-      "summary_ko": "[OTHER 기타] 짐 크레이머의 발언을 인용해 유가 급등과 데이터센터 관련 포지션 청산 가능성을 논평했다. 특정 펀드명은 글 자체에서 공식 자료가 없는 루머로 표시했다.",
-      "title": "헤지펀드 강제청산 가능성에 관한 미확인 설",
-      "primary_theme": "OTHER",
-      "theme_reason": "AI 펀드와 데이터센터 관련 포지션 청산 가능성을 직접 언급.",
-      "entities": "AI 펀드·데이터센터 포지션",
-      "stage": "미확인 루머 / 시장 견해",
-      "secondary_themes": [],
-      "verification": "직접 위젯 본문·게시일·시각·조회수 및 URL 대조; 위젯 기본 UTC 시각을 KST로 변환",
-      "evidence_file": "latest_widgets_16.json"
-    },
-    {
-      "channel": "TNBfolio",
-      "post_id": "71588",
-      "url": "https://t.me/TNBfolio/71588",
-      "views_display": "7.45K",
-      "views_approx": 7450.0,
-      "published_at_kst": "2026-10-17T10:07:00+09:00",
-      "summary_ko": "[OTHER 기타] 앤트로픽의 약 600억달러 TPU 금융 패키지와 블랙스톤 후순위 참여, 10%를 웃도는 수익률 조건을 소개했다. 거래 성사와 조건 확정을 구분하며 AI 부채 수요의 시험대로 평가했다.",
-      "title": "앤트로픽 칩 금융의 높은 조달비용 보도",
-      "primary_theme": "OTHER",
-      "theme_reason": "TPU 조달용 금융·리스료 담보와 신용등급이 중심. 메모리나 패키징 수주로 추정하지 않음.",
-      "entities": "Anthropic·TPU·프로젝트 금융",
-      "stage": "금융 협상 보도 / 조달비용 리스크",
-      "secondary_themes": [],
-      "verification": "직접 위젯 본문·게시일·시각·조회수 및 URL 대조; 위젯 기본 UTC 시각을 KST로 변환",
-      "evidence_file": "candidate_widgets_220.json"
-    },
-    {
-      "channel": "gaoshoukorea",
-      "post_id": "65157",
-      "url": "https://t.me/gaoshoukorea/65157",
-      "views_display": "6.92K",
-      "views_approx": 6920.0,
-      "published_at_kst": "2026-10-17T10:25:00+09:00",
-      "summary_ko": "의무공개매수와 주가 억제 방지 관련 입법안의 재검토를 요청하는 국회 청원 링크를 공유했다. 청원 주장과 확정 법률을 구분했다.",
-      "title": "의무공개매수·주주보호 제도 청원 공유",
-      "verification": "직접 위젯 본문·게시일·시각·조회수 및 URL 대조; 위젯 기본 UTC 시각을 KST로 변환",
-      "evidence_file": "latest_widgets_40.json"
-    },
-    {
-      "channel": "bullishbee11",
-      "post_id": "3570",
-      "url": "https://t.me/bullishbee11/3570",
-      "views_display": "8.91K",
-      "views_approx": 8910.0,
-      "published_at_kst": "2026-10-17T10:32:00+09:00",
-      "summary_ko": "[OTHER 기타] 연준 의장 교체, 금리와 반도체 정점론을 2018년과 비교하며 유사 가능성을 제시했다. 과거와 동일한 결과가 확정됐다는 뜻은 아니다.",
-      "title": "2018년과 현재의 금리·반도체 사이클 비교",
-      "primary_theme": "OTHER",
-      "theme_reason": "반도체 사이클 정점론과 금융환경 비교를 명시.",
-      "entities": "반도체 사이클·금리",
-      "stage": "역사 비교 / 채널 추론",
-      "secondary_themes": [],
-      "verification": "직접 위젯 본문·게시일·시각·조회수 및 URL 대조; 위젯 기본 UTC 시각을 KST로 변환",
-      "evidence_file": "candidate_widgets_600.json"
-    },
-    {
-      "channel": "bullishbee11",
-      "post_id": "3571",
-      "url": "https://t.me/bullishbee11/3571",
-      "views_display": "8.9K",
-      "views_approx": 8900.0,
-      "published_at_kst": "2026-10-17T10:33:00+09:00",
-      "summary_ko": "급락을 기회로 평가한다는 짧은 캡션이다. 이유가 담긴 첨부 내부는 확인하지 않아 구체적인 논거를 보충하지 않았다.",
-      "title": "폭락을 기회로 보는 이유라는 캡션",
-      "verification": "직접 위젯 본문·게시일·시각·조회수 및 URL 대조; 위젯 기본 UTC 시각을 KST로 변환",
-      "evidence_file": "candidate_widgets_600.json"
-    },
-    {
-      "channel": "bullishbee11",
-      "post_id": "3572",
-      "url": "https://t.me/bullishbee11/3572",
-      "views_display": "9.14K",
-      "views_approx": 9140.0,
-      "published_at_kst": "2026-10-17T10:38:00+09:00",
-      "summary_ko": "숏 거래 중간의 급반등이 초보 투자자에게 큰 손실을 줄 수 있다며 공개 공유를 자제한다는 개인 의견이다.",
-      "title": "공매도·숏 매매의 반등 위험 경고",
-      "verification": "직접 위젯 본문·게시일·시각·조회수 및 URL 대조; 위젯 기본 UTC 시각을 KST로 변환",
-      "evidence_file": "candidate_widgets_600.json"
-    },
-    {
-      "channel": "FastStockNews",
-      "post_id": "126607",
-      "url": "https://t.me/FastStockNews/126607",
-      "views_display": "12.6K",
-      "views_approx": 12600.0,
-      "published_at_kst": "2026-10-17T11:06:00+09:00",
-      "summary_ko": "[OTHER 기타] AI 인프라 기업의 부채 부담과 유가 상승이 기술주·반도체 매도세로 이어졌다는 기사 제목·미리보기를 공유했다.",
-      "title": "AI 투자부채·유가 부담에 뉴욕증시 하락 보도",
-      "primary_theme": "OTHER",
-      "theme_reason": "원문에 AI 인프라 자금조달 위험과 반도체 주가 하락을 명시.",
-      "entities": "AI 인프라·반도체",
-      "stage": "리스크·반증 / 기사 전달",
-      "verification": "직접 위젯 본문·게시일·시각·조회수 및 URL 대조; 위젯 기본 UTC 시각을 KST로 변환",
-      "evidence_file": "verified_fast_widgets.json",
-      "secondary_themes": []
-    },
-    {
-      "channel": "FastStockNews",
-      "post_id": "126608",
-      "url": "https://t.me/FastStockNews/126608",
-      "views_display": "13K",
-      "views_approx": 13000.0,
-      "published_at_kst": "2026-10-17T11:07:00+09:00",
-      "summary_ko": "[OTHER 기타] AI 투자부채와 유가 급등을 배경으로 뉴욕증시가 하락했다는 기사 링크를 별도 게시글로 재공유했다.",
-      "title": "뉴욕증시·반도체 하락 기사 재공유",
-      "primary_theme": "OTHER",
-      "theme_reason": "AI 경고등과 반도체 하락을 직접 언급. 같은 기사라도 별도 글번호를 보존.",
-      "entities": "AI·반도체",
-      "stage": "리스크·반증 / 기사 제목",
-      "verification": "직접 위젯 본문·게시일·시각·조회수 및 URL 대조; 위젯 기본 UTC 시각을 KST로 변환",
-      "evidence_file": "verified_fast_widgets.json",
-      "secondary_themes": []
-    },
-    {
-      "channel": "HS_academy",
-      "post_id": "11035",
-      "url": "https://t.me/HS_academy/11035",
-      "views_display": "5.88K",
-      "views_approx": 5880.0,
-      "published_at_kst": "2026-10-17T11:19:00+09:00",
-      "summary_ko": "시장 상황과 투자전략을 정리한 외부 글 링크를 안내했다. 링크된 글의 전문과 구체적인 전략 내용은 이번 원문 캡션만으로 확인하지 않았다.",
-      "title": "현재 시장·투자전략 외부 글 안내",
-      "verification": "직접 위젯 본문·게시일·시각·조회수 및 URL 대조; 위젯 기본 UTC 시각을 KST로 변환",
-      "evidence_file": "latest_widgets_0.json"
-    },
-    {
-      "channel": "bulls_pirates",
-      "post_id": "4776",
-      "url": "https://t.me/bulls_pirates/4776",
-      "views_display": "2.18K",
-      "views_approx": 2180.0,
-      "published_at_kst": "2026-10-17T11:27:00+09:00",
-      "summary_ko": "브리핑에 참고하겠다는 짧은 문장만 확인됐다. 연결된 자료나 별도 첨부의 세부 내용은 이 캡션으로 확정하지 않았다.",
-      "title": "추후 브리핑 참고 예정이라는 캡션",
-      "verification": "직접 위젯 본문·게시일·시각·조회수 및 URL 대조; 위젯 기본 UTC 시각을 KST로 변환",
-      "evidence_file": "latest_widgets_0.json"
-    },
-    {
-      "channel": "HANAchina",
-      "post_id": "70563",
-      "url": "https://t.me/HANAchina/70563",
-      "views_display": "1.95K",
-      "views_approx": 1950.0,
-      "published_at_kst": "2026-10-17T12:17:00+09:00",
-      "summary_ko": "중국 매체를 인용해 로드스터의 배터리·냉각 구조와 충전·주행 목표를 소개했다. 개발 목표와 실제 검증된 양산 성능을 동일하게 보지 않았다.",
-      "title": "로드스터 배터리·충전 성능 보도 전달",
-      "verification": "직접 위젯의 Published 날짜·본문과 공개 목록의 동일 글번호 링크·시각·조회수를 교차 대조; 위젯 기본 UTC 시각을 KST로 변환",
-      "evidence_file": "candidate_widgets_70.json"
+      "channel": "YeouidoStory2",
+      "post_id": "118514",
+      "url": "https://t.me/YeouidoStory2/118514",
+      "views_display": "4.63K",
+      "published_at_kst": "2026-10-18T01:31:00.000+09:00",
+      "method": "direct_widget_footer",
+      "title": "자화전자 상세기업분석 PDF 안내",
+      "summary_ko": "자화전자 상세기업분석 PDF의 파일명과 크기를 확인했다. 첨부파일 내부의 실적·가치평가 내용은 이번 공개 캡션만으로 검증하지 않았다.",
+      "views_approx": 4630.0
     },
     {
       "channel": "YeouidoStory2",
-      "post_id": "118510",
-      "url": "https://t.me/YeouidoStory2/118510",
-      "views_display": "3.61K",
-      "views_approx": 3610.0,
-      "published_at_kst": "2026-10-17T12:21:00+09:00",
-      "summary_ko": "[OTHER 기타] 중국 매체를 인용해 젠슨 황이 AI의 장기 성장과 투자수익을 강조했다고 전했다. 주가 반등이나 투자수익이 이미 실현됐다는 의미는 아니다.",
-      "title": "젠슨 황의 AI 주가 하락 낙관론 재전달",
-      "primary_theme": "OTHER",
-      "theme_reason": "AI 하드웨어 투자와 시장 변동성에 관한 경영진 견해.",
-      "entities": "NVIDIA·AI 투자",
-      "stage": "경영진 전망 재전달",
-      "secondary_themes": [],
-      "verification": "직접 위젯 본문·게시일·시각·조회수 및 URL 대조; 위젯 기본 UTC 시각을 KST로 변환",
-      "evidence_file": "candidate_widgets_570.json"
+      "post_id": "118515",
+      "url": "https://t.me/YeouidoStory2/118515",
+      "views_display": "4.68K",
+      "published_at_kst": "2026-10-18T01:31:00.000+09:00",
+      "method": "direct_widget_footer",
+      "title": "자화전자 영문명 기업분석 PDF 안내",
+      "summary_ko": "자화전자 영문명이 포함된 상세기업분석 PDF 파일명만 확인됐다. 별도 글번호를 유지하되 파일 내부 분석을 추정해 요약하지 않았다.",
+      "views_approx": 4680.0
     },
     {
-      "channel": "bumgore",
-      "post_id": "55089",
-      "url": "https://t.me/bumgore/55089",
-      "views_display": "1.73K",
-      "views_approx": 1730.0,
-      "published_at_kst": "2026-10-17T12:58:00+09:00",
-      "summary_ko": "[OTHER 기타] 골드만 자료를 요약하며 금리 급등의 영향에 대한 IMF 출신 인사·무디스·골드만의 서로 다른 시각을 소개했다. AI 설비투자의 수익성, 레버리지와 금리 변동을 주요 점검 대상으로 제시했다.",
-      "title": "국채금리 상승과 AI 투자·금융 취약성 비교",
-      "primary_theme": "OTHER",
-      "theme_reason": "AI 투자와 신용·레버리지의 연계 위험을 원문에서 명시.",
-      "entities": "AI·빅테크·국채금리",
-      "stage": "기관 견해 요약 / 리스크",
-      "secondary_themes": [],
-      "verification": "직접 위젯 본문·게시일·시각·조회수 및 URL 대조; 위젯 기본 UTC 시각을 KST로 변환",
-      "evidence_file": "latest_widgets_8.json"
+      "channel": "YeouidoStory2",
+      "post_id": "118516",
+      "url": "https://t.me/YeouidoStory2/118516",
+      "views_display": "4.75K",
+      "published_at_kst": "2026-10-18T01:31:00.000+09:00",
+      "method": "direct_widget_footer",
+      "title": "자화전자 스터디 자료 설명 캡션",
+      "summary_ko": "자화전자 상세분석을 스터디용으로 제공한다는 짧은 캡션이다. 구체적인 분석 결론은 확인되지 않았다.",
+      "views_approx": 4750.0
     },
     {
-      "channel": "report_figure_by_offset",
-      "post_id": "13421",
-      "url": "https://t.me/report_figure_by_offset/13421",
-      "views_display": "2.29K",
-      "views_approx": 2290.0,
-      "published_at_kst": "2026-10-17T13:01:00+09:00",
-      "summary_ko": "10월 2~4주 주요 일정 자료의 제목을 확인했다. 첨부 일정표 내부의 개별 날짜·행사는 캡션만으로 확인하지 않았다.",
-      "title": "10월 중순 주요 일정 자료 안내",
-      "verification": "직접 위젯 본문·게시일·시각·조회수 및 URL 대조; 위젯 기본 UTC 시각을 KST로 변환",
-      "evidence_file": "candidate_widgets_400.json"
-    },
-    {
-      "channel": "HANAchina",
-      "post_id": "70566",
-      "url": "https://t.me/HANAchina/70566",
-      "views_display": "2.08K",
-      "views_approx": 2080.0,
-      "published_at_kst": "2026-10-17T13:14:00+09:00",
-      "summary_ko": "[OTHER 기타] 일반 종목의 약세와 AI 대형주의 지수 방어가 엇갈린다는 분석을 전달했다. 국채금리·유가에 따른 금융 긴축과 종목 간 격차를 주요 관전 대상으로 제시했다.",
-      "title": "미국 증시 양극화와 AI 대형주의 지속성 문제",
-      "primary_theme": "OTHER",
-      "theme_reason": "AI 대형주와 시장 폭·금융여건의 관계를 직접 다룸.",
-      "entities": "AI 대형주·시장 폭",
-      "stage": "시장 분석 / 리스크",
-      "secondary_themes": [],
-      "verification": "직접 위젯 본문·게시일·시각·조회수 및 URL 대조; 위젯 기본 UTC 시각을 KST로 변환",
-      "evidence_file": "candidate_widgets_80.json"
-    },
-    {
-      "channel": "one_going",
-      "post_id": "4360",
-      "url": "https://t.me/one_going/4360",
-      "views_display": "7.02K",
-      "views_approx": 7020.0,
-      "published_at_kst": "2026-10-17T14:44:00+09:00",
-      "summary_ko": "이란·후티·러시아 관련 공급 위험을 유가 상승 요인으로 정리하고 제재 면제를 완화 시도로 해석했다. 이후 유가 방향과 군사행동 가능성은 전망이다.",
-      "title": "유가 상승 요인과 제재 면제 논평",
-      "verification": "직접 위젯 본문·게시일·시각·조회수 및 URL 대조; 위젯 기본 UTC 시각을 KST로 변환",
-      "evidence_file": "candidate_widgets_590.json"
-    },
-    {
-      "channel": "one_going",
-      "post_id": "4361",
-      "url": "https://t.me/one_going/4361",
-      "views_display": "7.28K",
-      "views_approx": 7280.0,
-      "published_at_kst": "2026-10-17T14:44:00+09:00",
-      "summary_ko": "[OTHER 기타] 필라델피아 반도체지수의 연속 하락 기록을 소개하고 반도체 약세를 논평했다. 지수 하락을 개별 제품의 공급과잉으로 확정하지 않았다.",
-      "title": "SOX 8거래일 연속 하락 논평",
-      "primary_theme": "OTHER",
-      "theme_reason": "반도체지수의 가격 흐름을 직접 다룸.",
-      "entities": "SOX·반도체 주가",
-      "stage": "가격 변화 / 시장 논평",
-      "secondary_themes": [],
-      "verification": "직접 위젯 본문·게시일·시각·조회수 및 URL 대조; 위젯 기본 UTC 시각을 KST로 변환",
-      "evidence_file": "candidate_widgets_590.json"
-    },
-    {
-      "channel": "one_going",
-      "post_id": "4362",
-      "url": "https://t.me/one_going/4362",
-      "views_display": "7.26K",
-      "views_approx": 7260.0,
-      "published_at_kst": "2026-10-17T14:44:00+09:00",
-      "summary_ko": "운영 중인 SNS와 대화방을 안내하고 사칭 계정에 주의하라고 알렸다. 별도 투자 신호나 종목 분석은 아니다.",
-      "title": "공식 투자 채널 안내와 사칭 주의",
-      "verification": "직접 위젯 본문·게시일·시각·조회수 및 URL 대조; 위젯 기본 UTC 시각을 KST로 변환",
-      "evidence_file": "latest_widgets_40.json"
-    },
-    {
-      "channel": "bullishbee11",
-      "post_id": "3574",
-      "url": "https://t.me/bullishbee11/3574",
-      "views_display": "5.94K",
-      "views_approx": 5940.0,
-      "published_at_kst": "2026-10-17T14:47:00+09:00",
-      "summary_ko": "나스닥100선물 일봉과 관련 매수 기법 게시물 링크를 안내했다. 외부 글의 상세 규칙은 이번 캡션만으로 확인하지 않았다.",
-      "title": "나스닥100선물 매수 기법 글 안내",
-      "verification": "직접 위젯 본문·게시일·시각·조회수 및 URL 대조; 위젯 기본 UTC 시각을 KST로 변환",
-      "evidence_file": "latest_widgets_40.json"
-    },
-    {
-      "channel": "athletes_village",
-      "post_id": "23791",
-      "url": "https://t.me/athletes_village/23791",
-      "views_display": "2.14K",
-      "views_approx": 2140.0,
-      "published_at_kst": "2026-10-17T15:46:00+09:00",
-      "summary_ko": "테슬라 로드스터를 소재로 한 광고 이미지와 외부 게시물 링크를 소개했다. 이미지 내부 내용과 실제 차량 성능은 확인하지 않았다.",
-      "title": "로드스터를 소재로 한 광고 이미지 소개",
-      "verification": "직접 위젯 본문·게시일·시각·조회수 및 URL 대조; 위젯 기본 UTC 시각을 KST로 변환",
-      "evidence_file": "latest_widgets_32.json"
-    },
-    {
-      "channel": "tlsrltnf",
-      "post_id": "22624",
-      "url": "https://t.me/tlsrltnf/22624",
-      "views_display": "670",
-      "views_approx": 670.0,
-      "published_at_kst": "2026-10-17T15:56:00+09:00",
-      "summary_ko": "고가 한정 의류가 디지털 자산이 아닌 맞춤 실물 의류로 연결되는지에 관한 이용 후기를 전달했다. 제품의 세부 조건은 별도 확인하지 않았다.",
-      "title": "PAPERTRADE 고가 의류의 실물 교환 후기",
-      "verification": "직접 위젯 본문·게시일·시각·조회수 및 URL 대조; 위젯 기본 UTC 시각을 KST로 변환",
-      "evidence_file": "latest_widgets_24.json"
-    },
-    {
-      "channel": "habit4117",
-      "post_id": "86033",
-      "url": "https://t.me/habit4117/86033",
-      "views_display": "3.08K",
-      "views_approx": 3080.0,
-      "published_at_kst": "2026-10-17T16:24:00+09:00",
-      "summary_ko": "[OTHER 기타] CXMT의 3분기 매출이 전년보다 600% 늘어날 수 있다는 기사 제목을 공유했다. 실적 확정치나 개별 메모리 제품의 인증·양산 사실로 확대하지 않았다.",
-      "title": "CXMT 3분기 매출 급증 전망 기사",
-      "primary_theme": "OTHER",
-      "theme_reason": "반도체 기업의 매출 전망 기사이며 본문에서 구체적인 제품·공정 단계는 미확인.",
-      "entities": "CXMT·반도체 실적",
-      "stage": "기사 전망 / 확정 실적 아님",
-      "secondary_themes": [],
-      "verification": "직접 위젯 본문·게시일·시각·조회수 및 URL 대조; 위젯 기본 UTC 시각을 KST로 변환",
-      "evidence_file": "candidate_widgets_130.json"
-    },
-    {
-      "channel": "insidertracking",
-      "post_id": "66535",
-      "url": "https://t.me/insidertracking/66535",
-      "views_display": "5.41K",
-      "views_approx": 5410.0,
-      "published_at_kst": "2026-10-17T16:28:00+09:00",
-      "summary_ko": "[OTHER 기타] 조선중앙통신의 어뢰 시험 발표를 전달했다. 목표 탐색·유도에 AI를 적용했다는 북한 측 주장으로, 실제 기술 성능을 독립 검증한 사실과 구분했다.",
-      "title": "북한의 AI 유도 어뢰 시험 주장 전달",
-      "primary_theme": "OTHER",
-      "theme_reason": "원문에 인공지능 기반 목표 탐색·유도 기능을 명시.",
-      "entities": "AI 군사용 유도기술",
-      "stage": "당사국 발표 / 성능 미검증",
-      "secondary_themes": [],
-      "verification": "직접 위젯의 Published 날짜·본문과 공개 목록의 동일 글번호 링크·시각·조회수를 교차 대조; 위젯 기본 UTC 시각을 KST로 변환",
-      "evidence_file": "candidate_widgets_510.json"
-    },
-    {
-      "channel": "globaletfi",
-      "post_id": "22187",
-      "url": "https://t.me/globaletfi/22187",
-      "views_display": "688",
-      "views_approx": 688.0,
-      "published_at_kst": "2026-10-17T16:55:00+09:00",
-      "summary_ko": "[OTHER 기타] 물가와 금리, AI 투자 의존, 반도체 변동성을 다룬 대담을 소개했다. 개인 견해가 하우스 뷰와 다를 수 있다고 명시했고 영상 전문은 검증하지 않았다.",
-      "title": "금리·AI 투자·반도체 변동성 대담 안내",
-      "primary_theme": "OTHER",
-      "theme_reason": "AI 투자와 반도체 변동성을 대담 주제로 직접 제시.",
-      "entities": "AI 투자·반도체 변동성",
-      "stage": "대담 안내 / 개인 견해 포함",
-      "secondary_themes": [],
-      "verification": "직접 위젯의 Published 날짜·본문과 공개 목록의 동일 글번호 링크·시각·조회수를 교차 대조; 위젯 기본 UTC 시각을 KST로 변환",
-      "evidence_file": "candidate_widgets_510.json"
-    },
-    {
-      "channel": "corevalue",
-      "post_id": "47377",
-      "url": "https://t.me/corevalue/47377",
-      "views_display": "4.86K",
-      "views_approx": 4860.0,
-      "published_at_kst": "2026-10-17T17:16:00+09:00",
-      "summary_ko": "경기도지사의 소방관 빈소 조문과 과거 발언에 대한 사과를 다룬 기사 미리보기를 공유했다.",
-      "title": "소방관 빈소 조문·발언 사과 보도",
-      "verification": "직접 위젯 본문·게시일·시각·조회수 및 URL 대조; 위젯 기본 UTC 시각을 KST로 변환",
-      "evidence_file": "candidate_widgets_550.json"
-    },
-    {
-      "channel": "HanaResearch",
-      "post_id": "20664",
-      "url": "https://t.me/HanaResearch/20664",
-      "views_display": "545",
-      "views_approx": 545.0,
-      "published_at_kst": "2026-10-17T17:27:00+09:00",
-      "summary_ko": "하나증권은 글로벌 타이어 판매의 저성장과 원재료·운임·관세 부담을 점검했다. 판가 인상의 이익 효과가 비용 상승으로 제한될 수 있다는 전망이다.",
-      "title": "타이어 판매 둔화와 원가·관세 부담 전망",
-      "verification": "직접 위젯 본문·게시일·시각·조회수 및 URL 대조; 위젯 기본 UTC 시각을 KST로 변환",
-      "evidence_file": "candidate_widgets_180.json"
-    },
-    {
-      "channel": "HanaResearch",
-      "post_id": "20665",
-      "url": "https://t.me/HanaResearch/20665",
-      "views_display": "529",
-      "views_approx": 529.0,
-      "published_at_kst": "2026-10-17T17:30:00+09:00",
-      "summary_ko": "하나증권이 매수 의견을 유지하면서 목표주가를 8,300원에서 7,700원으로 낮췄다는 프리뷰다. 유럽 관세와 원가 부담, 생산지 재배치에 따른 중장기 완화를 구분했다.",
-      "title": "금호타이어 관세 부담 반영 목표주가 조정",
-      "verification": "직접 위젯 본문·게시일·시각·조회수 및 URL 대조; 위젯 기본 UTC 시각을 KST로 변환",
-      "evidence_file": "latest_widgets_16.json"
-    },
-    {
-      "channel": "globaletfi",
-      "post_id": "22189",
-      "url": "https://t.me/globaletfi/22189",
-      "views_display": "700",
-      "views_approx": 700.0,
-      "published_at_kst": "2026-10-17T17:58:00+09:00",
-      "summary_ko": "로드스터 공개 이후의 합병 기대와 예측시장 확률을 소개했다. 지분 구조는 무프리미엄 주식 교환 가정이며, 절차 개시는 공시·특별위원회로 확인해야 한다고 구분했다.",
-      "title": "테슬라·스페이스X 합병 기대의 시나리오 분석",
-      "verification": "직접 위젯의 Published 날짜·본문과 공개 목록의 동일 글번호 링크·시각·조회수를 교차 대조; 위젯 기본 UTC 시각을 KST로 변환",
-      "evidence_file": "latest_widgets_40.json"
-    },
-    {
-      "channel": "insidertracking",
-      "post_id": "66538",
-      "url": "https://t.me/insidertracking/66538",
-      "views_display": "3.65K",
-      "views_approx": 3650.0,
-      "published_at_kst": "2026-10-17T18:06:00+09:00",
-      "summary_ko": "[OTHER 기타] 제프리스가 AI 에이전트 모니터링 수요를 근거로 다이나트레이스·데이터독 목표주가를 높였다고 전했다. 데이터독의 높은 가치평가에 대한 경계도 함께 소개했다.",
-      "title": "AI 에이전트 관측 수요와 소프트웨어 목표가 상향",
-      "primary_theme": "OTHER",
-      "theme_reason": "AI 에이전트 모니터링 소프트웨어의 수요 전망.",
-      "entities": "Dynatrace·Datadog·AI 모니터링",
-      "stage": "증권사 전망 / 목표주가 조정",
-      "secondary_themes": [],
-      "verification": "직접 위젯의 Published 날짜·본문과 공개 목록의 동일 글번호 링크·시각·조회수를 교차 대조; 위젯 기본 UTC 시각을 KST로 변환",
-      "evidence_file": "candidate_widgets_520.json"
-    },
-    {
-      "channel": "insidertracking",
-      "post_id": "66539",
-      "url": "https://t.me/insidertracking/66539",
-      "views_display": "3.71K",
-      "views_approx": 3710.0,
-      "published_at_kst": "2026-10-17T18:07:00+09:00",
-      "summary_ko": "[OTHER 기타] 제프리스 분석을 재인용해 대규모 AI 설비투자가 주요 하이퍼스케일러의 잉여현금흐름을 압박한다고 설명했다. 향후 분기 현금흐름·자본지출 수치는 컨센서스 전망으로 구분했다.",
-      "title": "하이퍼스케일러 AI 투자와 현금흐름 악화 분석",
-      "primary_theme": "OTHER",
-      "theme_reason": "AI 자본지출과 기업 현금흐름의 괴리를 직접 다룸.",
-      "entities": "하이퍼스케일러·AI CAPEX",
-      "stage": "기관 분석 / 현금흐름 전망",
-      "secondary_themes": [],
-      "verification": "직접 위젯의 Published 날짜·본문과 공개 목록의 동일 글번호 링크·시각·조회수를 교차 대조; 위젯 기본 UTC 시각을 KST로 변환",
-      "evidence_file": "candidate_widgets_520.json"
-    },
-    {
-      "channel": "insidertracking",
-      "post_id": "66540",
-      "url": "https://t.me/insidertracking/66540",
-      "views_display": "3.68K",
-      "views_approx": 3680.0,
-      "published_at_kst": "2026-10-17T18:10:00+09:00",
-      "summary_ko": "UKMTO 발표를 인용해 알주바일 인근 유조선의 피격과 승무원 대피를 전했다. 사건 발생일과 게시일을 구분하고, 원문에서 미확인인 환경 피해는 확정하지 않았다.",
-      "title": "사우디 인근 유조선 피격 사건 전달",
-      "verification": "직접 위젯 본문·게시일·시각·조회수 및 URL 대조; 위젯 기본 UTC 시각을 KST로 변환",
-      "evidence_file": "candidate_widgets_520.json"
-    },
-    {
-      "channel": "insidertracking",
-      "post_id": "66541",
-      "url": "https://t.me/insidertracking/66541",
-      "views_display": "3.64K",
-      "views_approx": 3640.0,
-      "published_at_kst": "2026-10-17T18:23:00+09:00",
-      "summary_ko": "[OTHER 기타] 대러 제재 면제, 해상 안보 등과 함께 앤트로픽의 AI 안전법안 제안 및 약 600억달러 칩 금융 보도를 모아 전달했다. 각 항목은 인용 매체·발표 주체의 주장 단계로 보존했다.",
-      "title": "AI 금융·안전법안과 지정학 종합뉴스",
-      "primary_theme": "OTHER",
-      "theme_reason": "AI 안전 입법과 반도체 금융조달 보도가 포함된 종합 브리핑.",
-      "entities": "Anthropic·AI 정책·칩 금융",
-      "stage": "매체 인용 종합 / 제안·협상",
-      "secondary_themes": [],
-      "verification": "직접 위젯의 Published 날짜·본문과 공개 목록의 동일 글번호 링크·시각·조회수를 교차 대조; 위젯 기본 UTC 시각을 KST로 변환",
-      "evidence_file": "candidate_widgets_520.json"
-    },
-    {
-      "channel": "magonia_b",
-      "post_id": "12522",
-      "url": "https://t.me/magonia_b/12522",
-      "views_display": "582",
-      "views_approx": 582.0,
-      "published_at_kst": "2026-10-17T18:48:00+09:00",
-      "summary_ko": "다른 채널의 영상을 전달하며 솔라나 토큰화 주식 거래와 백팩의 거래량 확대를 소개했다. 거래량 수치와 영상 내부 자료는 독립 검증되지 않았다.",
-      "title": "솔라나 토큰화 주식 거래량과 백팩 성장 주장",
-      "verification": "직접 위젯 본문·게시일·시각·조회수 및 URL 대조; 위젯 기본 UTC 시각을 KST로 변환",
-      "evidence_file": "candidate_widgets_160.json"
-    },
-    {
-      "channel": "magonia_b",
-      "post_id": "12523",
-      "url": "https://t.me/magonia_b/12523",
-      "views_display": "796",
-      "views_approx": 796.0,
-      "published_at_kst": "2026-10-17T18:48:00+09:00",
-      "summary_ko": "식사 자리에서 백팩과 ReboundX 등 제품·사업에 관해 나눈 대화 후기다. 사업 성과나 출시 완료를 확인한 자료는 아니다.",
-      "title": "코자차 식사·제품 개발 대화 후기",
-      "verification": "직접 위젯 본문·게시일·시각·조회수 및 URL 대조; 위젯 기본 UTC 시각을 KST로 변환",
-      "evidence_file": "candidate_widgets_160.json"
-    },
-    {
-      "channel": "magonia_b",
-      "post_id": "12527",
-      "url": "https://t.me/magonia_b/12527",
-      "views_display": "391",
-      "views_approx": 391.0,
-      "published_at_kst": "2026-10-17T18:49:00+09:00",
-      "summary_ko": "[T4 AI 메모리·저장장치] 메모리 강세·가상자산 약세 구도의 되돌림을 예상하며 비트코인과 이더리움의 내년 강세를 전망했다. 가격 목표와 전환 판단은 채널 의견이다.",
-      "title": "메모리·가상자산 포지션 전환 전망",
+      "channel": "YeouidoStory2",
+      "post_id": "118517",
+      "url": "https://t.me/YeouidoStory2/118517",
+      "views_display": "4.66K",
+      "published_at_kst": "2026-10-18T08:54:00.000+09:00",
+      "method": "direct_widget_footer",
+      "title": "중국 서버 메모리 공세의 가격 영향 전망",
       "primary_theme": "T4",
-      "theme_reason": "메모리 투자 포지션의 전환을 명시. 실제 제품 수급 정보와는 구분.",
-      "entities": "메모리·가상자산 포지션",
-      "stage": "시장 전망 / 수급 확정 아님",
+      "theme_reason": "서버 메모리·CXMT 공급 가능성과 가격 영향을 직접 명시.",
+      "entities": "서버 메모리·CXMT",
+      "stage": "공급 전망 / 가격 영향 분석",
       "secondary_themes": [],
-      "verification": "직접 위젯 본문·게시일·시각·조회수 및 URL 대조; 위젯 기본 UTC 시각을 KST로 변환",
-      "evidence_file": "candidate_widgets_160.json"
+      "summary_ko": "[T4 AI 메모리·저장장치] CXMT의 연내 서버 메모리 공급 가능성에도 시장 진입에 시간이 필요해 가격 하락이 제한적일 수 있다는 기사 미리보기다. 실제 공급·인증 완료를 확인한 내용으로 확대하지 않았다.",
+      "views_approx": 4660.0
     },
     {
-      "channel": "magonia_b",
-      "post_id": "12528",
-      "url": "https://t.me/magonia_b/12528",
-      "views_display": "842",
-      "views_approx": 842.0,
-      "published_at_kst": "2026-10-17T18:51:00+09:00",
-      "summary_ko": "[T4 AI 메모리·저장장치] 직전의 메모리·가상자산 포지션 전환 전망을 다시 인용한 글이다. 동일 주장도 별도 글번호를 유지했다.",
-      "title": "메모리·가상자산 전환 전망 재공유",
-      "primary_theme": "T4",
-      "theme_reason": "메모리 포지션 전환을 직접 언급한 재전달 글.",
-      "entities": "메모리·가상자산 포지션",
-      "stage": "시장 전망 재공유",
+      "channel": "YeouidoStory2",
+      "post_id": "118518",
+      "url": "https://t.me/YeouidoStory2/118518",
+      "views_display": "4.88K",
+      "published_at_kst": "2026-10-18T09:00:00.000+09:00",
+      "method": "direct_widget_footer",
+      "title": "AI 반도체 특수유리 기판 기술 기사",
+      "primary_theme": "T2",
+      "theme_reason": "AI 반도체 기판과 열·손실 대응 기술을 직접 다룸. CoWoS 납품으로 추정하지 않음.",
+      "entities": "AI 반도체·특수유리 기판",
+      "stage": "기술 기사 / 공급 단계 미확인",
       "secondary_themes": [],
-      "verification": "직접 위젯 본문·게시일·시각·조회수 및 URL 대조; 위젯 기본 UTC 시각을 KST로 변환",
-      "evidence_file": "candidate_widgets_160.json"
-    },
-    {
-      "channel": "magonia_b",
-      "post_id": "12529",
-      "url": "https://t.me/magonia_b/12529",
-      "views_display": "780",
-      "views_approx": 780.0,
-      "published_at_kst": "2026-10-17T18:58:00+09:00",
-      "summary_ko": "식사 자리에서 제품과 사업에 관해 이야기했다는 후기를 다시 인용했다. 표시된 미리보기 범위만 요약했다.",
-      "title": "식사·사업 대화 후기 재인용",
-      "verification": "직접 위젯 본문·게시일·시각·조회수 및 URL 대조; 위젯 기본 UTC 시각을 KST로 변환",
-      "evidence_file": "latest_widgets_16.json"
-    },
-    {
-      "channel": "HANAchina",
-      "post_id": "70577",
-      "url": "https://t.me/HANAchina/70577",
-      "views_display": "1.18K",
-      "views_approx": 1180.0,
-      "published_at_kst": "2026-10-17T19:09:00+09:00",
-      "summary_ko": "러시아·이란 제재법의 일부 시행을 면제한다는 행정명령 관련 기사를 전달했다. 법률 적용 범위의 독립 검증은 별도로 완료하지 않았다.",
-      "title": "트럼프의 대러 제재 적용 면제 보도",
-      "verification": "직접 위젯 본문·게시일·시각·조회수 및 URL 대조; 위젯 기본 UTC 시각을 KST로 변환",
-      "evidence_file": "latest_widgets_8.json"
-    },
-    {
-      "channel": "FastStockNewsUSA",
-      "post_id": "23820",
-      "url": "https://t.me/FastStockNewsUSA/23820",
-      "views_display": "1.69K",
-      "views_approx": 1690.0,
-      "published_at_kst": "2026-10-17T19:18:00+09:00",
-      "summary_ko": "[OTHER 기타] 삼성증권 AI/SW 채널 글을 전달해 DeepSeek-V4.1-Flash-1017의 추론·코딩·에이전트 성능과 비용 효율 개선을 소개했다. 공개·적용·라이선스 및 벤치마크 수치는 원문 발표 주장으로 구분했다.",
-      "title": "딥시크 Flash 업데이트 성능·효율 개선 소개",
-      "primary_theme": "OTHER",
-      "theme_reason": "LLM 모델·소프트웨어 성능 업데이트에 관한 원문.",
-      "entities": "DeepSeek·LLM·에이전트",
-      "stage": "모델 업데이트 발표 / 벤치마크 주장",
-      "secondary_themes": [],
-      "verification": "직접 위젯의 Published 날짜·본문과 공개 목록의 동일 글번호 링크·시각·조회수를 교차 대조; 위젯 기본 UTC 시각을 KST로 변환",
-      "evidence_file": "latest_widgets_48.json"
-    },
-    {
-      "channel": "FastStockNews",
-      "post_id": "126609",
-      "url": "https://t.me/FastStockNews/126609",
-      "views_display": "6.37K",
-      "views_approx": 6370.0,
-      "published_at_kst": "2026-10-17T19:22:00+09:00",
-      "summary_ko": "한국 지수 선행 PER이 삼성전자·SK하이닉스를 제외해도 낮다는 분석을 전달했다. 자료 시점은 글 자체에서 추정으로 표시했고, 예상이익 유지 여부를 관건으로 제시했다.",
-      "title": "골드만삭스 한국 선행 PER 저평가 분석 전달",
-      "verification": "직접 위젯 본문·게시일·시각·조회수 및 URL 대조; 위젯 기본 UTC 시각을 KST로 변환",
-      "evidence_file": "verified_fast_widgets.json"
+      "summary_ko": "[T2 첨단 패키징·CoWoS] AI 반도체의 열·손실과 특수유리 기판을 다룬 기사 제목·미리보기를 공유했다. 특정 고객 인증·양산·납품 실적은 캡션에서 확인되지 않는다.",
+      "views_approx": 4880.0
     },
     {
       "channel": "bornlupin",
-      "post_id": "20679",
-      "url": "https://t.me/bornlupin/20679",
-      "views_display": "3.76K",
-      "views_approx": 3760.0,
-      "published_at_kst": "2026-10-17T19:35:00+09:00",
-      "summary_ko": "[OTHER 기타] 호로위츠가 앤디 재시와 나눈 대화를 간접 인용해 2028년 이후까지 용량이 부족할 수 있다고 전달했다. 발언의 간접 전달이며 신규 수주·공급부족의 독립 확인은 아니다.",
-      "title": "아마존 용량 부족 관련 재시 발언 재인용",
-      "primary_theme": "OTHER",
-      "theme_reason": "부모 글의 AI 컴퓨팅 용량 논의에 연결된 간접 인용. 전력·냉각으로 확대 분류하지 않음.",
-      "entities": "AWS·AI 컴퓨팅 용량",
-      "stage": "간접 인용 / 전망",
-      "secondary_themes": [],
-      "verification": "직접 위젯 본문·게시일·시각·조회수 및 URL 대조; 위젯 기본 UTC 시각을 KST로 변환",
-      "evidence_file": "candidate_widgets_650.json"
-    },
-    {
-      "channel": "insidertracking",
-      "post_id": "66543",
-      "url": "https://t.me/insidertracking/66543",
-      "views_display": "3.24K",
-      "views_approx": 3240.0,
-      "published_at_kst": "2026-10-17T19:38:00+09:00",
-      "summary_ko": "[OTHER 기타] 폴리티코를 인용해 중대한 피해 위험이 있는 AI 모델의 출시 제한과 평가·보고 의무를 담은 법안 초안을 소개했다. 제안 중인 내용이며 확정·시행된 법으로 취급하지 않았다.",
-      "title": "앤트로픽 AI 안전법안 초안의 규제 조건",
-      "primary_theme": "OTHER",
-      "theme_reason": "AI 모델 안전평가와 출시 제한 입법안이 중심.",
-      "entities": "Anthropic·AI 안전평가",
-      "stage": "법안 초안 제안",
-      "secondary_themes": [],
-      "verification": "직접 위젯의 Published 날짜·본문과 공개 목록의 동일 글번호 링크·시각·조회수를 교차 대조; 위젯 기본 UTC 시각을 KST로 변환",
-      "evidence_file": "candidate_widgets_520.json"
-    },
-    {
-      "channel": "rafikiresearch",
-      "post_id": "25942",
-      "url": "https://t.me/rafikiresearch/25942",
-      "views_display": "838",
-      "views_approx": 838.0,
-      "published_at_kst": "2026-10-17T19:42:00+09:00",
-      "summary_ko": "[OTHER 기타] 폴리티코를 인용해 앤트로픽이 의원들에게 AI 안전법안을 제안했다는 짧은 속보를 전달했다. 제정·시행된 법률로 표현하지 않았다.",
-      "title": "앤트로픽 AI 안전법안 제안 보도 전달",
-      "primary_theme": "OTHER",
-      "theme_reason": "AI 안전 규제 법안 제안을 명시.",
-      "entities": "Anthropic·AI 안전",
-      "stage": "정책 제안 보도",
-      "secondary_themes": [],
-      "verification": "직접 위젯의 Published 날짜·본문과 공개 목록의 동일 글번호 링크·시각·조회수를 교차 대조; 위젯 기본 UTC 시각을 KST로 변환",
-      "evidence_file": "latest_widgets_32.json"
-    },
-    {
-      "channel": "TNBfolio",
-      "post_id": "71589",
-      "url": "https://t.me/TNBfolio/71589",
-      "views_display": "1.31K",
-      "views_approx": 1310.0,
-      "published_at_kst": "2026-10-17T20:00:00+09:00",
-      "summary_ko": "[OTHER 기타] 잭 클라크가 AI 발전 속도에 비해 정책 대응 시간이 부족할 수 있다고 경고했다는 내용을 전달했다. 지능 제한 논의는 제안 단계로 구분했다.",
-      "title": "앤트로픽 공동창업자의 AI 안전규제 경고",
-      "primary_theme": "OTHER",
-      "theme_reason": "AI 모델 안전과 규제 제안에 관한 원문.",
-      "entities": "Anthropic·AI 안전",
-      "stage": "정책 제안 / 경영진 견해",
-      "secondary_themes": [],
-      "verification": "직접 위젯 본문·게시일·시각·조회수 및 URL 대조; 위젯 기본 UTC 시각을 KST로 변환",
-      "evidence_file": "latest_widgets_16.json"
+      "post_id": "20682",
+      "url": "https://t.me/bornlupin/20682",
+      "views_display": "8.23K",
+      "published_at_kst": "2026-10-18T09:44:00.000+09:00",
+      "method": "direct_widget_footer",
+      "title": "JP모건의 DC 투자 상향·네트워킹 수혜 전망",
+      "primary_theme": "T1",
+      "theme_reason": "AI 인프라에서 네트워킹 제약과 광학·부품 공급업체 수혜를 명시. 전력용량 계획도 직접 제시.",
+      "entities": "광학·네트워킹·AI DC",
+      "stage": "증권사 투자·수요 전망",
+      "secondary_themes": [
+        "T5"
+      ],
+      "summary_ko": "[T1 광통신·광반도체] JP모건의 2026~2027년 데이터센터 설비투자 상향과 네트워킹을 핵심 제한 요인으로 보는 분석을 전달했다. 광학·네트워크 공급업체와 북미 전력용량 파이프라인을 제시했으며 모두 전망과 계획으로 구분했다.",
+      "views_approx": 8230.0
     },
     {
       "channel": "corevalue",
-      "post_id": "47379",
-      "url": "https://t.me/corevalue/47379",
-      "views_display": "2.54K",
-      "views_approx": 2540.0,
-      "published_at_kst": "2026-10-17T20:11:00+09:00",
-      "summary_ko": "[OTHER 기타] 이번 주 일평균 반대매매가 641억원이라는 기사 내용을 전했다. 주가 하락의 신용투자 부담과 일부 투자자의 반도체 레버리지 ETF 선호가 함께 나타난다는 설명이다.",
-      "title": "국내 빚투 반대매매와 투자행태 양극화",
-      "primary_theme": "OTHER",
-      "theme_reason": "반도체 레버리지 ETF를 포함한 투자자금·위험 선호를 명시.",
-      "entities": "반도체 레버리지 ETF·신용투자",
-      "stage": "투자자 수급·위험 분석",
+      "post_id": "47380",
+      "url": "https://t.me/corevalue/47380",
+      "views_display": "5.87K",
+      "published_at_kst": "2026-10-18T09:57:00.000+09:00",
+      "method": "direct_widget_footer",
+      "title": "빚투 강제청산·정책 대응 비판 기사",
+      "summary_ko": "코스피 연속 하락 기간 반대매매가 약 3천억원에 달했다는 기사 미리보기를 공유했다. 외국인 매도와 신용투자 손실, 정책 대응을 논평한 내용이다.",
+      "views_approx": 5870.0
+    },
+    {
+      "channel": "insidertracking",
+      "post_id": "66586",
+      "url": "https://t.me/insidertracking/66586",
+      "views_display": "7.02K",
+      "published_at_kst": "2026-10-18T13:51:00.000+09:00",
+      "method": "widget_published_and_same_post_listing",
+      "title": "UAE 인근 예인선 피격 경보 전달",
+      "summary_ko": "UKMTO 경보를 인용해 코르파칸 인근 예인선의 피격·손상과 경상자 발생을 전했다. 사건의 정확한 발생 시각은 원문에서도 확인 중으로 표시했다.",
+      "views_approx": 7020.0
+    },
+    {
+      "channel": "YeouidoStory2",
+      "post_id": "118521",
+      "url": "https://t.me/YeouidoStory2/118521",
+      "views_display": "3.48K",
+      "published_at_kst": "2026-10-18T15:20:00.000+09:00",
+      "method": "direct_widget_footer",
+      "title": "일요일 시장 브리핑 외부 글 안내",
+      "summary_ko": "일요일 시장 브리핑 링크를 안내했다. 연결된 화면은 회원가입 안내가 표시돼 공개 미리보기 범위만 확인했으며 로그인이나 가입은 하지 않았다.",
+      "views_approx": 3480.0
+    },
+    {
+      "channel": "YeouidoStory2",
+      "post_id": "118522",
+      "url": "https://t.me/YeouidoStory2/118522",
+      "views_display": "3.63K",
+      "published_at_kst": "2026-10-18T15:23:00.000+09:00",
+      "method": "direct_widget_footer",
+      "title": "의무공개매수 제도 재검토 청원 논평",
+      "summary_ko": "지배주주의 선행매수를 허용하는 제도안에 대한 반발과 재검토 청원 기사를 공유했다. 채널의 해석과 확정 법률을 구분했다.",
+      "views_approx": 3630.0
+    },
+    {
+      "channel": "insidertracking",
+      "post_id": "66589",
+      "url": "https://t.me/insidertracking/66589",
+      "views_display": "5.61K",
+      "published_at_kst": "2026-10-18T16:03:00.000+09:00",
+      "method": "widget_published_and_same_post_listing",
+      "title": "상트페테르부르크 교량 드론 공격 영상 캡션",
+      "summary_ko": "우크라이나의 드론 공격과 러시아 교량 표적을 설명하는 영상 캡션이다. 보복 가능성은 추정이며 영상 내부나 공격 주체를 독립 검증한 것은 아니다.",
+      "views_approx": 5610.0
+    },
+    {
+      "channel": "insidertracking",
+      "post_id": "66591",
+      "url": "https://t.me/insidertracking/66591",
+      "views_display": "5.4K",
+      "published_at_kst": "2026-10-18T16:29:00.000+09:00",
+      "method": "widget_published_and_same_post_listing",
+      "title": "골드만삭스의 원화·장기 국채 강세 전망",
+      "summary_ko": "무역흑자·수출기업 환전 수요를 바탕으로 원화 강세를 예상한 분석을 전했다. 30년물 금리 목표를 4.2%에서 3.9%로 낮췄다는 전망이며 실제 환율·금리 결과와 구분했다.",
+      "views_approx": 5400.0
+    },
+    {
+      "channel": "YeouidoStory2",
+      "post_id": "118523",
+      "url": "https://t.me/YeouidoStory2/118523",
+      "views_display": "2.49K",
+      "published_at_kst": "2026-10-18T16:42:00.000+09:00",
+      "method": "widget_published_and_same_post_listing",
+      "title": "2027년 갤럭시 Z 모델 확대 개발설",
+      "summary_ko": "삼성이 다양한 폴더블·롤러블 모델을 개발 중이라는 기사를 전달했다. 2027년 출시 목표·가능성을 실제 출시 완료로 표현하지 않았다.",
+      "views_approx": 2490.0
+    },
+    {
+      "channel": "insidertracking",
+      "post_id": "66592",
+      "url": "https://t.me/insidertracking/66592",
+      "views_display": "5.85K",
+      "published_at_kst": "2026-10-18T16:45:00.000+09:00",
+      "method": "widget_published_and_same_post_listing",
+      "title": "밀라노 생활비 항의 시위 영상 설명",
+      "summary_ko": "생활비·연료비·임금과 공공서비스에 대한 불만으로 밀라노 시위가 격화됐다는 캡션이다. 참가 인원과 충돌 상황은 게시글의 설명이며 독립 현장 검증은 하지 않았다.",
+      "views_approx": 5850.0
+    },
+    {
+      "channel": "YeouidoStory2",
+      "post_id": "118525",
+      "url": "https://t.me/YeouidoStory2/118525",
+      "views_display": "2.31K",
+      "published_at_kst": "2026-10-18T17:00:00.000+09:00",
+      "method": "direct_widget_footer",
+      "title": "애플 폴더블 진입과 갤럭시 검색 증가 보도",
+      "summary_ko": "애플의 폴더블폰 진입 이후 삼성 폴더블 검색 관심이 늘었다는 기사 미리보기다. 검색 증가를 실제 판매 증가로 동일시하지 않았다.",
+      "views_approx": 2310.0
+    },
+    {
+      "channel": "YeouidoStory2",
+      "post_id": "118526",
+      "url": "https://t.me/YeouidoStory2/118526",
+      "views_display": "2.34K",
+      "published_at_kst": "2026-10-18T17:04:00.000+09:00",
+      "method": "direct_widget_footer",
+      "title": "증시 급락 속 외화예금·골드바 자금 이동",
+      "summary_ko": "달러·엔화 예금과 골드바 판매가 증가했다는 기사를 공유했다. 외화예금에 대한 짧은 개인 의견을 함께 게시했다.",
+      "views_approx": 2340.0
+    },
+    {
+      "channel": "YeouidoStory2",
+      "post_id": "118527",
+      "url": "https://t.me/YeouidoStory2/118527",
+      "views_display": "2.35K",
+      "published_at_kst": "2026-10-18T17:07:00.000+09:00",
+      "method": "direct_widget_footer",
+      "title": "삼성 차세대 HBM 베이스다이의 TSMC 활용 보도",
+      "primary_theme": "T4",
+      "theme_reason": "차세대 HBM 내부 핵심 구성품인 베이스다이의 공정 선택을 명시.",
+      "entities": "HBM·베이스다이·TSMC",
+      "stage": "개발·공정 선택 보도",
       "secondary_themes": [],
-      "verification": "직접 위젯 본문·게시일·시각·조회수 및 URL 대조; 위젯 기본 UTC 시각을 KST로 변환",
-      "evidence_file": "latest_widgets_40.json"
+      "summary_ko": "[T4 AI 메모리·저장장치] 삼성이 엔비디아용 차세대 맞춤형 HBM의 베이스다이에 TSMC 공정을 활용한다는 기사 미리보기다. 개발·공정 선택 보도를 실제 양산·고객 인증 완료로 확대하지 않았다.",
+      "views_approx": 2350.0
     },
     {
-      "channel": "habit4117",
-      "post_id": "86038",
-      "url": "https://t.me/habit4117/86038",
-      "views_display": "1.58K",
-      "views_approx": 1580.0,
-      "published_at_kst": "2026-10-17T20:15:00+09:00",
-      "summary_ko": "매수가 회복 여부나 타인의 수익률보다 기업 전망을 기준으로 포트폴리오를 판단하자는 인터뷰 내용을 전달했다.",
-      "title": "존 리의 기업 전망 중심 장기투자 조언",
-      "verification": "직접 위젯 본문·게시일·시각·조회수 및 URL 대조; 위젯 기본 UTC 시각을 KST로 변환",
-      "evidence_file": "candidate_widgets_130.json"
+      "channel": "YeouidoStory2",
+      "post_id": "118528",
+      "url": "https://t.me/YeouidoStory2/118528",
+      "views_display": "2.47K",
+      "published_at_kst": "2026-10-18T17:09:00.000+09:00",
+      "method": "direct_widget_footer",
+      "title": "외국인 카지노 방문과 관련 주가 괴리 기사",
+      "summary_ko": "외국인 카지노 이용 증가와 달리 롯데관광개발·파라다이스 주가가 약세라는 기사 미리보기다. 실적 개선이나 향후 주가 회복을 확정하지 않았다.",
+      "views_approx": 2470.0
     },
     {
-      "channel": "habit4117",
-      "post_id": "86039",
-      "url": "https://t.me/habit4117/86039",
-      "views_display": "1.51K",
-      "views_approx": 1510.0,
-      "published_at_kst": "2026-10-17T20:17:00+09:00",
-      "summary_ko": "자산가격 하락으로 대출 상환과 보유 지속 사이의 부담이 커진다는 기사를 공유했다. 가계의 금융자산 손실과 주거비용 증가가 겹칠 수 있다는 설명이다.",
-      "title": "주가 손실과 대출이자 부담의 동시 확대",
-      "verification": "직접 위젯 본문·게시일·시각·조회수 및 URL 대조; 위젯 기본 UTC 시각을 KST로 변환",
-      "evidence_file": "latest_widgets_8.json"
+      "channel": "YeouidoStory2",
+      "post_id": "118529",
+      "url": "https://t.me/YeouidoStory2/118529",
+      "views_display": "2.57K",
+      "published_at_kst": "2026-10-18T17:17:00.000+09:00",
+      "method": "direct_widget_footer",
+      "title": "순직 소방관 추모·빈소 기사 공유",
+      "summary_ko": "부천 화재 현장에서 순직한 소방관을 추모하며 빈소와 유가족 관련 기사를 공유했다.",
+      "views_approx": 2570.0
+    },
+    {
+      "channel": "insidertracking",
+      "post_id": "66594",
+      "url": "https://t.me/insidertracking/66594",
+      "views_display": "5.78K",
+      "published_at_kst": "2026-10-18T17:20:00.000+09:00",
+      "method": "widget_published_and_same_post_listing",
+      "title": "러시아산 가스 구매 재개 제안 보도 전달",
+      "summary_ko": "뉴욕타임스를 인용해 미국이 우크라이나 평화 협상에서 유럽의 러시아산 가스 구매 재개를 제안했다고 전했다. 제안과 합의·실제 공급 재개는 구분했다.",
+      "views_approx": 5780.0
     },
     {
       "channel": "FastStockNews",
-      "post_id": "126610",
-      "url": "https://t.me/FastStockNews/126610",
-      "views_display": "4.62K",
-      "views_approx": 4620.0,
-      "published_at_kst": "2026-10-17T20:38:00+09:00",
-      "summary_ko": "[OTHER 기타] 팟캐스트 출연진의 견해로 AI 수요와 전력·냉각 제약, GPU 수명 연장, 프로젝트별 금융구조를 정리했다. 기존 채권 쿠폰과 신규 조달비용을 구분하며 수요 감소·시공 지연을 위험으로 제시했다.",
-      "title": "All-In의 AI 공급제약·신용위험 반론 요약",
+      "post_id": "126611",
+      "url": "https://t.me/FastStockNews/126611",
+      "views_display": "3.58K",
+      "published_at_kst": "2026-10-18T20:26:00.000+09:00",
+      "method": "widget_published_and_same_post_listing",
+      "title": "중신증권의 중국 증시 조정 막바지 판단",
+      "summary_ko": "중신증권은 기관 보유 종목에서 시작한 조정이 신용융자 업종으로 확산됐다고 평가했다. 위험회피 자금과 기관 선호주의 상대수익률·ETF 거래량을 관찰한 전망이며 조정 종료 확정은 아니다.",
+      "views_approx": 3580.0
+    },
+    {
+      "channel": "FastStockNews",
+      "post_id": "126612",
+      "url": "https://t.me/FastStockNews/126612",
+      "views_display": "4.67K",
+      "published_at_kst": "2026-10-18T20:26:00.000+09:00",
+      "method": "direct_widget_footer",
+      "title": "All-In의 AI 거품 붕괴 반론 전달",
       "primary_theme": "OTHER",
-      "theme_reason": "AI 인프라 금융·수익성 논쟁이 중심. 전력·냉각, HBM과 후공정도 직접 언급.",
-      "entities": "AI 인프라·GPU·전력·냉각",
-      "stage": "출연진 주장 / 리스크 반론",
+      "theme_reason": "AI 인프라 수요·공급과 투자 회수기간이 중심. 전력 제약도 직접 언급.",
+      "entities": "AI·GPU·컴퓨팅",
+      "stage": "출연진 전망 / 공급 제약 주장",
       "secondary_themes": [
-        "T2",
-        "T4",
         "T5"
       ],
-      "verification": "직접 위젯의 Published 날짜·본문과 공개 목록의 동일 글번호 링크·시각·조회수를 교차 대조; 위젯 기본 UTC 시각을 KST로 변환",
-      "evidence_file": "verified_fast_widgets.json"
+      "summary_ko": "[OTHER 기타] 컴퓨팅·GPU 공급 제약이 2028년 이후까지 이어질 수 있다는 출연진 견해를 전달했다. 금리와 투자 회수기간이 자본투자의 지속성을 좌우하고 전력이 진입장벽이 된다는 분석이다.",
+      "views_approx": 4670.0
     },
     {
       "channel": "insidertracking",
-      "post_id": "66545",
-      "url": "https://t.me/insidertracking/66545",
-      "views_display": "1.94K",
-      "views_approx": 1940.0,
-      "published_at_kst": "2026-10-17T20:45:00+09:00",
-      "summary_ko": "UKMTO·JMIC 자료를 인용해 해협 주변 공격과 위협 수준을 전달했다. 신고 누락으로 실제 공격 수 파악에 한계가 있다는 경고도 포함했다.",
-      "title": "호르무즈 상선 공격 증가 관련 주간 보고",
-      "verification": "직접 위젯의 Published 날짜·본문과 공개 목록의 동일 글번호 링크·시각·조회수를 교차 대조; 위젯 기본 UTC 시각을 KST로 변환",
-      "evidence_file": "candidate_widgets_520.json"
-    },
-    {
-      "channel": "insidertracking",
-      "post_id": "66547",
-      "url": "https://t.me/insidertracking/66547",
-      "views_display": "2.15K",
-      "views_approx": 2150.0,
-      "published_at_kst": "2026-10-17T20:52:00+09:00",
-      "summary_ko": "호주가 사우디 여행경보를 최고 수준으로 높이고 방문 연기를 권고했다는 내용을 전달했다. 원문 발표일은 10월 16일로 표시했다.",
-      "title": "호주의 사우디 여행경보 상향 보도",
-      "verification": "직접 위젯 본문·게시일·시각·조회수 및 URL 대조; 위젯 기본 UTC 시각을 KST로 변환",
-      "evidence_file": "candidate_widgets_530.json"
-    },
-    {
-      "channel": "insidertracking",
-      "post_id": "66548",
-      "url": "https://t.me/insidertracking/66548",
-      "views_display": "1.73K",
-      "views_approx": 1730.0,
-      "published_at_kst": "2026-10-17T20:55:00+09:00",
-      "summary_ko": "탱커트래커스가 IEA·OPEC 자료를 근거로 자사 수출 통계의 정확성을 주장한 내용을 소개했다. 생산·정제·수출 물량을 서로 같은 지표로 취급하지 않았다.",
-      "title": "사우디 원유 생산·수출 통계 관련 주장",
-      "verification": "직접 위젯 본문·게시일·시각·조회수 및 URL 대조; 위젯 기본 UTC 시각을 KST로 변환",
-      "evidence_file": "candidate_widgets_530.json"
-    },
-    {
-      "channel": "insidertracking",
-      "post_id": "66550",
-      "url": "https://t.me/insidertracking/66550",
-      "views_display": "1.78K",
-      "views_approx": 1780.0,
-      "published_at_kst": "2026-10-17T21:01:00+09:00",
-      "summary_ko": "러시아·이란 제재법에 따른 관세와 여러 조항의 적용 면제를 설명하면서 기존 제재와 일부 심사 조항은 유지된다고 전했다. 모든 러시아 제재가 폐지됐다는 의미로 확대하지 않았다.",
-      "title": "대러 제재법 적용 면제의 범위 설명",
-      "verification": "직접 위젯의 Published 날짜·본문과 공개 목록의 동일 글번호 링크·시각·조회수를 교차 대조; 위젯 기본 UTC 시각을 KST로 변환",
-      "evidence_file": "candidate_widgets_530.json"
-    },
-    {
-      "channel": "insidertracking",
-      "post_id": "66551",
-      "url": "https://t.me/insidertracking/66551",
-      "views_display": "1.12K",
-      "views_approx": 1120.0,
-      "published_at_kst": "2026-10-17T21:24:00+09:00",
-      "summary_ko": "[OTHER 기타] BofA 분석을 인용해 주요 하이퍼스케일러의 예상 잉여현금흐름 감소와 반도체 기업의 증가를 비교했다. 향후 12개월 추정치 비교이며 현금이 실제 동일 금액만큼 직접 이전됐다는 뜻은 아니다.",
-      "title": "하이퍼스케일러와 반도체 기업의 현금흐름 격차",
+      "post_id": "66605",
+      "url": "https://t.me/insidertracking/66605",
+      "views_display": "1.57K",
+      "published_at_kst": "2026-10-18T20:41:00.000+09:00",
+      "method": "widget_published_and_same_post_listing",
+      "title": "하이퍼스케일러 설비투자 전망 상향 비교",
       "primary_theme": "OTHER",
-      "theme_reason": "AI 인프라 투자기업과 반도체 공급기업의 추정 현금흐름을 비교.",
-      "entities": "하이퍼스케일러·NVIDIA·Micron·Broadcom",
-      "stage": "기관 추정치 / 현금흐름 비교",
+      "theme_reason": "하이퍼스케일러 설비투자 추정치 비교. 전력·냉각이나 개별 공정 공급으로 확대하지 않음.",
+      "entities": "하이퍼스케일러 CAPEX",
+      "stage": "기관 추정치 / 투자 전망",
       "secondary_themes": [],
-      "verification": "직접 위젯의 Published 날짜·본문과 공개 목록의 동일 글번호 링크·시각·조회수를 교차 대조; 위젯 기본 UTC 시각을 KST로 변환",
-      "evidence_file": "candidate_widgets_530.json"
+      "summary_ko": "[OTHER 기타] BofA 자료를 인용해 2026년 주요 하이퍼스케일러의 설비투자 예상치가 지난 1년간 70% 높아졌다고 전했다. 10월 7일 기준 컨센서스의 지수 비교로 실제 지출 확정치와 구분했다.",
+      "views_approx": 1570.0
     }
   ],
-  "coverage_note": "2026-10-17 00:00~22:05:52 KST 원문 대조 종료. 고정 59개 중 접근 처리 59개, 전수 확인 0개, 부분 확인 51개, 실패 8개, 미처리 0개. 직접 검증 당일 글 78건. 목록 캐시·숨겨진 날짜/글번호·미지원 미디어·과거 페이지를 당일 자료로 사용하지 않음. 전수 스크롤 미완료. 접근·직접 식별 실패 8개. 날짜 등 메타데이터 미확인 후보 236건(과거 후보 포함)은 정식 집계에서 제외. SEARFin: 공개 목록 기본·대체 경로와 검색을 재확인했으나 10월 17일 영업이익 리비전의 글번호·직접 URL·게시시각을 검증하지 못함. 10월 16일 본문은 오늘 자료로 재사용하지 않음.",
+  "coverage_note": "2026-10-18 00:00~21:29:05 KST 원문 대조 종료. 고정 59개 중 처리 5개, 전수 확인 0개, 부분 확인 5개, 접근·직접 식별 실패 0개, 미처리 54개. 당일 검증 글 23건. 공개 목록 캐시·누락 메타데이터·전수 스크롤 미완료. 이미지·영상·PDF 내부와 연결 기사 전문은 별도 미검증. SEARFin: 공개 목록에서 10월 16일 본문은 읽혔지만 오늘 리비전의 글번호·직접 URL·게시시각은 미확인. 전일 수치를 오늘로 재사용하지 않음.",
   "top20_urls": [
-    "https://t.me/bornlupin/20677",
-    "https://t.me/bornlupin/20674",
-    "https://t.me/TNBfolio/71586",
-    "https://t.me/FastStockNews/126608",
-    "https://t.me/FastStockNews/126607",
-    "https://t.me/bullishbee11/3567",
-    "https://t.me/bullishbee11/3568",
-    "https://t.me/bornlupin/20676",
-    "https://t.me/bullishbee11/3572",
-    "https://t.me/bullishbee11/3570",
-    "https://t.me/bullishbee11/3571",
-    "https://t.me/TNBfolio/71584",
-    "https://t.me/HS_academy/11034",
-    "https://t.me/TNBfolio/71588",
-    "https://t.me/one_going/4361",
-    "https://t.me/one_going/4362",
-    "https://t.me/bornlupin/20673",
-    "https://t.me/one_going/4360",
-    "https://t.me/gaoshoukorea/65157",
-    "https://t.me/bornlupin/20670"
+    "https://t.me/bornlupin/20682",
+    "https://t.me/insidertracking/66586",
+    "https://t.me/corevalue/47380",
+    "https://t.me/insidertracking/66592",
+    "https://t.me/insidertracking/66594",
+    "https://t.me/insidertracking/66589",
+    "https://t.me/insidertracking/66591",
+    "https://t.me/YeouidoStory2/118518",
+    "https://t.me/YeouidoStory2/118516",
+    "https://t.me/YeouidoStory2/118515",
+    "https://t.me/FastStockNews/126612",
+    "https://t.me/YeouidoStory2/118517",
+    "https://t.me/YeouidoStory2/118514",
+    "https://t.me/YeouidoStory2/118522",
+    "https://t.me/FastStockNews/126611",
+    "https://t.me/YeouidoStory2/118521",
+    "https://t.me/YeouidoStory2/118529",
+    "https://t.me/YeouidoStory2/118523",
+    "https://t.me/YeouidoStory2/118528",
+    "https://t.me/YeouidoStory2/118527"
   ],
   "theme_urls": [
-    "https://t.me/HS_academy/11034",
-    "https://t.me/TNBfolio/71584",
-    "https://t.me/bornlupin/20670",
-    "https://t.me/bornlupin/20674",
-    "https://t.me/bullishbee11/3568",
-    "https://t.me/TNBfolio/71586",
-    "https://t.me/maddingStock/18587",
-    "https://t.me/rafikiresearch/25941",
-    "https://t.me/bornlupin/20675",
-    "https://t.me/bornlupin/20676",
-    "https://t.me/bornlupin/20677",
-    "https://t.me/eqmirae/3244",
-    "https://t.me/kimcharger/14337",
-    "https://t.me/kimcharger/14338",
-    "https://t.me/TNBfolio/71588",
-    "https://t.me/bullishbee11/3570",
-    "https://t.me/FastStockNews/126607",
-    "https://t.me/FastStockNews/126608",
-    "https://t.me/YeouidoStory2/118510",
-    "https://t.me/bumgore/55089",
-    "https://t.me/HANAchina/70566",
-    "https://t.me/one_going/4361",
-    "https://t.me/habit4117/86033",
-    "https://t.me/insidertracking/66535",
-    "https://t.me/globaletfi/22187",
-    "https://t.me/insidertracking/66538",
-    "https://t.me/insidertracking/66539",
-    "https://t.me/insidertracking/66541",
-    "https://t.me/magonia_b/12527",
-    "https://t.me/magonia_b/12528",
-    "https://t.me/FastStockNewsUSA/23820",
-    "https://t.me/bornlupin/20679",
-    "https://t.me/insidertracking/66543",
-    "https://t.me/rafikiresearch/25942",
-    "https://t.me/TNBfolio/71589",
-    "https://t.me/corevalue/47379",
-    "https://t.me/FastStockNews/126610",
-    "https://t.me/insidertracking/66551"
+    "https://t.me/YeouidoStory2/118517",
+    "https://t.me/YeouidoStory2/118518",
+    "https://t.me/bornlupin/20682",
+    "https://t.me/YeouidoStory2/118527",
+    "https://t.me/FastStockNews/126612",
+    "https://t.me/insidertracking/66605"
+  ],
+  "theme_groups": [
+    {
+      "id": "T1",
+      "label": "광통신·광반도체",
+      "urls": [
+        "https://t.me/bornlupin/20682"
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "첨단 패키징·CoWoS",
+      "urls": [
+        "https://t.me/YeouidoStory2/118518"
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "서버 전력관리반도체·BCD 파운드리",
+      "urls": []
+    },
+    {
+      "id": "T4",
+      "label": "AI 메모리·저장장치",
+      "urls": [
+        "https://t.me/YeouidoStory2/118517",
+        "https://t.me/YeouidoStory2/118527"
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "데이터센터 전력공급·냉각",
+      "urls": []
+    },
+    {
+      "id": "OTHER",
+      "label": "기타",
+      "urls": [
+        "https://t.me/FastStockNews/126612",
+        "https://t.me/insidertracking/66605"
+      ]
+    }
   ],
   "consensus_up": [],
   "consensus_down": [],
   "coverage": {
     "target_channels": 59,
-    "checked_channels": 59,
+    "checked_channels": 5,
     "verified_full_channels": 0,
     "full_channels": [],
     "partial_channels": [
@@ -1209,8 +376,12 @@
       "insidertracking",
       "corevalue",
       "yeouidostory2",
-      "bornlupin",
+      "bornlupin"
+    ],
+    "failed_channels": [],
+    "pending_channels": [
       "one_going",
+      "yeouido_lab",
       "bullishbee11",
       "gaoshoukorea",
       "faststocknewsusa",
@@ -1225,6 +396,7 @@
       "bumgore",
       "hanachina",
       "brain_and_body_research",
+      "aetherjapanresearch",
       "hedgecat0301",
       "ehdwl",
       "pharmbiohana",
@@ -1233,17 +405,22 @@
       "meritz_research",
       "magonia_b",
       "jeilstock",
+      "jstockclass",
       "stock_messenger",
+      "pikachu_aje",
       "HanaResearch",
       "kimcharger",
       "TNBfolio",
+      "earlystock1",
       "huhpharm",
       "meritz_tech",
       "easobi",
       "daegurr",
+      "macrojunglemicrolens",
       "sejongdata2013",
       "smallcap",
       "tlsrltnf",
+      "awake_realtimecheck",
       "egzion",
       "cahier_de_market",
       "eqmirae",
@@ -1253,1075 +430,23 @@
       "shinhanresearch",
       "athletes_village",
       "bio_shinhan",
+      "goupstock",
       "rafikiresearch",
       "maddingStock",
       "globaletfi"
     ],
-    "failed_channels": [
-      "aetherjapanresearch",
-      "jstockclass",
-      "pikachu_aje",
-      "earlystock1",
-      "macrojunglemicrolens",
-      "awake_realtimecheck",
-      "goupstock",
-      "yeouido_lab"
-    ],
-    "pending_channels": [],
-    "observed_post_count": 78,
+    "observed_post_count": 23,
     "ranking_complete": false,
     "channels_with_verified_posts": [
       "FastStockNews",
-      "FastStockNewsUSA",
-      "HANAchina",
-      "HS_academy",
-      "HanaResearch",
-      "TNBfolio",
       "YeouidoStory2",
-      "athletes_village",
       "bornlupin",
-      "bullishbee11",
-      "bulls_pirates",
-      "bumgore",
       "corevalue",
-      "eqmirae",
-      "gaoshoukorea",
-      "globaletfi",
-      "habit4117",
-      "insidertracking",
-      "kimcharger",
-      "maddingStock",
-      "magonia_b",
-      "one_going",
-      "rafikiresearch",
-      "report_figure_by_offset",
-      "sejongdata2013",
-      "tlsrltnf"
+      "insidertracking"
     ],
-    "stage": "collection_finished",
-    "metadata_exclusions": [
-      {
-        "url": "https://t.me/ym_research/6478",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/ym_research/6484",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/ym_research/6495",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/bulls_pirates/4756",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/pharmbiohana/11667",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/pharmbiohana/11668",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/pharmbiohana/11671",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/pharmbiohana/11672",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/pharmbiohana/11674",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/pharmbiohana/11677",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/pharmbiohana/11678",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/sypark_strategy/18090",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/sypark_strategy/18091",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/habit4117/86020",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/habit4117/86023",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/habit4117/86024",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/habit4117/86025",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/habit4117/86026",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/habit4117/86027",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/habit4117/86028",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/habit4117/86029",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/habit4117/86030",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/habit4117/86031",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/habit4117/86032",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/habit4117/86034",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/habit4117/86035",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/habit4117/86036",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/habit4117/86037",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/meritz_research/44831",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/meritz_research/44836",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/meritz_research/44840",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/magonia_b/12510",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/magonia_b/12512",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/magonia_b/12513",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/magonia_b/12517",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/HanaResearch/20661",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/kimcharger/14322",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/kimcharger/14330",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/bulls_pirates/4759",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/bulls_pirates/4762",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/bulls_pirates/4764",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/bulls_pirates/4768",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/kimcharger/14335",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/kimcharger/14336",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/TNBfolio/71577",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/TNBfolio/71579",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/TNBfolio/71580",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/TNBfolio/71581",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/TNBfolio/71582",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/huhpharm/11871",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/huhpharm/11876",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/huhpharm/11879",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/huhpharm/11883",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/huhpharm/11884",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/merITz_tech/19078",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/merITz_tech/19079",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/merITz_tech/19080",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/merITz_tech/19092",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/merITz_tech/19096",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/daegurr/43916",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/daegurr/43918",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/daegurr/43925",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/daegurr/43927",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/daegurr/43928",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/daegurr/43929",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/daegurr/43931",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/daegurr/43932",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/daegurr/43934",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/daegurr/43935",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/sejongdata2013/12351",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/sejongdata2013/12357",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/sejongdata2013/12361",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/sejongdata2013/12362",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/SmallCap/9109",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/bulls_pirates/4774",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/bulls_pirates/4775",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/HS_academy/11018",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/SmallCap/9111",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/SmallCap/9112",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/SmallCap/9119",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/SmallCap/9122",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/tlsrltnf/22608",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/tlsrltnf/22609",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/tlsrltnf/22611",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/tlsrltnf/22612",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/tlsrltnf/22614",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/tlsrltnf/22616",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/tlsrltnf/22617",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/tlsrltnf/22623",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/egzion/6433",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/egzion/6434",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/egzion/6435",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/egzion/6436",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/egzion/6439",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/egzion/6441",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/egzion/6449",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/egzion/6450",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/eqmirae/3237",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/eqmirae/3238",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/survival_DoPB/13834",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/survival_DoPB/13842",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/report_figure_by_offset/13406",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/report_figure_by_offset/13407",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/report_figure_by_offset/13410",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/HS_academy/11022",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/HS_academy/11023",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/HS_academy/11025",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/HS_academy/11026",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/HS_academy/11028",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/report_figure_by_offset/13411",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/report_figure_by_offset/13414",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/report_figure_by_offset/13415",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/report_figure_by_offset/13416",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/report_figure_by_offset/13418",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/report_figure_by_offset/13422",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/report_figure_by_offset/13423",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/report_figure_by_offset/13424",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/report_figure_by_offset/13425",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/yieldnspread/6631",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/yieldnspread/6635",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/yieldnspread/6636",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/yieldnspread/6639",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/yieldnspread/6640",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/yieldnspread/6642",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/yieldnspread/6644",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/yieldnspread/6645",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/yieldnspread/6646",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/yieldnspread/6649",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/yieldnspread/6650",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/shinhanresearch/53141",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/athletes_village/23772",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/athletes_village/23779",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/athletes_village/23781",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/athletes_village/23782",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/athletes_village/23783",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/athletes_village/23786",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/athletes_village/23788",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/rafikiresearch/25923",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/rafikiresearch/25924",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/rafikiresearch/25926",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/rafikiresearch/25936",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/rafikiresearch/25937",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/rafikiresearch/25938",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/rafikiresearch/25940",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/maddingStock/18567",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/maddingStock/18569",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/maddingStock/18570",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/maddingStock/18572",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/maddingStock/18573",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/maddingStock/18575",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/maddingStock/18577",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/maddingStock/18579",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/maddingStock/18581",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/globaletfi/22171",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/HS_academy/11031",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/HS_academy/11032",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/bumgore/55070",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/globaletfi/22173",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/globaletfi/22174",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/globaletfi/22175",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/globaletfi/22176",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/globaletfi/22177",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/globaletfi/22178",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/globaletfi/22179",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/globaletfi/22180",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/globaletfi/22181",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/globaletfi/22182",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/globaletfi/22183",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/globaletfi/22184",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/globaletfi/22185",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/globaletfi/22186",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/globaletfi/22188",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/insidertracking/66533",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/insidertracking/66536",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/insidertracking/66537",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/insidertracking/66542",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/insidertracking/66544",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/insidertracking/66546",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/insidertracking/66549",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/insidertracking/66552",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/corevalue/47364",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/corevalue/47365",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/corevalue/47378",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/YeouidoStory2/118496",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/YeouidoStory2/118498",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/YeouidoStory2/118501",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/YeouidoStory2/118502",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/YeouidoStory2/118511",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/one_going/4343",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/one_going/4344",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/one_going/4346",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/one_going/4350",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/one_going/4351",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/one_going/4355",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/one_going/4357",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/bullishbee11/3553",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/bullishbee11/3560",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/bumgore/55078",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/bumgore/55081",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/bullishbee11/3562",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/bullishbee11/3563",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/bullishbee11/3564",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/bullishbee11/3569",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/bullishbee11/3573",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/gaoshoukorea/65127",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/gaoshoukorea/65140",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/gaoshoukorea/65142",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/gaoshoukorea/65150",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/gaoshoukorea/65152",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/gaoshoukorea/65154",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/gaoshoukorea/65156",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/FastStockNewsUSA/23812",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/bornlupin/20678",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/HANAchina/70557",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/HANAchina/70558",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/HANAchina/70559",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/HANAchina/70560",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/HANAchina/70562",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/HANAchina/70564",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/HANAchina/70565",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/HANAchina/70569",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/HANAchina/70570",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/HANAchina/70571",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/HANAchina/70572",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/HANAchina/70573",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/HANAchina/70574",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/HANAchina/70575",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/HANAchina/70576",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/pharmbiohana/11661",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/pharmbiohana/11662",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/pharmbiohana/11666",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/shmstory/9097",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/realtime_stock_news/61745",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/jeilstock/46888",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/Brain_And_Body_Research/112991",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      },
-      {
-        "url": "https://t.me/hedgecat0301/2961",
-        "reason": "원문 날짜·시각·조회수 footer 또는 연도 미확인"
-      }
-    ],
-    "metadata_excluded_count_including_older_candidates": 236,
-    "direct_post_candidates_requested": 654,
-    "failed_channels_reason": "기본 공개 경로 접근 실패 후 대체 본문 읽기에서도 당일 글번호·직접 URL·필수 메타데이터를 검증하지 못함",
-    "searfin_status": "공개 목록 기본·대체 경로와 검색을 재확인했으나 10월 17일 영업이익 리비전의 글번호·직접 URL·게시시각을 검증하지 못함. 10월 16일 본문은 오늘 자료로 재사용하지 않음.",
-    "time_basis": "직접 위젯 footer의 기본 UTC를 +09:00으로 변환; 시작 시 기준일 고정",
-    "unverified_scope": "목록 캐시·숨겨진 날짜/글번호·미지원 미디어·과거 페이지를 당일 자료로 사용하지 않음. 전수 스크롤 미완료."
-  },
-  "theme_groups": [
-    {
-      "id": "T1",
-      "label": "광통신·광반도체",
-      "urls": []
-    },
-    {
-      "id": "T2",
-      "label": "첨단 패키징·CoWoS",
-      "urls": []
-    },
-    {
-      "id": "T3",
-      "label": "서버 전력관리반도체·BCD 파운드리",
-      "urls": []
-    },
-    {
-      "id": "T4",
-      "label": "AI 메모리·저장장치",
-      "urls": [
-        "https://t.me/TNBfolio/71586",
-        "https://t.me/rafikiresearch/25941",
-        "https://t.me/kimcharger/14337",
-        "https://t.me/magonia_b/12527",
-        "https://t.me/magonia_b/12528"
-      ]
-    },
-    {
-      "id": "T5",
-      "label": "데이터센터 전력공급·냉각",
-      "urls": []
-    },
-    {
-      "id": "OTHER",
-      "label": "기타",
-      "urls": [
-        "https://t.me/HS_academy/11034",
-        "https://t.me/TNBfolio/71584",
-        "https://t.me/bornlupin/20670",
-        "https://t.me/bornlupin/20674",
-        "https://t.me/bullishbee11/3568",
-        "https://t.me/maddingStock/18587",
-        "https://t.me/bornlupin/20675",
-        "https://t.me/bornlupin/20676",
-        "https://t.me/bornlupin/20677",
-        "https://t.me/eqmirae/3244",
-        "https://t.me/kimcharger/14338",
-        "https://t.me/TNBfolio/71588",
-        "https://t.me/bullishbee11/3570",
-        "https://t.me/FastStockNews/126607",
-        "https://t.me/FastStockNews/126608",
-        "https://t.me/YeouidoStory2/118510",
-        "https://t.me/bumgore/55089",
-        "https://t.me/HANAchina/70566",
-        "https://t.me/one_going/4361",
-        "https://t.me/habit4117/86033",
-        "https://t.me/insidertracking/66535",
-        "https://t.me/globaletfi/22187",
-        "https://t.me/insidertracking/66538",
-        "https://t.me/insidertracking/66539",
-        "https://t.me/insidertracking/66541",
-        "https://t.me/FastStockNewsUSA/23820",
-        "https://t.me/bornlupin/20679",
-        "https://t.me/insidertracking/66543",
-        "https://t.me/rafikiresearch/25942",
-        "https://t.me/TNBfolio/71589",
-        "https://t.me/corevalue/47379",
-        "https://t.me/FastStockNews/126610",
-        "https://t.me/insidertracking/66551"
-      ]
-    }
-  ]
+    "stage": "collecting",
+    "searfin_status": "공개 목록에서 10월 16일 본문은 읽혔지만 오늘 리비전의 글번호·직접 URL·게시시각은 미확인. 전일 수치를 오늘로 재사용하지 않음.",
+    "coverage_limit": "공개 목록 캐시·누락 메타데이터·전수 스크롤 미완료. 이미지·영상·PDF 내부와 연결 기사 전문은 별도 미검증.",
+    "failed_reason": "기본 공개 경로 실패 후 대체 경로에서도 당일 직접 글번호·URL 또는 필수 메타데이터 검증 불가"
+  }
 }
