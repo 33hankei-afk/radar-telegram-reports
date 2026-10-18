@@ -3,7 +3,7 @@
   "status": "running",
   "stage": "collecting",
   "started_at_kst": "2026-10-18T21:24:20+09:00",
-  "updated_at_kst": "2026-10-18T21:32:03+09:00",
+  "updated_at_kst": "2026-10-18T21:35:39+09:00",
   "ended_at_kst": null,
   "attempt": 1,
   "verified_posts": 23,
@@ -25,7 +25,10 @@
     "latest.md",
     "latest.json"
   ],
-  "errors": [],
+  "errors": [
+    "일부 공개 목록은 과거 자료 또는 메타데이터 누락 상태. 직접 게시글 대조 진행 중.",
+    "SEARFin 당일 리비전 번호·URL 미확인. 전일 수치 미사용."
+  ],
   "publication_events": [
     {
       "path": "reports/2026-10-18.json",
