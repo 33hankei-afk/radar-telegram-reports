@@ -3,14 +3,17 @@
   "status": "running",
   "stage": "collecting",
   "started_at_kst": "2026-10-18T21:24:20+09:00",
-  "updated_at_kst": "2026-10-18T21:30:15+09:00",
+  "updated_at_kst": "2026-10-18T21:30:53+09:00",
   "ended_at_kst": null,
   "attempt": 1,
   "verified_posts": 23,
-  "checked_channels": 20,
+  "checked_channels": 35,
   "verified_full_channels": 0,
   "failed_channels": [
-    "yeouido_lab"
+    "yeouido_lab",
+    "aetherjapanresearch",
+    "jstockclass",
+    "pikachu_aje"
   ],
   "published_paths": [
     "reports/2026-10-18.json",
