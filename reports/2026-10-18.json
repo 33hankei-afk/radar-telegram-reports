@@ -1,0 +1,452 @@
+{
+  "schema": "telegram_summaries_v1",
+  "date_kst": "2026-10-18",
+  "observed_at_kst": "2026-10-18T21:29:05+09:00",
+  "entries": [
+    {
+      "channel": "YeouidoStory2",
+      "post_id": "118514",
+      "url": "https://t.me/YeouidoStory2/118514",
+      "views_display": "4.63K",
+      "published_at_kst": "2026-10-18T01:31:00.000+09:00",
+      "method": "direct_widget_footer",
+      "title": "자화전자 상세기업분석 PDF 안내",
+      "summary_ko": "자화전자 상세기업분석 PDF의 파일명과 크기를 확인했다. 첨부파일 내부의 실적·가치평가 내용은 이번 공개 캡션만으로 검증하지 않았다.",
+      "views_approx": 4630.0
+    },
+    {
+      "channel": "YeouidoStory2",
+      "post_id": "118515",
+      "url": "https://t.me/YeouidoStory2/118515",
+      "views_display": "4.68K",
+      "published_at_kst": "2026-10-18T01:31:00.000+09:00",
+      "method": "direct_widget_footer",
+      "title": "자화전자 영문명 기업분석 PDF 안내",
+      "summary_ko": "자화전자 영문명이 포함된 상세기업분석 PDF 파일명만 확인됐다. 별도 글번호를 유지하되 파일 내부 분석을 추정해 요약하지 않았다.",
+      "views_approx": 4680.0
+    },
+    {
+      "channel": "YeouidoStory2",
+      "post_id": "118516",
+      "url": "https://t.me/YeouidoStory2/118516",
+      "views_display": "4.75K",
+      "published_at_kst": "2026-10-18T01:31:00.000+09:00",
+      "method": "direct_widget_footer",
+      "title": "자화전자 스터디 자료 설명 캡션",
+      "summary_ko": "자화전자 상세분석을 스터디용으로 제공한다는 짧은 캡션이다. 구체적인 분석 결론은 확인되지 않았다.",
+      "views_approx": 4750.0
+    },
+    {
+      "channel": "YeouidoStory2",
+      "post_id": "118517",
+      "url": "https://t.me/YeouidoStory2/118517",
+      "views_display": "4.66K",
+      "published_at_kst": "2026-10-18T08:54:00.000+09:00",
+      "method": "direct_widget_footer",
+      "title": "중국 서버 메모리 공세의 가격 영향 전망",
+      "primary_theme": "T4",
+      "theme_reason": "서버 메모리·CXMT 공급 가능성과 가격 영향을 직접 명시.",
+      "entities": "서버 메모리·CXMT",
+      "stage": "공급 전망 / 가격 영향 분석",
+      "secondary_themes": [],
+      "summary_ko": "[T4 AI 메모리·저장장치] CXMT의 연내 서버 메모리 공급 가능성에도 시장 진입에 시간이 필요해 가격 하락이 제한적일 수 있다는 기사 미리보기다. 실제 공급·인증 완료를 확인한 내용으로 확대하지 않았다.",
+      "views_approx": 4660.0
+    },
+    {
+      "channel": "YeouidoStory2",
+      "post_id": "118518",
+      "url": "https://t.me/YeouidoStory2/118518",
+      "views_display": "4.88K",
+      "published_at_kst": "2026-10-18T09:00:00.000+09:00",
+      "method": "direct_widget_footer",
+      "title": "AI 반도체 특수유리 기판 기술 기사",
+      "primary_theme": "T2",
+      "theme_reason": "AI 반도체 기판과 열·손실 대응 기술을 직접 다룸. CoWoS 납품으로 추정하지 않음.",
+      "entities": "AI 반도체·특수유리 기판",
+      "stage": "기술 기사 / 공급 단계 미확인",
+      "secondary_themes": [],
+      "summary_ko": "[T2 첨단 패키징·CoWoS] AI 반도체의 열·손실과 특수유리 기판을 다룬 기사 제목·미리보기를 공유했다. 특정 고객 인증·양산·납품 실적은 캡션에서 확인되지 않는다.",
+      "views_approx": 4880.0
+    },
+    {
+      "channel": "bornlupin",
+      "post_id": "20682",
+      "url": "https://t.me/bornlupin/20682",
+      "views_display": "8.23K",
+      "published_at_kst": "2026-10-18T09:44:00.000+09:00",
+      "method": "direct_widget_footer",
+      "title": "JP모건의 DC 투자 상향·네트워킹 수혜 전망",
+      "primary_theme": "T1",
+      "theme_reason": "AI 인프라에서 네트워킹 제약과 광학·부품 공급업체 수혜를 명시. 전력용량 계획도 직접 제시.",
+      "entities": "광학·네트워킹·AI DC",
+      "stage": "증권사 투자·수요 전망",
+      "secondary_themes": [
+        "T5"
+      ],
+      "summary_ko": "[T1 광통신·광반도체] JP모건의 2026~2027년 데이터센터 설비투자 상향과 네트워킹을 핵심 제한 요인으로 보는 분석을 전달했다. 광학·네트워크 공급업체와 북미 전력용량 파이프라인을 제시했으며 모두 전망과 계획으로 구분했다.",
+      "views_approx": 8230.0
+    },
+    {
+      "channel": "corevalue",
+      "post_id": "47380",
+      "url": "https://t.me/corevalue/47380",
+      "views_display": "5.87K",
+      "published_at_kst": "2026-10-18T09:57:00.000+09:00",
+      "method": "direct_widget_footer",
+      "title": "빚투 강제청산·정책 대응 비판 기사",
+      "summary_ko": "코스피 연속 하락 기간 반대매매가 약 3천억원에 달했다는 기사 미리보기를 공유했다. 외국인 매도와 신용투자 손실, 정책 대응을 논평한 내용이다.",
+      "views_approx": 5870.0
+    },
+    {
+      "channel": "insidertracking",
+      "post_id": "66586",
+      "url": "https://t.me/insidertracking/66586",
+      "views_display": "7.02K",
+      "published_at_kst": "2026-10-18T13:51:00.000+09:00",
+      "method": "widget_published_and_same_post_listing",
+      "title": "UAE 인근 예인선 피격 경보 전달",
+      "summary_ko": "UKMTO 경보를 인용해 코르파칸 인근 예인선의 피격·손상과 경상자 발생을 전했다. 사건의 정확한 발생 시각은 원문에서도 확인 중으로 표시했다.",
+      "views_approx": 7020.0
+    },
+    {
+      "channel": "YeouidoStory2",
+      "post_id": "118521",
+      "url": "https://t.me/YeouidoStory2/118521",
+      "views_display": "3.48K",
+      "published_at_kst": "2026-10-18T15:20:00.000+09:00",
+      "method": "direct_widget_footer",
+      "title": "일요일 시장 브리핑 외부 글 안내",
+      "summary_ko": "일요일 시장 브리핑 링크를 안내했다. 연결된 화면은 회원가입 안내가 표시돼 공개 미리보기 범위만 확인했으며 로그인이나 가입은 하지 않았다.",
+      "views_approx": 3480.0
+    },
+    {
+      "channel": "YeouidoStory2",
+      "post_id": "118522",
+      "url": "https://t.me/YeouidoStory2/118522",
+      "views_display": "3.63K",
+      "published_at_kst": "2026-10-18T15:23:00.000+09:00",
+      "method": "direct_widget_footer",
+      "title": "의무공개매수 제도 재검토 청원 논평",
+      "summary_ko": "지배주주의 선행매수를 허용하는 제도안에 대한 반발과 재검토 청원 기사를 공유했다. 채널의 해석과 확정 법률을 구분했다.",
+      "views_approx": 3630.0
+    },
+    {
+      "channel": "insidertracking",
+      "post_id": "66589",
+      "url": "https://t.me/insidertracking/66589",
+      "views_display": "5.61K",
+      "published_at_kst": "2026-10-18T16:03:00.000+09:00",
+      "method": "widget_published_and_same_post_listing",
+      "title": "상트페테르부르크 교량 드론 공격 영상 캡션",
+      "summary_ko": "우크라이나의 드론 공격과 러시아 교량 표적을 설명하는 영상 캡션이다. 보복 가능성은 추정이며 영상 내부나 공격 주체를 독립 검증한 것은 아니다.",
+      "views_approx": 5610.0
+    },
+    {
+      "channel": "insidertracking",
+      "post_id": "66591",
+      "url": "https://t.me/insidertracking/66591",
+      "views_display": "5.4K",
+      "published_at_kst": "2026-10-18T16:29:00.000+09:00",
+      "method": "widget_published_and_same_post_listing",
+      "title": "골드만삭스의 원화·장기 국채 강세 전망",
+      "summary_ko": "무역흑자·수출기업 환전 수요를 바탕으로 원화 강세를 예상한 분석을 전했다. 30년물 금리 목표를 4.2%에서 3.9%로 낮췄다는 전망이며 실제 환율·금리 결과와 구분했다.",
+      "views_approx": 5400.0
+    },
+    {
+      "channel": "YeouidoStory2",
+      "post_id": "118523",
+      "url": "https://t.me/YeouidoStory2/118523",
+      "views_display": "2.49K",
+      "published_at_kst": "2026-10-18T16:42:00.000+09:00",
+      "method": "widget_published_and_same_post_listing",
+      "title": "2027년 갤럭시 Z 모델 확대 개발설",
+      "summary_ko": "삼성이 다양한 폴더블·롤러블 모델을 개발 중이라는 기사를 전달했다. 2027년 출시 목표·가능성을 실제 출시 완료로 표현하지 않았다.",
+      "views_approx": 2490.0
+    },
+    {
+      "channel": "insidertracking",
+      "post_id": "66592",
+      "url": "https://t.me/insidertracking/66592",
+      "views_display": "5.85K",
+      "published_at_kst": "2026-10-18T16:45:00.000+09:00",
+      "method": "widget_published_and_same_post_listing",
+      "title": "밀라노 생활비 항의 시위 영상 설명",
+      "summary_ko": "생활비·연료비·임금과 공공서비스에 대한 불만으로 밀라노 시위가 격화됐다는 캡션이다. 참가 인원과 충돌 상황은 게시글의 설명이며 독립 현장 검증은 하지 않았다.",
+      "views_approx": 5850.0
+    },
+    {
+      "channel": "YeouidoStory2",
+      "post_id": "118525",
+      "url": "https://t.me/YeouidoStory2/118525",
+      "views_display": "2.31K",
+      "published_at_kst": "2026-10-18T17:00:00.000+09:00",
+      "method": "direct_widget_footer",
+      "title": "애플 폴더블 진입과 갤럭시 검색 증가 보도",
+      "summary_ko": "애플의 폴더블폰 진입 이후 삼성 폴더블 검색 관심이 늘었다는 기사 미리보기다. 검색 증가를 실제 판매 증가로 동일시하지 않았다.",
+      "views_approx": 2310.0
+    },
+    {
+      "channel": "YeouidoStory2",
+      "post_id": "118526",
+      "url": "https://t.me/YeouidoStory2/118526",
+      "views_display": "2.34K",
+      "published_at_kst": "2026-10-18T17:04:00.000+09:00",
+      "method": "direct_widget_footer",
+      "title": "증시 급락 속 외화예금·골드바 자금 이동",
+      "summary_ko": "달러·엔화 예금과 골드바 판매가 증가했다는 기사를 공유했다. 외화예금에 대한 짧은 개인 의견을 함께 게시했다.",
+      "views_approx": 2340.0
+    },
+    {
+      "channel": "YeouidoStory2",
+      "post_id": "118527",
+      "url": "https://t.me/YeouidoStory2/118527",
+      "views_display": "2.35K",
+      "published_at_kst": "2026-10-18T17:07:00.000+09:00",
+      "method": "direct_widget_footer",
+      "title": "삼성 차세대 HBM 베이스다이의 TSMC 활용 보도",
+      "primary_theme": "T4",
+      "theme_reason": "차세대 HBM 내부 핵심 구성품인 베이스다이의 공정 선택을 명시.",
+      "entities": "HBM·베이스다이·TSMC",
+      "stage": "개발·공정 선택 보도",
+      "secondary_themes": [],
+      "summary_ko": "[T4 AI 메모리·저장장치] 삼성이 엔비디아용 차세대 맞춤형 HBM의 베이스다이에 TSMC 공정을 활용한다는 기사 미리보기다. 개발·공정 선택 보도를 실제 양산·고객 인증 완료로 확대하지 않았다.",
+      "views_approx": 2350.0
+    },
+    {
+      "channel": "YeouidoStory2",
+      "post_id": "118528",
+      "url": "https://t.me/YeouidoStory2/118528",
+      "views_display": "2.47K",
+      "published_at_kst": "2026-10-18T17:09:00.000+09:00",
+      "method": "direct_widget_footer",
+      "title": "외국인 카지노 방문과 관련 주가 괴리 기사",
+      "summary_ko": "외국인 카지노 이용 증가와 달리 롯데관광개발·파라다이스 주가가 약세라는 기사 미리보기다. 실적 개선이나 향후 주가 회복을 확정하지 않았다.",
+      "views_approx": 2470.0
+    },
+    {
+      "channel": "YeouidoStory2",
+      "post_id": "118529",
+      "url": "https://t.me/YeouidoStory2/118529",
+      "views_display": "2.57K",
+      "published_at_kst": "2026-10-18T17:17:00.000+09:00",
+      "method": "direct_widget_footer",
+      "title": "순직 소방관 추모·빈소 기사 공유",
+      "summary_ko": "부천 화재 현장에서 순직한 소방관을 추모하며 빈소와 유가족 관련 기사를 공유했다.",
+      "views_approx": 2570.0
+    },
+    {
+      "channel": "insidertracking",
+      "post_id": "66594",
+      "url": "https://t.me/insidertracking/66594",
+      "views_display": "5.78K",
+      "published_at_kst": "2026-10-18T17:20:00.000+09:00",
+      "method": "widget_published_and_same_post_listing",
+      "title": "러시아산 가스 구매 재개 제안 보도 전달",
+      "summary_ko": "뉴욕타임스를 인용해 미국이 우크라이나 평화 협상에서 유럽의 러시아산 가스 구매 재개를 제안했다고 전했다. 제안과 합의·실제 공급 재개는 구분했다.",
+      "views_approx": 5780.0
+    },
+    {
+      "channel": "FastStockNews",
+      "post_id": "126611",
+      "url": "https://t.me/FastStockNews/126611",
+      "views_display": "3.58K",
+      "published_at_kst": "2026-10-18T20:26:00.000+09:00",
+      "method": "widget_published_and_same_post_listing",
+      "title": "중신증권의 중국 증시 조정 막바지 판단",
+      "summary_ko": "중신증권은 기관 보유 종목에서 시작한 조정이 신용융자 업종으로 확산됐다고 평가했다. 위험회피 자금과 기관 선호주의 상대수익률·ETF 거래량을 관찰한 전망이며 조정 종료 확정은 아니다.",
+      "views_approx": 3580.0
+    },
+    {
+      "channel": "FastStockNews",
+      "post_id": "126612",
+      "url": "https://t.me/FastStockNews/126612",
+      "views_display": "4.67K",
+      "published_at_kst": "2026-10-18T20:26:00.000+09:00",
+      "method": "direct_widget_footer",
+      "title": "All-In의 AI 거품 붕괴 반론 전달",
+      "primary_theme": "OTHER",
+      "theme_reason": "AI 인프라 수요·공급과 투자 회수기간이 중심. 전력 제약도 직접 언급.",
+      "entities": "AI·GPU·컴퓨팅",
+      "stage": "출연진 전망 / 공급 제약 주장",
+      "secondary_themes": [
+        "T5"
+      ],
+      "summary_ko": "[OTHER 기타] 컴퓨팅·GPU 공급 제약이 2028년 이후까지 이어질 수 있다는 출연진 견해를 전달했다. 금리와 투자 회수기간이 자본투자의 지속성을 좌우하고 전력이 진입장벽이 된다는 분석이다.",
+      "views_approx": 4670.0
+    },
+    {
+      "channel": "insidertracking",
+      "post_id": "66605",
+      "url": "https://t.me/insidertracking/66605",
+      "views_display": "1.57K",
+      "published_at_kst": "2026-10-18T20:41:00.000+09:00",
+      "method": "widget_published_and_same_post_listing",
+      "title": "하이퍼스케일러 설비투자 전망 상향 비교",
+      "primary_theme": "OTHER",
+      "theme_reason": "하이퍼스케일러 설비투자 추정치 비교. 전력·냉각이나 개별 공정 공급으로 확대하지 않음.",
+      "entities": "하이퍼스케일러 CAPEX",
+      "stage": "기관 추정치 / 투자 전망",
+      "secondary_themes": [],
+      "summary_ko": "[OTHER 기타] BofA 자료를 인용해 2026년 주요 하이퍼스케일러의 설비투자 예상치가 지난 1년간 70% 높아졌다고 전했다. 10월 7일 기준 컨센서스의 지수 비교로 실제 지출 확정치와 구분했다.",
+      "views_approx": 1570.0
+    }
+  ],
+  "coverage_note": "2026-10-18 00:00~21:29:05 KST 원문 대조 종료. 고정 59개 중 처리 5개, 전수 확인 0개, 부분 확인 5개, 접근·직접 식별 실패 0개, 미처리 54개. 당일 검증 글 23건. 공개 목록 캐시·누락 메타데이터·전수 스크롤 미완료. 이미지·영상·PDF 내부와 연결 기사 전문은 별도 미검증. SEARFin: 공개 목록에서 10월 16일 본문은 읽혔지만 오늘 리비전의 글번호·직접 URL·게시시각은 미확인. 전일 수치를 오늘로 재사용하지 않음.",
+  "top20_urls": [
+    "https://t.me/bornlupin/20682",
+    "https://t.me/insidertracking/66586",
+    "https://t.me/corevalue/47380",
+    "https://t.me/insidertracking/66592",
+    "https://t.me/insidertracking/66594",
+    "https://t.me/insidertracking/66589",
+    "https://t.me/insidertracking/66591",
+    "https://t.me/YeouidoStory2/118518",
+    "https://t.me/YeouidoStory2/118516",
+    "https://t.me/YeouidoStory2/118515",
+    "https://t.me/FastStockNews/126612",
+    "https://t.me/YeouidoStory2/118517",
+    "https://t.me/YeouidoStory2/118514",
+    "https://t.me/YeouidoStory2/118522",
+    "https://t.me/FastStockNews/126611",
+    "https://t.me/YeouidoStory2/118521",
+    "https://t.me/YeouidoStory2/118529",
+    "https://t.me/YeouidoStory2/118523",
+    "https://t.me/YeouidoStory2/118528",
+    "https://t.me/YeouidoStory2/118527"
+  ],
+  "theme_urls": [
+    "https://t.me/YeouidoStory2/118517",
+    "https://t.me/YeouidoStory2/118518",
+    "https://t.me/bornlupin/20682",
+    "https://t.me/YeouidoStory2/118527",
+    "https://t.me/FastStockNews/126612",
+    "https://t.me/insidertracking/66605"
+  ],
+  "theme_groups": [
+    {
+      "id": "T1",
+      "label": "광통신·광반도체",
+      "urls": [
+        "https://t.me/bornlupin/20682"
+      ]
+    },
+    {
+      "id": "T2",
+      "label": "첨단 패키징·CoWoS",
+      "urls": [
+        "https://t.me/YeouidoStory2/118518"
+      ]
+    },
+    {
+      "id": "T3",
+      "label": "서버 전력관리반도체·BCD 파운드리",
+      "urls": []
+    },
+    {
+      "id": "T4",
+      "label": "AI 메모리·저장장치",
+      "urls": [
+        "https://t.me/YeouidoStory2/118517",
+        "https://t.me/YeouidoStory2/118527"
+      ]
+    },
+    {
+      "id": "T5",
+      "label": "데이터센터 전력공급·냉각",
+      "urls": []
+    },
+    {
+      "id": "OTHER",
+      "label": "기타",
+      "urls": [
+        "https://t.me/FastStockNews/126612",
+        "https://t.me/insidertracking/66605"
+      ]
+    }
+  ],
+  "consensus_up": [],
+  "consensus_down": [],
+  "coverage": {
+    "target_channels": 59,
+    "checked_channels": 5,
+    "verified_full_channels": 0,
+    "full_channels": [],
+    "partial_channels": [
+      "faststocknews",
+      "insidertracking",
+      "corevalue",
+      "yeouidostory2",
+      "bornlupin"
+    ],
+    "failed_channels": [],
+    "pending_channels": [
+      "one_going",
+      "yeouido_lab",
+      "bullishbee11",
+      "gaoshoukorea",
+      "faststocknewsusa",
+      "tazastock",
+      "growthresearch",
+      "ym_research",
+      "bulls_pirates",
+      "shmstory",
+      "realtime_stock_news",
+      "kwusa",
+      "hs_academy",
+      "bumgore",
+      "hanachina",
+      "brain_and_body_research",
+      "aetherjapanresearch",
+      "hedgecat0301",
+      "ehdwl",
+      "pharmbiohana",
+      "sypark_strategy",
+      "habit4117",
+      "meritz_research",
+      "magonia_b",
+      "jeilstock",
+      "jstockclass",
+      "stock_messenger",
+      "pikachu_aje",
+      "HanaResearch",
+      "kimcharger",
+      "TNBfolio",
+      "earlystock1",
+      "huhpharm",
+      "meritz_tech",
+      "easobi",
+      "daegurr",
+      "macrojunglemicrolens",
+      "sejongdata2013",
+      "smallcap",
+      "tlsrltnf",
+      "awake_realtimecheck",
+      "egzion",
+      "cahier_de_market",
+      "eqmirae",
+      "survival_DoPB",
+      "report_figure_by_offset",
+      "yieldnspread",
+      "shinhanresearch",
+      "athletes_village",
+      "bio_shinhan",
+      "goupstock",
+      "rafikiresearch",
+      "maddingStock",
+      "globaletfi"
+    ],
+    "observed_post_count": 23,
+    "ranking_complete": false,
+    "channels_with_verified_posts": [
+      "FastStockNews",
+      "YeouidoStory2",
+      "bornlupin",
+      "corevalue",
+      "insidertracking"
+    ],
+    "stage": "collecting",
+    "searfin_status": "공개 목록에서 10월 16일 본문은 읽혔지만 오늘 리비전의 글번호·직접 URL·게시시각은 미확인. 전일 수치를 오늘로 재사용하지 않음.",
+    "coverage_limit": "공개 목록 캐시·누락 메타데이터·전수 스크롤 미완료. 이미지·영상·PDF 내부와 연결 기사 전문은 별도 미검증.",
+    "failed_reason": "기본 공개 경로 실패 후 대체 경로에서도 당일 직접 글번호·URL 또는 필수 메타데이터 검증 불가"
+  }
+}
