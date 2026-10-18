@@ -3,11 +3,11 @@
   "status": "running",
   "stage": "collecting",
   "started_at_kst": "2026-10-18T21:24:20+09:00",
-  "updated_at_kst": "2026-10-18T21:31:30+09:00",
+  "updated_at_kst": "2026-10-18T21:32:03+09:00",
   "ended_at_kst": null,
   "attempt": 1,
   "verified_posts": 23,
-  "checked_channels": 50,
+  "checked_channels": 59,
   "verified_full_channels": 0,
   "failed_channels": [
     "yeouido_lab",
@@ -16,7 +16,8 @@
     "pikachu_aje",
     "earlystock1",
     "macrojunglemicrolens",
-    "awake_realtimecheck"
+    "awake_realtimecheck",
+    "goupstock"
   ],
   "published_paths": [
     "reports/2026-10-18.json",
