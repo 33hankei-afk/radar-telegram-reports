@@ -1,10 +1,10 @@
 {
   "date_kst": "2026-10-19",
-  "status": "running",
-  "stage": "verifying",
+  "status": "partial",
+  "stage": "finished",
   "started_at_kst": "2026-10-19T21:48:32.000+09:00",
-  "updated_at_kst": "2026-10-19T22:11:40.449+09:00",
-  "ended_at_kst": null,
+  "updated_at_kst": "2026-10-19T22:12:43.278+09:00",
+  "ended_at_kst": "2026-10-19T22:12:43.000+09:00",
   "attempt": 1,
   "verified_posts": 308,
   "checked_channels": 59,
@@ -79,5 +79,23 @@
       "status": "succeeded",
       "commit_sha": "b1229a3b9220a9f2eccef9df8ab735eaf06a8ad7"
     }
-  ]
+  ],
+  "metadata_unverified_candidates_including_older": 147,
+  "quota_unverified_candidates": 202,
+  "excluded_candidates_total": 349,
+  "verified_file_shas": {
+    "reports/2026-10-19.json": "3a5bfdd081e6264a7f7944a3b1d36efadf887082",
+    "reports/2026-10-19.md": "04551aebfbdd0e77a2e8cd9c16005c2a49532a80",
+    "latest.md": "04551aebfbdd0e77a2e8cd9c16005c2a49532a80",
+    "latest.json": "3a5bfdd081e6264a7f7944a3b1d36efadf887082"
+  },
+  "verification": {
+    "repository_validator": "passed",
+    "schema_constraints": "passed_by_stdlib_checker",
+    "direct_url_references": "passed",
+    "theme_primary_unique": true,
+    "theme_total": 167,
+    "github_readback_exact": true,
+    "latest_matches_dated_report": true
+  }
 }
