@@ -3,11 +3,11 @@
   "status": "running",
   "stage": "collecting",
   "started_at_kst": "2026-10-19T21:48:32.000+09:00",
-  "updated_at_kst": "2026-10-19T21:52:04.581+09:00",
+  "updated_at_kst": "2026-10-19T21:52:13.811+09:00",
   "ended_at_kst": null,
   "attempt": 1,
   "verified_posts": 10,
-  "checked_channels": 16,
+  "checked_channels": 21,
   "verified_full_channels": 0,
   "failed_channels": [
     "yeouido_lab"
