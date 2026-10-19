@@ -3,11 +3,11 @@
   "status": "running",
   "stage": "collecting",
   "started_at_kst": "2026-10-19T21:48:32.000+09:00",
-  "updated_at_kst": "2026-10-19T21:53:23.143+09:00",
+  "updated_at_kst": "2026-10-19T21:53:36.935+09:00",
   "ended_at_kst": null,
   "attempt": 1,
   "verified_posts": 10,
-  "checked_channels": 51,
+  "checked_channels": 59,
   "verified_full_channels": 0,
   "failed_channels": [
     "yeouido_lab",
@@ -18,7 +18,10 @@
     "huhpharm",
     "macrojunglemicrolens",
     "awake_realtimecheck",
-    "eqmirae"
+    "eqmirae",
+    "yieldnspread",
+    "goupstock",
+    "globaletfi"
   ],
   "published_paths": [
     "reports/2026-10-19.json",
