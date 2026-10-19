@@ -3,7 +3,7 @@
   "status": "running",
   "stage": "collecting",
   "started_at_kst": "2026-10-19T21:48:32.000+09:00",
-  "updated_at_kst": "2026-10-19T22:08:17.496+09:00",
+  "updated_at_kst": "2026-10-19T22:08:52.052+09:00",
   "ended_at_kst": null,
   "attempt": 1,
   "verified_posts": 308,
@@ -27,7 +27,8 @@
   ],
   "errors": [
     "전수 스크롤 미완료: 공개 목록 일부/캐시 및 원문 메타데이터 누락.",
-    "SEARFin 당일 리비전 본문은 관측했으나 직접 글번호·URL 검증 불가."
+    "SEARFin 당일 리비전 본문은 관측했으나 직접 글번호·URL 검증 불가.",
+    "추가 원문 202건을 읽는 단계에서 Exa HTTP 402 크레딧 한도 초과. 당일 검증으로 간주하지 않음."
   ],
   "publication_events": [
     {
