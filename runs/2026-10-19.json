@@ -3,7 +3,7 @@
   "status": "running",
   "stage": "collecting",
   "started_at_kst": "2026-10-19T21:48:32.000+09:00",
-  "updated_at_kst": "2026-10-19T21:59:24.758+09:00",
+  "updated_at_kst": "2026-10-19T22:04:06.805+09:00",
   "ended_at_kst": null,
   "attempt": 1,
   "verified_posts": 308,
@@ -25,7 +25,10 @@
     "latest.md",
     "latest.json"
   ],
-  "errors": [],
+  "errors": [
+    "전수 스크롤 미완료: 공개 목록 일부/캐시 및 원문 메타데이터 누락.",
+    "SEARFin 당일 리비전 본문은 관측했으나 직접 글번호·URL 검증 불가."
+  ],
   "publication_events": [
     {
       "path": "reports/2026-10-19.json",
