@@ -3,10 +3,10 @@
   "status": "running",
   "stage": "collecting",
   "started_at_kst": "2026-10-19T21:48:32.000+09:00",
-  "updated_at_kst": "2026-10-19T21:57:32.565+09:00",
+  "updated_at_kst": "2026-10-19T21:58:25.180+09:00",
   "ended_at_kst": null,
   "attempt": 1,
-  "verified_posts": 158,
+  "verified_posts": 221,
   "checked_channels": 59,
   "verified_full_channels": 0,
   "failed_channels": [
