@@ -1,0 +1,311 @@
+{
+  "assessments": {
+    "ai_positioning": {
+      "confidence": "낮음",
+      "counter_ids": [],
+      "evidence_ids": [],
+      "label": "판단 자료 부족",
+      "limitations": [
+        "전체 헤지펀드의 실제 포지션을 추정한 수치가 아닙니다."
+      ],
+      "summary": "원문 검증 자료를 기다립니다."
+    },
+    "korea_path": {
+      "confidence": "낮음",
+      "counter_ids": [],
+      "evidence_ids": [],
+      "label": "판단 자료 부족",
+      "limitations": [
+        "전체 헤지펀드의 실제 포지션을 추정한 수치가 아닙니다."
+      ],
+      "summary": "원문 검증 자료를 기다립니다."
+    },
+    "liquidity": {
+      "confidence": "낮음",
+      "counter_ids": [],
+      "evidence_ids": [],
+      "label": "판단 자료 부족",
+      "limitations": [
+        "전체 헤지펀드의 실제 포지션을 추정한 수치가 아닙니다."
+      ],
+      "summary": "원문 검증 자료를 기다립니다."
+    },
+    "pressure": {
+      "confidence": "낮음",
+      "counter_ids": [],
+      "evidence_ids": [],
+      "label": "판단 자료 부족",
+      "limitations": [
+        "전체 헤지펀드의 실제 포지션을 추정한 수치가 아닙니다."
+      ],
+      "summary": "원문 검증 자료를 기다립니다."
+    }
+  },
+  "complete": true,
+  "core_targets": [
+    {
+      "change": "미확인",
+      "evidence_ids": [],
+      "focus": "AI·M7 과밀 / 옵션 / 포지션 비대칭",
+      "id": "tuteja",
+      "institution": "Goldman Sachs",
+      "name": "Shawn Tuteja",
+      "role": "ETF·맞춤형 바스켓 변동성 트레이딩",
+      "summary_ko": "원문 검증 일보 대기"
+    },
+    {
+      "change": "미확인",
+      "evidence_ids": [],
+      "focus": "펀드 자금흐름 / 현금·과열 / 자산배분",
+      "id": "hartnett",
+      "institution": "BofA Global Research",
+      "name": "Michael Hartnett",
+      "role": "최고 투자전략가 · Flow Show",
+      "summary_ko": "원문 검증 일보 대기"
+    },
+    {
+      "change": "미확인",
+      "evidence_ids": [],
+      "focus": "금리·채권 / 조달·유동성 / 위험자산 배분",
+      "id": "pimco",
+      "institution": "PIMCO",
+      "name": "PIMCO",
+      "role": "기관 · Ivascyn / Balls / Wilding 등",
+      "summary_ko": "원문 검증 일보 대기"
+    }
+  ],
+  "coverage": [
+    {
+      "items": 0,
+      "name": "Shawn Tuteja",
+      "note": "RSS 후보만 확인 · 원문/GPT 분석과 구분",
+      "status": "checked",
+      "url": "https://news.google.com/rss/search?q=%22Shawn+Tuteja%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "items": 0,
+      "name": "Michael Hartnett",
+      "note": "RSS 후보만 확인 · 원문/GPT 분석과 구분",
+      "status": "checked",
+      "url": "https://news.google.com/rss/search?q=%22Michael+Hartnett%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "items": 3,
+      "name": "PIMCO",
+      "note": "RSS 후보만 확인 · 원문/GPT 분석과 구분",
+      "status": "checked",
+      "url": "https://news.google.com/rss/search?q=PIMCO+%28Ivascyn+OR+Balls+OR+Wilding+OR+outlook+OR+flows%29+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "items": 2,
+      "name": "글로벌 포지션·프라임브로커",
+      "note": "RSS 후보만 확인 · 원문/GPT 분석과 구분",
+      "status": "checked",
+      "url": "https://news.google.com/rss/search?q=%28%22hedge+fund%22+OR+%22prime+broker%22%29+%28positioning+OR+deleveraging+OR+%22net+exposure%22+OR+%22gross+exposure%22%29+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "items": 2,
+      "name": "CTA·옵션·자금흐름",
+      "note": "RSS 후보만 확인 · 원문/GPT 분석과 구분",
+      "status": "checked",
+      "url": "https://news.google.com/rss/search?q=%28CTA+OR+%22volatility+control%22+OR+%22dealer+gamma%22+OR+%22short+covering%22+OR+%22fund+flows%22%29+%28stocks+OR+equity+OR+equities%29+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "items": 2,
+      "name": "국채·조달·캐리",
+      "note": "RSS 후보만 확인 · 원문/GPT 분석과 구분",
+      "status": "checked",
+      "url": "https://news.google.com/rss/search?q=%28%22treasury+basis%22+OR+%22basis+trade%22+OR+repo+OR+%22margin+call%22+OR+%22yen+carry%22%29+%28%22hedge+fund%22+OR+leverage+OR+trade%29+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "items": 0,
+      "name": "Reddit r/stocks",
+      "note": "RSS 후보만 확인 · 원문/GPT 분석과 구분",
+      "status": "checked",
+      "url": "https://www.reddit.com/r/stocks/new/.rss"
+    },
+    {
+      "items": 0,
+      "name": "Reddit r/investing",
+      "note": "HTTPError",
+      "status": "failed",
+      "url": "https://www.reddit.com/r/investing/new/.rss"
+    },
+    {
+      "items": 0,
+      "name": "Reddit r/wallstreetbets",
+      "note": "HTTPError",
+      "status": "failed",
+      "url": "https://www.reddit.com/r/wallstreetbets/new/.rss"
+    }
+  ],
+  "coverage_note": "자동 공개 RSS 후보 수집입니다. 제목만으로 실제 헤지펀드 포지션이나 매수·매도 압력을 판단하지 않습니다.",
+  "date_kst": "2026-10-21",
+  "entries": [
+    {
+      "access": "headline_only",
+      "actors": [
+        "pimco"
+      ],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:c3b75a648657ac585fc1239a",
+      "id": "D50f3c41cc4f4c6cc",
+      "mechanisms": [],
+      "published_at_kst": "2026-10-21T01:24:21+09:00",
+      "published_date": "2026-10-21",
+      "publisher": "Morgan Stanley",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "PIMCO Group's CIO Dan Ivascyn: Hard Lessons - Morgan Stanley",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPN0tsNkxOcmhsS1ZDa3BVVHh0a2NVTjVlcFFjY0R1aDdndjN1WWo2STRlUzV6SS1yTXNsZXlUZkNFVVVEd2NqNW0tN0JRYWVMQW5OVjdESDJ0d1hZYzRJYWZsbzFNUzFkQVkxOGZ4Y3pGa29QcTVHRjExaHAxTEdfMVpHa3pGQk1tOWIyZ25BNkdGazNWUlJlbEV3?oc=5"
+    },
+    {
+      "access": "headline_only",
+      "actors": [
+        "pimco"
+      ],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:7c0b47160f231780822fa9f6",
+      "id": "D854234538bc1f16e",
+      "mechanisms": [],
+      "published_at_kst": "2026-10-20T09:33:00+09:00",
+      "published_date": "2026-10-20",
+      "publisher": "24/7 Wall St.",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "Forget PIMCO's PDI. BlackRock's DVY Returned 171.32% Over Ten Years Against PDI's 77.64%. - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMU44LXNYRS1DcjE5aHM5QllFekh5Mi1MRjctNXpQVlF3WWNrVWx6REpPd1VtSXo2N2J4NXlMMnJkUnZTYlY5S1dGNl9QOVA2VUNUN21YZk9zbk5hNC1JNVB1RDJEQ2xCckFqejYzb1A4WjNqU3Rvc2xGa3dDaC0yU2hsdy1Rc18wRmhyZHgwVzhkeDFhWlVuRXhnRVF5M2YzUEFuSUdhb3BhSXhsT0NjQ1RCa2dZaXlnMkxrT1ZkM3gyWXhRT2oxQkR3?oc=5"
+    },
+    {
+      "access": "headline_only",
+      "actors": [
+        "pimco"
+      ],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:33cc7d332cf8d1939af38324",
+      "id": "D1f86a86c42b12352",
+      "mechanisms": [],
+      "published_at_kst": "2026-10-20T09:59:42+09:00",
+      "published_date": "2026-10-20",
+      "publisher": "Pluang",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "BlackRock's DVY ETF outperformed PIMCO's PDI by nearly 100% over 10 years despite lower monthly payouts. - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTUVLTWJEN0NqcnIwMGlqZC1hdlVZZjA4bTMwaG1WLU1vWDVCSy1lU3pHUlBDZGc3S0pTMjVnTHBVMl9iNGtEdGhtRVgyUkktSmcyWU9xNEhaWjdfNkZhd0VjSUgycTBvdHlBNmF4N2NybTQ3cHRSaGxWRW5DR1ZuM1V1MVVhQmpGWmZsVEdoN1d5NG93d21iUDB3?oc=5"
+    },
+    {
+      "access": "headline_only",
+      "actors": [],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:3bb5b8feeeb5dfa8dcb91b92",
+      "id": "D17736c1045b62a30",
+      "mechanisms": [],
+      "published_at_kst": "2026-10-21T04:39:03+09:00",
+      "published_date": "2026-10-21",
+      "publisher": "KuCoin",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "BREAKING: Hedge funds sold more global technology stocks in - KuCoin",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE04XzFvdmltU002Tm5kVndnSV9URGFkNVJRYm11THBvN1lobHpmN1Ayek1sU1JYck1YSjY0aGpjR1JXZTlialRCVlc5UVlORmZTVVNZS2ZoclkyTUg1X0FZWl9Xc2ZXT3oyZWthckMtREpwb3M?oc=5"
+    },
+    {
+      "access": "headline_only",
+      "actors": [],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:f3df1fb1af4c100517e61d90",
+      "id": "Db9602d78641b53a5",
+      "mechanisms": [],
+      "published_at_kst": "2026-10-20T18:00:00+09:00",
+      "published_date": "2026-10-20",
+      "publisher": "Kalkine India",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "Hedge Funds Cut Tech Stocks at Record Pace as AI Trade Weakens - Kalkine India",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxON2FjSWRuUWVjaGNqb0RrRVlKZ1psMVhva1ZOQjRfcDlHYnRaT1hVcUo3OEdDSVNDUHkxYUNJTmpTTG1TbWxEaFZ0U0MxQkFDdmtab09SdW56REQtZXNrSDV0TVRRS3BndDhrY3FuY3F5Vy0xWjZVRE5oM09lUzFZS0RpVTc3SzJDV2ZMSzVpVkMxaVJlWUQ2RmtpbThGUlloOEJiSjNXS1lwdlFoMjUybXY0NkR0X0Rv?oc=5"
+    },
+    {
+      "access": "headline_only",
+      "actors": [],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:a567588d322d256b237ca754",
+      "id": "D24134e0b90a46214",
+      "mechanisms": [],
+      "published_at_kst": "2026-10-20T20:55:32+09:00",
+      "published_date": "2026-10-20",
+      "publisher": "StreetInsider",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "Citi sees Europe as positioning winner as bearish bets on U.S. stocks mount - StreetInsider",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZl95ZkNZOVRpeVp0Q1VqTEtLZ3JJYVdQZ01aWlNRV1oxSk95SXNuZldDT0I0czBDVkFaX1M3M2t0TDhKMFdDemtJalUxOGUtNG8yZ0VDcldaZHdUS2xITng3NXZzbE5ZSzJfM3g5Q1JFNHJDTmZvTS1VeFltcTBNU0hvazREd295ZERXcnpDbVlWV0NpaFJrZG9OdVNFTUhFbDdUNElMQ2t4VXZPQ29CVEkyLTVDd0NVM3Q5OERsUXU5eFQ4OXhITHJlbkg?oc=5"
+    },
+    {
+      "access": "headline_only",
+      "actors": [],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:6e4a76fbce53e1165a793898",
+      "id": "D4b47575ef2bff0fb",
+      "mechanisms": [],
+      "published_at_kst": "2026-10-20T21:09:49+09:00",
+      "published_date": "2026-10-20",
+      "publisher": "The Full FX",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "Macro Tempers Hedge Funds’ Losses - The Full FX",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE95SGhBXzFrUEJic2tSTlNUZDFaZ1JTbHZ5dFpUY0cxSGVZSzhfenNjTzhFbUp0QzlncDdHb0tFNmUybmJIMUcwVXh6R2pxLWh4VnNXcmtHdXpiempsVTVzLS1lUllWQQ?oc=5"
+    },
+    {
+      "access": "headline_only",
+      "actors": [],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:363567eecdd4d7628b3fc681",
+      "id": "D4b7a96ff7748c4f3",
+      "mechanisms": [],
+      "published_at_kst": "2026-10-21T01:15:02+09:00",
+      "published_date": "2026-10-21",
+      "publisher": "Newsquawk",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "Barclays (BARC LN) freed up cash for hedge funds as it hit loan limits, - Newsquawk",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONXJsSUdlN29fNEFab2U0dVBuUHlLazFBQW1qQVUzSW10ejRNd0VrNk0yN0R5QTdsaHdCdUw3UFVCR3ZVek5ObVRyWGNJNklpOFBjWTVlODZRUGMyaEc4M0J3TGNuVndmRDI0bTBBTnhMRHE3TU5SbmxDX1hOV2YwME5zdURwdnU5YjVZc2diVTMwaGhINVRNTnducTdud25FWGIzNVJKdw?oc=5"
+    },
+    {
+      "access": "headline_only",
+      "actors": [],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:19154afc8cc51752ce6cf411",
+      "id": "D64579e3d6a8c53c2",
+      "mechanisms": [],
+      "published_at_kst": "2026-10-20T23:29:34+09:00",
+      "published_date": "2026-10-20",
+      "publisher": "eFinancialCareers",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "London's macro hedge fund pain as up to 100 people are out: \"Everyone has blown up\" - eFinancialCareers",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdno0WFlGaTlMUXVtSEJZUElrMjQ0TU5WdU9hMW4wZ1picDVjeWVTSmV4c0hyWE9xeUdFT2ZacHpPOGlQWDJUUkZGQTZvLV9hZ0FZTjBsc2t5aFBkT3RSWWUxWUU1MnhIcXpzcXAwY0tPS0tlMGkwN0Vxc3hkWDNfTGZMT2ViSk9vdWZ0bUNNcmowVmE4LXI0V3pGNExQZ1laTC1pS1RYeWlRR2trMjZTUkdPMUZRS0pUQVp3?oc=5"
+    }
+  ],
+  "generated_at_kst": "2026-10-21T08:29:58.603463+09:00",
+  "producer": "rss_discovery",
+  "schema": "global_position_v1",
+  "window_end_kst": "2026-10-21T08:29:58.603463+09:00",
+  "window_start_kst": "2026-10-20T08:29:58.603463+09:00",
+  "content_sha256": "7dc963009856f75f31942ab50109ef1b4bfc350bb8b3fc69e73a84d41f75e7a4"
+}
