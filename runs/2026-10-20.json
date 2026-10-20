@@ -3,14 +3,17 @@
   "status": "running",
   "stage": "collecting",
   "started_at_kst": "2026-10-20T21:21:03.000+09:00",
-  "updated_at_kst": "2026-10-20T21:23:25.909+09:00",
+  "updated_at_kst": "2026-10-20T21:23:45.316+09:00",
   "ended_at_kst": null,
   "attempt": 1,
   "verified_posts": 0,
-  "checked_channels": 20,
+  "checked_channels": 35,
   "verified_full_channels": 0,
   "failed_channels": [
-    "yeouido_lab"
+    "yeouido_lab",
+    "aetherjapanresearch",
+    "jstockclass",
+    "pikachu_aje"
   ],
   "published_paths": [],
   "errors": [
@@ -35,6 +38,18 @@
     "kwusa",
     "hs_academy",
     "bumgore",
-    "hanachina"
+    "hanachina",
+    "brain_and_body_research",
+    "hedgecat0301",
+    "ehdwl",
+    "pharmbiohana",
+    "sypark_strategy",
+    "habit4117",
+    "meritz_research",
+    "magonia_b",
+    "jeilstock",
+    "stock_messenger",
+    "HanaResearch",
+    "kimcharger"
   ]
 }
