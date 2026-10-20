@@ -1,15 +1,17 @@
 {
   "date_kst": "2026-10-20",
   "status": "running",
-  "stage": "started",
+  "stage": "collecting",
   "started_at_kst": "2026-10-20T21:21:03.000+09:00",
-  "updated_at_kst": "2026-10-20T21:21:03.000+09:00",
+  "updated_at_kst": "2026-10-20T21:21:59.255+09:00",
   "ended_at_kst": null,
   "attempt": 1,
   "verified_posts": 0,
-  "checked_channels": 0,
+  "checked_channels": 5,
   "verified_full_channels": 0,
   "failed_channels": [],
   "published_paths": [],
-  "errors": []
+  "errors": [
+    "Exa HTTP 402: credits limit exceeded. 추가 유료 원문 읽기를 중단하고 공개 웹 대체 경로 점검 중."
+  ]
 }
