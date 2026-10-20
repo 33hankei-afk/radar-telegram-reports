@@ -3,15 +3,38 @@
   "status": "running",
   "stage": "collecting",
   "started_at_kst": "2026-10-20T21:21:03.000+09:00",
-  "updated_at_kst": "2026-10-20T21:21:59.255+09:00",
+  "updated_at_kst": "2026-10-20T21:23:25.909+09:00",
   "ended_at_kst": null,
   "attempt": 1,
   "verified_posts": 0,
-  "checked_channels": 5,
+  "checked_channels": 20,
   "verified_full_channels": 0,
-  "failed_channels": [],
+  "failed_channels": [
+    "yeouido_lab"
+  ],
   "published_paths": [],
   "errors": [
     "Exa HTTP 402: credits limit exceeded. 추가 유료 원문 읽기를 중단하고 공개 웹 대체 경로 점검 중."
+  ],
+  "partial_channels": [
+    "yeouidostory2",
+    "insidertracking",
+    "faststocknews",
+    "bornlupin",
+    "corevalue",
+    "one_going",
+    "bullishbee11",
+    "gaoshoukorea",
+    "faststocknewsusa",
+    "tazastock",
+    "growthresearch",
+    "ym_research",
+    "bulls_pirates",
+    "shmstory",
+    "realtime_stock_news",
+    "kwusa",
+    "hs_academy",
+    "bumgore",
+    "hanachina"
   ]
 }
