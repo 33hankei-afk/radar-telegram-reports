@@ -1,10 +1,10 @@
 {
   "date_kst": "2026-10-20",
-  "status": "running",
-  "stage": "collecting",
+  "status": "failed",
+  "stage": "finished",
   "started_at_kst": "2026-10-20T21:21:03.000+09:00",
-  "updated_at_kst": "2026-10-20T21:24:10.702+09:00",
-  "ended_at_kst": null,
+  "updated_at_kst": "2026-10-20T21:24:44.565+09:00",
+  "ended_at_kst": "2026-10-20T21:24:44.565+09:00",
   "attempt": 1,
   "verified_posts": 0,
   "checked_channels": 59,
@@ -21,7 +21,9 @@
   ],
   "published_paths": [],
   "errors": [
-    "Exa HTTP 402: credits limit exceeded. 추가 유료 원문 읽기를 중단하고 공개 웹 대체 경로 점검 중."
+    "Exa HTTP 402: credits limit exceeded. 추가 유료 원문 읽기를 중단하고 공개 웹 대체 경로 점검 중.",
+    "공개 웹 대체 경로에서 절대 게시일 확인 불가. 실제 발견된 FastStockNews 126759~126761 개별 링크는 위젯 코드만 표시; 126761 embed 및 /s/개별 문맥 경로 접근 실패. 본문 날짜·연결 기사 날짜를 게시일로 대체하지 않음.",
+    "고정 8채널 및 SEARFin 공개 목록 접근 실패. verified_posts=0이므로 날짜별 빈 보고서와 latest 덮어쓰기를 수행하지 않음."
   ],
   "partial_channels": [
     "yeouidostory2",
@@ -77,5 +79,14 @@
     "globaletfi"
   ],
   "searfin_checked": true,
-  "searfin_verified_full": false
+  "searfin_verified_full": false,
+  "searfin_status": "failed",
+  "searfin_reason": "공개 /s/searfin 원문 목록 접근 실패(재시도 포함); 기본 채널 페이지는 소개만 표시하여 당일 리비전 검증 불가.",
+  "observed_candidate_rows_unverified": 745,
+  "coverage_note": "고정 59개 채널의 공개 목록 접근을 시도. 51개 목록은 본문·시각·조회수 일부가 읽혔으나 게시일 미표시로 KST 2026-10-20 게시글 판정 불가. 8개 목록 접근 실패(제한 재시도 포함). 당일 00:00까지 전수확인 0/59, 검증 게시글 0건. 이는 당일 게시글이 없음을 뜻하지 않는다. SEARFin 별도 원문 목록도 접근 실패. 수집·발행 실패로 기존 latest 유지.",
+  "retained_latest": {
+    "date_kst": "2026-10-19",
+    "sha": "3a5bfdd081e6264a7f7944a3b1d36efadf887082",
+    "unchanged": true
+  }
 }
