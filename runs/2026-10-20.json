@@ -3,11 +3,11 @@
   "status": "running",
   "stage": "collecting",
   "started_at_kst": "2026-10-20T21:21:03.000+09:00",
-  "updated_at_kst": "2026-10-20T21:23:57.330+09:00",
+  "updated_at_kst": "2026-10-20T21:24:10.702+09:00",
   "ended_at_kst": null,
   "attempt": 1,
   "verified_posts": 0,
-  "checked_channels": 50,
+  "checked_channels": 59,
   "verified_full_channels": 0,
   "failed_channels": [
     "yeouido_lab",
@@ -16,7 +16,8 @@
     "pikachu_aje",
     "earlystock1",
     "macrojunglemicrolens",
-    "awake_realtimecheck"
+    "awake_realtimecheck",
+    "goupstock"
   ],
   "published_paths": [],
   "errors": [
@@ -65,6 +66,16 @@
     "egzion",
     "cahier_de_market",
     "eqmirae",
-    "survival_DoPB"
-  ]
+    "survival_DoPB",
+    "report_figure_by_offset",
+    "yieldnspread",
+    "shinhanresearch",
+    "athletes_village",
+    "bio_shinhan",
+    "rafikiresearch",
+    "maddingStock",
+    "globaletfi"
+  ],
+  "searfin_checked": true,
+  "searfin_verified_full": false
 }
