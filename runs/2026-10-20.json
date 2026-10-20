@@ -3,17 +3,20 @@
   "status": "running",
   "stage": "collecting",
   "started_at_kst": "2026-10-20T21:21:03.000+09:00",
-  "updated_at_kst": "2026-10-20T21:23:45.316+09:00",
+  "updated_at_kst": "2026-10-20T21:23:57.330+09:00",
   "ended_at_kst": null,
   "attempt": 1,
   "verified_posts": 0,
-  "checked_channels": 35,
+  "checked_channels": 50,
   "verified_full_channels": 0,
   "failed_channels": [
     "yeouido_lab",
     "aetherjapanresearch",
     "jstockclass",
-    "pikachu_aje"
+    "pikachu_aje",
+    "earlystock1",
+    "macrojunglemicrolens",
+    "awake_realtimecheck"
   ],
   "published_paths": [],
   "errors": [
@@ -50,6 +53,18 @@
     "jeilstock",
     "stock_messenger",
     "HanaResearch",
-    "kimcharger"
+    "kimcharger",
+    "TNBfolio",
+    "huhpharm",
+    "meritz_tech",
+    "easobi",
+    "daegurr",
+    "sejongdata2013",
+    "smallcap",
+    "tlsrltnf",
+    "egzion",
+    "cahier_de_market",
+    "eqmirae",
+    "survival_DoPB"
   ]
 }
