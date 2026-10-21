@@ -5,10 +5,46 @@ on:
     - cron: '45 12 * * *'
     - cron: '15 13 * * *'
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'collection/request.json'
+      - 'scripts/telegram_public.py'
+      - 'scripts/collect_telegram_public.py'
+      - 'tests/test_telegram_public.py'
 permissions:
   contents: read
 jobs:
+  collect-public-evidence:
+    if: github.event_name == 'push' || github.event_name == 'workflow_dispatch'
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    permissions:
+      contents: write
+    concurrency:
+      group: domestic-telegram-public-evidence
+      cancel-in-progress: false
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Test date, permalink, counter and coverage guards
+        run: python -m unittest discover -s tests -p test_telegram_public.py
+      - name: Read original public Telegram HTML
+        env:
+          GH_EVIDENCE_TOKEN: ${{ github.token }}
+        run: python scripts/collect_telegram_public.py
+      - name: Retain full source for authenticated report verification
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: telegram-public-originals-${{ github.run_id }}
+          path: collection-private/full_source.json
+          retention-days: 3
+          if-no-files-found: warn
   check-publication:
+    if: github.event_name == 'schedule'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -33,3 +69,4 @@ jobs:
           if result['status'] not in ('published','published_partial'):
               raise SystemExit('Daily Telegram report missing/stale/invalid: '+str(result['errors']))
           PY
+
