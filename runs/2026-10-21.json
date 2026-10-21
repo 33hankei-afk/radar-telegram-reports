@@ -3,14 +3,17 @@
   "status": "running",
   "stage": "publishing",
   "started_at_kst": "2026-10-21T12:42:45+09:00",
-  "updated_at_kst": "2026-10-21T13:01:29+09:00",
+  "updated_at_kst": "2026-10-21T13:02:18+09:00",
   "ended_at_kst": null,
   "attempt": 1,
   "verified_posts": 1110,
   "checked_channels": 59,
   "verified_full_channels": 59,
   "failed_channels": [],
-  "published_paths": [],
+  "published_paths": [
+    "reports/2026-10-20.json",
+    "reports/2026-10-20.md"
+  ],
   "errors": [],
   "purpose": "국내 공개 원문 수집 경로 수리 및 전일 보고서 복구",
   "report_target_date_kst": "2026-10-20",
@@ -19,11 +22,11 @@
   "publication_attempts": [
     {
       "path": "reports/2026-10-20.json",
-      "status": "pending"
+      "status": "published"
     },
     {
       "path": "reports/2026-10-20.md",
-      "status": "pending"
+      "status": "published"
     },
     {
       "path": "latest.md",
