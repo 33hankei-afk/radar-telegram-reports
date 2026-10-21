@@ -38,7 +38,18 @@ def validate_report(data, markdown=None):
         except ValueError:
             errors.append(f"{context}: invalid ISO 8601 timestamp")
 
-    validate_time(data.get("observed_at_kst"), "observed_at_kst")
+    recovery = data.get("recovery")
+    validate_time(data.get("observed_at_kst"), "observed_at_kst", require_day=recovery is None)
+    if recovery is not None:
+        try:
+            observed = datetime.fromisoformat(data["observed_at_kst"])
+            if (not isinstance(recovery, dict) or recovery.get("target_date_kst") != data.get("date_kst")
+                    or recovery.get("recollected_at_kst") != observed.isoformat()
+                    or not isinstance(recovery.get("reason"), str) or not recovery["reason"].strip()
+                    or day is None or not timedelta(0) <= observed.date() - day <= timedelta(days=2)):
+                errors.append("recovery must preserve the target date and actual recollection time (within two days)")
+        except (KeyError, TypeError, ValueError):
+            errors.append("recovery: invalid recollection time")
     if not isinstance(data.get("coverage_note"), str):
         errors.append("coverage_note must be a string")
     entries = data.get("entries")
@@ -151,3 +162,4 @@ def main():
 
 if __name__ == "__main__":
     sys.exit(main())
+

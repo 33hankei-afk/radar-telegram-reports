@@ -90,6 +90,29 @@
         }
       },
       "additionalProperties": true
+    },
+    "recovery": {
+      "type": "object",
+      "required": [
+        "target_date_kst",
+        "recollected_at_kst",
+        "reason"
+      ],
+      "properties": {
+        "target_date_kst": {
+          "type": "string",
+          "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+        },
+        "recollected_at_kst": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "reason": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "additionalProperties": false
     }
   },
   "$defs": {
@@ -205,3 +228,4 @@
   },
   "additionalProperties": true
 }
+

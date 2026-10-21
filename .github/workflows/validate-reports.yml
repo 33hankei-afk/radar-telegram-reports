@@ -24,6 +24,8 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+      - name: Test public source and recovery date guards
+        run: python -m unittest discover -s tests
       - name: Validate archive and latest
         shell: bash
         run: |
@@ -50,3 +52,4 @@ jobs:
           x = json.loads(Path('/tmp/radar-health.json').read_text(encoding='utf-8'))
           assert x['status'] in ('published', 'published_partial'), x
           PY
+

@@ -55,3 +55,8 @@ python scripts/validate_report.py reports/YYYY-MM-DD.json --markdown reports/YYY
 ~~~
 
 GitHub Actions는 커밋 후 파일 검증을 수행합니다. 검증 통과 전까지 최신 데이터로 신뢰하면 안 됩니다.
+
+## Exa 장애 시 공개 원문 수집
+
+국내 수집은 Exa 크레딧에 의존하지 않는 공개 HTML 검증 경로를 제공합니다. 기존 작업은 `collection/request.json`에 실제 시각과 새 ID를 기록해 기존 워크플로의 수집 job을 요청하고, 검증된 원문 artifact로 한국어 보고서를 작성합니다. 기존 예약 시각은 유지합니다. source 수집 완료와 GPT 보고서 발행 완료를 구분합니다. 절차·검증·전일 복구 시각의 의미는 [국내 공개 원문 수집 문서](docs/TELEGRAM_PUBLIC_COLLECTION.md)를 따릅니다.
+

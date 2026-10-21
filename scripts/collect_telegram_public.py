@@ -94,6 +94,13 @@ def collect(request, writer, artifact_dir, fetch=None, clock=now_kst):
     ident, day = read_request(request, started)
     status_path = 'collection/status/' + ident + '.json'
     evidence_path = 'collection/snapshots/' + ident + '.json'
+    if hasattr(writer, 'read'):
+        previous, _ = writer.read(status_path)
+        if previous is not None:
+            if previous.get('stage') == 'finished':
+                print('Request already finished; preserve its actual observation and counters.', flush=True)
+                return previous
+            raise ValueError('request ID already in use; create a fresh request ID')
     state = {'schema': 'telegram_collection_status_v1', 'request_id': ident,
              'date_kst': day.isoformat(), 'execution_date_kst': started.date().isoformat(),
              'status': 'running', 'stage': 'started', 'started_at_kst': started.isoformat(),

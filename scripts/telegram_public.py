@@ -35,10 +35,13 @@ POST_ID = re.compile(r'^([A-Za-z0-9_]{5,32})/([1-9][0-9]*)$')
 VOID = {'br', 'img', 'hr', 'input', 'meta', 'link', 'source', 'area', 'wbr', 'embed', 'param', 'col'}
 TOPICS = re.compile(r'메모리|디램|낸드|반도체|파운드리|웨이퍼|전공정|후공정|팹리스|유리기판|'
                     r'인공지능|생성형|거대언어|데이터\s*센터|엔비디아|하이닉스|마이크론|삼성전자|'
-                    r'광통신|광반도체|실리콘\s*포토닉스|'
+                    r'광통신|광반도체|실리콘\s*포토닉스|광모듈|광인터커넥트|'
+                    r'패키징|인터포저|패키지\s*기판|전력관리반도체|게이트\s*드라이버|'
+                    r'솔리다임|SK\s*하닉|딥시크|앤트로픽|앤스로픽|오픈AI|'
                     r'\b(?:AI|HBM\w*|DRAM|NAND|DDR\w*|LPDDR\w*|GDDR\w*|memory|'
                     r'semiconductor\w*|chip\w*|TSMC|NVIDIA|NVDA|AMD|ASML|AVGO|INTC|'
-                    r'Micron|GPU|CPU|ASIC|CoWoS|CoPoS|CPO|EML|LLM\w*|GPT\w*|'
+                    r'Micron|GPU|CPU|ASIC|CoWoS|CoPoS|SoIC|EMIB|CPO|EML|InP|'
+                    r'CW-DFB|ELSFP|SOCAMM\w*|CXL|eSSD|SSD|PMIC|BCD|DrMOS|SPS|LLM\w*|GPT\w*|'
                     r'ChatGPT|OpenAI|Anthropic|Claude|Gemini|artificial intelligence|'
                     r'data\s*cent(?:er|re)s?)\b', re.I)
 REVISION = re.compile(r'영업(?:이익|익).*컨센.*(?:리비전|수정)|'
@@ -225,7 +228,7 @@ def parse_page(source, requested_channel, observed_at):
                       'body_sha256': hashlib.sha256(body.encode()).hexdigest(),
                       'pinned': pinned, 'needs_media_review': media or not body,
                       'verified': not problems, 'problems': problems,
-                      'related': bool(TOPICS.search(body)),
+                      'related': bool(TOPICS.search(re.sub(r'https?://\S+|t\.me/\S+', '', body))),
                       'is_revision': channel.lower() == 'searfin' and bool(REVISION.search(body)),
                       'revision_rows': revision_values(body) if channel.lower() == 'searfin' and REVISION.search(body) else []})
     return posts, older, warnings
