@@ -33,7 +33,7 @@ maddingStock globaletfi'''.split()
 assert len(CHANNELS) == len({c.lower() for c in CHANNELS}) == 59
 POST_ID = re.compile(r'^([A-Za-z0-9_]{5,32})/([1-9][0-9]*)$')
 VOID = {'br', 'img', 'hr', 'input', 'meta', 'link', 'source', 'area', 'wbr', 'embed', 'param', 'col'}
-TOPICS = re.compile(r'메모리|디램|낸드|반도체|파운드리|웨이퍼|전공정|후공정|팹리스|유리기판|'
+TOPICS = re.compile(r'메모리|디램|낸드|반도체|파운드리|웨이퍼|팹리스|유리기판|'
                     r'인공지능|생성형|거대언어|데이터\s*센터|엔비디아|하이닉스|마이크론|삼성전자|'
                     r'광통신|광반도체|실리콘\s*포토닉스|광모듈|광인터커넥트|'
                     r'패키징|인터포저|패키지\s*기판|전력관리반도체|게이트\s*드라이버|'
