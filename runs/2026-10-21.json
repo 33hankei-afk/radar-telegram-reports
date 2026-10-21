@@ -3,15 +3,13 @@
   "status": "running",
   "stage": "collecting",
   "started_at_kst": "2026-10-21T21:21:18+09:00",
-  "updated_at_kst": "2026-10-21T21:22:48+09:00",
+  "updated_at_kst": "2026-10-21T21:23:28+09:00",
   "ended_at_kst": null,
   "attempt": 2,
-  "verified_posts": 792,
-  "checked_channels": 34,
-  "verified_full_channels": 32,
-  "failed_channels": [
-    "meritz_research"
-  ],
+  "verified_posts": 1104,
+  "checked_channels": 59,
+  "verified_full_channels": 57,
+  "failed_channels": [],
   "published_paths": [],
   "errors": [
     "aetherjapanresearch: #25962 조회수 표기 누락/무효",
@@ -20,7 +18,8 @@
   "report_target_date_kst": "2026-10-21",
   "source_collection_status_path": "collection/status/20261021T2121340900-daily21.json",
   "source_collection_workflow_run_id": 39598973535,
-  "source_collection_complete": false,
+  "source_collection_complete": true,
+  "searfin_status": "complete",
   "history": [
     {
       "date_kst": "2026-10-21",
