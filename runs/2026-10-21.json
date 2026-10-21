@@ -1,9 +1,9 @@
 {
   "date_kst": "2026-10-21",
   "status": "running",
-  "stage": "collecting",
+  "stage": "publishing",
   "started_at_kst": "2026-10-21T12:42:45+09:00",
-  "updated_at_kst": "2026-10-21T12:45:20.472861+09:00",
+  "updated_at_kst": "2026-10-21T13:01:29+09:00",
   "ended_at_kst": null,
   "attempt": 1,
   "verified_posts": 1110,
@@ -15,5 +15,23 @@
   "purpose": "국내 공개 원문 수집 경로 수리 및 전일 보고서 복구",
   "report_target_date_kst": "2026-10-20",
   "source_collection_status_path": "collection/status/20261021T1243020900-repair20.json",
-  "coverage_note": "고정 59채널 및 SEARFin의 2026-10-20 공개 텍스트·메타데이터를 자정 경계까지 재조회. 실제 조회 2026-10-21. 보고서 작성·발행 검증 중."
+  "coverage_note": "고정 59채널 및 SEARFin의 2026-10-20 공개 텍스트·메타데이터를 자정 경계까지 재조회. 실제 조회 2026-10-21. 보고서 작성·발행 검증 중.",
+  "publication_attempts": [
+    {
+      "path": "reports/2026-10-20.json",
+      "status": "pending"
+    },
+    {
+      "path": "reports/2026-10-20.md",
+      "status": "pending"
+    },
+    {
+      "path": "latest.md",
+      "status": "pending"
+    },
+    {
+      "path": "latest.json",
+      "status": "pending"
+    }
+  ]
 }
