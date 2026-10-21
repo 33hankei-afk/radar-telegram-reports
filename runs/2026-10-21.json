@@ -1,10 +1,10 @@
 {
   "date_kst": "2026-10-21",
-  "status": "running",
-  "stage": "verifying",
+  "status": "partial",
+  "stage": "finished",
   "started_at_kst": "2026-10-21T12:42:45+09:00",
-  "updated_at_kst": "2026-10-21T13:02:46+09:00",
-  "ended_at_kst": null,
+  "updated_at_kst": "2026-10-21T13:09:08+09:00",
+  "ended_at_kst": "2026-10-21T13:09:08+09:00",
   "attempt": 1,
   "verified_posts": 1110,
   "checked_channels": 59,
@@ -20,23 +20,44 @@
   "purpose": "국내 공개 원문 수집 경로 수리 및 전일 보고서 복구",
   "report_target_date_kst": "2026-10-20",
   "source_collection_status_path": "collection/status/20261021T1243020900-repair20.json",
-  "coverage_note": "고정 59채널 및 SEARFin의 2026-10-20 공개 텍스트·메타데이터를 자정 경계까지 재조회. 실제 조회 2026-10-21. 보고서 작성·발행 검증 중.",
+  "coverage_note": "20일 복구: 59/59 공개 페이지 자정 경계 확인, SEARFin 별도 확인. 검증 원문 1,110건 중 TOP20·관련 371건·컨센서스 4회 원문을 중복 없이 387개 entry로 수록. 이미지/첨부 418건 미판독. 조회수는 21일 실제 재조회 당시 원문 표시.",
   "publication_attempts": [
     {
       "path": "reports/2026-10-20.json",
-      "status": "published"
+      "status": "verified"
     },
     {
       "path": "reports/2026-10-20.md",
-      "status": "published"
+      "status": "verified"
     },
     {
       "path": "latest.md",
-      "status": "published"
+      "status": "verified"
     },
     {
       "path": "latest.json",
-      "status": "published"
+      "status": "verified"
     }
-  ]
+  ],
+  "source_collection_workflow_run_id": 39540140207,
+  "source_collection_complete": true,
+  "report_verified": true,
+  "source_type": "public_html",
+  "explanation": "20일 실패 자료 복구를 위한 21일 실제 수리 실행. 59채널 및 SEARFin 텍스트·메타데이터 1,110건 확인, 20일 보고서 4개 경로 게시·재조회 완료. 이미지/첨부 418건 미판독 및 관련 글의 발췌 범위를 명시한 부분 보고서. 21일 당일 보고서 전체를 수집·발행했다는 뜻은 아님.",
+  "tests": {
+    "desktop": 96,
+    "server": 15,
+    "package_upgrade_rollback": "passed",
+    "published_report_client_cache_restart": "passed",
+    "github_validation_workflow_run_id": 39542083795,
+    "github_validation": "success"
+  },
+  "desktop_patch": {
+    "version": "0.3.85",
+    "file": "DayTradingRadar_Patch_v0.3.85.vbs",
+    "sha256": "81cadba81d4c62482ae023c8c7cc5c66e8b8080562632288cd9b198486f8eb90",
+    "windows_execution": "not_executed"
+  },
+  "existing_daily_task_enabled": true,
+  "existing_schedule_unchanged": true
 }
