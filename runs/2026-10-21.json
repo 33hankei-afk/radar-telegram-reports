@@ -1,0 +1,17 @@
+{
+  "date_kst": "2026-10-21",
+  "status": "running",
+  "stage": "started",
+  "started_at_kst": "2026-10-21T12:42:45+09:00",
+  "updated_at_kst": "2026-10-21T12:42:45+09:00",
+  "ended_at_kst": null,
+  "attempt": 1,
+  "verified_posts": 0,
+  "checked_channels": 0,
+  "verified_full_channels": 0,
+  "failed_channels": [],
+  "published_paths": [],
+  "errors": [],
+  "purpose": "국내 공개 원문 수집 경로 수리 및 전일 보고서 복구",
+  "report_target_date_kst": "2026-10-20"
+}
