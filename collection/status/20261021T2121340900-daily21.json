@@ -6,14 +6,16 @@
   "status": "running",
   "stage": "collecting",
   "started_at_kst": "2026-10-21T21:21:50.238517+09:00",
-  "updated_at_kst": "2026-10-21T21:22:21.640144+09:00",
+  "updated_at_kst": "2026-10-21T21:22:34.510373+09:00",
   "ended_at_kst": null,
-  "checked_channels": 14,
-  "verified_full_channels": 14,
-  "verified_posts": 522,
+  "checked_channels": 24,
+  "verified_full_channels": 23,
+  "verified_posts": 648,
   "searfin_status": "complete",
   "failed_channels": [],
-  "errors": [],
+  "errors": [
+    "aetherjapanresearch: #25962: view counter missing/invalid"
+  ],
   "evidence_path": "collection/snapshots/20261021T2121340900-daily21.json",
   "report_published": false
 }
