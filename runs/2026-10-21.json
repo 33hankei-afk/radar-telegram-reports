@@ -3,16 +3,17 @@
   "status": "running",
   "stage": "collecting",
   "started_at_kst": "2026-10-21T12:42:45+09:00",
-  "updated_at_kst": "2026-10-21T12:44:23.106038+09:00",
+  "updated_at_kst": "2026-10-21T12:45:20.472861+09:00",
   "ended_at_kst": null,
   "attempt": 1,
-  "verified_posts": 639,
-  "checked_channels": 24,
-  "verified_full_channels": 24,
+  "verified_posts": 1110,
+  "checked_channels": 59,
+  "verified_full_channels": 59,
   "failed_channels": [],
   "published_paths": [],
   "errors": [],
   "purpose": "국내 공개 원문 수집 경로 수리 및 전일 보고서 복구",
   "report_target_date_kst": "2026-10-20",
-  "source_collection_status_path": "collection/status/20261021T1243020900-repair20.json"
+  "source_collection_status_path": "collection/status/20261021T1243020900-repair20.json",
+  "coverage_note": "고정 59채널 및 SEARFin의 2026-10-20 공개 텍스트·메타데이터를 자정 경계까지 재조회. 실제 조회 2026-10-21. 보고서 작성·발행 검증 중."
 }
