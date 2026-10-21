@@ -1,7 +1,6 @@
 {
   "schema": "telegram_collection_request_v1",
-  "request_id": "20261021T1243020900-repair20",
-  "date_kst": "2026-10-20",
-  "requested_at_kst": "2026-10-21T12:43:02+09:00",
-  "purpose": "수집 실패 원인 수정 및 전일 원문 재검증"
+  "request_id": "20261021T2121340900-daily21",
+  "date_kst": "2026-10-21",
+  "requested_at_kst": "2026-10-21T21:21:34+09:00"
 }
