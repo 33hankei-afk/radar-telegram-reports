@@ -3,7 +3,7 @@
   "status": "running",
   "stage": "publishing",
   "started_at_kst": "2026-10-21T21:21:18+09:00",
-  "updated_at_kst": "2026-10-21T21:28:50+09:00",
+  "updated_at_kst": "2026-10-21T21:29:04+09:00",
   "ended_at_kst": null,
   "attempt": 2,
   "verified_posts": 1104,
@@ -12,7 +12,8 @@
   "failed_channels": [],
   "published_paths": [
     "reports/2026-10-21.json",
-    "reports/2026-10-21.md"
+    "reports/2026-10-21.md",
+    "latest.md"
   ],
   "errors": [
     "aetherjapanresearch: #25962 조회수 표기 누락/무효",
@@ -40,7 +41,7 @@
   "publication_attempts": {
     "reports/2026-10-21.json": "success",
     "reports/2026-10-21.md": "success",
-    "latest.md": "pending",
+    "latest.md": "success",
     "latest.json": "pending"
   }
 }
