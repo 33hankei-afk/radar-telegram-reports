@@ -1,10 +1,10 @@
 {
   "date_kst": "2026-10-21",
-  "status": "running",
-  "stage": "verifying",
+  "status": "partial",
+  "stage": "finished",
   "started_at_kst": "2026-10-21T21:21:18+09:00",
-  "updated_at_kst": "2026-10-21T21:29:21+09:00",
-  "ended_at_kst": null,
+  "updated_at_kst": "2026-10-21T21:29:52+09:00",
+  "ended_at_kst": "2026-10-21T21:29:52+09:00",
   "attempt": 2,
   "verified_posts": 1104,
   "checked_channels": 59,
@@ -44,5 +44,21 @@
     "reports/2026-10-21.md": "success",
     "latest.md": "success",
     "latest.json": "success"
+  },
+  "verification": {
+    "remote_reread": "passed",
+    "report_json_date_kst": "2026-10-21",
+    "latest_json_date_kst": "2026-10-21",
+    "report_latest_json_match": true,
+    "report_latest_md_match": true,
+    "entry_count": 420,
+    "top20_count": 20,
+    "theme_related_count": 401,
+    "consensus_up_count": 4,
+    "consensus_down_count": 8,
+    "body_hash_mismatches": 0,
+    "schema_validation": "passed",
+    "github_actions_validation_run_id": 39599978533,
+    "github_actions_validation": "success"
   }
 }
