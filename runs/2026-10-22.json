@@ -3,15 +3,16 @@
   "status": "running",
   "stage": "collecting",
   "started_at_kst": "2026-10-22T21:48:50+09:00",
-  "updated_at_kst": "2026-10-22T21:51:02.741553+09:00",
+  "updated_at_kst": "2026-10-22T21:51:27.536117+09:00",
   "ended_at_kst": null,
   "attempt": 1,
-  "verified_posts": 912,
-  "checked_channels": 44,
-  "verified_full_channels": 44,
+  "verified_posts": 1169,
+  "checked_channels": 59,
+  "verified_full_channels": 59,
   "failed_channels": [],
   "published_paths": [],
   "errors": [],
   "collection_request_id": "20261022T2149390900-daily21",
-  "collection_status_path": "collection/status/20261022T2149390900-daily21.json"
+  "collection_status_path": "collection/status/20261022T2149390900-daily21.json",
+  "collection_source_status": "complete"
 }
