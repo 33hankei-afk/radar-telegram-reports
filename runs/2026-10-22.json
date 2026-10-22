@@ -1,10 +1,10 @@
 {
   "date_kst": "2026-10-22",
-  "status": "running",
-  "stage": "verifying",
+  "status": "complete",
+  "stage": "finished",
   "started_at_kst": "2026-10-22T21:48:50+09:00",
-  "updated_at_kst": "2026-10-22T21:57:31+09:00",
-  "ended_at_kst": null,
+  "updated_at_kst": "2026-10-22T21:57:52+09:00",
+  "ended_at_kst": "2026-10-22T21:57:52+09:00",
   "attempt": 1,
   "verified_posts": 1169,
   "checked_channels": 59,
@@ -22,5 +22,17 @@
   "collection_source_status": "complete",
   "source_workflow_run_id": 39781580357,
   "source_artifact_id": 12427057618,
-  "source_artifact_sha256": "6f32f330d9ba2105ee1a26dc47d92cd0ffd50b994e9373beb5748392d6304da5"
+  "source_artifact_sha256": "6f32f330d9ba2105ee1a26dc47d92cd0ffd50b994e9373beb5748392d6304da5",
+  "report_entry_count": 395,
+  "theme_post_count": 375,
+  "consensus_up_count": 4,
+  "consensus_down_count": 12,
+  "media_unread_count": 405,
+  "verification": {
+    "schema_validation": "passed",
+    "dated_json_sha": "ca769edf177a9740a34942073def3c8da482bd65",
+    "latest_json_sha": "ca769edf177a9740a34942073def3c8da482bd65",
+    "dated_md_sha": "40fa07e9f13e952835555559dfa4e4663ec12492",
+    "latest_md_sha": "40fa07e9f13e952835555559dfa4e4663ec12492"
+  }
 }
