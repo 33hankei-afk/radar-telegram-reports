@@ -1,15 +1,17 @@
 {
   "date_kst": "2026-10-22",
   "status": "running",
-  "stage": "started",
+  "stage": "collecting",
   "started_at_kst": "2026-10-22T21:48:50+09:00",
-  "updated_at_kst": "2026-10-22T21:48:50+09:00",
+  "updated_at_kst": "2026-10-22T21:50:20.572141+09:00",
   "ended_at_kst": null,
   "attempt": 1,
-  "verified_posts": 0,
-  "checked_channels": 0,
-  "verified_full_channels": 0,
+  "verified_posts": 537,
+  "checked_channels": 14,
+  "verified_full_channels": 14,
   "failed_channels": [],
   "published_paths": [],
-  "errors": []
+  "errors": [],
+  "collection_request_id": "20261022T2149390900-daily21",
+  "collection_status_path": "collection/status/20261022T2149390900-daily21.json"
 }
