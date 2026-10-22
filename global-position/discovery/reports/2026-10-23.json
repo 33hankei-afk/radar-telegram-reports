@@ -1,0 +1,273 @@
+{
+  "assessments": {
+    "ai_positioning": {
+      "confidence": "낮음",
+      "counter_ids": [],
+      "evidence_ids": [],
+      "label": "판단 자료 부족",
+      "limitations": [
+        "전체 헤지펀드의 실제 포지션을 추정한 수치가 아닙니다."
+      ],
+      "summary": "원문 검증 자료를 기다립니다."
+    },
+    "korea_path": {
+      "confidence": "낮음",
+      "counter_ids": [],
+      "evidence_ids": [],
+      "label": "판단 자료 부족",
+      "limitations": [
+        "전체 헤지펀드의 실제 포지션을 추정한 수치가 아닙니다."
+      ],
+      "summary": "원문 검증 자료를 기다립니다."
+    },
+    "liquidity": {
+      "confidence": "낮음",
+      "counter_ids": [],
+      "evidence_ids": [],
+      "label": "판단 자료 부족",
+      "limitations": [
+        "전체 헤지펀드의 실제 포지션을 추정한 수치가 아닙니다."
+      ],
+      "summary": "원문 검증 자료를 기다립니다."
+    },
+    "pressure": {
+      "confidence": "낮음",
+      "counter_ids": [],
+      "evidence_ids": [],
+      "label": "판단 자료 부족",
+      "limitations": [
+        "전체 헤지펀드의 실제 포지션을 추정한 수치가 아닙니다."
+      ],
+      "summary": "원문 검증 자료를 기다립니다."
+    }
+  },
+  "complete": true,
+  "core_targets": [
+    {
+      "change": "미확인",
+      "evidence_ids": [],
+      "focus": "AI·M7 과밀 / 옵션 / 포지션 비대칭",
+      "id": "tuteja",
+      "institution": "Goldman Sachs",
+      "name": "Shawn Tuteja",
+      "role": "ETF·맞춤형 바스켓 변동성 트레이딩",
+      "summary_ko": "원문 검증 일보 대기"
+    },
+    {
+      "change": "미확인",
+      "evidence_ids": [],
+      "focus": "펀드 자금흐름 / 현금·과열 / 자산배분",
+      "id": "hartnett",
+      "institution": "BofA Global Research",
+      "name": "Michael Hartnett",
+      "role": "최고 투자전략가 · Flow Show",
+      "summary_ko": "원문 검증 일보 대기"
+    },
+    {
+      "change": "미확인",
+      "evidence_ids": [],
+      "focus": "금리·채권 / 조달·유동성 / 위험자산 배분",
+      "id": "pimco",
+      "institution": "PIMCO",
+      "name": "PIMCO",
+      "role": "기관 · Ivascyn / Balls / Wilding 등",
+      "summary_ko": "원문 검증 일보 대기"
+    }
+  ],
+  "coverage": [
+    {
+      "items": 0,
+      "name": "Shawn Tuteja",
+      "note": "RSS 후보만 확인 · 원문/GPT 분석과 구분",
+      "status": "checked",
+      "url": "https://news.google.com/rss/search?q=%22Shawn+Tuteja%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "items": 0,
+      "name": "Michael Hartnett",
+      "note": "RSS 후보만 확인 · 원문/GPT 분석과 구분",
+      "status": "checked",
+      "url": "https://news.google.com/rss/search?q=%22Michael+Hartnett%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "items": 1,
+      "name": "PIMCO",
+      "note": "RSS 후보만 확인 · 원문/GPT 분석과 구분",
+      "status": "checked",
+      "url": "https://news.google.com/rss/search?q=PIMCO+%28Ivascyn+OR+Balls+OR+Wilding+OR+outlook+OR+flows%29+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "items": 4,
+      "name": "글로벌 포지션·프라임브로커",
+      "note": "RSS 후보만 확인 · 원문/GPT 분석과 구분",
+      "status": "checked",
+      "url": "https://news.google.com/rss/search?q=%28%22hedge+fund%22+OR+%22prime+broker%22%29+%28positioning+OR+deleveraging+OR+%22net+exposure%22+OR+%22gross+exposure%22%29+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "items": 0,
+      "name": "CTA·옵션·자금흐름",
+      "note": "RSS 후보만 확인 · 원문/GPT 분석과 구분",
+      "status": "checked",
+      "url": "https://news.google.com/rss/search?q=%28CTA+OR+%22volatility+control%22+OR+%22dealer+gamma%22+OR+%22short+covering%22+OR+%22fund+flows%22%29+%28stocks+OR+equity+OR+equities%29+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "items": 2,
+      "name": "국채·조달·캐리",
+      "note": "RSS 후보만 확인 · 원문/GPT 분석과 구분",
+      "status": "checked",
+      "url": "https://news.google.com/rss/search?q=%28%22treasury+basis%22+OR+%22basis+trade%22+OR+repo+OR+%22margin+call%22+OR+%22yen+carry%22%29+%28%22hedge+fund%22+OR+leverage+OR+trade%29+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "items": 0,
+      "name": "Reddit r/stocks",
+      "note": "RSS 후보만 확인 · 원문/GPT 분석과 구분",
+      "status": "checked",
+      "url": "https://www.reddit.com/r/stocks/new/.rss"
+    },
+    {
+      "items": 0,
+      "name": "Reddit r/investing",
+      "note": "HTTPError",
+      "status": "failed",
+      "url": "https://www.reddit.com/r/investing/new/.rss"
+    },
+    {
+      "items": 0,
+      "name": "Reddit r/wallstreetbets",
+      "note": "HTTPError",
+      "status": "failed",
+      "url": "https://www.reddit.com/r/wallstreetbets/new/.rss"
+    }
+  ],
+  "coverage_note": "자동 공개 RSS 후보 수집입니다. 제목만으로 실제 헤지펀드 포지션이나 매수·매도 압력을 판단하지 않습니다.",
+  "date_kst": "2026-10-23",
+  "entries": [
+    {
+      "access": "headline_only",
+      "actors": [
+        "pimco"
+      ],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:89e2216a6613f959fd0e43a4",
+      "id": "D4cab17f41a8673cc",
+      "mechanisms": [],
+      "published_at_kst": "2026-10-22T13:02:13+09:00",
+      "published_date": "2026-10-22",
+      "publisher": "Paperjam",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "Pimco’s Zavodov: “Contractual income anchors downside protection” - Paperjam",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSU1vclQ5WTliY2dRZV9GS212bVNHWGtEYllLUDFDVVRMMGNaUzR2QnRwUzBjSlVNSllIR2lSVVJPOWV2NDZUTVFLTUlKRmE0OGdyNmMta3llOWo1SGlLcG9fSjhDTG9oQW5ZVUdoMnJsMTd3ZGZuNTNwRWJQcnNkbTZfUzBkdUt0QW82dlBqN2RkVTh2MVdj?oc=5"
+    },
+    {
+      "access": "headline_only",
+      "actors": [],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:b391a4e8d2ac575fcd0ebd44",
+      "id": "Dcbb22b5206e79f1b",
+      "mechanisms": [],
+      "published_at_kst": "2026-10-23T06:44:55+09:00",
+      "published_date": "2026-10-23",
+      "publisher": "investingLive",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "JPMorgan sees hedge fund de-risking limiting stock downside, with chips the key gauge - investingLive",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPeWtmLWlPQW83dk9sdjRUNHVaZHJVMVEyVEdiSVdiWkdNNTBXVjZYOVloclczaGpKNUhzMGlpZFNDWTFzWXhXYmVrNXB2V2hvVGZqV2tlNzBDOFA3S2toRDVZSlpPMkhZTThyM3pWQUthTXMyMlh5eDMwSElNc1QtOFhieHA5bnZ1V210bF9VWWdXemYxTmJvR3ZCb2YwVTJKQTFFbFN1Y0NHUHdxVXFVUno5LTIzYnF2S1ZZTFVPOC1ILXZCRDdHMTJjdw?oc=5"
+    },
+    {
+      "access": "headline_only",
+      "actors": [],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:ab5133ae0d7a944fd95f2810",
+      "id": "Dfea192c19dea8141",
+      "mechanisms": [],
+      "published_at_kst": "2026-10-22T11:19:48+09:00",
+      "published_date": "2026-10-22",
+      "publisher": "KuCoin",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "Wall Street banks struggle with leverage limits, pushing hedge funds to add short positions. - KuCoin",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQnFPcUlZa2xIdHZxWDVQZWhUR1dKeVRsY0ZjR1hZZ1FxazVMQzY2Wi11aER1bVlsc3ZQcGlESWhIQ2JDc1lxRExBZHpzUmk0S3M3cDYtc2FmZ2IxTUVObkE4YjE3d1Z5bnh1VmFVeG5wYkJ5MWRpRnpCZGo0bjQ3Q2Q1R3pEb3VvZU1vMGdKS1lEQVJqMEFWMFRjYXlRSW1aSVRMSXdiOXh5VEFfX3BISU5YZ1p5aXBWbUk5MGtB?oc=5"
+    },
+    {
+      "access": "headline_only",
+      "actors": [],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:6c905e6419e74380d8c50288",
+      "id": "Dbf8ea6cb40f90a5e",
+      "mechanisms": [],
+      "published_at_kst": "2026-10-22T21:32:13+09:00",
+      "published_date": "2026-10-22",
+      "publisher": "Demokratis.co.id",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "Barclays Shifts Capital to Expand Hedge Fund Financing - Demokratis.co.id",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB6REVQYzcwVFI2bEtZbEJiRlFwTVZrOEJpZmVIUXJGeDFwUW9mSzE0OUlaX3JPMkoyMURxd3FvQlU1VmZyLWRjNGdOV3ZfQ25IOEJ0Wmd4YzFQTjdRUnFsX1JzQ1RwdHJsLWUybG9hTnJHU1E?oc=5"
+    },
+    {
+      "access": "headline_only",
+      "actors": [],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:6496286800155b98148e299e",
+      "id": "D7b4e3a620dc08ea4",
+      "mechanisms": [],
+      "published_at_kst": "2026-10-22T19:22:53+09:00",
+      "published_date": "2026-10-22",
+      "publisher": "https://streamlinefeed.co.ke/",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "Arini Capital Mounts Defense as Flagship Credit Hedge Fund Slumps 16% Amid Souring Distressed Debt Bets - https://streamlinefeed.co.ke/",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQanNLZGtENEN2bGptbzdvVEVqeFFhWWl0V2xubUZSZlJiYkxiQktVa2stcFBYREF1ak5UVDNKUFBhTnhXNWlrTkNleXFTbkZxempNNVVQN05WWWthUG5lTV94Y2N2cWZxbHNWUWNpZnlFcEJleTFxM2RtYXFSdmZtVkZ5Yjh0bURZZDA4R0FRbXJDUDJIMlN4TGxwdU0?oc=5"
+    },
+    {
+      "access": "headline_only",
+      "actors": [],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:3a95a0b1638e8e71bababfa1",
+      "id": "D26e609b968fe76e5",
+      "mechanisms": [],
+      "published_at_kst": "2026-10-23T02:05:20+09:00",
+      "published_date": "2026-10-23",
+      "publisher": "Traders Union",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "Live $50,000 basis trade experiment to show all outcomes, Michael van de Poppe states - Traders Union",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNS0wzbWc0VU1UZU5NakxIYkZoelZodjhQbHJMSU55VEljODdqaFdlU2dHbDNwSjRDc3ozZEsyR2xjeXJCc2ZaUHI4NWJXaVVKbENQTlRyTjREblE0WlZ4NjNUTmgyZ05ZMGRuVXBwSXRrdm9Renl4dVR2OFpfaG1Pd1NmX1I4dUVkcUFRdDNZbDVab1NQ?oc=5"
+    },
+    {
+      "access": "headline_only",
+      "actors": [],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:43f8273eae32c68988f7622b",
+      "id": "Dccb978d73d6acf14",
+      "mechanisms": [],
+      "published_at_kst": "2026-10-22T18:00:00+09:00",
+      "published_date": "2026-10-22",
+      "publisher": "Blockchain News",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "CryptoMichNL: $50K Basis Trade on OndoPerps - Blockchain News",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE15cjM1dFFyRjU2UDByQldfaEluUm1QbmpKWm5nZTY3ZFFzNzBVcEg0cHFwcGQ4UmdhR1hCTGZBX3BVNkRkQXFYVUNNMXNKQVQ0MFlZNk1fWnBwZjNPTk1DWkVLOHNTaGlrVFZhOVNOeVBJR2xhMzhoSXJ4MF8?oc=5"
+    }
+  ],
+  "generated_at_kst": "2026-10-23T08:31:51.768195+09:00",
+  "producer": "rss_discovery",
+  "schema": "global_position_v1",
+  "window_end_kst": "2026-10-23T08:31:51.768195+09:00",
+  "window_start_kst": "2026-10-22T08:31:51.768195+09:00",
+  "content_sha256": "20a83105e2b942fb3d22590f3d2c70d091b8c69491527de00d64598d558ce637"
+}
