@@ -1,9 +1,9 @@
 {
   "date_kst": "2026-10-22",
   "status": "running",
-  "stage": "publishing",
+  "stage": "verifying",
   "started_at_kst": "2026-10-22T21:48:50+09:00",
-  "updated_at_kst": "2026-10-22T21:57:30+09:00",
+  "updated_at_kst": "2026-10-22T21:57:31+09:00",
   "ended_at_kst": null,
   "attempt": 1,
   "verified_posts": 1169,
@@ -12,7 +12,9 @@
   "failed_channels": [],
   "published_paths": [
     "reports/2026-10-22.json",
-    "reports/2026-10-22.md"
+    "reports/2026-10-22.md",
+    "latest.md",
+    "latest.json"
   ],
   "errors": [],
   "collection_request_id": "20261022T2149390900-daily21",
