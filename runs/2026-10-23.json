@@ -1,9 +1,9 @@
 {
   "date_kst": "2026-10-23",
   "status": "running",
-  "stage": "publishing",
+  "stage": "verifying",
   "started_at_kst": "2026-10-23T21:44:23+09:00",
-  "updated_at_kst": "2026-10-23T21:50:35+09:00",
+  "updated_at_kst": "2026-10-23T21:50:48+09:00",
   "ended_at_kst": null,
   "attempt": 1,
   "verified_posts": 953,
@@ -12,7 +12,9 @@
   "failed_channels": [],
   "published_paths": [
     "reports/2026-10-23.json",
-    "reports/2026-10-23.md"
+    "reports/2026-10-23.md",
+    "latest.md",
+    "latest.json"
   ],
   "errors": [
     "initial source request failed after 14 channels: evidence file read-back mismatch",
