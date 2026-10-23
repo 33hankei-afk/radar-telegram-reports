@@ -1,9 +1,9 @@
 {
   "date_kst": "2026-10-23",
   "status": "running",
-  "stage": "collecting",
+  "stage": "publishing",
   "started_at_kst": "2026-10-23T21:44:23+09:00",
-  "updated_at_kst": "2026-10-23T21:47:40.862022+09:00",
+  "updated_at_kst": "2026-10-23T21:49:45+09:00",
   "ended_at_kst": null,
   "attempt": 1,
   "verified_posts": 953,
@@ -34,5 +34,8 @@
       "verified_posts": 953,
       "error": "hanachina #70905 view counter missing/invalid"
     }
-  ]
+  ],
+  "source_workflow_run_id": 39955822115,
+  "source_artifact_id": 12501898641,
+  "source_artifact_sha256": "46dc1b50b76858c9223d09057422d652c1c56612a28c66a1d58445a4b036bdff"
 }
