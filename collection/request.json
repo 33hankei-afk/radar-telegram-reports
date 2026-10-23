@@ -1,6 +1,6 @@
 {
   "schema": "telegram_collection_request_v1",
-  "request_id": "20261023T2144230900-daily21",
+  "request_id": "20261023T2146000900-daily21-retry1",
   "date_kst": "2026-10-23",
-  "requested_at_kst": "2026-10-23T21:44:23+09:00"
+  "requested_at_kst": "2026-10-23T21:46:00+09:00"
 }
