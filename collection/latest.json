@@ -1,12 +1,12 @@
 {
   "schema": "telegram_collection_status_v1",
-  "request_id": "20261023T2144230900-daily21",
+  "request_id": "20261023T2146000900-daily21-retry1",
   "date_kst": "2026-10-23",
   "execution_date_kst": "2026-10-23",
   "status": "running",
   "stage": "collecting",
-  "started_at_kst": "2026-10-23T21:44:43.470116+09:00",
-  "updated_at_kst": "2026-10-23T21:44:53.060366+09:00",
+  "started_at_kst": "2026-10-23T21:46:13.642389+09:00",
+  "updated_at_kst": "2026-10-23T21:46:22.722443+09:00",
   "ended_at_kst": null,
   "checked_channels": 4,
   "verified_full_channels": 4,
@@ -14,7 +14,7 @@
   "searfin_status": "complete",
   "failed_channels": [],
   "errors": [],
-  "evidence_path": "collection/snapshots/20261023T2144230900-daily21.json",
+  "evidence_path": "collection/snapshots/20261023T2146000900-daily21-retry1.json",
   "report_published": false,
-  "status_path": "collection/status/20261023T2144230900-daily21.json"
+  "status_path": "collection/status/20261023T2146000900-daily21-retry1.json"
 }
