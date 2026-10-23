@@ -6,14 +6,16 @@
   "status": "running",
   "stage": "collecting",
   "started_at_kst": "2026-10-23T21:46:13.642389+09:00",
-  "updated_at_kst": "2026-10-23T21:46:36.947156+09:00",
+  "updated_at_kst": "2026-10-23T21:46:51.719831+09:00",
   "ended_at_kst": null,
-  "checked_channels": 14,
-  "verified_full_channels": 14,
-  "verified_posts": 417,
+  "checked_channels": 24,
+  "verified_full_channels": 23,
+  "verified_posts": 581,
   "searfin_status": "complete",
   "failed_channels": [],
-  "errors": [],
+  "errors": [
+    "hanachina: #70905: view counter missing/invalid"
+  ],
   "evidence_path": "collection/snapshots/20261023T2146000900-daily21-retry1.json",
   "report_published": false
 }
