@@ -3,18 +3,33 @@
   "status": "running",
   "stage": "collecting",
   "started_at_kst": "2026-10-23T21:44:23+09:00",
-  "updated_at_kst": "2026-10-23T21:45:09.310972+09:00",
+  "updated_at_kst": "2026-10-23T21:46:22.722443+09:00",
   "ended_at_kst": null,
   "attempt": 1,
-  "verified_posts": 417,
-  "checked_channels": 14,
-  "verified_full_channels": 14,
+  "verified_posts": 213,
+  "checked_channels": 4,
+  "verified_full_channels": 4,
   "failed_channels": [],
   "published_paths": [],
   "errors": [
-    "collector/checkpoint failed: ValueError"
+    "initial source request failed after 14 channels: evidence file read-back mismatch"
   ],
-  "collection_request_id": "20261023T2144230900-daily21",
-  "collection_status_path": "collection/status/20261023T2144230900-daily21.json",
-  "collection_source_status": "failed"
+  "collection_request_id": "20261023T2146000900-daily21-retry1",
+  "collection_status_path": "collection/status/20261023T2146000900-daily21-retry1.json",
+  "collection_source_status": "running",
+  "collection_attempts": [
+    {
+      "request_id": "20261023T2144230900-daily21",
+      "status": "failed",
+      "checked_channels": 14,
+      "verified_posts": 417,
+      "error": "evidence file read-back mismatch"
+    },
+    {
+      "request_id": "20261023T2146000900-daily21-retry1",
+      "status": "running",
+      "checked_channels": 4,
+      "verified_posts": 213
+    }
+  ]
 }
