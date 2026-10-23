@@ -3,12 +3,12 @@
   "status": "running",
   "stage": "collecting",
   "started_at_kst": "2026-10-23T21:44:23+09:00",
-  "updated_at_kst": "2026-10-23T21:47:15.448823+09:00",
+  "updated_at_kst": "2026-10-23T21:47:40.862022+09:00",
   "ended_at_kst": null,
   "attempt": 1,
-  "verified_posts": 732,
-  "checked_channels": 44,
-  "verified_full_channels": 43,
+  "verified_posts": 953,
+  "checked_channels": 59,
+  "verified_full_channels": 58,
   "failed_channels": [],
   "published_paths": [],
   "errors": [
@@ -17,7 +17,7 @@
   ],
   "collection_request_id": "20261023T2146000900-daily21-retry1",
   "collection_status_path": "collection/status/20261023T2146000900-daily21-retry1.json",
-  "collection_source_status": "running",
+  "collection_source_status": "partial",
   "collection_attempts": [
     {
       "request_id": "20261023T2144230900-daily21",
@@ -28,9 +28,11 @@
     },
     {
       "request_id": "20261023T2146000900-daily21-retry1",
-      "status": "running",
-      "checked_channels": 44,
-      "verified_posts": 732
+      "status": "partial",
+      "checked_channels": 59,
+      "verified_full_channels": 58,
+      "verified_posts": 953,
+      "error": "hanachina #70905 view counter missing/invalid"
     }
   ]
 }
