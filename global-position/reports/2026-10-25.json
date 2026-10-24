@@ -1,0 +1,403 @@
+{
+  "assessments": {
+    "ai_positioning": {
+      "confidence": "낮음",
+      "counter_ids": [
+        "C04"
+      ],
+      "evidence_ids": [
+        "E01",
+        "E02"
+      ],
+      "label": "AI 테마 수요 지속 · 직접 포지션 자료 부족",
+      "limitations": [
+        "Tuteja의 최근 24시간 새 발언은 확인되지 않았습니다.",
+        "운용자 의견과 ETF 상품 인기는 전체 펀드의 실제 롱·숏 규모를 측정하지 않습니다."
+      ],
+      "summary": "메모리·로보틱스 등 세부 AI 테마 ETF 수요는 이어지고, 대형 운용그룹 CIO는 AI 붕괴론이 과도하다고 봤습니다. 반면 전일 기술 집중 헤지펀드 손실과 디레버리징은 남아 있어, 투자 테마 수요와 레버리지 포지션 위험이 동시에 존재합니다."
+    },
+    "korea_path": {
+      "confidence": "낮음",
+      "counter_ids": [
+        "C04"
+      ],
+      "evidence_ids": [
+        "E01",
+        "C05"
+      ],
+      "label": "메모리 테마 수요와 아시아 펀드 손실의 조건부 경로",
+      "limitations": [
+        "한국 외국인 현물·선물·공매도 및 프라임브로커 한국 순노출의 신규 직접 자료는 없습니다.",
+        "글로벌 메모리 ETF 수요를 한국 반도체 실매수로 환산할 수 없습니다."
+      ],
+      "summary": "메모리 ETF의 관심과 이전 아시아 주식펀드 유입은 한국 반도체 심리에 우호적일 수 있습니다. 반면 아시아 집중 헤지펀드의 10월 손실은 레버리지 축소가 이어질 경우 하방 경로가 열려 있음을 시사합니다. 한국 직접 수급이 없어 방향보다 변동성 확대 가능성에 무게를 둡니다."
+    },
+    "liquidity": {
+      "confidence": "낮음",
+      "counter_ids": [],
+      "evidence_ids": [
+        "C03",
+        "C05"
+      ],
+      "label": "긴축 부담과 채권·머니마켓 유입 지속(이전 맥락)",
+      "limitations": [
+        "두 근거 모두 이번 24시간 창 이전 자료입니다.",
+        "CFTC 최신 TFF 페이지는 10월 20일 관측치의 지연 공시이며 실시간 포지션으로 사용하지 않았습니다."
+      ],
+      "summary": "PIMCO의 10월 22일 전망은 장기 실질금리 부담과 긴축 편향을 유지했고, 10월 21일까지 채권·머니마켓에는 자금이 유입됐습니다. 이번 창에는 레포·베이시스·마진의 새 직접 수치가 없어 유동성 상태 변화는 확인되지 않았습니다."
+    },
+    "pressure": {
+      "confidence": "낮음",
+      "counter_ids": [
+        "C05"
+      ],
+      "evidence_ids": [
+        "E01",
+        "C04"
+      ],
+      "label": "펀드 유입과 헤지펀드 디레버리징 충돌",
+      "limitations": [
+        "E01은 ETF 상품 출시·관심이며 실시간 순유입이나 헤지펀드 포지션이 아닙니다.",
+        "주말 신규 프라임브로커 gross/net 수치가 없어 전일 상태의 지속 여부를 확인하지 못했습니다."
+      ],
+      "summary": "이번 창의 신규 자료는 AI 테마 상품 수요가 유지됨을 보여주지만, 헤지펀드 gross/net의 새 관측은 없습니다. 이전 Goldman PB 표본의 디레버리징과 LSEG 펀드 순유입이 서로 반대여서 매도 압력의 지속 여부는 확정하기 어렵습니다."
+    }
+  },
+  "complete": true,
+  "context_entries": [
+    {
+      "access": "partial_text",
+      "actors": [
+        "tuteja"
+      ],
+      "claim_type": "opinion",
+      "direction": "hedge",
+      "event_date": null,
+      "event_key": "tuteja-ai-asymmetry-20261008",
+      "id": "C01",
+      "mechanisms": [
+        "crowding",
+        "dealer_gamma"
+      ],
+      "published_at_kst": null,
+      "published_date": "2026-10-08",
+      "publisher": "ZeroHedge (공개 도입부)",
+      "source_kind": "news",
+      "summary_ko": "이전 자료입니다. 공개 도입부는 Shawn Tuteja의 메모를 AI 쏠림과 위험보상 경계로 소개합니다. Goldman 원본과 유료 본문은 확인하지 못했습니다.",
+      "title_ko": "Tuteja 관련 보도: AI 상승 베팅의 비대칭이 약해졌다는 경계",
+      "title_original": "The Asymmetry Has Shifted: Goldman Vol Trader Steps Off The AI Train As Hedge Funds Most Crowded In Mag 7",
+      "url": "https://www.zerohedge.com/markets/asymmetry-has-shifted-goldman-vol-trader-steps-ai-train-hedge-funds-most-crowded-mag-7"
+    },
+    {
+      "access": "full_text",
+      "actors": [
+        "hartnett",
+        "BofA Global Research"
+      ],
+      "claim_type": "opinion",
+      "direction": "mixed",
+      "event_date": "2026-10-23",
+      "event_key": "hartnett-flow-show-20261023",
+      "id": "C02",
+      "mechanisms": [
+        "fund_flows",
+        "net_exposure",
+        "rates_credit",
+        "crowding"
+      ],
+      "published_at_kst": "2026-10-23T19:26:00+09:00",
+      "published_date": "2026-10-23",
+      "publisher": "Investing.com · BofA 고객노트 인용",
+      "source_kind": "news",
+      "summary_ko": "이전 자료입니다. Michael Hartnett가 이끄는 BofA 전략팀은 10월 23일 고객노트에서 11월 중순까지 전술적 위험회피를 유지했습니다. Bull & Bear 지표는 7.2였지만, 10월 21일까지 기술주와 한국 주식펀드에는 각각 188억달러와 58억달러가 유입됐습니다.",
+      "title_ko": "BofA, 주식·금리·달러의 추가 하락 위험 경고",
+      "title_original": "BofA flags further downside risk for stocks, yields and dollar",
+      "url": "https://in.investing.com/news/stock-market-news/bofa-flags-further-downside-risk-for-stocks-yields-and-dollar-5650689"
+    },
+    {
+      "access": "full_text",
+      "actors": [
+        "pimco",
+        "Tiffany Wilding"
+      ],
+      "claim_type": "opinion",
+      "direction": "mixed",
+      "event_date": "2026-10-22",
+      "event_key": "pimco-wilding-fed-preview-20261022",
+      "id": "C03",
+      "mechanisms": [
+        "rates_credit"
+      ],
+      "published_at_kst": null,
+      "published_date": "2026-10-22",
+      "publisher": "PIMCO",
+      "source_kind": "primary",
+      "summary_ko": "이전 자료입니다. Tiffany Wilding은 10월 회의에서 3.75~4.0% 동결을 예상하되 긴축 편향과 12월 25bp 인상 가능성을 유지했습니다. 장기 실질금리 상승이 주식시장의 부의 효과를 일부 상쇄하고 AI가 정책 판단을 복잡하게 한다고 설명했습니다.",
+      "title_ko": "10월 연준 회의 전망: 동결도 여전히 재조정 과정",
+      "title_original": "October Fed Meeting Preview: A Pause Is Still a Recalibration",
+      "url": "https://www.pimco.com/us/en/insights/october-fed-meeting-preview-a-pause-is-still-a-recalibration"
+    },
+    {
+      "access": "full_text",
+      "actors": [
+        "글로벌 헤지펀드",
+        "Goldman Sachs Prime Brokerage"
+      ],
+      "claim_type": "reported_flow",
+      "direction": "mixed",
+      "event_date": "2026-10-22",
+      "event_key": "goldman-pb-hedge-fund-losses-20261022",
+      "id": "C04",
+      "mechanisms": [
+        "long_liquidation",
+        "short_covering",
+        "gross_deleveraging",
+        "net_exposure",
+        "crowding"
+      ],
+      "published_at_kst": "2026-10-23T18:01:00+09:00",
+      "published_date": "2026-10-23",
+      "publisher": "Reuters",
+      "source_kind": "news",
+      "summary_ko": "이전 자료입니다. Goldman 프라임브로커 표본에서 10월 22일 펀더멘털 주식 롱숏·시스템·멀티전략이 모두 1% 넘게 하락했습니다. 기술·아시아 집중 펀드는 10월 들어 각각 약 10%, 9% 하락했고 AI 롱 손실 뒤 디레버리징과 혼잡 쇼트 스퀴즈가 함께 보도됐습니다.",
+      "title_ko": "기술주 매도 심화로 헤지펀드 수익률 악화",
+      "title_original": "Hedge fund returns worsen this week as tech selloff deepens",
+      "url": "https://www.reuters.com/markets/wealth/hedge-fund-returns-worsen-this-week-tech-selloff-deepens-2026-10-23/"
+    },
+    {
+      "access": "full_text",
+      "actors": [
+        "글로벌 펀드 투자자",
+        "LSEG Lipper"
+      ],
+      "claim_type": "observed_metric",
+      "direction": "risk_add",
+      "event_date": "2026-10-21",
+      "event_key": "lseg-global-fund-flows-20261021",
+      "id": "C05",
+      "mechanisms": [
+        "fund_flows",
+        "rates_credit"
+      ],
+      "published_at_kst": "2026-10-23T20:10:00+09:00",
+      "published_date": "2026-10-23",
+      "publisher": "Reuters · LSEG Lipper",
+      "source_kind": "news",
+      "summary_ko": "이전 자료입니다. 10월 21일까지 한 주간 글로벌 주식펀드에 281.6억달러가 유입됐고 아시아 주식펀드는 115.3억달러로 2022년 12월 이후 최대였습니다. 기술주 펀드도 전주 47.7억달러 유출에서 50.5억달러 유입으로 전환했습니다. 이는 LSEG Lipper 펀드 표본이며 헤지펀드 포지션과 동일하지 않습니다.",
+      "title_ko": "글로벌 주식펀드 5주 연속 순유입",
+      "title_original": "Global equity funds attract inflows for a fifth consecutive week",
+      "url": "https://www.reuters.com/world/asia-pacific/global-markets-flows-graphic-2026-10-23/"
+    }
+  ],
+  "core_targets": [
+    {
+      "change": "미확인",
+      "evidence_ids": [
+        "C01"
+      ],
+      "focus": "AI·M7 과밀 / 옵션 / 포지션 비대칭",
+      "id": "tuteja",
+      "institution": "Goldman Sachs",
+      "name": "Shawn Tuteja",
+      "role": "ETF·맞춤형 바스켓 변동성 트레이딩",
+      "summary_ko": "10월 25일 확인: 최근 24시간 새 발언 없음. 마지막 확인은 10월 8일 2차 보도의 AI·M7 쏠림과 위험보상 비대칭 경계이며 Goldman 원본은 미확인입니다."
+    },
+    {
+      "change": "미확인",
+      "evidence_ids": [
+        "C02"
+      ],
+      "focus": "펀드 자금흐름 / 현금·과열 / 자산배분",
+      "id": "hartnett",
+      "institution": "BofA Global Research",
+      "name": "Michael Hartnett",
+      "role": "최고 투자전략가 · Flow Show",
+      "summary_ko": "10월 25일 확인: 최근 24시간 새 Flow Show 발언 없음. 마지막 확인은 10월 23일 보도된 11월 중순까지의 전술적 위험회피와 Bull & Bear 7.2입니다."
+    },
+    {
+      "change": "미확인",
+      "evidence_ids": [
+        "C03"
+      ],
+      "focus": "금리·채권 / 조달·유동성 / 위험자산 배분",
+      "id": "pimco",
+      "institution": "PIMCO",
+      "name": "PIMCO",
+      "role": "기관 · Ivascyn / Balls / Wilding 등",
+      "summary_ko": "10월 25일 확인: 최근 24시간 새 발언 없음. 마지막 공식 확인은 게시시각 없는 10월 22일 Wilding의 연준 프리뷰로, 동결·긴축 편향과 장기금리 부담을 함께 강조했습니다."
+    }
+  ],
+  "coverage": [
+    {
+      "name": "Shawn Tuteja",
+      "note": "Goldman Sachs 공식 페이지와 공개 웹 재검색. 최근 24시간 새 발언 0건; 마지막 확인 2026-10-08, 원본 메모 미확인.",
+      "status": "checked",
+      "url": "https://www.goldmansachs.com/insights/the-markets/shawn-tuteja-on-bubble-concerns-and-the-ai-trade"
+    },
+    {
+      "name": "Michael Hartnett · BofA Flow Show",
+      "note": "BofA Flow Show·공개 언론 재검색. 최근 24시간 새 발언 0건; 마지막 확인 2026-10-23 2차 보도.",
+      "status": "checked",
+      "url": "https://in.investing.com/news/stock-market-news/bofa-flags-further-downside-risk-for-stocks-yields-and-dollar-5650689"
+    },
+    {
+      "name": "PIMCO · Ivascyn/Balls/Wilding",
+      "note": "PIMCO 공식 Insights와 공개 웹 재검색. 최근 24시간 새 발언 0건; 마지막 공식 자료 2026-10-22 Wilding 프리뷰.",
+      "status": "checked",
+      "url": "https://www.pimco.com/us/en/insights/october-fed-meeting-preview-a-pause-is-still-a-recalibration"
+    },
+    {
+      "name": "글로벌 헤지펀드·프라임브로커 gross/net·롱/숏",
+      "note": "최근 24시간 신규 직접 수치 0건. 전일 Goldman PB 손실·디레버리징은 이전 맥락으로 유지.",
+      "status": "checked",
+      "url": "https://www.reuters.com/markets/wealth/hedge-fund-returns-worsen-this-week-tech-selloff-deepens-2026-10-23/"
+    },
+    {
+      "name": "CTA·변동성 목표·딜러 감마",
+      "note": "공개 검색에서 이번 창의 검증 가능한 신규 CTA·vol-control·딜러 감마 직접 수치 0건.",
+      "status": "checked",
+      "url": "https://www.citadelsecurities.com/news-and-insights/global-market-intelligence/flow-fragility/"
+    },
+    {
+      "name": "펀드·ETF 자금흐름",
+      "note": "AI·메모리 테마 ETF 상품 수요를 MarketWatch 부분 본문에서 확인. 실제 당일 순유입액은 미공개; LSEG 주간 흐름은 창 이전 맥락.",
+      "status": "partial",
+      "url": "https://www.marketwatch.com/story/ai-fever-ignites-a-boom-in-thematic-etfs-as-fund-managers-hunt-for-their-next-big-hit-82d1566c"
+    },
+    {
+      "name": "국채 베이시스·레포·마진·엔 캐리",
+      "note": "최근 24시간 신규 직접 수치 0건. CFTC TFF 최신 페이지는 10월 20일 관측치로 공시 지연이 있어 실시간 근거에서 제외.",
+      "status": "checked",
+      "url": "https://www.cftc.gov/dea/futures/financial_lf.htm"
+    },
+    {
+      "name": "언론 원문",
+      "note": "Business Insider 본문, MarketWatch 부분 본문 확인. Barron's는 구독 장벽으로 제목만 확인해 headline_only/unverified 처리.",
+      "status": "partial",
+      "url": "https://www.businessinsider.com/ai-boom-dotcom-bubble-paul-wick-nvidia-chips-burry-careers-2026-10"
+    },
+    {
+      "name": "공개 커뮤니티",
+      "note": "Reddit r/stocks 공개 스레드 일부 확인. r/investing·r/wallstreetbets RSS는 후보 수집 단계에서 HTTPError였으나 공개 검색 대체를 수행. 커뮤니티는 판단 근거 제외.",
+      "status": "partial",
+      "url": "https://www.reddit.com/r/stocks/comments/1xe6f0t/thoughts_on_the_ai_sell_off_this_month/"
+    },
+    {
+      "name": "기사 후보 수집",
+      "note": "저장소 discovery 2026-10-25 08:26 KST 후보 6건 확인. PIMCO 펀드 지표·저신뢰 재가공 글은 원문 검증 전 분석에서 제외.",
+      "status": "checked",
+      "url": "https://github.com/33hankei-afk/radar-telegram-reports/blob/main/global-position/discovery/latest.json"
+    },
+    {
+      "name": "검색 경로",
+      "note": "Exa 네 검색축 모두 402 크레딧 제한으로 실패. 사용자 지침에 따라 공개 웹 대체 검색으로 날짜·본문을 검증.",
+      "status": "partial",
+      "url": "https://exa.ai/"
+    }
+  ],
+  "coverage_note": "2026-10-24 08:58:20~2026-10-25 08:58:20 KST. 신규 자료 4건(전체 1, 부분 2, 제목만 1)을 확인했습니다. 핵심 3대상은 실제 재검색했으나 새 발언 0건입니다. AI 테마 ETF 수요와 운용자 반대 견해는 확인했지만 신규 프라임브로커 gross/net은 0건입니다. CFTC 최신 TFF는 10월 20일 관측치의 지연 자료로 실시간 판단에서 제외했고, 커뮤니티·제목만 자료는 판단 근거로 사용하지 않았습니다.",
+  "date_kst": "2026-10-25",
+  "entries": [
+    {
+      "access": "partial_text",
+      "actors": [
+        "글로벌 ETF 운용사",
+        "AI·메모리 테마 투자자"
+      ],
+      "claim_type": "reported_flow",
+      "direction": "risk_add",
+      "event_date": "2026-10-24",
+      "event_key": "marketwatch-ai-thematic-etf-boom-20261024",
+      "id": "E01",
+      "mechanisms": [
+        "fund_flows",
+        "crowding"
+      ],
+      "published_at_kst": "2026-10-24T21:00:00+09:00",
+      "published_date": "2026-10-24",
+      "publisher": "MarketWatch",
+      "source_kind": "news",
+      "summary_ko": "공개 본문은 2026년 AI가 지배적 투자 테마로 자리 잡으며 운용사들이 로보틱스·메모리 등 세부 분야를 겨냥한 상품을 빠르게 출시하고 있다고 전했습니다. Roundhill Memory ETF가 AI 핵심 부품인 메모리 종목에 집중해 빠르게 관심을 얻은 사례도 소개했습니다. 공개 본문은 일부만 확보했으며, 상품 출시와 관심은 실제 헤지펀드 순매수나 ETF 순유입액과 동일하지 않습니다.",
+      "title_ko": "AI 열풍 속 차세대 테마를 찾는 ETF 출시 붐",
+      "title_original": "AI fever ignites a boom in thematic ETFs as fund managers hunt for their next big hit",
+      "url": "https://www.marketwatch.com/story/ai-fever-ignites-a-boom-in-thematic-etfs-as-fund-managers-hunt-for-their-next-big-hit-82d1566c"
+    },
+    {
+      "access": "full_text",
+      "actors": [
+        "Paul Wick",
+        "Seligman Investments"
+      ],
+      "claim_type": "opinion",
+      "direction": "mixed",
+      "event_date": "2026-10-24",
+      "event_key": "seligman-wick-ai-outlook-20261024",
+      "id": "E02",
+      "mechanisms": [
+        "crowding",
+        "rates_credit",
+        "other"
+      ],
+      "published_at_kst": "2026-10-24T19:38:01+09:00",
+      "published_date": "2026-10-24",
+      "publisher": "Business Insider",
+      "source_kind": "news",
+      "summary_ko": "헤지펀드·뮤추얼펀드·벤처 부문을 포함해 400억달러 이상을 운용하는 Seligman Investments의 CIO Paul Wick은 이번 AI 투자 붐이 닷컴 시기의 인프라 과잉·금리 상승과 닮았지만, 당시와 같은 IPO 광풍이 없고 기업 AI 지출과 기술기업 실적이 견조해 상황이 더 건강하다고 평가했습니다. 동시에 구형 모델·자체 모델 채택과 오픈소스 확산에 따른 토큰 가격 하락은 시장 규모를 제한할 위험이라고 지적했습니다. 이는 운용자 의견이며 실제 포지션 공개가 아닙니다.",
+      "title_ko": "베테랑 기술주 투자자: AI 붕괴론은 과도하지만 닷컴 거품의 흔적은 존재",
+      "title_original": "A veteran tech investor says 'doom and gloom' over the AI boom is overblown, even though it has shades of the dot-com bubble",
+      "url": "https://www.businessinsider.com/ai-boom-dotcom-bubble-paul-wick-nvidia-chips-burry-careers-2026-10"
+    },
+    {
+      "access": "headline_only",
+      "actors": [
+        "AI 테마 투자자"
+      ],
+      "claim_type": "unverified",
+      "direction": "mixed",
+      "event_date": null,
+      "event_key": "barrons-ai-rotation-cybersecurity-20261024",
+      "id": "E03",
+      "mechanisms": [
+        "fund_flows",
+        "crowding"
+      ],
+      "published_at_kst": "2026-10-25T00:44:00+09:00",
+      "published_date": "2026-10-25",
+      "publisher": "Barron's",
+      "source_kind": "news",
+      "summary_ko": "제목 기반 요약 · 본문 미확인: AI 투자 관심이 반도체에서 사이버보안으로 이동하고 있다는 기사입니다. 구독 장벽으로 본문 수치·자금흐름·관측기간을 확인하지 못해 미검증 자료로 분리하고 판단 근거에서 제외합니다.",
+      "title_ko": "AI 거래가 반도체에서 사이버보안으로 이동",
+      "title_original": "The AI Trade Is Shifting From Chip Stocks to Cybersecurity",
+      "url": "https://www.barrons.com/articles/ai-chip-stocks-cybersecurity-crowdstrike-palo-alto-056aaea8"
+    },
+    {
+      "access": "partial_text",
+      "actors": [
+        "Reddit 이용자"
+      ],
+      "claim_type": "unverified",
+      "direction": "mixed",
+      "event_date": null,
+      "event_key": "reddit-stocks-ai-selloff-20261024",
+      "id": "E04",
+      "mechanisms": [
+        "crowding",
+        "other"
+      ],
+      "published_at_kst": null,
+      "published_date": "2026-10-24",
+      "publisher": "Reddit · r/stocks",
+      "source_kind": "community",
+      "summary_ko": "공개 스레드에서는 AI 기업의 부채·가격정책을 비판하는 견해, 매도가 펀더멘털보다 심리에 좌우됐다는 견해, 시장중립 ETF로 헤지하자는 제안이 혼재했습니다. 작성자의 실제 포지션과 대표성이 검증되지 않은 커뮤니티 주장으로 판단 근거에서 제외합니다.",
+      "title_ko": "이번 달 AI 매도에 대한 의견",
+      "title_original": "Thoughts on the AI sell off this month",
+      "url": "https://www.reddit.com/r/stocks/comments/1xe6f0t/thoughts_on_the_ai_sell_off_this_month/"
+    }
+  ],
+  "generated_at_kst": "2026-10-25T08:59:13+09:00",
+  "producer": "gpt_verified",
+  "schema": "global_position_v1",
+  "window_end_kst": "2026-10-25T08:58:20+09:00",
+  "window_start_kst": "2026-10-24T08:58:20+09:00",
+  "content_sha256": "77cac6f6cc8f8aa438a6b9ea6ba4964ae25d1e632b73e56e09a75141850862d3"
+}
