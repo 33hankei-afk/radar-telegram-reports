@@ -3,18 +3,21 @@
   "status": "running",
   "stage": "collecting",
   "started_at_kst": "2026-10-24T21:50:26+09:00",
-  "updated_at_kst": "2026-10-24T21:51:33.868861+09:00",
+  "updated_at_kst": "2026-10-24T21:51:51.545451+09:00",
   "ended_at_kst": null,
   "attempt": 1,
-  "checked_channels": 44,
-  "verified_full_channels": 44,
-  "verified_posts": 218,
+  "checked_channels": 59,
+  "verified_full_channels": 58,
+  "verified_posts": 239,
   "failed_channels": [],
   "published_paths": [],
-  "errors": [],
+  "errors": [
+    "eqmirae: #3256: view counter missing/invalid"
+  ],
   "collection_request_id": "20261024T2150260900-daily21",
   "collection_workflow_run_id": 40095612860,
   "collection_status_path": "collection/status/20261024T2150260900-daily21.json",
+  "source_status": "partial",
   "source_searfin_status": "complete",
   "source_report_published": false
 }
