@@ -1,16 +1,27 @@
 {
   "date_kst": "2026-10-24",
   "status": "running",
-  "stage": "publishing",
+  "stage": "verifying",
   "started_at_kst": "2026-10-24T21:50:26+09:00",
-  "updated_at_kst": "2026-10-24T21:54:06+09:00",
+  "updated_at_kst": "2026-10-24T21:54:46+09:00",
   "ended_at_kst": null,
   "attempt": 1,
   "checked_channels": 59,
   "verified_full_channels": 58,
   "verified_posts": 239,
   "failed_channels": [],
-  "published_paths": [],
+  "published_paths": [
+    "reports/2026-10-24.json",
+    "reports/2026-10-24.md",
+    "latest.md",
+    "latest.json"
+  ],
+  "publish_results": {
+    "reports/2026-10-24.json": "success",
+    "reports/2026-10-24.md": "success",
+    "latest.md": "success",
+    "latest.json": "success"
+  },
   "errors": [
     "eqmirae: #3256: view counter missing/invalid"
   ],
