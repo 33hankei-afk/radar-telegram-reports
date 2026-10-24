@@ -1,22 +1,20 @@
 {
   "schema": "telegram_collection_status_v1",
-  "request_id": "20261023T2146000900-daily21-retry1",
-  "date_kst": "2026-10-23",
-  "execution_date_kst": "2026-10-23",
-  "status": "partial",
-  "stage": "finished",
-  "started_at_kst": "2026-10-23T21:46:13.642389+09:00",
-  "updated_at_kst": "2026-10-23T21:47:40.862022+09:00",
-  "ended_at_kst": "2026-10-23T21:47:40.862049+09:00",
-  "checked_channels": 59,
-  "verified_full_channels": 58,
-  "verified_posts": 953,
+  "request_id": "20261024T2150260900-daily21",
+  "date_kst": "2026-10-24",
+  "execution_date_kst": "2026-10-24",
+  "status": "running",
+  "stage": "collecting",
+  "started_at_kst": "2026-10-24T21:50:46.021274+09:00",
+  "updated_at_kst": "2026-10-24T21:50:52.946918+09:00",
+  "ended_at_kst": null,
+  "checked_channels": 4,
+  "verified_full_channels": 4,
+  "verified_posts": 78,
   "searfin_status": "complete",
   "failed_channels": [],
-  "errors": [
-    "hanachina: #70905: view counter missing/invalid"
-  ],
-  "evidence_path": "collection/snapshots/20261023T2146000900-daily21-retry1.json",
+  "errors": [],
+  "evidence_path": "collection/snapshots/20261024T2150260900-daily21.json",
   "report_published": false,
-  "status_path": "collection/status/20261023T2146000900-daily21-retry1.json"
+  "status_path": "collection/status/20261024T2150260900-daily21.json"
 }
