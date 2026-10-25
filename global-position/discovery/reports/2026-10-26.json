@@ -1,0 +1,330 @@
+{
+  "assessments": {
+    "ai_positioning": {
+      "confidence": "낮음",
+      "counter_ids": [],
+      "evidence_ids": [],
+      "label": "판단 자료 부족",
+      "limitations": [
+        "전체 헤지펀드의 실제 포지션을 추정한 수치가 아닙니다."
+      ],
+      "summary": "원문 검증 자료를 기다립니다."
+    },
+    "korea_path": {
+      "confidence": "낮음",
+      "counter_ids": [],
+      "evidence_ids": [],
+      "label": "판단 자료 부족",
+      "limitations": [
+        "전체 헤지펀드의 실제 포지션을 추정한 수치가 아닙니다."
+      ],
+      "summary": "원문 검증 자료를 기다립니다."
+    },
+    "liquidity": {
+      "confidence": "낮음",
+      "counter_ids": [],
+      "evidence_ids": [],
+      "label": "판단 자료 부족",
+      "limitations": [
+        "전체 헤지펀드의 실제 포지션을 추정한 수치가 아닙니다."
+      ],
+      "summary": "원문 검증 자료를 기다립니다."
+    },
+    "pressure": {
+      "confidence": "낮음",
+      "counter_ids": [],
+      "evidence_ids": [],
+      "label": "판단 자료 부족",
+      "limitations": [
+        "전체 헤지펀드의 실제 포지션을 추정한 수치가 아닙니다."
+      ],
+      "summary": "원문 검증 자료를 기다립니다."
+    }
+  },
+  "complete": true,
+  "core_targets": [
+    {
+      "change": "미확인",
+      "evidence_ids": [],
+      "focus": "AI·M7 과밀 / 옵션 / 포지션 비대칭",
+      "id": "tuteja",
+      "institution": "Goldman Sachs",
+      "name": "Shawn Tuteja",
+      "role": "ETF·맞춤형 바스켓 변동성 트레이딩",
+      "summary_ko": "원문 검증 일보 대기"
+    },
+    {
+      "change": "미확인",
+      "evidence_ids": [],
+      "focus": "펀드 자금흐름 / 현금·과열 / 자산배분",
+      "id": "hartnett",
+      "institution": "BofA Global Research",
+      "name": "Michael Hartnett",
+      "role": "최고 투자전략가 · Flow Show",
+      "summary_ko": "원문 검증 일보 대기"
+    },
+    {
+      "change": "미확인",
+      "evidence_ids": [],
+      "focus": "금리·채권 / 조달·유동성 / 위험자산 배분",
+      "id": "pimco",
+      "institution": "PIMCO",
+      "name": "PIMCO",
+      "role": "기관 · Ivascyn / Balls / Wilding 등",
+      "summary_ko": "원문 검증 일보 대기"
+    }
+  ],
+  "coverage": [
+    {
+      "items": 0,
+      "name": "Shawn Tuteja",
+      "note": "RSS 후보만 확인 · 원문/GPT 분석과 구분",
+      "status": "checked",
+      "url": "https://news.google.com/rss/search?q=%22Shawn+Tuteja%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "items": 1,
+      "name": "Michael Hartnett",
+      "note": "RSS 후보만 확인 · 원문/GPT 분석과 구분",
+      "status": "checked",
+      "url": "https://news.google.com/rss/search?q=%22Michael+Hartnett%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "items": 3,
+      "name": "PIMCO",
+      "note": "RSS 후보만 확인 · 원문/GPT 분석과 구분",
+      "status": "checked",
+      "url": "https://news.google.com/rss/search?q=PIMCO+%28Ivascyn+OR+Balls+OR+Wilding+OR+outlook+OR+flows%29+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "items": 3,
+      "name": "글로벌 포지션·프라임브로커",
+      "note": "RSS 후보만 확인 · 원문/GPT 분석과 구분",
+      "status": "checked",
+      "url": "https://news.google.com/rss/search?q=%28%22hedge+fund%22+OR+%22prime+broker%22%29+%28positioning+OR+deleveraging+OR+%22net+exposure%22+OR+%22gross+exposure%22%29+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "items": 0,
+      "name": "CTA·옵션·자금흐름",
+      "note": "RSS 후보만 확인 · 원문/GPT 분석과 구분",
+      "status": "checked",
+      "url": "https://news.google.com/rss/search?q=%28CTA+OR+%22volatility+control%22+OR+%22dealer+gamma%22+OR+%22short+covering%22+OR+%22fund+flows%22%29+%28stocks+OR+equity+OR+equities%29+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "items": 3,
+      "name": "국채·조달·캐리",
+      "note": "RSS 후보만 확인 · 원문/GPT 분석과 구분",
+      "status": "checked",
+      "url": "https://news.google.com/rss/search?q=%28%22treasury+basis%22+OR+%22basis+trade%22+OR+repo+OR+%22margin+call%22+OR+%22yen+carry%22%29+%28%22hedge+fund%22+OR+leverage+OR+trade%29+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "items": 0,
+      "name": "Reddit r/stocks",
+      "note": "HTTPError",
+      "status": "failed",
+      "url": "https://www.reddit.com/r/stocks/new/.rss"
+    },
+    {
+      "items": 0,
+      "name": "Reddit r/investing",
+      "note": "RSS 후보만 확인 · 원문/GPT 분석과 구분",
+      "status": "checked",
+      "url": "https://www.reddit.com/r/investing/new/.rss"
+    },
+    {
+      "items": 0,
+      "name": "Reddit r/wallstreetbets",
+      "note": "HTTPError",
+      "status": "failed",
+      "url": "https://www.reddit.com/r/wallstreetbets/new/.rss"
+    }
+  ],
+  "coverage_note": "자동 공개 RSS 후보 수집입니다. 제목만으로 실제 헤지펀드 포지션이나 매수·매도 압력을 판단하지 않습니다.",
+  "date_kst": "2026-10-26",
+  "entries": [
+    {
+      "access": "headline_only",
+      "actors": [
+        "hartnett"
+      ],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:f2e85e62e60544ad97d68ff4",
+      "id": "Dac5408c8133e517e",
+      "mechanisms": [],
+      "published_at_kst": "2026-10-26T06:29:09+09:00",
+      "published_date": "2026-10-26",
+      "publisher": "Limerick's Live 95",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "Listen to Behind the Curtains: Honouring Michael Hartnett in Newcastle West - Limerick's Live 95",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWHZrbzhxdWdHdUt4RDdzSFZ5ZTdOZFkzN1NPdmxScVJucGZuS2FXeFNaNl84Rkk1TkwwR09oNVJSRzFUUGJsU0tUVUd4NC1fWWMzbnJnaERLV29BbWc4YXFsY1NybzhCTG1XZG9MSm1kMk1fODgtMFdSSWVNOEVUcEZ2MmFoMVNudDNqUENjaFN5Vk44Y01CRmJHTzM4RDBXMnBlQWhmRUFpS2NDcjBUV2RZc3BJWms?oc=5"
+    },
+    {
+      "access": "headline_only",
+      "actors": [
+        "pimco"
+      ],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:4969f7d6fdb962b1551d4e4b",
+      "id": "Dba87ff3a5bec41ac",
+      "mechanisms": [],
+      "published_at_kst": "2026-10-26T05:08:01+09:00",
+      "published_date": "2026-10-26",
+      "publisher": "TradingView",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "PIMCO Flexible Real Estate Income Fund Class F Estimates – NASDAQ:REFFX - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBRQVpwUjRPazJ6TklkUkZMdVEtTnBKUjd6ZVNwQ0x4QUR2bFNZOGQzOHRfOHFjRHBmdnlxeEJycTVFLTRacy1NVFJYcm11VUpBUHlWNThOTXNLMDlYUXp0RmNJUWlrLTJOVGlmY0hEbjEyREtnWDFsbHN3?oc=5"
+    },
+    {
+      "access": "headline_only",
+      "actors": [
+        "pimco"
+      ],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:0d16f92a12925998e38ba547",
+      "id": "D4db088bd5eb2bdaf",
+      "mechanisms": [],
+      "published_at_kst": "2026-10-25T21:15:00+09:00",
+      "published_date": "2026-10-25",
+      "publisher": "Seeking Alpha",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "PAXS: A Decent Income Fund From PIMCO For The Long Term, 13.9% Yield (NYSE:PAXS) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeFlNY0tUTF8zbklBdk1OMkVNWUhvSWxWZzFzTDYzdkstQm9OWXZxYUktVUEySWdWdElOd1dMeVlJdWxDbXFxYmhhcFVHQjlhOEJkZ3hfRG1Fc2FzMEN3dUNoWlRaSjhyUGtiLW15SGhSU0ZVajVyekVyTlIwN0QyUkZZdVJvbUVtbER1amg5TUUzUjZuNXNUNFBMTmI2WXlTMXdSTnRQZWZtZw?oc=5"
+    },
+    {
+      "access": "headline_only",
+      "actors": [
+        "pimco"
+      ],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:db876271a4d4b5eefb77523f",
+      "id": "D23d94ebff1b0707e",
+      "mechanisms": [],
+      "published_at_kst": "2026-10-26T06:42:27+09:00",
+      "published_date": "2026-10-26",
+      "publisher": "TradingView",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "Total common shares outstanding of PIMCO Dynamic Income Opportunities Fund – LS:A3C822 - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONWxxVWE2ZUYtNXpVYzd5eUNSR00xNl9MREY3T2Zlb25RN0gxUHRzdWx2S3VNZWsyTUw0QVpELXpSdmZ5MUF5WlM2S0FDbXFwZFUzWWNIN1RQVnJldGx2UnhpY3NEdHgtaTZqN2NrQzA2NU8xLWRMS0FuXzlGM0tzaDZnbXVaVmRLTC15M3ZjOWd6eDJZWUJ2bGFIY3RWVDNYMUFxWXVFdw?oc=5"
+    },
+    {
+      "access": "headline_only",
+      "actors": [],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:5c8e925dfde13f371dbeb97e",
+      "id": "Dc771a8e5631a52e2",
+      "mechanisms": [],
+      "published_at_kst": "2026-10-25T23:08:00+09:00",
+      "published_date": "2026-10-25",
+      "publisher": "BigGo Finance",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "Jordi Visser: The AI Bubble Didn't Pop—Hedge Fund Leverage Did - BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5GV2VBOGVMcXItRWYyQUc3TkdFQUdvMlhlUTFZWGQzczdzZ1QwaWNjYklPXzhwbm9FcHB6SlJuVGlMZmd4VUFMcWlMeUJJLWg5azAxQ3NNR2JUenc?oc=5"
+    },
+    {
+      "access": "headline_only",
+      "actors": [],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:3606a24915985ce38508b354",
+      "id": "D20565bcea6e25951",
+      "mechanisms": [],
+      "published_at_kst": "2026-10-25T22:36:29+09:00",
+      "published_date": "2026-10-25",
+      "publisher": "BigGo Finance",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "AI Bubble Burst? Bitcoin to Zero? Hedge Funds Wrecked? Sounds Like a Bottom is Near｜Jordi Visser - BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9NRGFQdnJvODIxYmN5Q1diUGZWR2djUXNxREd5VlZpVFFqU1R4aGxuVEtaMUo5d2RMUGFGQ2lPU0N2a1ZvOEdxQ2VHMkFrdFJ0b2VrOFdmMl9ZaENpNFF3?oc=5"
+    },
+    {
+      "access": "headline_only",
+      "actors": [],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:d537d56ac2eeb333c764fbd2",
+      "id": "D123208737bbdb966",
+      "mechanisms": [],
+      "published_at_kst": "2026-10-25T08:30:26+09:00",
+      "published_date": "2026-10-25",
+      "publisher": "finance.biggo.com",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "Proving Alpha: How a Hedge Fund Measures AI's ROI - Hari Kumar, Contour Asset Management｜AI Engineer - finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE82SWoyZWxHOUVTbUFCY1FHYWFTUmNWWTlIRC1wUDhONHBVeWVoSVJmNWQ0NmZBMnk3d1haNE1qbG41bFpIQ1M2ZUtFOFlsb2dsaEpJaXR4dGtnZ1pnOFZZ?oc=5"
+    },
+    {
+      "access": "headline_only",
+      "actors": [],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:5d6db9d92c4beff90d88a7e4",
+      "id": "D885c4de4bbd38d62",
+      "mechanisms": [],
+      "published_at_kst": "2026-10-25T22:00:52+09:00",
+      "published_date": "2026-10-25",
+      "publisher": "CryptoSlate",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "Hedge funds hold $2 trillion in US debt, but their next trade could require fewer bonds - CryptoSlate",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPM0NCQ1dzbWNGb2VWYU80RzJlN1kyUFRySDUxUFJYd2lGbG9BRkhZaDdQQnRFRVdRdlFLREE2UHNYMUhRajFuMm56UDlfLTlaaGcya0dEWjBwOHc3VVdGYUVJY0tZWWxGZk9kVW5sT0kzb2NXNXJHSG1MakhKMHNUWGxmY2VOcWdxcHEtNlYxVFZ3WG9GQ2RSc2hJQ21Xd283ODlhRXJCZFF4bGtxNEFj?oc=5"
+    },
+    {
+      "access": "headline_only",
+      "actors": [],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:00b8530292d23436c17a1013",
+      "id": "Dc311c6c2b306f48b",
+      "mechanisms": [],
+      "published_at_kst": "2026-10-25T19:09:04+09:00",
+      "published_date": "2026-10-25",
+      "publisher": "www.equiti.com",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "Yen Carry Trade Unwind: Japan Inflation and US Stocks - www.equiti.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVlA3MTZ3X1BQSEwwYnEydldjdVVzNEh6MDNxdjdQZmw2Nkk0aU9WbXhwSzR3ZnVieXN1V3Zra0lrNklnZU5NNmJaRkJYR3dDTG44ZEY2bkRaa2poYnJTandVSy0tVWNGZ3VHRlhxM1Y3T1hIcVNCNVhsMVhpOWFzd1ItM3o4UjdJa0VMXzdQeTNqMWVOTU9SZXd5bEVSMElyZFE?oc=5"
+    },
+    {
+      "access": "headline_only",
+      "actors": [],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:73e32f16a462051cf012ca50",
+      "id": "D7aa3cc47b223ab36",
+      "mechanisms": [],
+      "published_at_kst": "2026-10-25T21:52:55+09:00",
+      "published_date": "2026-10-25",
+      "publisher": "Unisba Media",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "RISK OF THE CARRY TRADE UNWIND IS GROWING AS THE YEN CROSSES A CRITICAL LEVEL - TRILLIONS AT STAKE Adriana Volpe Compagno (OsxdKMbBwj) - Unisba Media",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1hb0ZXbmp0ekwtalNqQm54SG5YdzFONjN1cFNySzBoVVhIYmN5dnRza2xlNVdUUFAxUEZrNF9BaDRBM2IwYUgxbWlxVVN5MzlvUk9yTG41TEZvRFRTUkFzLTJTUFZNdw?oc=5"
+    }
+  ],
+  "generated_at_kst": "2026-10-26T08:26:38.076515+09:00",
+  "producer": "rss_discovery",
+  "schema": "global_position_v1",
+  "window_end_kst": "2026-10-26T08:26:38.076515+09:00",
+  "window_start_kst": "2026-10-25T08:26:38.076515+09:00",
+  "content_sha256": "e1038ace89d05790d58b9f870bcbeaca5407a84f1764eade57f70f4801911fd0"
+}
