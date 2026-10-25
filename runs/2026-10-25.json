@@ -1,16 +1,27 @@
 {
   "date_kst": "2026-10-25",
   "status": "running",
-  "stage": "publishing",
+  "stage": "verifying",
   "started_at_kst": "2026-10-25T21:39:00+09:00",
-  "updated_at_kst": "2026-10-25T21:41:31+09:00",
+  "updated_at_kst": "2026-10-25T21:42:01+09:00",
   "ended_at_kst": null,
   "attempt": 1,
   "checked_channels": 59,
   "verified_full_channels": 59,
   "verified_posts": 274,
   "failed_channels": [],
-  "published_paths": [],
+  "published_paths": [
+    "reports/2026-10-25.json",
+    "reports/2026-10-25.md",
+    "latest.md",
+    "latest.json"
+  ],
+  "publish_results": {
+    "reports/2026-10-25.json": "success",
+    "reports/2026-10-25.md": "success",
+    "latest.md": "success",
+    "latest.json": "success"
+  },
   "errors": [],
   "collection_request_id": "20261025T2139000900-daily21",
   "collection_workflow_run_id": 40194055968,
