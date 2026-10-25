@@ -1,79 +1,79 @@
-# 글로벌 포지션 일보 · 2026-10-25
+# 글로벌 포지션 일보 · 2026-10-26
 
-취합 구간: 2026-10-24T08:58:20+09:00 ~ 2026-10-25T08:58:20+09:00
+취합 구간: 2026-10-25T08:20:20+09:00 ~ 2026-10-26T08:20:20+09:00
 
-발행: 2026-10-25T08:59:13+09:00 · gpt_verified
+발행: 2026-10-26T08:20:28+09:00 · gpt_verified
 
-2026-10-24 08:58:20~2026-10-25 08:58:20 KST. 신규 자료 4건(전체 1, 부분 2, 제목만 1)을 확인했습니다. 핵심 3대상은 실제 재검색했으나 새 발언 0건입니다. AI 테마 ETF 수요와 운용자 반대 견해는 확인했지만 신규 프라임브로커 gross/net은 0건입니다. CFTC 최신 TFF는 10월 20일 관측치의 지연 자료로 실시간 판단에서 제외했고, 커뮤니티·제목만 자료는 판단 근거로 사용하지 않았습니다.
+2026-10-25 08:20:20~2026-10-26 08:20:20 KST. 신규 자료 2건(언론 전문 1, 커뮤니티 부분 1)을 확인했습니다. Hartnett 관련 새 기사는 확인했지만 인용 메모의 작성 시각·원문이 없어 독립 새 Flow Show나 입장 변화로 간주하지 않았습니다. Tuteja와 PIMCO는 실제 재검색 결과 새 발언 0건입니다. 신규 프라임브로커 gross/net·CTA/감마·레포/베이시스 직접 수치는 0건이며, stale 후보 파일·Exa 실패·공개 웹 대체 검색을 구분했습니다. 커뮤니티는 판단 근거로 사용하지 않았습니다.
 
 
 ## 글로벌 주식 매수·매도 압력
 
-펀드 유입과 헤지펀드 디레버리징 충돌 / 신뢰도 낮음
+판단 자료 부족 / 신뢰도 낮음
 
-이번 창의 신규 자료는 AI 테마 상품 수요가 유지됨을 보여주지만, 헤지펀드 gross/net의 새 관측은 없습니다. 이전 Goldman PB 표본의 디레버리징과 LSEG 펀드 순유입이 서로 반대여서 매도 압력의 지속 여부는 확정하기 어렵습니다.
+이번 창에는 글로벌 헤지펀드 gross/net, 롱 청산·신규 쇼트·쇼트커버의 신규 직접 관측이 없습니다. 이전 Goldman PB 디레버리징과 LSEG 펀드 순유입이 충돌하므로 매수·매도 압력의 현재 방향을 갱신하지 않습니다.
 
-근거: E01, C04
+근거: 없음
 
-반대 근거: C05
+반대 근거: C04, C05
 
-확인 한계: E01은 ETF 상품 출시·관심이며 실시간 순유입이나 헤지펀드 포지션이 아닙니다.
+확인 한계: 주말 공개 자료 공백이며, 순노출 감소를 신규 쇼트로 해석하지 않았습니다.
 
-확인 한계: 주말 신규 프라임브로커 gross/net 수치가 없어 전일 상태의 지속 여부를 확인하지 못했습니다.
+확인 한계: 이전 프라임브로커 표본과 전체 펀드 실재 포지션은 다릅니다.
 
 
 ## AI·반도체 포지션
 
-AI 테마 수요 지속 · 직접 포지션 자료 부족 / 신뢰도 낮음
+과체중 속 AI 조달 리스크 경계 / 신뢰도 낮음
 
-메모리·로보틱스 등 세부 AI 테마 ETF 수요는 이어지고, 대형 운용그룹 CIO는 AI 붕괴론이 과도하다고 봤습니다. 반면 전일 기술 집중 헤지펀드 손실과 디레버리징은 남아 있어, 투자 테마 수요와 레버리지 포지션 위험이 동시에 존재합니다.
+BofA 10월 설문을 인용한 새 기사에서는 기술주 과체중이 2020년 8월 이후 최고인 반면 경착륙 예상은 6%에 그쳤습니다. Hartnett는 조달비용 상승과 설비투자 기대 미달이 반도체·데이터센터 공급망을 압박할 수 있다고 봤습니다. 이는 포지션 설문과 전략가 의견이지 실시간 롱·숏 장부가 아닙니다.
 
-근거: E01, E02
+근거: E01
 
-반대 근거: C04
+반대 근거: C06
 
-확인 한계: Tuteja의 최근 24시간 새 발언은 확인되지 않았습니다.
+확인 한계: 인용된 BofA 메모의 작성 시각과 원문은 공개되지 않았습니다.
 
-확인 한계: 운용자 의견과 ETF 상품 인기는 전체 펀드의 실제 롱·숏 규모를 측정하지 않습니다.
+확인 한계: Tuteja의 새 옵션·변동성 발언과 딜러 감마 직접 수치는 확인되지 않았습니다.
 
 
 ## 금리·조달·유동성
 
-긴축 부담과 채권·머니마켓 유입 지속(이전 맥락) / 신뢰도 낮음
+AI 신용조달 민감도 상승 / 신뢰도 낮음
 
-PIMCO의 10월 22일 전망은 장기 실질금리 부담과 긴축 편향을 유지했고, 10월 21일까지 채권·머니마켓에는 자금이 유입됐습니다. 이번 창에는 레포·베이시스·마진의 새 직접 수치가 없어 유동성 상태 변화는 확인되지 않았습니다.
+Hartnett 관련 새 보도는 AI 설비투자가 채권 조달 여건에 민감하며 신용비용 상승이 약한 차입자와 공급망으로 전이될 수 있다고 경고했습니다. PIMCO의 이전 긴축 편향과 방향은 맞지만, 이번 창의 레포·베이시스·마진 신규 수치는 없어 시장 유동성 악화 자체를 확인한 것은 아닙니다.
 
-근거: C03, C05
+근거: E01
 
 반대 근거: 미확인
 
-확인 한계: 두 근거 모두 이번 24시간 창 이전 자료입니다.
+확인 한계: 전략가의 시나리오를 실제 신용경색으로 해석하지 않았습니다.
 
-확인 한계: CFTC 최신 TFF 페이지는 10월 20일 관측치의 지연 공시이며 실시간 포지션으로 사용하지 않았습니다.
+확인 한계: CFTC 포지션 자료는 관측일·공시 지연 때문에 실시간 근거로 쓰지 않았습니다.
 
 
 ## 한국장 전달 경로
 
-메모리 테마 수요와 아시아 펀드 손실의 조건부 경로 / 신뢰도 낮음
+AI 조달 경로를 통한 조건부 반도체 변동성 / 신뢰도 낮음
 
-메모리 ETF의 관심과 이전 아시아 주식펀드 유입은 한국 반도체 심리에 우호적일 수 있습니다. 반면 아시아 집중 헤지펀드의 10월 손실은 레버리지 축소가 이어질 경우 하방 경로가 열려 있음을 시사합니다. 한국 직접 수급이 없어 방향보다 변동성 확대 가능성에 무게를 둡니다.
+AI 채권 스프레드 확대나 설비투자 가이던스 하향이 현실화되면 반도체·데이터센터 공급망 기대치 조정을 거쳐 한국 대형 반도체로 전달될 수 있습니다. 반대로 이전 아시아 주식펀드 유입이 유지되면 충격을 흡수할 수 있습니다. 한국 직접 수급 자료가 없어 조건부 경로로만 판단합니다.
 
-근거: E01, C05
+근거: E01
 
-반대 근거: C04
+반대 근거: C05
 
 확인 한계: 한국 외국인 현물·선물·공매도 및 프라임브로커 한국 순노출의 신규 직접 자료는 없습니다.
 
-확인 한계: 글로벌 메모리 ETF 수요를 한국 반도체 실매수로 환산할 수 없습니다.
+확인 한계: BofA의 글로벌 시나리오를 한국 매매 금액이나 인과관계로 환산하지 않았습니다.
 
 
 ## 핵심 3대상
 
-- Shawn Tuteja / 10월 25일 확인: 최근 24시간 새 발언 없음. 마지막 확인은 10월 8일 2차 보도의 AI·M7 쏠림과 위험보상 비대칭 경계이며 Goldman 원본은 미확인입니다. / 변화: 미확인 / 근거: C01
+- Shawn Tuteja / 10월 26일 확인: 최근 24시간 새 발언 없음. 마지막 확인은 10월 8일 2차 보도의 AI·M7 쏠림과 위험보상 비대칭 경계이며 Goldman 원본은 미확인입니다. / 변화: 미확인 / 근거: C01
 
-- Michael Hartnett / 10월 25일 확인: 최근 24시간 새 Flow Show 발언 없음. 마지막 확인은 10월 23일 보도된 11월 중순까지의 전술적 위험회피와 Bull & Bear 7.2입니다. / 변화: 미확인 / 근거: C02
+- Michael Hartnett / 10월 26일 확인: 10월 25일 기사에서 AI 조달비용과 2027년 세 경로가 보도됐습니다. 다만 인용 메모 작성 시각과 BofA 원문이 공개되지 않아 새 Flow Show인지 단정하지 않으며, 10월 23일 전술적 위험회피 대비 입장 변화는 미확인입니다. / 변화: 미확인 / 근거: E01, C02
 
-- PIMCO / 10월 25일 확인: 최근 24시간 새 발언 없음. 마지막 공식 확인은 게시시각 없는 10월 22일 Wilding의 연준 프리뷰로, 동결·긴축 편향과 장기금리 부담을 함께 강조했습니다. / 변화: 미확인 / 근거: C03
+- PIMCO / 10월 26일 확인: 최근 24시간 새 발언 없음. 마지막 공식 확인은 게시시각 없는 10월 22일 Wilding의 연준 프리뷰로, 동결·긴축 편향과 장기금리 부담을 함께 강조했습니다. / 변화: 미확인 / 근거: C03
 
 
 ## 확인 원문
@@ -82,13 +82,9 @@ PIMCO의 10월 22일 전망은 장기 실질금리 부담과 긴축 편향을 �
 
 |---|---|---|---|---|---|---|
 
-|E01|2026-10-24T21:00:00+09:00|2026-10-24|글로벌 ETF 운용사, AI·메모리 테마 투자자|news / partial_text / reported_flow|AI 열풍 속 차세대 테마를 찾는 ETF 출시 붐 · 공개 본문은 2026년 AI가 지배적 투자 테마로 자리 잡으며 운용사들이 로보틱스·메모리 등 세부 분야를 겨냥한 상품을 빠르게 출시하고 있다고 전했습니다. Roundhill Memory ETF가 AI 핵심 부품인 메모리 종목에 집중해 빠르게 관심을 얻은 사례도 소개했습니다. 공개 본문은 일부만 확보했으며, 상품 출시와 관심은 실제 헤지펀드 순매수나 ETF 순유입액과 동일하지 않습니다.|[https://www.marketwatch.com/story/ai-fever-ignites-a-boom-in-thematic-etfs-as-fund-managers-hunt-for-their-next-big-hit-82d1566c](https://www.marketwatch.com/story/ai-fever-ignites-a-boom-in-thematic-etfs-as-fund-managers-hunt-for-their-next-big-hit-82d1566c)|
+|E01|2026-10-25T22:47:00+09:00|미확인|hartnett, BofA Global Research|news / full_text / opinion|BofA가 경고한 2027년 AI 조달 리스크와 세 가지 시장 경로 · 10월 25일 기사에서 Michael Hartnett의 BofA 메모를 인용해 2027년을 AI 거품 지속·골디락스 확산·디플레이션형 붕괴의 세 경로로 정리했습니다. BofA 10월 설문에서 기술주 비중은 2020년 8월 이후 최고 과체중이고 경착륙 예상은 6%에 그쳤다고 전했습니다. 신용비용 상승과 AI 설비투자 지연이 반도체·데이터센터 공급망 실적을 압박할 수 있다는 의견이며, 기사 시각은 확인했지만 인용 메모의 작성·발언 시각은 공개되지 않아 독립적인 새 Flow Show로 단정하지 않습니다.|[https://www.thestreet.com/investing/stocks/bank-of-america-2027-ai-debt-risk](https://www.thestreet.com/investing/stocks/bank-of-america-2027-ai-debt-risk)|
 
-|E02|2026-10-24T19:38:01+09:00|2026-10-24|Paul Wick, Seligman Investments|news / full_text / opinion|베테랑 기술주 투자자: AI 붕괴론은 과도하지만 닷컴 거품의 흔적은 존재 · 헤지펀드·뮤추얼펀드·벤처 부문을 포함해 400억달러 이상을 운용하는 Seligman Investments의 CIO Paul Wick은 이번 AI 투자 붐이 닷컴 시기의 인프라 과잉·금리 상승과 닮았지만, 당시와 같은 IPO 광풍이 없고 기업 AI 지출과 기술기업 실적이 견조해 상황이 더 건강하다고 평가했습니다. 동시에 구형 모델·자체 모델 채택과 오픈소스 확산에 따른 토큰 가격 하락은 시장 규모를 제한할 위험이라고 지적했습니다. 이는 운용자 의견이며 실제 포지션 공개가 아닙니다.|[https://www.businessinsider.com/ai-boom-dotcom-bubble-paul-wick-nvidia-chips-burry-careers-2026-10](https://www.businessinsider.com/ai-boom-dotcom-bubble-paul-wick-nvidia-chips-burry-careers-2026-10)|
-
-|E03|2026-10-25T00:44:00+09:00|미확인|AI 테마 투자자|news / headline_only / unverified|AI 거래가 반도체에서 사이버보안으로 이동 · 제목 기반 요약 · 본문 미확인: AI 투자 관심이 반도체에서 사이버보안으로 이동하고 있다는 기사입니다. 구독 장벽으로 본문 수치·자금흐름·관측기간을 확인하지 못해 미검증 자료로 분리하고 판단 근거에서 제외합니다.|[https://www.barrons.com/articles/ai-chip-stocks-cybersecurity-crowdstrike-palo-alto-056aaea8](https://www.barrons.com/articles/ai-chip-stocks-cybersecurity-crowdstrike-palo-alto-056aaea8)|
-
-|E04|2026-10-24 (시각 미확인)|미확인|Reddit 이용자|community / partial_text / unverified|이번 달 AI 매도에 대한 의견 · 공개 스레드에서는 AI 기업의 부채·가격정책을 비판하는 견해, 매도가 펀더멘털보다 심리에 좌우됐다는 견해, 시장중립 ETF로 헤지하자는 제안이 혼재했습니다. 작성자의 실제 포지션과 대표성이 검증되지 않은 커뮤니티 주장으로 판단 근거에서 제외합니다.|[https://www.reddit.com/r/stocks/comments/1xe6f0t/thoughts_on_the_ai_sell_off_this_month/](https://www.reddit.com/r/stocks/comments/1xe6f0t/thoughts_on_the_ai_sell_off_this_month/)|
+|E02|2026-10-26 (시각 미확인)|미확인|Reddit 이용자|community / partial_text / unverified|AI 칩 기업 두 곳이 미국 이익 증가의 34%를 차지한다는 토론 · 공개 스레드는 AI 이익 집중 관련 유료 기사를 공유하며 AI 투자수익의 지속성, 메모리 수요, 스타트업 고객의 신용위험을 두고 상반된 주장을 제시했습니다. 게시 시각은 페이지의 상대시각만 확인돼 정확한 시각을 기록하지 않았습니다. 작성자 포지션과 수치 원문을 독립 검증하지 못한 커뮤니티 주장으로 판단 근거에서 제외합니다.|[https://www.reddit.com/r/wallstreetbets/comments/1xf9oom/two_ai_chipmakers_make_up_34_of_americas_earnings/](https://www.reddit.com/r/wallstreetbets/comments/1xf9oom/two_ai_chipmakers_make_up_34_of_americas_earnings/)|
 
 |C01|2026-10-08 (시각 미확인)|미확인|tuteja|이전 자료 / news / partial_text / opinion|Tuteja 관련 보도: AI 상승 베팅의 비대칭이 약해졌다는 경계 · 이전 자료입니다. 공개 도입부는 Shawn Tuteja의 메모를 AI 쏠림과 위험보상 경계로 소개합니다. Goldman 원본과 유료 본문은 확인하지 못했습니다.|[https://www.zerohedge.com/markets/asymmetry-has-shifted-goldman-vol-trader-steps-ai-train-hedge-funds-most-crowded-mag-7](https://www.zerohedge.com/markets/asymmetry-has-shifted-goldman-vol-trader-steps-ai-train-hedge-funds-most-crowded-mag-7)|
 
@@ -100,27 +96,29 @@ PIMCO의 10월 22일 전망은 장기 실질금리 부담과 긴축 편향을 �
 
 |C05|2026-10-23T20:10:00+09:00|2026-10-21|글로벌 펀드 투자자, LSEG Lipper|이전 자료 / news / full_text / observed_metric|글로벌 주식펀드 5주 연속 순유입 · 이전 자료입니다. 10월 21일까지 한 주간 글로벌 주식펀드에 281.6억달러가 유입됐고 아시아 주식펀드는 115.3억달러로 2022년 12월 이후 최대였습니다. 기술주 펀드도 전주 47.7억달러 유출에서 50.5억달러 유입으로 전환했습니다. 이는 LSEG Lipper 펀드 표본이며 헤지펀드 포지션과 동일하지 않습니다.|[https://www.reuters.com/world/asia-pacific/global-markets-flows-graphic-2026-10-23/](https://www.reuters.com/world/asia-pacific/global-markets-flows-graphic-2026-10-23/)|
 
+|C06|2026-10-24T19:38:01+09:00|2026-10-24|Paul Wick, Seligman Investments|이전 자료 / news / full_text / opinion|베테랑 기술주 투자자: AI 붕괴론은 과도하지만 닷컴 거품의 흔적은 존재 · 이전 자료입니다. Seligman Investments CIO Paul Wick은 AI 투자 붐이 닷컴 시기의 인프라 과잉·금리 상승과 닮았지만 기업 AI 지출과 기술기업 실적이 견조해 더 건강하다고 평가했습니다. 운용자 의견이며 실제 포지션 공개가 아닙니다.|[https://www.businessinsider.com/ai-boom-dotcom-bubble-paul-wick-nvidia-chips-burry-careers-2026-10](https://www.businessinsider.com/ai-boom-dotcom-bubble-paul-wick-nvidia-chips-burry-careers-2026-10)|
+
 
 ## 수집 범위
 
 - Shawn Tuteja / checked / Goldman Sachs 공식 페이지와 공개 웹 재검색. 최근 24시간 새 발언 0건; 마지막 확인 2026-10-08, 원본 메모 미확인.
 
-- Michael Hartnett · BofA Flow Show / checked / BofA Flow Show·공개 언론 재검색. 최근 24시간 새 발언 0건; 마지막 확인 2026-10-23 2차 보도.
+- Michael Hartnett · BofA Flow Show / partial / 10월 25일 TheStreet 전문에서 Hartnett 메모 인용을 확인. 기사 게시 시각은 확인했으나 메모 원문·작성 시각이 없어 독립 새 Flow Show 여부는 미확인.
 
 - PIMCO · Ivascyn/Balls/Wilding / checked / PIMCO 공식 Insights와 공개 웹 재검색. 최근 24시간 새 발언 0건; 마지막 공식 자료 2026-10-22 Wilding 프리뷰.
 
-- 글로벌 헤지펀드·프라임브로커 gross/net·롱/숏 / checked / 최근 24시간 신규 직접 수치 0건. 전일 Goldman PB 손실·디레버리징은 이전 맥락으로 유지.
+- 글로벌 헤지펀드·프라임브로커 gross/net·롱/숏 / checked / 최근 24시간 신규 직접 수치 0건. 10월 22일 Goldman PB 손실·디레버리징은 이전 맥락으로만 유지.
 
 - CTA·변동성 목표·딜러 감마 / checked / 공개 검색에서 이번 창의 검증 가능한 신규 CTA·vol-control·딜러 감마 직접 수치 0건.
 
-- 펀드·ETF 자금흐름 / partial / AI·메모리 테마 ETF 상품 수요를 MarketWatch 부분 본문에서 확인. 실제 당일 순유입액은 미공개; LSEG 주간 흐름은 창 이전 맥락.
+- 펀드·ETF 자금흐름 / partial / BofA 10월 설문 수치를 2차 기사에서 확인. 당일 ETF 순유입·전체 펀드 흐름 신규 수치는 0건; LSEG 주간 흐름은 이전 맥락.
 
-- 국채 베이시스·레포·마진·엔 캐리 / checked / 최근 24시간 신규 직접 수치 0건. CFTC TFF 최신 페이지는 10월 20일 관측치로 공시 지연이 있어 실시간 근거에서 제외.
+- 국채 베이시스·레포·마진·엔 캐리 / checked / 최근 24시간 신규 직접 수치 0건. CFTC 최신 자료는 관측일과 공시 지연을 반영해 실시간 근거에서 제외.
 
-- 언론 원문 / partial / Business Insider 본문, MarketWatch 부분 본문 확인. Barron's는 구독 장벽으로 제목만 확인해 headline_only/unverified 처리.
+- 언론 원문 / partial / TheStreet 전문 확인. Yahoo 재전송은 직접 열기 실패했으나 같은 TheStreet 원문을 확인해 중복 집계하지 않음.
 
-- 공개 커뮤니티 / partial / Reddit r/stocks 공개 스레드 일부 확인. r/investing·r/wallstreetbets RSS는 후보 수집 단계에서 HTTPError였으나 공개 검색 대체를 수행. 커뮤니티는 판단 근거 제외.
+- 공개 커뮤니티 / partial / Reddit r/wallstreetbets 공개 스레드와 댓글을 확인. 상대시각만 보여 정확한 게시시각은 기록하지 않았고 판단 근거에서 제외.
 
-- 기사 후보 수집 / checked / 저장소 discovery 2026-10-25 08:26 KST 후보 6건 확인. PIMCO 펀드 지표·저신뢰 재가공 글은 원문 검증 전 분석에서 제외.
+- 기사 후보 수집 / partial / 저장소 discovery 최신본은 2026-10-25 08:26 KST로 오늘 창 미반영. 후보 6건은 출발점으로만 확인했고 공개 웹에서 별도 재검색.
 
-- 검색 경로 / partial / Exa 네 검색축 모두 402 크레딧 제한으로 실패. 사용자 지침에 따라 공개 웹 대체 검색으로 날짜·본문을 검증.
+- 검색 경로 / partial / Exa 네 검색축 모두 402 크레딧 제한으로 실패. 공개 웹 대체 검색으로 날짜·본문을 검증.
