@@ -1,0 +1,453 @@
+{
+  "assessments": {
+    "ai_positioning": {
+      "confidence": "중간",
+      "counter_ids": [],
+      "evidence_ids": [
+        "E01",
+        "E02"
+      ],
+      "label": "AI 롱 축소 뒤 선택적 반등",
+      "limitations": [
+        "Tuteja의 최근 24시간 새 옵션·변동성 발언은 확인되지 않았습니다.",
+        "지수와 업종 반등은 헤지펀드 신규 롱이나 쇼트커버의 직접 증거가 아닙니다."
+      ],
+      "summary": "기술주 2주간 200억달러 매도와 최대 수준의 단일종목 디그로스는 AI·성장주 과밀 해소를 뒷받침합니다. 반면 Anthropic 상장신청 뒤 반도체지수가 2.8% 반등했고 Meta는 대규모 주식조달 계획에 하락해, AI 전체가 아니라 현금흐름·조달방식별 차별화가 강화됐습니다."
+    },
+    "korea_path": {
+      "confidence": "낮음",
+      "counter_ids": [],
+      "evidence_ids": [
+        "E01",
+        "E02"
+      ],
+      "label": "반도체 디그로스와 반등의 조건부 양방향 경로",
+      "limitations": [
+        "한국 관련 직접 매매·공매도 자료가 이번 원문에 없습니다.",
+        "미국 업종 수익률을 한국 수급이나 매매 금액으로 환산하지 않았습니다."
+      ],
+      "summary": "글로벌 기술주 디그로스가 이어지면 한국 대형 반도체와 후공정 고베타 종목의 외국인 위험축소로 전이될 수 있습니다. 반대로 미국 반도체지수의 2.8% 반등이 지속되면 낙폭회복 경로가 열립니다. 한국 외국인 현·선물과 프라임브로커 한국 순노출이 없어 방향 확정이 아닌 조건부 경로입니다."
+    },
+    "liquidity": {
+      "confidence": "낮음",
+      "counter_ids": [],
+      "evidence_ids": [
+        "E01",
+        "E02"
+      ],
+      "label": "AI 조달비용 경계와 국채 피난 수요",
+      "limitations": [
+        "국채 매수를 주식 매도의 일대일 대응으로 해석하지 않았습니다.",
+        "PIMCO의 최근 24시간 새 발언과 신규 레포·Treasury basis 수치는 확인되지 않았습니다."
+      ],
+      "summary": "지난주 주식 변동성 확대 때 미국 국채에는 피난 수요가 유입된 반면 취약한 프랑스 국채는 매도됐습니다. Meta가 AI 투자를 위해 부채 대신 대규모 주식조달을 제시한 점도 자금비용 민감도를 보여줍니다. 다만 레포·마진·베이시스 직접 수치가 없어 시스템 유동성 경색으로 확대 해석하지 않습니다."
+    },
+    "pressure": {
+      "confidence": "중간",
+      "counter_ids": [
+        "E02"
+      ],
+      "evidence_ids": [
+        "E01"
+      ],
+      "label": "디그로스 우세 · 현물 반등이 상쇄",
+      "limitations": [
+        "Goldman 프라임브로커 고객 표본이며 전체 글로벌 펀드의 실재 포지션이 아닙니다.",
+        "기술주 200억달러 매도는 2주 누계로, 당일 매도 금액이 아닙니다."
+      ],
+      "summary": "Goldman PB 표본은 단일종목 디그로스가 7월 말 이후 최대였고 미국 주식이 3주 연속 순매도됐음을 보여줍니다. 다만 10월 26일 미국 지수와 반도체가 반등해 위험축소가 직선적으로 이어진 것은 아닙니다. 순매도 구성도 공개되지 않아 신규 쇼트 확대만으로 해석하지 않습니다."
+    }
+  },
+  "complete": true,
+  "context_entries": [
+    {
+      "access": "partial_text",
+      "actors": [
+        "tuteja"
+      ],
+      "claim_type": "opinion",
+      "direction": "hedge",
+      "event_date": null,
+      "event_key": "tuteja-ai-asymmetry-20261008",
+      "id": "C01",
+      "mechanisms": [
+        "crowding",
+        "dealer_gamma"
+      ],
+      "published_at_kst": null,
+      "published_date": "2026-10-08",
+      "publisher": "ZeroHedge (공개 도입부)",
+      "source_kind": "news",
+      "summary_ko": "이전 자료입니다. 공개 도입부는 Shawn Tuteja의 메모를 AI 쏠림과 위험보상 경계로 소개합니다. Goldman 원본과 유료 본문은 확인하지 못했습니다.",
+      "title_ko": "Tuteja 관련 보도: AI 상승 베팅의 비대칭이 약해졌다는 경계",
+      "title_original": "The Asymmetry Has Shifted: Goldman Vol Trader Steps Off The AI Train As Hedge Funds Most Crowded In Mag 7",
+      "url": "https://www.zerohedge.com/markets/asymmetry-has-shifted-goldman-vol-trader-steps-ai-train-hedge-funds-most-crowded-mag-7"
+    },
+    {
+      "access": "full_text",
+      "actors": [
+        "hartnett",
+        "BofA Global Research"
+      ],
+      "claim_type": "opinion",
+      "direction": "mixed",
+      "event_date": null,
+      "event_key": "hartnett-ai-financing-paths-20261025",
+      "id": "C02",
+      "mechanisms": [
+        "crowding",
+        "fund_flows",
+        "rates_credit"
+      ],
+      "published_at_kst": "2026-10-25T22:47:00+09:00",
+      "published_date": "2026-10-25",
+      "publisher": "TheStreet",
+      "source_kind": "news",
+      "summary_ko": "이전 자료입니다. 10월 25일 기사에서 Michael Hartnett의 BofA 메모를 인용해 2027년을 AI 거품 지속·골디락스 확산·디플레이션형 붕괴의 세 경로로 정리했습니다. BofA 10월 설문에서 기술주 비중은 2020년 8월 이후 최고 과체중이고 경착륙 예상은 6%에 그쳤다고 전했습니다. 신용비용 상승과 AI 설비투자 지연이 반도체·데이터센터 공급망 실적을 압박할 수 있다는 의견이며, 기사 시각은 확인했지만 인용 메모의 작성·발언 시각은 공개되지 않아 독립적인 새 Flow Show로 단정하지 않습니다.",
+      "title_ko": "BofA가 경고한 2027년 AI 조달 리스크와 세 가지 시장 경로",
+      "title_original": "Bank of America warns of 2027 stock market risk few expect",
+      "url": "https://www.thestreet.com/investing/stocks/bank-of-america-2027-ai-debt-risk"
+    },
+    {
+      "access": "full_text",
+      "actors": [
+        "pimco",
+        "Tiffany Wilding"
+      ],
+      "claim_type": "opinion",
+      "direction": "mixed",
+      "event_date": "2026-10-22",
+      "event_key": "pimco-wilding-fed-preview-20261022",
+      "id": "C03",
+      "mechanisms": [
+        "rates_credit"
+      ],
+      "published_at_kst": null,
+      "published_date": "2026-10-22",
+      "publisher": "PIMCO",
+      "source_kind": "primary",
+      "summary_ko": "이전 자료입니다. Tiffany Wilding은 10월 회의에서 3.75~4.0% 동결을 예상하되 긴축 편향과 12월 25bp 인상 가능성을 유지했습니다. 장기 실질금리 상승이 주식시장의 부의 효과를 일부 상쇄하고 AI가 정책 판단을 복잡하게 한다고 설명했습니다.",
+      "title_ko": "10월 연준 회의 전망: 동결도 여전히 재조정 과정",
+      "title_original": "October Fed Meeting Preview: A Pause Is Still a Recalibration",
+      "url": "https://www.pimco.com/us/en/insights/october-fed-meeting-preview-a-pause-is-still-a-recalibration"
+    },
+    {
+      "access": "full_text",
+      "actors": [
+        "글로벌 헤지펀드",
+        "Goldman Sachs Prime Brokerage"
+      ],
+      "claim_type": "reported_flow",
+      "direction": "mixed",
+      "event_date": "2026-10-22",
+      "event_key": "goldman-pb-hedge-fund-losses-20261022",
+      "id": "C04",
+      "mechanisms": [
+        "long_liquidation",
+        "short_covering",
+        "gross_deleveraging",
+        "net_exposure",
+        "crowding"
+      ],
+      "published_at_kst": "2026-10-23T18:01:00+09:00",
+      "published_date": "2026-10-23",
+      "publisher": "Reuters",
+      "source_kind": "news",
+      "summary_ko": "이전 자료입니다. Goldman 프라임브로커 표본에서 10월 22일 펀더멘털 주식 롱숏·시스템·멀티전략이 모두 1% 넘게 하락했습니다. 기술·아시아 집중 펀드는 10월 들어 각각 약 10%, 9% 하락했고 AI 롱 손실 뒤 디레버리징과 혼잡 쇼트 스퀴즈가 함께 보도됐습니다.",
+      "title_ko": "기술주 매도 심화로 헤지펀드 수익률 악화",
+      "title_original": "Hedge fund returns worsen this week as tech selloff deepens",
+      "url": "https://www.reuters.com/markets/wealth/hedge-fund-returns-worsen-this-week-tech-selloff-deepens-2026-10-23/"
+    },
+    {
+      "access": "full_text",
+      "actors": [
+        "글로벌 펀드 투자자",
+        "LSEG Lipper"
+      ],
+      "claim_type": "observed_metric",
+      "direction": "risk_add",
+      "event_date": "2026-10-21",
+      "event_key": "lseg-global-fund-flows-20261021",
+      "id": "C05",
+      "mechanisms": [
+        "fund_flows",
+        "rates_credit"
+      ],
+      "published_at_kst": "2026-10-23T20:10:00+09:00",
+      "published_date": "2026-10-23",
+      "publisher": "Reuters · LSEG Lipper",
+      "source_kind": "news",
+      "summary_ko": "이전 자료입니다. 10월 21일까지 한 주간 글로벌 주식펀드에 281.6억달러가 유입됐고 아시아 주식펀드는 115.3억달러로 2022년 12월 이후 최대였습니다. 기술주 펀드도 전주 47.7억달러 유출에서 50.5억달러 유입으로 전환했습니다. 이는 LSEG Lipper 펀드 표본이며 헤지펀드 포지션과 동일하지 않습니다.",
+      "title_ko": "글로벌 주식펀드 5주 연속 순유입",
+      "title_original": "Global equity funds attract inflows for a fifth consecutive week",
+      "url": "https://www.reuters.com/world/asia-pacific/global-markets-flows-graphic-2026-10-23/"
+    },
+    {
+      "access": "full_text",
+      "actors": [
+        "Paul Wick",
+        "Seligman Investments"
+      ],
+      "claim_type": "opinion",
+      "direction": "mixed",
+      "event_date": "2026-10-24",
+      "event_key": "seligman-wick-ai-outlook-20261024",
+      "id": "C06",
+      "mechanisms": [
+        "crowding",
+        "rates_credit",
+        "other"
+      ],
+      "published_at_kst": "2026-10-24T19:38:01+09:00",
+      "published_date": "2026-10-24",
+      "publisher": "Business Insider",
+      "source_kind": "news",
+      "summary_ko": "이전 자료입니다. Seligman Investments CIO Paul Wick은 AI 투자 붐이 닷컴 시기의 인프라 과잉·금리 상승과 닮았지만 기업 AI 지출과 기술기업 실적이 견조해 더 건강하다고 평가했습니다. 운용자 의견이며 실제 포지션 공개가 아닙니다.",
+      "title_ko": "베테랑 기술주 투자자: AI 붕괴론은 과도하지만 닷컴 거품의 흔적은 존재",
+      "title_original": "A veteran tech investor says 'doom and gloom' over the AI boom is overblown, even though it has shades of the dot-com bubble",
+      "url": "https://www.businessinsider.com/ai-boom-dotcom-bubble-paul-wick-nvidia-chips-burry-careers-2026-10"
+    },
+    {
+      "access": "full_text",
+      "actors": [
+        "hartnett",
+        "BofA Global Research"
+      ],
+      "claim_type": "opinion",
+      "direction": "mixed",
+      "event_date": "2026-10-23",
+      "event_key": "hartnett-flow-show-20261023",
+      "id": "C07",
+      "mechanisms": [
+        "fund_flows",
+        "net_exposure",
+        "rates_credit",
+        "crowding"
+      ],
+      "published_at_kst": "2026-10-23T19:26:00+09:00",
+      "published_date": "2026-10-23",
+      "publisher": "Investing.com · BofA 고객노트 인용",
+      "source_kind": "news",
+      "summary_ko": "이전 자료입니다. Michael Hartnett가 이끄는 BofA 전략팀은 10월 23일 고객노트에서 11월 중순까지 전술적 위험회피를 유지했습니다. Bull & Bear 지표는 7.2였지만, 10월 21일까지 기술주와 한국 주식펀드에는 각각 188억달러와 58억달러가 유입됐습니다.",
+      "title_ko": "BofA, 주식·금리·달러의 추가 하락 위험 경고",
+      "title_original": "BofA flags further downside risk for stocks, yields and dollar",
+      "url": "https://in.investing.com/news/stock-market-news/bofa-flags-further-downside-risk-for-stocks-yields-and-dollar-5650689"
+    }
+  ],
+  "core_targets": [
+    {
+      "change": "미확인",
+      "evidence_ids": [
+        "C01"
+      ],
+      "focus": "AI·M7 과밀 / 옵션 / 포지션 비대칭",
+      "id": "tuteja",
+      "institution": "Goldman Sachs",
+      "name": "Shawn Tuteja",
+      "role": "ETF·맞춤형 바스켓 변동성 트레이딩",
+      "summary_ko": "10월 27일 확인: 최근 24시간 새 발언 없음. 마지막 확인은 10월 8일 2차 보도의 AI·M7 쏠림과 위험보상 비대칭 경계이며 Goldman 원본은 미확인입니다."
+    },
+    {
+      "change": "미확인",
+      "evidence_ids": [
+        "C02",
+        "C07"
+      ],
+      "focus": "펀드 자금흐름 / 현금·과열 / 자산배분",
+      "id": "hartnett",
+      "institution": "BofA Global Research",
+      "name": "Michael Hartnett",
+      "role": "최고 투자전략가 · Flow Show",
+      "summary_ko": "10월 27일 확인: 최근 24시간 새 발언 없음. 마지막 공개 확인은 10월 25일 Hartnett 메모를 인용한 2차 기사지만 메모 작성 시각·BofA 원문이 없어 새 Flow Show 여부와 입장 변화는 미확인입니다."
+    },
+    {
+      "change": "미확인",
+      "evidence_ids": [
+        "C03"
+      ],
+      "focus": "금리·채권 / 조달·유동성 / 위험자산 배분",
+      "id": "pimco",
+      "institution": "PIMCO",
+      "name": "PIMCO",
+      "role": "기관 · Ivascyn / Balls / Wilding 등",
+      "summary_ko": "10월 27일 확인: 최근 24시간 새 발언 없음. 마지막 공식 확인은 게시시각 없는 10월 22일 Wilding의 연준 프리뷰로, 동결·긴축 편향과 장기금리 부담을 함께 강조했습니다."
+    }
+  ],
+  "coverage": [
+    {
+      "name": "Shawn Tuteja",
+      "note": "Goldman Sachs 공식 페이지와 공개 웹 재검색. 최근 24시간 새 발언 0건; 마지막 확인 2026-10-08, 원본 메모 미확인.",
+      "status": "checked",
+      "url": "https://www.goldmansachs.com/insights/the-markets/shawn-tuteja-on-bubble-concerns-and-the-ai-trade"
+    },
+    {
+      "name": "Michael Hartnett · BofA Flow Show",
+      "note": "BofA·공개 언론 재검색. 최근 24시간 새 발언 0건; 마지막 공개 확인은 2026-10-25 2차 기사이며 원문 메모 시각 미확인.",
+      "status": "checked",
+      "url": "https://www.thestreet.com/investing/stocks/bank-of-america-2027-ai-debt-risk"
+    },
+    {
+      "name": "PIMCO · Ivascyn/Balls/Wilding",
+      "note": "PIMCO 공식 Insights와 공개 웹 재검색. 최근 24시간 새 발언 0건; 마지막 공식 자료 2026-10-22 Wilding 프리뷰.",
+      "status": "checked",
+      "url": "https://www.pimco.com/us/en/insights/october-fed-meeting-preview-a-pause-is-still-a-recalibration"
+    },
+    {
+      "name": "글로벌 헤지펀드·프라임브로커 gross/net·롱/숏",
+      "note": "Reuters 전문에서 Goldman PB의 주간 성과, 디그로스, 3주 연속 미국주식 순매도와 기술주 2주 200억달러 매도를 확인. 롱 청산·신규 쇼트 분해는 미공개.",
+      "status": "checked",
+      "url": "https://www.reuters.com/markets/wealth/trend-hedge-funds-saw-worst-week-since-2024-ai-stocks-fell-goldman-says-2026-10-26/"
+    },
+    {
+      "name": "CTA·변동성 목표·딜러 감마",
+      "note": "추세추종 시스템 롱숏의 주간 -2%를 확인. MarketWatch 공개 도입부에서 UBS의 0DTE 가격발견 분석을 확인했으나 딜러 감마 부호·규모와 vol-control 직접 수치는 미확인.",
+      "status": "partial",
+      "url": "https://www.marketwatch.com/story/options-traders-are-seizing-control-of-the-s-p-500-1add94ca"
+    },
+    {
+      "name": "펀드·ETF 자금흐름",
+      "note": "이번 창의 신규 전체 펀드·ETF 순유입액은 0건. Reuters 시장 종가와 Goldman PB 포지션 표본을 구분했으며 이전 LSEG 주간 흐름은 맥락으로만 유지.",
+      "status": "checked",
+      "url": "https://www.reuters.com/business/us-stock-futures-edge-up-oil-falls-heading-into-earnings-barrage-2026-10-26/"
+    },
+    {
+      "name": "국채 베이시스·레포·마진·엔 캐리",
+      "note": "최근 24시간 신규 직접 수치 0건. 주식 변동성 중 미국 국채 피난 수요만 확인했으며 이를 basis·repo 변화나 엔 캐리 청산으로 간주하지 않음.",
+      "status": "checked",
+      "url": "https://www.cftc.gov/dea/futures/financial_lf.htm"
+    },
+    {
+      "name": "언론 원문",
+      "note": "Reuters 기사 2건 전문 확인. MarketWatch는 공개 도입부만 확인했고 FT는 구독 장벽으로 제목 외 본문을 확보하지 못해 entries에서 제외.",
+      "status": "partial",
+      "url": "https://www.reuters.com/markets/wealth/trend-hedge-funds-saw-worst-week-since-2024-ai-stocks-fell-goldman-says-2026-10-26/"
+    },
+    {
+      "name": "공개 커뮤니티",
+      "note": "Reddit r/wallstreetbets 공개 일일 스레드를 확인. 방향성·AI 신용·쇼트커버 주장이 혼재하며 대표성·포지션 검증 불가로 판단 근거 제외.",
+      "status": "partial",
+      "url": "https://www.reddit.com/r/wallstreetbets/comments/1xfslp3/daily_discussion_thread_for_october_26_2026/"
+    },
+    {
+      "name": "기사 후보 수집",
+      "note": "저장소 discovery 최신본은 2026-10-26 08:26 KST로 오늘 창 후반 미반영. 저신뢰 BigGo·TradingView·일반 펀드 글은 원문 검증 전 분석에서 제외.",
+      "status": "partial",
+      "url": "https://github.com/33hankei-afk/radar-telegram-reports/blob/main/global-position/discovery/latest.json"
+    },
+    {
+      "name": "검색 경로",
+      "note": "Exa 검색이 402 크레딧 제한으로 실패. 공개 웹 대체 검색에서 원문 날짜·본문·중복을 재검증.",
+      "status": "partial",
+      "url": "https://exa.ai/"
+    }
+  ],
+  "coverage_note": "2026-10-26 08:25:00~2026-10-27 08:25:00 KST. 신규 자료 4건(언론 전문 2, 부분 본문 1, 커뮤니티 부분 1)을 확인했습니다. Goldman PB 표본의 주간 디그로스와 기술주 매도는 새 근거이며, 같은 날 미국 반도체 반등을 반대 근거로 보존했습니다. Tuteja·Hartnett·PIMCO는 실제 재검색 결과 새 발언 0건입니다. 신규 레포·국채 베이시스·엔 캐리 및 딜러 감마 직접 수치는 0건입니다. 후보 파일의 시차와 Exa 402 실패를 공개 웹 대체 검색과 구분했고 커뮤니티는 판단 근거로 사용하지 않았습니다.",
+  "date_kst": "2026-10-27",
+  "entries": [
+    {
+      "access": "full_text",
+      "actors": [
+        "글로벌 헤지펀드",
+        "Goldman Sachs Prime Brokerage"
+      ],
+      "claim_type": "reported_flow",
+      "direction": "risk_reduce",
+      "event_date": null,
+      "event_key": "goldman-pb-trend-funds-degross-20261026",
+      "id": "E01",
+      "mechanisms": [
+        "gross_deleveraging",
+        "net_exposure",
+        "cta",
+        "crowding"
+      ],
+      "published_at_kst": "2026-10-26T20:19:06+09:00",
+      "published_date": "2026-10-26",
+      "publisher": "Reuters · Goldman Sachs Prime Brokerage",
+      "source_kind": "news",
+      "summary_ko": "Reuters가 10월 26일 확인한 Goldman Sachs 노트에 따르면 지난주 시스템 롱숏 전략은 2%, 펀더멘털 롱숏은 1.1% 하락했습니다. 펀더멘털 롱숏은 10월 들어 3.8% 하락했지만 연초 이후 8.8% 상승, 시스템 전략은 10월 1.1% 하락했지만 연초 이후 18.7% 상승했습니다. 단일종목 디그로스는 7월 말 이후 최대였고 미국 주식은 3주 연속 순매도, 기술주는 2주간 200억달러 매도됐습니다. 순매도의 롱 청산·신규 쇼트 구성은 기사에 분해되지 않았습니다.",
+      "title_ko": "AI 주가 하락 속 추세추종 헤지펀드, 2024년 이후 최악의 주간",
+      "title_original": "Trend hedge funds saw worst week since 2024 as AI stocks fell, Goldman says",
+      "url": "https://www.reuters.com/markets/wealth/trend-hedge-funds-saw-worst-week-since-2024-ai-stocks-fell-goldman-says-2026-10-26/"
+    },
+    {
+      "access": "full_text",
+      "actors": [
+        "미국 주식 투자자",
+        "AI·반도체 투자자"
+      ],
+      "claim_type": "observed_metric",
+      "direction": "risk_add",
+      "event_date": "2026-10-26",
+      "event_key": "us-equities-ai-rebound-20261026",
+      "id": "E02",
+      "mechanisms": [
+        "fund_flows",
+        "crowding",
+        "rates_credit"
+      ],
+      "published_at_kst": "2026-10-26T19:02:00+09:00",
+      "published_date": "2026-10-26",
+      "publisher": "Reuters",
+      "source_kind": "news",
+      "summary_ko": "10월 26일 미국 시장에서 S&P 500은 0.70%, 나스닥은 0.83%, 필라델피아 반도체지수는 2.8% 상승했습니다. Anthropic 상장신청이 AI 심리를 되살렸지만 Meta는 AI 인프라 자금 마련을 위한 최대 950억달러의 주식 조달 계획 뒤 1.9% 하락했습니다. 기술주 디그로스 직후에도 선택적 반등이 나타났다는 반대 근거이며, 지수 상승을 헤지펀드 순매수로 해석하지 않습니다.",
+      "title_ko": "Anthropic 상장신청이 AI주를 끌어올리며 미국 증시 상승 마감",
+      "title_original": "Equities end higher as Anthropic's IPO filing buoys AI stocks",
+      "url": "https://www.reuters.com/business/us-stock-futures-edge-up-oil-falls-heading-into-earnings-barrage-2026-10-26/"
+    },
+    {
+      "access": "partial_text",
+      "actors": [
+        "UBS",
+        "S&P 500 옵션 투자자"
+      ],
+      "claim_type": "opinion",
+      "direction": "mixed",
+      "event_date": null,
+      "event_key": "ubs-spx-0dte-price-discovery-20261026",
+      "id": "E03",
+      "mechanisms": [
+        "dealer_gamma",
+        "other"
+      ],
+      "published_at_kst": "2026-10-27T07:03:00+09:00",
+      "published_date": "2026-10-27",
+      "publisher": "MarketWatch · UBS 분석 인용",
+      "source_kind": "news",
+      "summary_ko": "공개된 기사 도입부에서 UBS 트레이딩데스크 분석은 2022년 이후 만기 당일 0DTE S&P 500 옵션이 크게 늘면서 현물·선물 중심이던 가격발견 구조가 바뀌고 있다고 평가했습니다. 본문 나머지는 구독 장벽으로 확인하지 못해 딜러 감마의 부호·규모나 장중 방향을 산출하지 않았습니다.",
+      "title_ko": "옵션 거래가 S&P 500 가격발견에 미치는 영향 확대",
+      "title_original": "Options traders are seizing control of the S&P 500",
+      "url": "https://www.marketwatch.com/story/options-traders-are-seizing-control-of-the-s-p-500-1add94ca"
+    },
+    {
+      "access": "partial_text",
+      "actors": [
+        "Reddit 이용자"
+      ],
+      "claim_type": "unverified",
+      "direction": "mixed",
+      "event_date": null,
+      "event_key": "reddit-wsb-ai-credit-indecision-20261026",
+      "id": "E04",
+      "mechanisms": [
+        "crowding",
+        "short_covering",
+        "other"
+      ],
+      "published_at_kst": null,
+      "published_date": "2026-10-26",
+      "publisher": "Reddit · r/wallstreetbets",
+      "source_kind": "community",
+      "summary_ko": "공개 토론에서는 과도한 공포를 매수 기회로 보는 의견, QQQ 지지선 붕괴 우려, CoreWeave·네오클라우드 신용위험, FOMC 이후 쇼트커버 가능성 등이 혼재했습니다. 일부는 실제 포지션을 주장했지만 검증할 수 없고 표본 대표성도 없어 커뮤니티 주장으로 분리해 판단 근거에서 제외합니다.",
+      "title_ko": "10월 26일 일일 토론: AI 신용위험과 방향성 혼재",
+      "title_original": "Daily Discussion Thread for October 26, 2026",
+      "url": "https://www.reddit.com/r/wallstreetbets/comments/1xfslp3/daily_discussion_thread_for_october_26_2026/"
+    }
+  ],
+  "generated_at_kst": "2026-10-27T08:25:25+09:00",
+  "producer": "gpt_verified",
+  "schema": "global_position_v1",
+  "window_end_kst": "2026-10-27T08:25:00+09:00",
+  "window_start_kst": "2026-10-26T08:25:00+09:00",
+  "content_sha256": "28c8e08008fba3d46e5e66cf94ecbb51ccf5dbe5c9f00f8e1e8a358d20257df3"
+}
