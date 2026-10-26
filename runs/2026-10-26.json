@@ -1,10 +1,10 @@
 {
   "date_kst": "2026-10-26",
-  "status": "running",
-  "stage": "verifying",
+  "status": "complete",
+  "stage": "finished",
   "started_at_kst": "2026-10-26T21:49:07+09:00",
-  "updated_at_kst": "2026-10-26T21:53:31+09:00",
-  "ended_at_kst": null,
+  "updated_at_kst": "2026-10-26T21:53:59+09:00",
+  "ended_at_kst": "2026-10-26T21:53:59+09:00",
   "attempt": 1,
   "checked_channels": 59,
   "verified_full_channels": 59,
@@ -21,6 +21,17 @@
     "reports/2026-10-26.md": "success",
     "latest.md": "success",
     "latest.json": "success"
+  },
+  "verification": {
+    "reports_json_sha": "e9d9f424444e46f389bd0737e60707dc58136d07",
+    "reports_md_sha": "979af38249544b4d3aaad2ada0c1e46d2830953e",
+    "latest_json_sha": "e9d9f424444e46f389bd0737e60707dc58136d07",
+    "latest_md_sha": "979af38249544b4d3aaad2ada0c1e46d2830953e",
+    "dated_latest_match": true,
+    "date_kst_match": true,
+    "schema_validation": "passed",
+    "final_publish_workflow_run_id": 40326016116,
+    "final_publish_workflow_conclusion": "success"
   },
   "errors": [],
   "collection_request_id": "20261026T2149070900-daily21",
