@@ -1,15 +1,20 @@
 {
   "date_kst": "2026-10-26",
   "status": "running",
-  "stage": "started",
+  "stage": "collecting",
   "started_at_kst": "2026-10-26T21:49:07+09:00",
-  "updated_at_kst": "2026-10-26T21:49:07+09:00",
+  "updated_at_kst": "2026-10-26T21:49:49.448239+09:00",
   "ended_at_kst": null,
   "attempt": 1,
-  "verified_posts": 0,
-  "checked_channels": 0,
-  "verified_full_channels": 0,
+  "checked_channels": 14,
+  "verified_full_channels": 14,
+  "verified_posts": 471,
   "failed_channels": [],
   "published_paths": [],
-  "errors": []
+  "errors": [],
+  "collection_request_id": "20261026T2149070900-daily21",
+  "collection_workflow_run_id": 40325494749,
+  "collection_status_path": "collection/status/20261026T2149070900-daily21.json",
+  "source_searfin_status": "complete",
+  "source_report_published": false
 }
