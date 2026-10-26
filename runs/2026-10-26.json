@@ -1,9 +1,9 @@
 {
   "date_kst": "2026-10-26",
   "status": "running",
-  "stage": "collecting",
+  "stage": "publishing",
   "started_at_kst": "2026-10-26T21:49:07+09:00",
-  "updated_at_kst": "2026-10-26T21:50:37.022762+09:00",
+  "updated_at_kst": "2026-10-26T21:52:36+09:00",
   "ended_at_kst": null,
   "attempt": 1,
   "checked_channels": 59,
@@ -17,5 +17,12 @@
   "collection_status_path": "collection/status/20261026T2149070900-daily21.json",
   "source_status": "complete",
   "source_searfin_status": "complete",
-  "source_report_published": false
+  "source_report_published": false,
+  "report_validation": "passed",
+  "report_entries": 362,
+  "theme_posts": 348,
+  "consensus_up": 0,
+  "consensus_down": 3,
+  "artifact_id": 12651570717,
+  "artifact_sha256": "5ba8663c645a82bff6d4e1308fe3405fd45ca08c21e603a5f1768fb78dd13168"
 }
