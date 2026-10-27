@@ -1,15 +1,18 @@
 {
   "date_kst": "2026-10-27",
   "status": "running",
-  "stage": "started",
+  "stage": "collecting",
   "started_at_kst": "2026-10-27T21:45:29+09:00",
-  "updated_at_kst": "2026-10-27T21:45:29+09:00",
+  "updated_at_kst": "2026-10-27T21:46:15+09:00",
   "ended_at_kst": null,
   "attempt": 1,
-  "verified_posts": 0,
-  "checked_channels": 0,
-  "verified_full_channels": 0,
+  "request_id": "20261027T2145430900-daily21",
+  "checked_channels": 4,
+  "verified_full_channels": 4,
+  "verified_posts": 321,
   "failed_channels": [],
   "published_paths": [],
-  "errors": []
+  "errors": [
+    "첫 진행상태 갱신에서 GitHub 동시 커밋 충돌 1회; 재시도"
+  ]
 }
