@@ -3,16 +3,20 @@
   "status": "running",
   "stage": "collecting",
   "started_at_kst": "2026-10-27T21:45:29+09:00",
-  "updated_at_kst": "2026-10-27T21:46:15+09:00",
+  "updated_at_kst": "2026-10-27T21:47:07+09:00",
   "ended_at_kst": null,
   "attempt": 1,
   "request_id": "20261027T2145430900-daily21",
-  "checked_channels": 4,
-  "verified_full_channels": 4,
-  "verified_posts": 321,
-  "failed_channels": [],
+  "checked_channels": 54,
+  "verified_full_channels": 52,
+  "verified_posts": 980,
+  "failed_channels": [
+    "aetherjapanresearch"
+  ],
   "published_paths": [],
   "errors": [
-    "첫 진행상태 갱신에서 GitHub 동시 커밋 충돌 1회; 재시도"
+    "첫 진행상태 갱신에서 GitHub 동시 커밋 충돌 1회; 재시도 성공",
+    "aetherjapanresearch: public read failed: not an approved public channel preview",
+    "cahier_de_market #11133: view counter missing/invalid"
   ]
 }
