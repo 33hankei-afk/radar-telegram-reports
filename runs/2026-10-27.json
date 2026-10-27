@@ -3,7 +3,7 @@
   "status": "running",
   "stage": "publishing",
   "started_at_kst": "2026-10-27T21:45:29+09:00",
-  "updated_at_kst": "2026-10-27T21:50:33+09:00",
+  "updated_at_kst": "2026-10-27T21:53:12+09:00",
   "ended_at_kst": null,
   "attempt": 1,
   "request_id": "20261027T2145430900-daily21",
@@ -13,12 +13,21 @@
   "failed_channels": [
     "aetherjapanresearch"
   ],
-  "published_paths": [],
+  "published_paths": [
+    "reports/2026-10-27.json",
+    "reports/2026-10-27.md"
+  ],
   "errors": [
     "첫 진행상태 갱신에서 GitHub 동시 커밋 충돌 1회; 재시도 성공",
     "aetherjapanresearch: public read failed: not an approved public channel preview",
     "cahier_de_market #11133: view counter missing/invalid"
   ],
   "source_workflow_run_id": 40506332630,
-  "artifact_sha256": "e23114e432b93beb65ed8e08d2eb250b5d0fbcdbd8086b0b7ccfa2a599f3a5e4"
+  "artifact_sha256": "e23114e432b93beb65ed8e08d2eb250b5d0fbcdbd8086b0b7ccfa2a599f3a5e4",
+  "publish_results": {
+    "reports/2026-10-27.json": "success",
+    "reports/2026-10-27.md": "success",
+    "latest.md": "pending",
+    "latest.json": "pending"
+  }
 }
