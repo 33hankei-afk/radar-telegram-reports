@@ -1,0 +1,239 @@
+{
+  "assessments": {
+    "ai_positioning": {
+      "confidence": "낮음",
+      "counter_ids": [],
+      "evidence_ids": [],
+      "label": "판단 자료 부족",
+      "limitations": [
+        "전체 헤지펀드의 실제 포지션을 추정한 수치가 아닙니다."
+      ],
+      "summary": "원문 검증 자료를 기다립니다."
+    },
+    "korea_path": {
+      "confidence": "낮음",
+      "counter_ids": [],
+      "evidence_ids": [],
+      "label": "판단 자료 부족",
+      "limitations": [
+        "전체 헤지펀드의 실제 포지션을 추정한 수치가 아닙니다."
+      ],
+      "summary": "원문 검증 자료를 기다립니다."
+    },
+    "liquidity": {
+      "confidence": "낮음",
+      "counter_ids": [],
+      "evidence_ids": [],
+      "label": "판단 자료 부족",
+      "limitations": [
+        "전체 헤지펀드의 실제 포지션을 추정한 수치가 아닙니다."
+      ],
+      "summary": "원문 검증 자료를 기다립니다."
+    },
+    "pressure": {
+      "confidence": "낮음",
+      "counter_ids": [],
+      "evidence_ids": [],
+      "label": "판단 자료 부족",
+      "limitations": [
+        "전체 헤지펀드의 실제 포지션을 추정한 수치가 아닙니다."
+      ],
+      "summary": "원문 검증 자료를 기다립니다."
+    }
+  },
+  "complete": true,
+  "core_targets": [
+    {
+      "change": "미확인",
+      "evidence_ids": [],
+      "focus": "AI·M7 과밀 / 옵션 / 포지션 비대칭",
+      "id": "tuteja",
+      "institution": "Goldman Sachs",
+      "name": "Shawn Tuteja",
+      "role": "ETF·맞춤형 바스켓 변동성 트레이딩",
+      "summary_ko": "원문 검증 일보 대기"
+    },
+    {
+      "change": "미확인",
+      "evidence_ids": [],
+      "focus": "펀드 자금흐름 / 현금·과열 / 자산배분",
+      "id": "hartnett",
+      "institution": "BofA Global Research",
+      "name": "Michael Hartnett",
+      "role": "최고 투자전략가 · Flow Show",
+      "summary_ko": "원문 검증 일보 대기"
+    },
+    {
+      "change": "미확인",
+      "evidence_ids": [],
+      "focus": "금리·채권 / 조달·유동성 / 위험자산 배분",
+      "id": "pimco",
+      "institution": "PIMCO",
+      "name": "PIMCO",
+      "role": "기관 · Ivascyn / Balls / Wilding 등",
+      "summary_ko": "원문 검증 일보 대기"
+    }
+  ],
+  "coverage": [
+    {
+      "items": 0,
+      "name": "Shawn Tuteja",
+      "note": "RSS 후보만 확인 · 원문/GPT 분석과 구분",
+      "status": "checked",
+      "url": "https://news.google.com/rss/search?q=%22Shawn+Tuteja%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "items": 0,
+      "name": "Michael Hartnett",
+      "note": "RSS 후보만 확인 · 원문/GPT 분석과 구분",
+      "status": "checked",
+      "url": "https://news.google.com/rss/search?q=%22Michael+Hartnett%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "items": 1,
+      "name": "PIMCO",
+      "note": "RSS 후보만 확인 · 원문/GPT 분석과 구분",
+      "status": "checked",
+      "url": "https://news.google.com/rss/search?q=PIMCO+%28Ivascyn+OR+Balls+OR+Wilding+OR+outlook+OR+flows%29+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "items": 1,
+      "name": "글로벌 포지션·프라임브로커",
+      "note": "RSS 후보만 확인 · 원문/GPT 분석과 구분",
+      "status": "checked",
+      "url": "https://news.google.com/rss/search?q=%28%22hedge+fund%22+OR+%22prime+broker%22%29+%28positioning+OR+deleveraging+OR+%22net+exposure%22+OR+%22gross+exposure%22%29+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "items": 0,
+      "name": "CTA·옵션·자금흐름",
+      "note": "RSS 후보만 확인 · 원문/GPT 분석과 구분",
+      "status": "checked",
+      "url": "https://news.google.com/rss/search?q=%28CTA+OR+%22volatility+control%22+OR+%22dealer+gamma%22+OR+%22short+covering%22+OR+%22fund+flows%22%29+%28stocks+OR+equity+OR+equities%29+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "items": 3,
+      "name": "국채·조달·캐리",
+      "note": "RSS 후보만 확인 · 원문/GPT 분석과 구분",
+      "status": "checked",
+      "url": "https://news.google.com/rss/search?q=%28%22treasury+basis%22+OR+%22basis+trade%22+OR+repo+OR+%22margin+call%22+OR+%22yen+carry%22%29+%28%22hedge+fund%22+OR+leverage+OR+trade%29+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "items": 0,
+      "name": "Reddit r/stocks",
+      "note": "RSS 후보만 확인 · 원문/GPT 분석과 구분",
+      "status": "checked",
+      "url": "https://www.reddit.com/r/stocks/new/.rss"
+    },
+    {
+      "items": 0,
+      "name": "Reddit r/investing",
+      "note": "HTTPError",
+      "status": "failed",
+      "url": "https://www.reddit.com/r/investing/new/.rss"
+    },
+    {
+      "items": 0,
+      "name": "Reddit r/wallstreetbets",
+      "note": "HTTPError",
+      "status": "failed",
+      "url": "https://www.reddit.com/r/wallstreetbets/new/.rss"
+    }
+  ],
+  "coverage_note": "자동 공개 RSS 후보 수집입니다. 제목만으로 실제 헤지펀드 포지션이나 매수·매도 압력을 판단하지 않습니다.",
+  "date_kst": "2026-10-28",
+  "entries": [
+    {
+      "access": "headline_only",
+      "actors": [
+        "pimco"
+      ],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:39a5bbdcfb146f9cd5a39b05",
+      "id": "D63d97bd6c337fc38",
+      "mechanisms": [],
+      "published_at_kst": "2026-10-28T05:11:45+09:00",
+      "published_date": "2026-10-28",
+      "publisher": "TradingView",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "Pimco New York Municipal Income Fund Series A Auction Pfd Estimates – FINRA:ALIZF4658346 - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUkRDUnlrMFpFVWM3VEFNVFVwX2MxQ1ktVU1hZEM5cjFELTFHaE9VUUtTMzJuU2JUV21qT0hfUzhLaFd6SXZxZnJpbmdoTkkwWTRSNFpoV2ozcG9QLWxZTWMwM3lGVUFEVmZlaG9JUEZ4MkhuM0tKMDI1NlZOTHNlWlJ3?oc=5"
+    },
+    {
+      "access": "headline_only",
+      "actors": [],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:6afe60311a7fede4baa4378c",
+      "id": "D35605349bf4d862e",
+      "mechanisms": [],
+      "published_at_kst": "2026-10-28T08:19:00+09:00",
+      "published_date": "2026-10-28",
+      "publisher": "Foreign Policy Journal",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "Meta's \"Muse\" Retail Push Draws Walmart (NASDAQ: WMT) Into Agentic Commerce Race As Hedge Fund Interest Climbs - Foreign Policy Journal",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOYS1yTzg2TlQ5ZGN3UGc2WWZiQzhnaExRRG1ycTMtaVpsSjJpNFNtY2RHM1hmLUdvcmMySXFaVDJicGZFYWpFX21VS0dMTFYySGtRNkpZanJGeUpWT19GNWlPRGZWcUdJbUJJSTFhZDZYRnpsYk5pcVdTQV9VbjJXdFZscFdYWUdMYnlibXgwTVhsbW1OQ2piUWpwejhWMFRVQVM3a01PV0QzdFFralUzcEVhejFIT3Y5OVhfVmc0TXVGT2JaSzNLSWZMSEFHQkdqdWR6dkZNZkowZXdmLVlzczhRT3JMaEZ2?oc=5"
+    },
+    {
+      "access": "headline_only",
+      "actors": [],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:0e2777db404e34f1a12184a7",
+      "id": "D0de2aff037b20ae8",
+      "mechanisms": [],
+      "published_at_kst": "2026-10-27T12:35:00+09:00",
+      "published_date": "2026-10-27",
+      "publisher": "BigGo Finance",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "Brazilian Real Plunges After Lula's Re-election; Yen Carry Trade Still 'Alive and Well' in Latin America - BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1lUkRwSU5tUndqcWNOaTNrZ3dqR1RpLXBhOTVSV3ZXbGJOSVJRQlZic2lSNHUzbjBoN3Zyd0ZVXzhtREZybDdjWmxleGVSSUVLenBwb2tiVDZyOEJkc1IwNURQa1IycGxPYWFpbUlENW9UbzVVVHc?oc=5"
+    },
+    {
+      "access": "headline_only",
+      "actors": [],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:92b3c7e462bfe0b0e5d30460",
+      "id": "Df5825f2d2a397b9f",
+      "mechanisms": [],
+      "published_at_kst": "2026-10-28T07:42:16+09:00",
+      "published_date": "2026-10-28",
+      "publisher": "bloomingbit",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "Barclays Warns Strong Dollar, Rate Volatility May Fan FX Swings, Urges Caution on Carry Trades - bloomingbit",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1kWXhvcXpLd0JPem9iRExCRmNiYlFqS25nSnNjMXNOZFJKYmxyMVZadlAwN3JwNmlObGgwSDNJZkU0NDY5alVBeWFvZ1RTekNzWm5VVg?oc=5"
+    },
+    {
+      "access": "headline_only",
+      "actors": [],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:d6d2c0863a920bcc5ce06fb3",
+      "id": "Ddb5246abedaecce7",
+      "mechanisms": [],
+      "published_at_kst": "2026-10-27T11:35:25+09:00",
+      "published_date": "2026-10-27",
+      "publisher": "bloomingbit",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "Yen-Funded Carry Trade Holds in Latin America Despite Real Slump After Brazil Vote - bloomingbit",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB6NGoyaGs3R0IzM2s0dHVvWGF1SndkM1pmZ1hnU0dPTkhaZFdwcktORWx0M2JYNThjWXhERC10RkRBdzN4LW4zMXduelIyUV9ieWxTUw?oc=5"
+    }
+  ],
+  "generated_at_kst": "2026-10-28T08:33:35.328195+09:00",
+  "producer": "rss_discovery",
+  "schema": "global_position_v1",
+  "window_end_kst": "2026-10-28T08:33:35.328195+09:00",
+  "window_start_kst": "2026-10-27T08:33:35.328195+09:00",
+  "content_sha256": "c68502eb203e7e9d6995635a2299b224879b7f6d7e9c6d36257bf466f3068591"
+}
