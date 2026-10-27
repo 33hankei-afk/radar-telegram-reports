@@ -1,10 +1,10 @@
 {
   "date_kst": "2026-10-27",
-  "status": "running",
-  "stage": "verifying",
+  "status": "partial",
+  "stage": "finished",
   "started_at_kst": "2026-10-27T21:45:29+09:00",
-  "updated_at_kst": "2026-10-27T21:53:32+09:00",
-  "ended_at_kst": null,
+  "updated_at_kst": "2026-10-27T21:53:53+09:00",
+  "ended_at_kst": "2026-10-27T21:53:53+09:00",
   "attempt": 1,
   "request_id": "20261027T2145430900-daily21",
   "checked_channels": 59,
@@ -31,5 +31,20 @@
     "reports/2026-10-27.md": "success",
     "latest.md": "success",
     "latest.json": "success"
+  },
+  "report_entries": 355,
+  "theme_posts": 340,
+  "consensus_up_rows": 5,
+  "consensus_down_rows": 9,
+  "media_unread_count": 375,
+  "verification": {
+    "remote_date_kst": "2026-10-27",
+    "dated_latest_json_identical": true,
+    "dated_latest_markdown_identical": true,
+    "json_blob_sha": "8fa30ccb0332b4be4756fb7c3cc35c5607681740",
+    "markdown_blob_sha": "43a32e28aba2f83c734eca52ef316493fd9d8068",
+    "final_validation_workflow_run_id": 40507363773,
+    "final_validation_conclusion": "success",
+    "body_hash_mismatches": 0
   }
 }
