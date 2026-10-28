@@ -3,7 +3,7 @@
   "status": "running",
   "stage": "publishing",
   "started_at_kst": "2026-10-28T21:40:31+09:00",
-  "updated_at_kst": "2026-10-28T21:44:53+09:00",
+  "updated_at_kst": "2026-10-28T21:45:08+09:00",
   "ended_at_kst": null,
   "attempt": 1,
   "verified_posts": 1228,
@@ -14,7 +14,8 @@
   ],
   "published_paths": [
     "reports/2026-10-28.json",
-    "reports/2026-10-28.md"
+    "reports/2026-10-28.md",
+    "latest.md"
   ],
   "errors": [
     "searfin: #23609: view counter missing/invalid",
@@ -31,6 +32,7 @@
   "artifact_sha256": "e94093dd3a95519c77ce8f88fe7200daa62ea84807e7e9e60d46d6c9ee0a7d11",
   "publish_results": {
     "reports/2026-10-28.json": "success",
-    "reports/2026-10-28.md": "success"
+    "reports/2026-10-28.md": "success",
+    "latest.md": "success"
   }
 }
