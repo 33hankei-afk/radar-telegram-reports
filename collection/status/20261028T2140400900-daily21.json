@@ -4,16 +4,18 @@
   "date_kst": "2026-10-28",
   "execution_date_kst": "2026-10-28",
   "status": "running",
-  "stage": "started",
+  "stage": "collecting",
   "started_at_kst": "2026-10-28T21:40:50.145766+09:00",
-  "updated_at_kst": "2026-10-28T21:40:50.145766+09:00",
+  "updated_at_kst": "2026-10-28T21:41:02.691716+09:00",
   "ended_at_kst": null,
-  "checked_channels": 0,
-  "verified_full_channels": 0,
-  "verified_posts": 0,
-  "searfin_status": "pending",
+  "checked_channels": 4,
+  "verified_full_channels": 4,
+  "verified_posts": 363,
+  "searfin_status": "partial",
   "failed_channels": [],
-  "errors": [],
+  "errors": [
+    "searfin: #23609: view counter missing/invalid"
+  ],
   "evidence_path": "collection/snapshots/20261028T2140400900-daily21.json",
   "report_published": false
 }
