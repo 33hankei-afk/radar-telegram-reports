@@ -1,9 +1,9 @@
 {
   "date_kst": "2026-10-28",
   "status": "running",
-  "stage": "publishing",
+  "stage": "verifying",
   "started_at_kst": "2026-10-28T21:40:31+09:00",
-  "updated_at_kst": "2026-10-28T21:45:08+09:00",
+  "updated_at_kst": "2026-10-28T21:45:29+09:00",
   "ended_at_kst": null,
   "attempt": 1,
   "verified_posts": 1228,
@@ -15,7 +15,8 @@
   "published_paths": [
     "reports/2026-10-28.json",
     "reports/2026-10-28.md",
-    "latest.md"
+    "latest.md",
+    "latest.json"
   ],
   "errors": [
     "searfin: #23609: view counter missing/invalid",
@@ -33,6 +34,8 @@
   "publish_results": {
     "reports/2026-10-28.json": "success",
     "reports/2026-10-28.md": "success",
-    "latest.md": "success"
-  }
+    "latest.md": "success",
+    "latest.json": "success"
+  },
+  "report_commit_sha": "ba96a67f324237549e5935d01350348ca666a357"
 }
