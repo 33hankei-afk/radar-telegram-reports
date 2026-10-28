@@ -3,12 +3,12 @@
   "status": "running",
   "stage": "collecting",
   "started_at_kst": "2026-10-28T21:40:31+09:00",
-  "updated_at_kst": "2026-10-28T21:41:51+09:00",
+  "updated_at_kst": "2026-10-28T21:42:32+09:00",
   "ended_at_kst": null,
   "attempt": 1,
-  "verified_posts": 855,
-  "checked_channels": 34,
-  "verified_full_channels": 33,
+  "verified_posts": 1228,
+  "checked_channels": 59,
+  "verified_full_channels": 58,
   "failed_channels": [
     "aetherjapanresearch"
   ],
@@ -18,5 +18,6 @@
     "aetherjapanresearch: public read failed: ValueError: not an approved public channel preview"
   ],
   "collection_request_id": "20261028T2140400900-daily21",
-  "source_status": "running"
+  "source_status": "partial",
+  "source_ended_at_kst": "2026-10-28T21:42:16.650029+09:00"
 }
