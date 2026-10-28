@@ -1,10 +1,10 @@
 {
   "date_kst": "2026-10-28",
-  "status": "running",
-  "stage": "verifying",
+  "status": "partial",
+  "stage": "finished",
   "started_at_kst": "2026-10-28T21:40:31+09:00",
-  "updated_at_kst": "2026-10-28T21:45:29+09:00",
-  "ended_at_kst": null,
+  "updated_at_kst": "2026-10-28T21:45:47+09:00",
+  "ended_at_kst": "2026-10-28T21:45:47+09:00",
   "attempt": 1,
   "verified_posts": 1228,
   "checked_channels": 59,
@@ -37,5 +37,16 @@
     "latest.md": "success",
     "latest.json": "success"
   },
-  "report_commit_sha": "ba96a67f324237549e5935d01350348ca666a357"
+  "report_commit_sha": "ba96a67f324237549e5935d01350348ca666a357",
+  "verification": {
+    "remote_date_kst": "2026-10-28",
+    "date_latest_json_sha_match": true,
+    "date_latest_md_sha_match": true,
+    "json_blob_sha": "7b51b18e01a5af7a6d6b9da3f9796fd00f83a3ef",
+    "markdown_blob_sha": "f4adaa39f853d9ce1094e30e000f3fe5a533808d",
+    "artifact_sha256": "e94093dd3a95519c77ce8f88fe7200daa62ea84807e7e9e60d46d6c9ee0a7d11",
+    "body_hash_mismatches": 0,
+    "validation_workflow_run_id": 40690444021,
+    "validation_conclusion": "success"
+  }
 }
