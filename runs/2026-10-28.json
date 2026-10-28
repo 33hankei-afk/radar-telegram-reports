@@ -1,15 +1,19 @@
 {
   "date_kst": "2026-10-28",
   "status": "running",
-  "stage": "started",
+  "stage": "collecting",
   "started_at_kst": "2026-10-28T21:40:31+09:00",
-  "updated_at_kst": "2026-10-28T21:40:31+09:00",
+  "updated_at_kst": "2026-10-28T21:41:13+09:00",
   "ended_at_kst": null,
   "attempt": 1,
-  "verified_posts": 0,
-  "checked_channels": 0,
-  "verified_full_channels": 0,
+  "verified_posts": 363,
+  "checked_channels": 4,
+  "verified_full_channels": 4,
   "failed_channels": [],
   "published_paths": [],
-  "errors": []
+  "errors": [
+    "searfin: #23609: view counter missing/invalid"
+  ],
+  "collection_request_id": "20261028T2140400900-daily21",
+  "source_status": "running"
 }
