@@ -2,8 +2,8 @@
   "date_kst": "2026-10-29",
   "status": "running",
   "stage": "started",
-  "started_at_kst": "2026-10-29T21:04:00+09:00",
-  "updated_at_kst": "2026-10-29T21:04:00+09:00",
+  "started_at_kst": "2026-10-29T21:03:56+09:00",
+  "updated_at_kst": "2026-10-29T21:03:56+09:00",
   "ended_at_kst": null,
   "attempt": 1,
   "verified_posts": 0,
@@ -13,6 +13,6 @@
   "published_paths": [],
   "errors": [],
   "notes": [
-    "started_at_kst는 직전 확인 시각 21:03:30 KST 이후 실제 시작 기록으로 고정"
+    "실제 KST 확인 시각으로 시작 기록을 정정"
   ]
 }
