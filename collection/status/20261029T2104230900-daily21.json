@@ -1,0 +1,19 @@
+{
+  "schema": "telegram_collection_status_v1",
+  "request_id": "20261029T2104230900-daily21",
+  "date_kst": "2026-10-29",
+  "execution_date_kst": "2026-10-29",
+  "status": "running",
+  "stage": "started",
+  "started_at_kst": "2026-10-29T21:06:39.534120+09:00",
+  "updated_at_kst": "2026-10-29T21:06:39.534120+09:00",
+  "ended_at_kst": null,
+  "checked_channels": 0,
+  "verified_full_channels": 0,
+  "verified_posts": 0,
+  "searfin_status": "pending",
+  "failed_channels": [],
+  "errors": [],
+  "evidence_path": "collection/snapshots/20261029T2104230900-daily21.json",
+  "report_published": false
+}
