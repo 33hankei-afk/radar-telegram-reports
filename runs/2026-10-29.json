@@ -1,10 +1,10 @@
 {
   "date_kst": "2026-10-29",
-  "status": "running",
-  "stage": "verifying",
+  "status": "partial",
+  "stage": "finished",
   "started_at_kst": "2026-10-29T21:03:56+09:00",
-  "updated_at_kst": "2026-10-29T21:12:28+09:00",
-  "ended_at_kst": null,
+  "updated_at_kst": "2026-10-29T21:12:55+09:00",
+  "ended_at_kst": "2026-10-29T21:12:55+09:00",
   "attempt": 1,
   "verified_posts": 536,
   "checked_channels": 14,
@@ -67,8 +67,10 @@
     "수집기 collector/checkpoint failed: ValueError; 14/59개 채널 확인 후 중단"
   ],
   "notes": [
-    "4개 파일 게시 성공",
-    "GitHub 재조회 검증 진행 중",
+    "부분 보고서 4개 파일 게시 및 GitHub 재조회 검증 통과",
+    "reports JSON과 latest.json SHA 일치",
+    "reports Markdown과 latest.md SHA 일치",
+    "TOP20·theme·consensus URL 참조 무결성 통과",
     "이미지·첨부 180건 미판독"
   ]
 }
