@@ -1,79 +1,79 @@
-# 글로벌 포지션 일보 · 2026-10-29
+# 글로벌 포지션 일보 · 2026-10-30
 
-취합 구간: 2026-10-28T08:08:00+09:00 ~ 2026-10-29T08:08:00+09:00
+취합 구간: 2026-10-29T08:29:00+09:00 ~ 2026-10-30T08:29:00+09:00
 
-발행: 2026-10-29T08:09:08+09:00 · gpt_verified
+발행: 2026-10-30T08:30:27+09:00 · gpt_verified
 
-2026-10-28 08:08:00~2026-10-29 08:08:00 KST. 신규 원문 6건(공식 2, 언론 전문 4)을 확인했습니다. 한국 외국인·기관 순매수와 반도체 급등은 직접 관측됐지만, 미국 AI 실적은 Microsoft와 Alphabet이 엇갈려 현금흐름별 분화가 강화됐습니다. 연준은 동결했으나 2명은 인상을 주장했습니다. Tuteja·Hartnett·PIMCO는 실제 재검색 결과 새 발언 0건입니다. 신규 PB gross/net, CTA 매매액, repo·basis·margin·엔 캐리 실재 규모 및 구간 내 검증 가능한 커뮤니티 글은 0건입니다. 후보 수집은 이번 구간 미갱신이며 Exa 402 실패는 공개 웹 대체 검색과 구분했습니다.
+2026-10-29 08:29:00~2026-10-30 08:29:00 KST. 신규 원문 7건(언론 전문 6, 모델 원문 1)을 확인했습니다. AI 대형주·반도체는 현금흐름과 사업부별로 하락했지만 미국 시장의 상승 종목과 소형주는 상대적으로 강해 시장 전체 디레버리징과 구분했습니다. Microsoft의 약 250억달러 채권 발행과 대체운용사의 장기 임대형 데이터센터 투자는 AI 조달 경로의 확대를 보여줍니다. Tuteja·Hartnett·PIMCO는 실제 재검색 결과 최근 24시간 새 공식 발언 0건입니다. 신규 PB gross/net, CTA 매매액, 글로벌 펀드·ETF 총순유입액, repo·basis·margin·엔 캐리 실재 규모 및 구간 내 검증 가능한 커뮤니티 글은 0건입니다. 후보 수집은 10월 29일 08:38 KST판이며 Exa 402 실패는 공개 웹 대체 검색과 구분했습니다.
 
 
 ## 글로벌 주식 매수·매도 압력
 
-한국 현물 매수 확인 · 글로벌 압력은 혼재 / 신뢰도 중간
+AI 대형주 매도 우세 · 시장 전체 디레버리징은 아님 / 신뢰도 중간
 
-한국에서는 외국인과 기관이 각각 8,158억원과 9,608억원을 순매수해 위험확대가 실제 현물에 나타났습니다. SPX 감마 모델도 전환선 위의 양의 감마로 단기 완충 가능성을 보였습니다. 다만 이전 Goldman PB 표본의 낮은 순레버리지와 Alphabet의 시간외 하락은 글로벌 펀드 전반의 순매수 전환을 확인해주지 않습니다.
+나스닥·반도체와 한국 지수는 하락했지만 미국에서는 Russell 2000이 1.0% 상승하고 NYSE 상승 종목이 더 많았습니다. 한국도 기관이 차익실현했으나 외국인 현물은 소폭 순매수였습니다. SPX 감마 모델은 양의 구간이지만 강도가 낮아, AI 고베타 매도와 시장 전체 위험축소를 구분합니다.
 
-근거: E02, E06
+근거: E01, E02, E07
 
-반대 근거: C06, E05
+반대 근거: C05
 
-확인 한계: 한국 매수 주체 통계는 글로벌 헤지펀드만 분리하지 않습니다.
+확인 한계: 신규 프라임브로커 gross/net·롱/숏 일일 원자료가 없습니다.
 
-확인 한계: 감마 수치는 실제 딜러 재고가 아닌 단일 모델이며, 신규 PB gross/net 일일 수치는 없습니다.
+확인 한계: 감마는 실제 딜러 재고가 아닌 단일 모델이며 한국 투자자별 수급은 헤지펀드만 분리하지 않습니다.
 
 
 ## AI·반도체 포지션
 
-AI 일괄매수보다 현금흐름별 분화 / 신뢰도 중간
+현금흐름·조달·사업부별 분화 강화 / 신뢰도 중간
 
-Microsoft는 Azure 성장, 예상 상회 잉여현금흐름과 낮은 자본지출로 시간외 상승했지만 Alphabet은 클라우드 고성장에도 현금흐름 적자와 AI 지출 부담으로 하락했습니다. 한국 반도체는 현물 매수와 함께 급등했습니다. AI 수요 자체보다 수익화·조달·현금흐름에 따라 포지션이 갈리는 장세로 봅니다.
+Amazon은 AWS 고성장에도 424억달러 현금소진과 자본지출 부담으로 하락했고 Intel은 서버 수요와 달리 PC·공급 차질로 급락했습니다. 반면 Microsoft 회사채에는 발행액의 네 배가 넘는 주문이 모였고 대체운용사는 장기 임대형 데이터센터에 계속 자금을 배치했습니다. AI 수요의 유무보다 누가 비용과 신용위험을 부담하는지가 포지션을 가릅니다.
 
-근거: E04, E05, E02
+근거: E03, E04, E05, E06
 
-반대 근거: E01
+반대 근거: E02
 
-확인 한계: Tuteja의 새 옵션·변동성 발언은 확인되지 않았습니다.
+확인 한계: Tuteja의 최근 24시간 새 발언은 확인되지 않았습니다.
 
-확인 한계: 시간외 주가 반응과 한국 하루 수급을 전체 글로벌 AI 포지션으로 일반화하지 않습니다.
+확인 한계: 시간외 주가 반응과 운용사 인터뷰를 전체 글로벌 AI 포지션으로 일반화하지 않습니다.
 
 
 ## 금리·조달·유동성
 
-연준 동결 속 긴축·AI 조달 민감도 지속 / 신뢰도 중간
+AI 조달이 공모채·사모 인프라로 확대, 시스템 경색은 미확인 / 신뢰도 중간
 
-연준은 3.75~4.00%를 유지했지만 두 위원이 인상을 주장했고 인플레이션이 높다고 평가했습니다. 동시에 AI 자금이 주식·채권·인프라에 집중돼 기대가 꺾일 때 달러·금리·신용을 함께 흔들 수 있다는 경로가 부각됐습니다. 시스템성 repo 경색이나 basis 청산은 확인되지 않았습니다.
+Microsoft의 250억달러 채권 발행과 대체운용사의 장기 임대 데이터센터 투자는 AI 조달이 공모채·사모 인프라로 넓어졌음을 보여줍니다. Amazon·Alphabet의 현금소진과 PIMCO의 AI 부채 축소 보도는 신용 선별 압력을 높입니다. 다만 강한 Microsoft 주문과 베이시스 거래의 성장 둔화는 즉각적인 시스템 자금경색과 다릅니다.
 
-근거: E03, E01
+근거: E03, E04, E05, C08
 
-반대 근거: E04
+반대 근거: C07
 
-확인 한계: 신규 repo·margin·Treasury basis 규모와 실제 엔 캐리 포지션은 없습니다.
+확인 한계: 신규 repo 금리·마진콜·basis 청산액과 엔 캐리 실재 포지션은 확인되지 않았습니다.
 
-확인 한계: 국채 매수와 주식 매도를 일대일로 대응시키지 않았습니다.
+확인 한계: PIMCO 보도는 부분 본문이며 회사 공식 발언이 아닙니다.
 
 
 ## 한국장 전달 경로
 
-반도체 중심 위험선호 전달 확인 · 지속성은 조건부 / 신뢰도 중간
+전일 급등 뒤 차익실현 · 반도체 선택성 확대 / 신뢰도 중간
 
-외국인·기관 순매수, 매수 사이드카와 삼성전자·SK하이닉스 급등으로 글로벌 AI 위험선호가 한국 현물에 전달된 점은 확인됐습니다. 다만 미국 빅테크 실적 반응이 갈리고 연준의 인상 꼬리위험이 남아, 후속 외국인 매수와 AI 현금흐름 검증이 없으면 같은 강도가 지속된다고 볼 수 없습니다.
+코스피는 기관 순매도로 6,000을 내줬지만 외국인은 소폭 순매수를 유지했고 SK하이닉스와 삼성전자의 방향도 갈렸습니다. 미국에서도 AI 현금흐름과 Intel의 PC·공급 차질이 분리돼, 한국 반도체 역시 업종 전체보다 HBM·메모리·PC 노출별 차별화가 커질 가능성이 높습니다.
 
-근거: E02, E04
+근거: E01, E05, E06
 
-반대 근거: E03, E05
+반대 근거: C05
 
-확인 한계: 외국인 현물 순매수에서 헤지펀드·장기자금을 분리할 수 없습니다.
+확인 한계: 한국 외국인 현·선물·공매도·프라임브로커 순노출을 동시에 확인한 공식 자료가 없습니다.
 
-확인 한계: 선물·옵션·공매도 잔고의 투자자별 동시 자료가 없어 전달 경로는 조건부입니다.
+확인 한계: 미국 실적 반응을 한국 종목별 매매 금액으로 환산하지 않았습니다.
 
 
 ## 핵심 3대상
 
-- Shawn Tuteja / 10월 29일 실제 재검색: 최근 24시간 새 발언 없음. 마지막 확인은 10월 8일 2차 보도의 AI·M7 쏠림과 위험보상 비대칭 경계이며 Goldman 원문은 미확인입니다. / 변화: 미확인 / 근거: C01
+- Shawn Tuteja / 10월 30일 실제 재검색: 최근 24시간 새 발언 없음. 마지막 확인은 10월 8일 2차 보도의 AI·M7 쏠림과 옵션 위험보상 비대칭 경계이며 Goldman 원문은 미확인입니다. / 변화: 미확인 / 근거: C01
 
-- Michael Hartnett / 10월 29일 실제 재검색: 최근 24시간 새 발언 없음. 마지막 공개 확인은 10월 25일 Hartnett 메모를 인용한 2차 기사이며 BofA 원문·발언 시각이 없어 입장 변화는 미확인입니다. / 변화: 미확인 / 근거: C02
+- Michael Hartnett / 10월 30일 실제 재검색: 최근 24시간 새 Flow Show 발언 없음. 마지막 공개 확인은 10월 25일 Hartnett 메모를 인용한 2차 기사이며 BofA 원문·발언 시각이 없어 입장 변화는 미확인입니다. / 변화: 미확인 / 근거: C02
 
-- PIMCO / 10월 29일 실제 재검색: 최근 24시간 새 발언 없음. 마지막 공식 확인은 게시시각 없는 10월 22일 Wilding의 연준 프리뷰로, 동결·긴축 편향과 장기금리 부담을 함께 강조했습니다. / 변화: 미확인 / 근거: C03
+- PIMCO / 10월 30일 실제 재검색: 최근 24시간 Ivascyn/Balls/Wilding의 새 공식 발언 없음. 마지막 공식 확인은 10월 22일 Wilding 프리뷰입니다. 10월 28일 AI 부채 축소 보도는 이번 구간 뒤늦게 확인했지만 부분 본문·회사 무응답이어서 공식 관점 변화로 확정하지 않습니다. / 변화: 미확인 / 근거: C03, C07
 
 
 ## 확인 원문
@@ -82,17 +82,19 @@ Microsoft는 Azure 성장, 예상 상회 잉여현금흐름과 낮은 자본지�
 
 |---|---|---|---|---|---|---|
 
-|E01|2026-10-28T13:03:40+09:00|미확인|Reuters, Jamie McGeever, 글로벌 포트폴리오 투자자, CoreWeave|news / full_text / opinion|AI 우려가 드러낸 달러와 미국 자산의 단기자금 민감도 · Reuters는 미국 주식으로의 해외자금 유입이 기록적이지만 직접투자는 뒤처져, AI 기대가 꺾이면 가격 민감한 포트폴리오 자금이 주식·신용·금리·달러를 함께 흔들 수 있다고 분석했습니다. 자금은 대형 기술주뿐 아니라 하이퍼스케일러 채권과 전력 인프라에 집중됐고 CoreWeave CDS 확대는 조달 취약성의 사례로 제시됐습니다. 이는 전체 헤지펀드의 실재 순노출 관측이 아니라 Reuters 칼럼의 위험 전달 경로이며, 최근 위험회피 때 엔과 스위스프랑에 피난 수요가 나타났다는 설명도 포함합니다.|[https://www.reuters.com/world/asia-pacific/ai-worries-expose-dollars-hot-money-problem-2026-10-28/](https://www.reuters.com/world/asia-pacific/ai-worries-expose-dollars-hot-money-problem-2026-10-28/)|
+|E01|2026-10-29T18:48:00+09:00|2026-10-29|국내 기관, 외국인 투자자, 개인 투자자, Samsung Electronics, SK Hynix|news / full_text / observed_metric|코스피 6,000 재이탈 · 기관 차익매물과 외국인 소폭 순매수 · 10월 29일 코스피는 1.24% 내린 5,937.66, 코스닥은 2.34% 내린 753.23으로 마감했습니다. 코스피에서 기관은 4,447억원을 순매도했고 외국인은 655억원, 개인은 343억원을 순매수했습니다. SK하이닉스는 2.62% 올랐지만 삼성전자는 4.13% 하락했습니다. 전일 대규모 외국인·기관 매수 뒤 기관 차익실현이 지수를 눌렀지만 외국인 현물은 소폭 순매수여서 전면적 위험회피로 단정하지 않습니다.|[https://www.businesskorea.co.kr/news/articleView.html?idxno=280010](https://www.businesskorea.co.kr/news/articleView.html?idxno=280010)|
 
-|E02|2026-10-28T16:44:00+09:00|2026-10-28|외국인 투자자, 국내 기관, 개인 투자자, Samsung Electronics, SK Hynix, KRX|news / full_text / observed_metric|코스피 6,000 돌파 · 반도체 급등과 외국인·기관 순매수 · 코스피는 10월 28일 6.63% 오른 6,012.44로 마감했고, KOSPI200 선물이 1분 이상 5% 넘게 올라 매수 사이드카가 발동됐습니다. 외국인은 8,158.3억원, 기관은 9,607.9억원을 순매수한 반면 개인은 약 1.8조원을 순매도했습니다. 삼성전자는 9.01%, SK하이닉스는 10.89% 상승했습니다. 이는 한국 현물의 당일 매수 주체가 확인된 자료지만, 글로벌 헤지펀드만의 매수액이나 지속적 순노출 확대를 뜻하지 않습니다.|[https://en.yna.co.kr/view/AEN20261028008052320](https://en.yna.co.kr/view/AEN20261028008052320)|
+|E02|2026-10-29T17:33:02+09:00|2026-10-29|미국 주식 투자자, Alphabet, Ross Mayfield, Baird|news / full_text / observed_metric|Alphabet 충격에 나스닥 하락 · 시장 내부는 광범위 매도와 달랐다 · 다우는 0.25%, S&P 500은 0.30%, 나스닥은 1.37% 하락했고 반도체지수는 1.4% 내렸습니다. Alphabet은 AI 현금소진 우려로 12.6% 급락했습니다. 반면 Russell 2000은 1.0% 상승했고 NYSE 상승 종목은 하락 종목의 1.95배였습니다. 따라서 대형 AI·소프트웨어의 선택적 매도이지 시장 전체의 동일한 디레버리징으로 보기는 어렵습니다.|[https://www.reuters.com/business/nasdaq-futures-slide-mixed-big-tech-results-test-ai-trade-2026-10-29/](https://www.reuters.com/business/nasdaq-futures-slide-mixed-big-tech-results-test-ai-trade-2026-10-29/)|
 
-|E03|2026-10-29T03:00:00+09:00|2026-10-28|Federal Open Market Committee, Lisa Cook, Beth Hammack|primary / full_text / observed_metric|연준, 기준금리 동결 · 두 명은 25bp 인상 주장 · FOMC는 기준금리 목표범위를 3.75~4.00%로 유지했습니다. 경제활동은 견조하고 소비는 회복력이 있으며 자본투자는 강하지만 인플레이션은 여전히 높다고 평가했습니다. Cook과 Hammack은 25bp 인상을 선호해 10대 2로 결정됐습니다. 이는 완화 전환이 아니라 동결 속 긴축 위험이 남은 신호이며, 국채 매수를 곧바로 주식 매도로 해석할 근거는 아닙니다.|[https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm](https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm)|
+|E03|2026-10-30T03:01:42+09:00|2026-10-29|Microsoft, Amy Hood, Wells Fargo, JPMorgan Chase, UBS|news / full_text / reported_flow|Microsoft, AI 투자 위해 약 250억달러 회사채 조달 추진 · Microsoft는 9년여 만의 미국 투자등급 채권 발행으로 약 250억달러를 조달할 계획이며 주문은 1,000억달러를 넘어 발행 예정액의 네 배 이상으로 전해졌습니다. 2년부터 40년까지 최대 10개 만기로 구성될 수 있고, 회사는 규제 공시에서 발행 자체는 확인했지만 규모는 밝히지 않았습니다. AI 투자가 내부현금만이 아니라 공모채 시장으로 확장되는 신호지만 강한 주문은 당장의 조달 경색과 구분해야 합니다.|[https://www.reuters.com/business/finance/microsoft-expects-raise-25-billion-us-bond-sale-source-says-2026-10-29/](https://www.reuters.com/business/finance/microsoft-expects-raise-25-billion-us-bond-sale-source-says-2026-10-29/)|
 
-|E04|2026-10-29T05:08:00+09:00|2026-10-28|Microsoft, Satya Nadella, Visible Alpha|news / full_text / observed_metric|Microsoft, 클라우드 매출 예상 상회 · AI 투자 수익화 차별화 · Microsoft의 Azure 매출은 48% 늘어난 331.7억달러로 Visible Alpha 예상 328.4억달러를 웃돌았고, 잉여현금흐름은 시장 예상보다 약 100억달러 많았습니다. 자본지출도 예상보다 낮아 시간외 주가는 약 4% 상승했습니다. AI 투자 전체의 무차별 낙관보다, 현금흐름과 클라우드 수익화가 확인되는 기업에 매수가 집중될 수 있다는 관측 수치입니다.|[https://in.marketscreener.com/news/microsoft-beats-quarterly-cloud-revenue-estimates-ce785cd3d980f624](https://in.marketscreener.com/news/microsoft-beats-quarterly-cloud-revenue-estimates-ce785cd3d980f624)|
+|E04|2026-10-30T02:04:33+09:00|2026-10-29|Blue Owl, Ares Management, Blackstone, Marc Lipschultz, Michael Arougheti, Jonathan Gray|news / full_text / reported_flow|대체투자 운용사, AI 인프라를 장기 임대·우량 임차인 구조로 보유 · Blue Owl·Ares·Blackstone 등 대체투자 운용사는 데이터센터를 직접 보유하고 12~20년 장기 임대, 임대료 인상조항, 투자등급 하이퍼스케일러를 통해 AI 수요에 노출되고 있습니다. Blue Owl은 운영·건설 중 130개 이상 데이터센터와 약 14GW 용량, 추가 21GW 파이프라인을 제시했습니다. Blackstone은 데이터센터 상대방의 96%가 투자등급이라고 밝혔습니다. 이는 상장 기술주 매수와 다른 인프라·신용 경로이며, 공사·집중·잔존가치·순환금융 위험은 남습니다.|[https://www.reuters.com/business/finance/wall-streets-ai-bet-own-infrastructure-collect-rent-2026-10-29/](https://www.reuters.com/business/finance/wall-streets-ai-bet-own-infrastructure-collect-rent-2026-10-29/)|
 
-|E05|2026-10-29T05:44:00+09:00|2026-10-28|Alphabet, Google Cloud, LSEG|news / full_text / observed_metric|Alphabet, 클라우드 성장에도 AI 지출·현금흐름 부담으로 시간외 급락 · Google Cloud 매출은 두 배 이상 늘어 307.1억달러를 기록했지만 Alphabet 전체 매출은 1,276억달러로 시장 예상 1,282억달러를 밑돌았습니다. 잉여현금흐름은 90.7억달러 적자로 거의 손익분기라는 예상보다 나빴고, AI 연구개발비 영향으로 Alphabet 단위 영업손실은 76.6억달러였습니다. 시간외 주가는 약 8% 하락했습니다. AI 수요와 주가 방향이 같지 않으며 자본집약도·광고·현금흐름이 포지션 선별을 가른다는 반대 근거입니다.|[https://au.investing.com/news/stock-market-news/alphabets-google-cloud-unit-beats-quarterly-revenue-estimates-on-steady-ai-demand-4722834](https://au.investing.com/news/stock-market-news/alphabets-google-cloud-unit-beats-quarterly-revenue-estimates-on-steady-ai-demand-4722834)|
+|E05|2026-10-30T05:06:00+09:00|2026-10-29|Amazon, Amazon Web Services, Andy Jassy, LSEG|news / full_text / observed_metric|Amazon, AWS 고성장에도 AI 투자와 현금소진 부담으로 시간외 하락 · AWS 매출은 39% 증가한 460억달러로 약 5년 만의 최고 성장률을 기록했지만, Amazon의 최근 12개월 잉여현금흐름은 424억달러 적자였습니다. 분기 자본지출은 772.6억달러로 예상보다 약 200억달러 많았고 2026년 자본지출 전망은 약 2,200억달러입니다. 회사는 2027년 지출이 더 크게 늘 것으로 예상했고 주가는 시간외 최대 7% 하락했습니다. AI 수요 증가와 주주가 감수하는 현금흐름 비용을 분리해서 봐야 하는 사례입니다.|[https://www.reuters.com/business/retail-consumer/amazon-projects-fourth-quarter-sales-below-estimates-2026-10-29/](https://www.reuters.com/business/retail-consumer/amazon-projects-fourth-quarter-sales-below-estimates-2026-10-29/)|
 
-|E06|2026-10-29T04:55:00+09:00|2026-10-28|Sikuli Research, S&P 500 옵션 투자자|primary / full_text / observed_metric|SPX가 감마 전환선 위로 이동한 단일 모델 스냅샷 · 10월 28일 15:55 EDT 스냅샷에서 SPX 7,742.35는 감마 전환선 7,733을 웃돌았고, 모델 순 GEX는 지수 1% 움직임당 +58.1억달러로 제시됐습니다. 콜월은 7,800, 풋월은 7,650이며 0~1일 만기 비중은 41%였습니다. 양의 감마 구간은 딜러 헤지가 변동성을 완충할 가능성을 시사하지만 실제 딜러 재고가 아니라 단일 제공자의 모델입니다. 같은 페이지의 변동성 목표 추정치는 데이터 상태를 검증할 수 없어 판단 근거에서 제외했습니다.|[https://www.sikuliresearch.com/dashboard/gamma](https://www.sikuliresearch.com/dashboard/gamma)|
+|E06|2026-10-30T05:07:00+09:00|2026-10-29|Intel, Lip-Bu Tan, David Zinsner, LSEG|news / full_text / observed_metric|Intel, AI 서버 수요에도 공장 사고·PC 부진 전망으로 시간외 급락 · Intel은 4분기 매출 150억~160억달러와 조정 EPS 0.25달러를 전망해 LSEG 예상 170.7억달러와 0.43달러를 밑돌았습니다. 이스라엘 공장 사고는 4분기와 내년 1분기에 각각 약 3억달러의 매출 영향을 줄 수 있고, PC 사업 매출은 5% 감소했습니다. AI 서버용 Xeon 수요는 강했지만 주가는 시간외 약 18% 하락했습니다. 반도체 수요를 AI 전체로 묶지 말고 서버·PC·공급능력으로 나눠야 한다는 반대 근거입니다.|[https://live.euronext.com/en/financial-news/intel-shares-drop-18-israel-fab-blast-pc-weakness](https://live.euronext.com/en/financial-news/intel-shares-drop-18-israel-fab-blast-pc-weakness)|
+
+|E07|2026-10-30T04:45:00+09:00|2026-10-29|FirmTape, S&P 500 옵션 투자자|primary / full_text / observed_metric|SPX 종가가 감마 전환선 위 · 양의 감마지만 강도는 낮은 모델 · 10월 29일 15:45 EDT 스냅샷에서 SPX는 7,719.70, 감마 전환선은 7,707.9, 콜 저항 7,710, 풋 지지 7,700으로 제시됐습니다. 거래량 장부는 양의 감마였지만 같은 시각 최근 20거래일 대비 순감마는 5백분위로 낮았습니다. 지수가 전환선 위라는 점은 헤지 흐름의 완충 가능성을 시사하나, 실제 딜러 재고가 아니라 공개 체결·호가에서 계산한 모델입니다.|[https://firmtape.com/now](https://firmtape.com/now)|
 
 |C01|2026-10-08 (시각 미확인)|미확인|tuteja|이전 자료 / news / partial_text / opinion|Tuteja 관련 보도: AI 상승 베팅의 비대칭이 약해졌다는 경계 · 이전 자료입니다. 공개 도입부는 Shawn Tuteja의 메모를 AI 쏠림과 위험보상 경계로 소개합니다. Goldman 원본과 유료 본문은 확인하지 못했습니다.|[https://www.zerohedge.com/markets/asymmetry-has-shifted-goldman-vol-trader-steps-ai-train-hedge-funds-most-crowded-mag-7](https://www.zerohedge.com/markets/asymmetry-has-shifted-goldman-vol-trader-steps-ai-train-hedge-funds-most-crowded-mag-7)|
 
@@ -100,33 +102,37 @@ Microsoft는 Azure 성장, 예상 상회 잉여현금흐름과 낮은 자본지�
 
 |C03|2026-10-22 (시각 미확인)|2026-10-22|pimco, Tiffany Wilding|이전 자료 / primary / full_text / opinion|10월 연준 회의 전망: 동결도 여전히 재조정 과정 · 이전 자료입니다. Tiffany Wilding은 10월 회의에서 3.75~4.0% 동결을 예상하되 긴축 편향과 12월 25bp 인상 가능성을 유지했습니다. 장기 실질금리 상승이 주식시장의 부의 효과를 일부 상쇄하고 AI가 정책 판단을 복잡하게 한다고 설명했습니다.|[https://www.pimco.com/us/en/insights/october-fed-meeting-preview-a-pause-is-still-a-recalibration](https://www.pimco.com/us/en/insights/october-fed-meeting-preview-a-pause-is-still-a-recalibration)|
 
-|C04|2026-10-27T16:00:52+09:00|미확인|Mike Dolan, Societe Generale, Morgan Stanley, Barclays|이전 자료 / news / full_text / opinion|AI 충격이 드러낸 시장의 변동성 취약 지점 · Reuters 칼럼니스트 Mike Dolan은 AI 생태계의 교차조달 구조가 주식·채권·변동성으로 충격을 전파할 수 있다고 평가했습니다. Societe Generale은 10월 초 S&P 500 수익률과 10년물 금리 변화의 3개월 상관이 30년 내 가장 음(-)의 수준에 이르렀고 변동성 억제 거래가 약해졌다고 분석했습니다. 레버리지 숏 변동성은 옵션 매도·지수 내재변동성 매도로 프리미엄을 얻지만 급격한 청산 때 지수 변동성을 증폭할 수 있습니다. Morgan Stanley는 2027년 AI 투자가 50% 더 늘 것으로 봤으나 조달비용이 레버리지 높은 차주를 가를 것으로 봤고, Barclays는 AI 부채가 IG보다 약 35bp 부진하며 종목 간 스프레드 분산이 약 65bp로 세 배 가까이 확대됐다고 집계했습니다. Goldman 시스템 롱숏 -2%는 10월 26일 보도의 재인용이므로 독립 사건으로 다시 세지 않습니다.|[https://www.reuters.com/commentary/reuters-open-interest/ai-tremor-exposes-markets-volatility-fault-lines-2026-10-27/](https://www.reuters.com/commentary/reuters-open-interest/ai-tremor-exposes-markets-volatility-fault-lines-2026-10-27/)|
-
-|C05|2026-10-27T13:48:08+09:00|2026-10-27|Satsuki Katayama, 일본 재무성, BOJ|이전 자료 / news / full_text / reported_flow|일본 재무상, 필요하면 외환시장에 단호히 대응 · 일본 재무상은 엔화와 장기금리 움직임을 긴박하게 보고 필요시 단호히 행동하겠다고 밝혔습니다. 엔/달러는 157.73으로 약세였고, Reuters는 BOJ가 금리를 동결하되 추가 인상 의지를 시사할 것으로 전했습니다. 이는 엔 캐리 규모나 청산 수치를 보여주지 않지만 엔 약세 포지션의 개입 꼬리위험과 조달통화 변동성 경로를 높이는 정책 신호입니다.|[https://www.reuters.com/world/asia-pacific/japan-stands-ready-take-decisive-action-currency-market-finance-minister-says-2026-10-27/](https://www.reuters.com/world/asia-pacific/japan-stands-ready-take-decisive-action-currency-market-finance-minister-says-2026-10-27/)|
-
 |C06|2026-10-26 (시각 미확인)|2026-10-22|글로벌 헤지펀드, Goldman Sachs Prime Brokerage|이전 자료 / news / full_text / reported_flow|헤지펀드 롱 축소 속 쇼트 손실 지속 · 이전 자료입니다. Goldman PB의 10월 22일까지 주간 표본에서 글로벌 주식은 3주 연속 순매도됐고 롱 매도가 쇼트커버의 3.4배였습니다. 순레버리지는 47%로 1년 최저였지만 gross는 소폭 늘었고, 유럽 순매수는 신규 롱이 아니라 쇼트커버가 주도했습니다. 따라서 순노출 감소를 전부 신규 쇼트로 볼 수 없으며, 쇼트 바스켓 손실과 낮은 롱 익스포저는 반등 시 스퀴즈 가능성을 남깁니다. 기사 작성에 AI 지원·편집자 검토가 명시돼 있고 Goldman 원문은 공개되지 않았습니다.|[https://www.investing.com/news/stock-market-news/hedge-funds-cut-long-positions-as-short-bets-drive-losses-93CH-4971768](https://www.investing.com/news/stock-market-news/hedge-funds-cut-long-positions-as-short-bets-drive-losses-93CH-4971768)|
+
+|C04|2026-10-29T03:00:00+09:00|2026-10-28|Federal Open Market Committee, Lisa Cook, Beth Hammack|이전 자료 / primary / full_text / observed_metric|연준, 기준금리 동결 · 두 명은 25bp 인상 주장 · FOMC는 기준금리 목표범위를 3.75~4.00%로 유지했습니다. 경제활동은 견조하고 소비는 회복력이 있으며 자본투자는 강하지만 인플레이션은 여전히 높다고 평가했습니다. Cook과 Hammack은 25bp 인상을 선호해 10대 2로 결정됐습니다. 이는 완화 전환이 아니라 동결 속 긴축 위험이 남은 신호이며, 국채 매수를 곧바로 주식 매도로 해석할 근거는 아닙니다.|[https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm](https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm)|
+
+|C05|2026-10-28T16:44:00+09:00|2026-10-28|외국인 투자자, 국내 기관, 개인 투자자, Samsung Electronics, SK Hynix, KRX|이전 자료 / news / full_text / observed_metric|코스피 6,000 돌파 · 반도체 급등과 외국인·기관 순매수 · 코스피는 10월 28일 6.63% 오른 6,012.44로 마감했고, KOSPI200 선물이 1분 이상 5% 넘게 올라 매수 사이드카가 발동됐습니다. 외국인은 8,158.3억원, 기관은 9,607.9억원을 순매수한 반면 개인은 약 1.8조원을 순매도했습니다. 삼성전자는 9.01%, SK하이닉스는 10.89% 상승했습니다. 이는 한국 현물의 당일 매수 주체가 확인된 자료지만, 글로벌 헤지펀드만의 매수액이나 지속적 순노출 확대를 뜻하지 않습니다.|[https://en.yna.co.kr/view/AEN20261028008052320](https://en.yna.co.kr/view/AEN20261028008052320)|
+
+|C07|2026-10-28 (시각 미확인)|미확인|pimco, PIMCO, Bloomberg News|이전 자료 / news / partial_text / reported_flow|PIMCO의 AI 부채 익스포저 축소 보도 · 공개 본문은 부분 확인 · 이전 자료이며 이번 취합 구간 뒤늦게 확인했습니다. 공개 도입부는 PIMCO가 2025년 AI 부채 붐에 대규모로 참여한 뒤 일부 포지션 매각, 금리 헤지, 후속 거래 불참으로 손실을 피하고 이익을 냈다고 보도합니다. 회원 전용 본문은 확인하지 못했고 PIMCO 공식 발언이 아니라 보도된 운용 흐름이므로, 정확한 전체 보유액·매각시점·포트폴리오 순노출과 관점 변화는 확정하지 않습니다.|[https://www.advisorperspectives.com/articles/2026/10/28/pimco-offloads-billions-ai-debt-skirt-losses](https://www.advisorperspectives.com/articles/2026/10/28/pimco-offloads-billions-ai-debt-skirt-losses)|
+
+|C08|2026-10-28T19:06:02+09:00|미확인|글로벌 헤지펀드, JPMorgan, Barclays, CME Group, Federal Reserve|이전 자료 / news / full_text / reported_flow|국채 베이시스 성장 둔화 뒤 스왑스프레드 상대가치 거래로 일부 이동 · 이전 자료이며 이번 취합 구간 뒤늦게 확인했습니다. 베이시스 거래는 높은 금리·조달비용과 은행 규제완화로 성장세가 둔화됐고 일부 레버리지 자금은 스왑스프레드 거래로 이동한 것으로 보도됐습니다. Fed 추정의 2025년 9월 베이시스 8,300억달러와 스왑스프레드 3,050억달러는 시차가 큰 과거 관측이며, CME는 국채선물 거래량·미결제약정에서 축소가 뚜렷하지 않다고 반박했습니다. 현재 청산 규모로 사용하지 않습니다.|[https://www.reuters.com/legal/transactional/basis-trade-retreat-spurs-shift-into-new-rate-bets-2026-10-28/](https://www.reuters.com/legal/transactional/basis-trade-retreat-spurs-shift-into-new-rate-bets-2026-10-28/)|
 
 
 ## 수집 범위
 
-- Shawn Tuteja / checked / Goldman 공식 페이지와 공개 웹 재검색. 최근 24시간 새 발언 0건; 마지막 확인 2026-10-08 2차 보도, 원본 메모 미확인.
+- Shawn Tuteja / checked / Goldman 공식 페이지와 공개 웹 재검색. 최근 24시간 새 발언 0건; 10월 29일 2차 옵션 해설은 Tuteja 발언이 아니고 게시시각이 없어 신규 근거에서 제외.
 
 - Michael Hartnett · BofA Flow Show / checked / BofA와 공개 언론 재검색. 최근 24시간 새 발언 0건; 마지막 공개 확인 2026-10-25 2차 기사, BofA 원문·발언 시각 미확인.
 
-- PIMCO · Ivascyn/Balls/Wilding / checked / PIMCO 공식 Insights와 공개 웹 재검색. 최근 24시간 새 발언 0건; 마지막 공식 자료 2026-10-22 Wilding 프리뷰.
+- PIMCO · Ivascyn/Balls/Wilding / checked / PIMCO 공식 Insights와 공개 웹 재검색. 최근 24시간 새 공식 발언 0건. 10월 28일 Bloomberg의 AI 부채 축소 보도는 부분 본문·PIMCO 무응답으로 이전 자료에 분리.
 
-- 글로벌 헤지펀드·프라임브로커 gross/net·롱/숏 / checked / 신규 독립 PB 보고 0건. 이전 Goldman PB 표본의 롱 매도·쇼트커버 분해는 문맥으로 유지하며 전체 펀드로 일반화하지 않음.
+- 글로벌 헤지펀드·프라임브로커 gross/net·롱/숏 / checked / 최근 24시간 신규 독립 PB gross/net 보고 0건. 이전 Goldman PB 표본은 문맥으로만 유지.
 
-- CTA·변동성 목표·딜러 감마 / partial / Sikuli 2026-10-28 감마 모델을 확인. 실제 딜러 재고·CTA 매매액·검증 가능한 vol-control AUM은 미확인.
+- CTA·변동성 목표·딜러 감마 / partial / FirmTape 10월 29일 SPX 감마 모델 확인. 실제 딜러 재고·CTA 매매액·검증 가능한 vol-control AUM은 미확인.
 
-- 펀드·ETF 자금흐름 / checked / Reuters의 기록적 미국 주식 해외유입과 한국 투자자별 현물 흐름을 확인. 신규 글로벌 전체 펀드·ETF 일간 순유입액은 0건.
+- 펀드·ETF·대체자산 흐름 / checked / 신규 글로벌 펀드·ETF 총순유입액은 0건. Microsoft 공모채 주문과 Blue Owl·Ares·Blackstone의 AI 인프라 전략을 별도 조달 경로로 확인.
 
-- 국채 베이시스·레포·마진·엔 캐리 / partial / FOMC 공식 결정을 확인하고 이전 엔 개입 경고를 문맥으로 유지. 신규 basis·repo·margin·엔 캐리 실재 규모는 미확인.
+- 국채 베이시스·레포·마진·엔 캐리 / partial / 10월 28일 Reuters 베이시스·스왑스프레드 기사는 이전 자료로 확인. 최근 24시간 신규 repo·margin·basis 청산액·엔 캐리 실재 규모는 0건.
 
-- 언론·공식 원문 / checked / Fed·Yonhap·Reuters 원문 및 Reuters 전문 재배포 2건을 직접 확인. 원문/기사 발행시각과 관측일을 구분.
+- 언론·공식 원문 / checked / Reuters 원문 4건, Reuters 전문 재배포 1건, BusinessKorea, FirmTape를 직접 확인. 게시일·관측일·모델 한계를 분리.
 
 - 공개 커뮤니티 / checked / Reddit r/stocks·r/investing·r/wallstreetbets를 재검색했으나 구간 내 게시시각과 원문을 함께 확인한 신규 포지션 글 0건. 이전 글은 신규 entry로 재분류하지 않음.
 
-- 기사 후보 수집 / partial / 저장소 discovery 최신본은 2026-10-28 08:33 KST로 이번 구간을 갱신하지 못함. 전일 후보 5건은 원문 검증을 대신하지 않아 신규 근거에서 제외.
+- 기사 후보 수집 / partial / 저장소 discovery 최신본은 2026-10-29 08:38 KST. PIMCO·베이시스 후보는 원문 검증 후 게시시각상 이전 자료로 분류했고, 가격 페이지·재가공 제목은 제외.
 
-- 검색 경로 / partial / Exa 네 검색축이 2026-10-29 08:05 KST에 402 크레딧 제한으로 실패. 이를 새 자료 0건으로 오인하지 않고 공개 웹 대체 검색을 수행.
+- 검색 경로 / partial / Exa 일곱 검색축이 2026-10-30 08:27 KST에 402 크레딧 제한으로 실패. 이를 새 자료 0건으로 오인하지 않고 공개 웹 대체 검색을 수행.
