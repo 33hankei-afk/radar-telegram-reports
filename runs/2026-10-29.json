@@ -3,7 +3,7 @@
   "status": "running",
   "stage": "publishing",
   "started_at_kst": "2026-10-29T21:03:56+09:00",
-  "updated_at_kst": "2026-10-29T21:11:17+09:00",
+  "updated_at_kst": "2026-10-29T21:11:37+09:00",
   "ended_at_kst": null,
   "attempt": 1,
   "verified_posts": 536,
@@ -57,7 +57,8 @@
     "globaletfi"
   ],
   "published_paths": [
-    "reports/2026-10-29.json"
+    "reports/2026-10-29.json",
+    "reports/2026-10-29.md"
   ],
   "errors": [
     "초기 collection/request.json에 실제 확인시각보다 미래인 시각이 잘못 기록되어 즉시 정정했으며 중복 workflow run 40870300541이 발생함",
@@ -65,8 +66,8 @@
   ],
   "notes": [
     "reports/2026-10-29.json 게시 성공",
+    "reports/2026-10-29.md 게시 성공",
     "전체 원문 artifact 확보 및 SHA-256 대조",
-    "14/59개 기준 부분 보고서 검증 완료",
     "이미지·첨부 180건 미판독"
   ]
 }
