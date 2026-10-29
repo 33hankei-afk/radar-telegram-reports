@@ -1,18 +1,22 @@
 {
   "date_kst": "2026-10-29",
   "status": "running",
-  "stage": "started",
+  "stage": "collecting",
   "started_at_kst": "2026-10-29T21:03:56+09:00",
-  "updated_at_kst": "2026-10-29T21:03:56+09:00",
+  "updated_at_kst": "2026-10-29T21:07:24+09:00",
   "ended_at_kst": null,
   "attempt": 1,
-  "verified_posts": 0,
-  "checked_channels": 0,
-  "verified_full_channels": 0,
+  "verified_posts": 303,
+  "checked_channels": 4,
+  "verified_full_channels": 4,
   "failed_channels": [],
   "published_paths": [],
-  "errors": [],
+  "errors": [
+    "초기 collection/request.json에 실제 확인시각보다 미래인 시각이 잘못 기록되어 즉시 정정했으며 중복 workflow run 40870300541이 발생함"
+  ],
   "notes": [
-    "실제 KST 확인 시각으로 시작 기록을 정정"
+    "실제 KST 확인 시각으로 시작 기록을 정정",
+    "원문 수집 workflow run 40870317969 진행 중",
+    "source complete는 보고서 complete와 별도"
   ]
 }
