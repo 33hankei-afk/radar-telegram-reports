@@ -1,9 +1,9 @@
 {
   "date_kst": "2026-10-30",
   "status": "running",
-  "stage": "publishing",
+  "stage": "verifying",
   "started_at_kst": "2026-10-30T21:59:48+09:00",
-  "updated_at_kst": "2026-10-30T22:05:01+09:00",
+  "updated_at_kst": "2026-10-30T22:06:35+09:00",
   "ended_at_kst": null,
   "attempt": 1,
   "request_id": "20261030T220005p0900-daily21",
@@ -13,7 +13,12 @@
   "failed_channels": [
     "aetherjapanresearch"
   ],
-  "published_paths": [],
+  "published_paths": [
+    "reports/2026-10-30.json",
+    "reports/2026-10-30.md",
+    "latest.md",
+    "latest.json"
+  ],
   "errors": [
     "progress update conflict at 14 channels; retried with fresh SHA",
     "hanachina: #71265: view counter missing/invalid",
