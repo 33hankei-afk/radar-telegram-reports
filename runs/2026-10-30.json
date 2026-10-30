@@ -1,15 +1,15 @@
 {
   "date_kst": "2026-10-30",
   "status": "running",
-  "stage": "collecting",
+  "stage": "publishing",
   "started_at_kst": "2026-10-30T21:59:48+09:00",
-  "updated_at_kst": "2026-10-30T22:01:42+09:00",
+  "updated_at_kst": "2026-10-30T22:05:01+09:00",
   "ended_at_kst": null,
   "attempt": 1,
   "request_id": "20261030T220005p0900-daily21",
-  "verified_posts": 749,
-  "checked_channels": 44,
-  "verified_full_channels": 42,
+  "verified_posts": 997,
+  "checked_channels": 59,
+  "verified_full_channels": 57,
   "failed_channels": [
     "aetherjapanresearch"
   ],
