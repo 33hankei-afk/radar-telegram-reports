@@ -1,20 +1,20 @@
 {
   "schema": "telegram_collection_status_v1",
-  "request_id": "20261029T2104230900-daily21",
-  "date_kst": "2026-10-29",
-  "execution_date_kst": "2026-10-29",
+  "request_id": "20261030T220005p0900-daily21",
+  "date_kst": "2026-10-30",
+  "execution_date_kst": "2026-10-30",
   "status": "running",
   "stage": "collecting",
-  "started_at_kst": "2026-10-29T21:06:39.534120+09:00",
-  "updated_at_kst": "2026-10-29T21:06:54.182081+09:00",
+  "started_at_kst": "2026-10-30T22:00:15.809644+09:00",
+  "updated_at_kst": "2026-10-30T22:00:26.915461+09:00",
   "ended_at_kst": null,
   "checked_channels": 4,
   "verified_full_channels": 4,
-  "verified_posts": 303,
+  "verified_posts": 269,
   "searfin_status": "complete",
   "failed_channels": [],
   "errors": [],
-  "evidence_path": "collection/snapshots/20261029T2104230900-daily21.json",
+  "evidence_path": "collection/snapshots/20261030T220005p0900-daily21.json",
   "report_published": false,
-  "status_path": "collection/status/20261029T2104230900-daily21.json"
+  "status_path": "collection/status/20261030T220005p0900-daily21.json"
 }
