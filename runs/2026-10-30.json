@@ -3,16 +3,20 @@
   "status": "running",
   "stage": "collecting",
   "started_at_kst": "2026-10-30T21:59:48+09:00",
-  "updated_at_kst": "2026-10-30T22:01:03+09:00",
+  "updated_at_kst": "2026-10-30T22:01:42+09:00",
   "ended_at_kst": null,
   "attempt": 1,
   "request_id": "20261030T220005p0900-daily21",
-  "verified_posts": 393,
-  "checked_channels": 14,
-  "verified_full_channels": 14,
-  "failed_channels": [],
+  "verified_posts": 749,
+  "checked_channels": 44,
+  "verified_full_channels": 42,
+  "failed_channels": [
+    "aetherjapanresearch"
+  ],
   "published_paths": [],
   "errors": [
-    "progress update conflict at 14 channels; retried with fresh SHA"
+    "progress update conflict at 14 channels; retried with fresh SHA",
+    "hanachina: #71265: view counter missing/invalid",
+    "aetherjapanresearch: public read failed: ValueError: not an approved public channel preview"
   ]
 }
