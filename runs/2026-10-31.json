@@ -1,9 +1,9 @@
 {
   "date_kst": "2026-10-31",
   "status": "running",
-  "stage": "publishing",
+  "stage": "verifying",
   "started_at_kst": "2026-10-31T21:24:54+09:00",
-  "updated_at_kst": "2026-10-31T21:27:19+09:00",
+  "updated_at_kst": "2026-10-31T21:27:54+09:00",
   "ended_at_kst": null,
   "attempt": 1,
   "request_id": "20261031T212506p0900-daily21",
@@ -13,7 +13,12 @@
   "failed_channels": [
     "aetherjapanresearch"
   ],
-  "published_paths": [],
+  "published_paths": [
+    "reports/2026-10-31.json",
+    "reports/2026-10-31.md",
+    "latest.md",
+    "latest.json"
+  ],
   "errors": [
     "aetherjapanresearch: public read failed: ValueError: not an approved public channel preview",
     "eqmirae: #3275: view counter missing/invalid"
