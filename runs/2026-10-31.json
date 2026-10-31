@@ -1,10 +1,10 @@
 {
   "date_kst": "2026-10-31",
-  "status": "running",
-  "stage": "verifying",
+  "status": "partial",
+  "stage": "finished",
   "started_at_kst": "2026-10-31T21:24:54+09:00",
-  "updated_at_kst": "2026-10-31T21:27:54+09:00",
-  "ended_at_kst": null,
+  "updated_at_kst": "2026-10-31T21:28:16+09:00",
+  "ended_at_kst": "2026-10-31T21:28:16+09:00",
   "attempt": 1,
   "request_id": "20261031T212506p0900-daily21",
   "verified_posts": 229,
@@ -22,5 +22,21 @@
   "errors": [
     "aetherjapanresearch: public read failed: ValueError: not an approved public channel preview",
     "eqmirae: #3275: view counter missing/invalid"
-  ]
+  ],
+  "publication_results": {
+    "reports/2026-10-31.json": "success",
+    "reports/2026-10-31.md": "success",
+    "latest.md": "success",
+    "latest.json": "success"
+  },
+  "verification": {
+    "remote_reread": true,
+    "report_latest_json_match": true,
+    "report_latest_markdown_match": true,
+    "url_references_valid": true,
+    "theme_partition_valid": true,
+    "final_ci": "success",
+    "body_hash_mismatches": 0,
+    "artifact_digest_match": true
+  }
 }
