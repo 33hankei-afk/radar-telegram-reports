@@ -1,9 +1,9 @@
 {
   "date_kst": "2026-11-01",
   "status": "running",
-  "stage": "publishing",
+  "stage": "verifying",
   "started_at_kst": "2026-11-01T21:40:34+09:00",
-  "updated_at_kst": "2026-11-01T21:43:46+09:00",
+  "updated_at_kst": "2026-11-01T21:44:24+09:00",
   "ended_at_kst": null,
   "attempt": 1,
   "request_id": "20261101T214104p0900-daily21",
@@ -16,7 +16,18 @@
     "aetherjapanresearch"
   ],
   "unprocessed_channels_count": 25,
-  "published_paths": [],
+  "published_paths": [
+    "reports/2026-11-01.json",
+    "reports/2026-11-01.md",
+    "latest.md",
+    "latest.json"
+  ],
+  "publication_results": {
+    "reports/2026-11-01.json": "success",
+    "reports/2026-11-01.md": "success",
+    "latest.md": "success",
+    "latest.json": "success"
+  },
   "errors": [
     "aetherjapanresearch: public read failed: ValueError: not an approved public channel preview",
     "collector/checkpoint failed: ValueError"
