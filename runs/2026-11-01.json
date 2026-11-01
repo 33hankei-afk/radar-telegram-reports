@@ -1,21 +1,59 @@
 {
   "date_kst": "2026-11-01",
-  "status": "running",
-  "stage": "verifying",
+  "status": "partial",
+  "stage": "finished",
   "started_at_kst": "2026-11-01T21:40:34+09:00",
-  "updated_at_kst": "2026-11-01T21:44:24+09:00",
-  "ended_at_kst": null,
+  "updated_at_kst": "2026-11-01T21:44:56+09:00",
+  "ended_at_kst": "2026-11-01T21:44:56+09:00",
   "attempt": 1,
   "request_id": "20261101T214104p0900-daily21",
   "checked_channels": 34,
   "verified_full_channels": 33,
   "verified_posts": 187,
   "report_entries": 85,
+  "top20_count": 20,
   "related_posts": 73,
+  "theme_counts": {
+    "T1": 2,
+    "T2": 1,
+    "T3": 0,
+    "T4": 12,
+    "T5": 3,
+    "OTHER": 55
+  },
+  "consensus_up_count": 0,
+  "consensus_down_count": 0,
+  "media_review_count": 66,
   "failed_channels": [
     "aetherjapanresearch"
   ],
-  "unprocessed_channels_count": 25,
+  "unprocessed_channels": [
+    "kimcharger",
+    "TNBfolio",
+    "earlystock1",
+    "huhpharm",
+    "meritz_tech",
+    "easobi",
+    "daegurr",
+    "macrojunglemicrolens",
+    "sejongdata2013",
+    "smallcap",
+    "tlsrltnf",
+    "awake_realtimecheck",
+    "egzion",
+    "cahier_de_market",
+    "eqmirae",
+    "survival_DoPB",
+    "report_figure_by_offset",
+    "yieldnspread",
+    "shinhanresearch",
+    "athletes_village",
+    "bio_shinhan",
+    "goupstock",
+    "rafikiresearch",
+    "maddingStock",
+    "globaletfi"
+  ],
   "published_paths": [
     "reports/2026-11-01.json",
     "reports/2026-11-01.md",
@@ -28,8 +66,21 @@
     "latest.md": "success",
     "latest.json": "success"
   },
+  "verification": {
+    "artifact_sha256_match": true,
+    "body_sha256_mismatches": 0,
+    "local_validator": "passed",
+    "reference_partition_checks": "passed",
+    "remote_reread": "passed",
+    "report_latest_json_equal": true,
+    "report_latest_md_equal": true,
+    "date_kst_match": true,
+    "github_actions_run_id": 41307907097,
+    "github_actions_conclusion": "success"
+  },
   "errors": [
     "aetherjapanresearch: public read failed: ValueError: not an approved public channel preview",
-    "collector/checkpoint failed: ValueError"
+    "collector/checkpoint failed: ValueError",
+    "25 channels unprocessed after collector checkpoint exception; they are not treated as having zero posts"
   ]
 }
