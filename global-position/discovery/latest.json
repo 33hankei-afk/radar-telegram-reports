@@ -83,21 +83,21 @@
       "url": "https://news.google.com/rss/search?q=%22Shawn+Tuteja%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-      "items": 1,
+      "items": 0,
       "name": "Michael Hartnett",
       "note": "RSS 후보만 확인 · 원문/GPT 분석과 구분",
       "status": "checked",
       "url": "https://news.google.com/rss/search?q=%22Michael+Hartnett%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-      "items": 1,
+      "items": 0,
       "name": "PIMCO",
       "note": "RSS 후보만 확인 · 원문/GPT 분석과 구분",
       "status": "checked",
       "url": "https://news.google.com/rss/search?q=PIMCO+%28Ivascyn+OR+Balls+OR+Wilding+OR+outlook+OR+flows%29+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-      "items": 1,
+      "items": 4,
       "name": "글로벌 포지션·프라임브로커",
       "note": "RSS 후보만 확인 · 원문/GPT 분석과 구분",
       "status": "checked",
@@ -111,7 +111,7 @@
       "url": "https://news.google.com/rss/search?q=%28CTA+OR+%22volatility+control%22+OR+%22dealer+gamma%22+OR+%22short+covering%22+OR+%22fund+flows%22%29+%28stocks+OR+equity+OR+equities%29+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-      "items": 0,
+      "items": 1,
       "name": "국채·조달·캐리",
       "note": "RSS 후보만 확인 · 원문/GPT 분석과 구분",
       "status": "checked",
@@ -140,45 +140,24 @@
     }
   ],
   "coverage_note": "자동 공개 RSS 후보 수집입니다. 제목만으로 실제 헤지펀드 포지션이나 매수·매도 압력을 판단하지 않습니다.",
-  "date_kst": "2026-11-01",
+  "date_kst": "2026-11-02",
   "entries": [
     {
       "access": "headline_only",
-      "actors": [
-        "hartnett"
-      ],
+      "actors": [],
       "claim_type": "unverified",
       "direction": "unknown",
       "event_date": null,
-      "event_key": "headline:f521c03204395e93ccf76d81",
-      "id": "D35910234f807f74d",
+      "event_key": "headline:af3a1838ce2802c3e5aab75c",
+      "id": "Dd92605f2fb5b272c",
       "mechanisms": [],
-      "published_at_kst": "2026-10-31T19:03:46+09:00",
-      "published_date": "2026-10-31",
-      "publisher": "Invezz",
+      "published_at_kst": "2026-11-02T00:08:00+09:00",
+      "published_date": "2026-11-02",
+      "publisher": "BigGo Finance",
       "source_kind": "candidate",
       "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
-      "title_ko": "BofA’s Michael Hartnett prefers Mag7 bonds over AI shares after selloff - Invezz",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSk9GQ1o5TmQzNkQ3Mi1kOGdZcTgwb0pTelVrZjlDTUNleHZ2b0pYbEIwaHk5U3RHaXlUS29UZ0R4RmVaM3ZPVmxRNjN0OGlsWlROdDFtbFM0QjMwb2NvbXQ2UjA4TVh0cTVWbkFlQnVuYlJSeWZQNGZ0Q0YtMGdIY3hSMW1OQm1xeXpFVzhpSWNlazZndGNn?oc=5"
-    },
-    {
-      "access": "headline_only",
-      "actors": [
-        "pimco"
-      ],
-      "claim_type": "unverified",
-      "direction": "unknown",
-      "event_date": null,
-      "event_key": "headline:0c6cb5bd01c44fef1970a9a7",
-      "id": "D340ce52054a79ec3",
-      "mechanisms": [],
-      "published_at_kst": "2026-10-31T16:13:26+09:00",
-      "published_date": "2026-10-31",
-      "publisher": "Pluang",
-      "source_kind": "candidate",
-      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
-      "title_ko": "PIMCO Strategic Income Fund yields 9.74% but fa... - Pluang",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQc0FxZ0UxRUJ0UG9FdTB3RnhhaHNhVVpLMC0xaHRNNnI3VHBzWVJPSFdTZTBoX2s5WlI4SUtld1lSY2owaGNpZkNmT3c4d1RIc1BmTjkzXzJxcnVORzVmVUU2ZUcyeHFVNTlQa1dIbGRzM29OYTlGS3NpX0JabUpMTXVSRVlUdU4yVlJWUzlRdWsyM2FvNFJLMFFLSnpQUUE?oc=5"
+      "title_ko": "Jordi Visser: October's AI Selloff Was Hedge Fund Leverage, Not a Bubble — and CCC Yields at 16% Are the Real Warning - BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9PMFVZc3dMVkw3RDJ0NlVZQzBKblRIZXNSd3VkTmdPRUllR3Jtc210dWs1OGF4ekpYQ2M0eHpGdUZWZ3FNeWNlMFM4VFBLRUdfQjRwOUd5X1hxTTQ?oc=5"
     },
     {
       "access": "headline_only",
@@ -186,22 +165,73 @@
       "claim_type": "unverified",
       "direction": "unknown",
       "event_date": null,
-      "event_key": "headline:6e6ab971bafe36f06028c3c6",
-      "id": "Dbfc58046e842ebae",
+      "event_key": "headline:76313270eaaf99bbec899f51",
+      "id": "Dbef232c5b907bea4",
       "mechanisms": [],
-      "published_at_kst": "2026-11-01T00:30:00+09:00",
+      "published_at_kst": "2026-11-01T20:31:00+09:00",
       "published_date": "2026-11-01",
-      "publisher": "Coin Gabbar",
+      "publisher": "BeInCrypto",
       "source_kind": "candidate",
       "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
-      "title_ko": "Hedge Funds De-Grossing Hits 7.8%: Is Crypto Next? - Coin Gabbar",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9xUm9MdkIweDFGVkhEYlN0RHN5Tm55djVwdWRSdkREbThvRUhYV0hCQWQ1UWZVVjdkV29PbjJnUVRTc1ZCOWMwUVlBdjVmaWFheUEta0dKdTBtX2V4ZWdKa1dPaHF0aWRBM1N2YWJoQ3VNWVFlakxka3lxZVU?oc=5"
+      "title_ko": "US Hedge Funds Just Sold Every AI Stock They Bought Since 2025 - BeInCrypto",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5DVi1PMml3VHdqcWE1M243aHA3Tll5M0FrNU1uVTBVVV9kZDlyUFhOb1o3Z3VHN2luekEtU0hLQXlBLVdBSUtfaU9mSy1yY1Nkb1Q3Tldna2QzMnJoRUpr?oc=5"
+    },
+    {
+      "access": "headline_only",
+      "actors": [],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:44571993a8d3066fb1137a47",
+      "id": "Debc5ce4d3d6df514",
+      "mechanisms": [],
+      "published_at_kst": "2026-11-01T13:54:00+09:00",
+      "published_date": "2026-11-01",
+      "publisher": "Howl.Link",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "Let's Peek Into Current Hedge Fund Positioning, Via CoT Report - TalkMarkets - Howl.Link",
+      "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE1lUVZCenB5cUxWandLRUc1TzZ0aTNrcGZUc05FNEh4SUVCaTlhTjI5cE1OYTVUMFlNQ1Nr?oc=5"
+    },
+    {
+      "access": "headline_only",
+      "actors": [],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:df0fae33adee989a18c2b1ab",
+      "id": "D185154376c8f20e2",
+      "mechanisms": [],
+      "published_at_kst": "2026-11-01T23:06:00+09:00",
+      "published_date": "2026-11-01",
+      "publisher": "Hokanews",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "Goldman Sachs Data Shows Hedge Funds Reverse All AI Stock Buying Since 2025 in Just Five - Hokanews",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tTHhubXV1WWdiOHVSSzdlTWRMRWR6UGNTeHFEOEd6V0hzRGd2RmtEU2stQXBLa2JhT1JyZndxcTg0RUMyWnJxaXoxOFV6dTVvYVQ5YlVJRGlvcEt6ckdqQlkzb202clZYMFZaX2p4Nm9UMlFnTnlrX1dQdzZEWjQ?oc=5"
+    },
+    {
+      "access": "headline_only",
+      "actors": [],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:7fa93b92de0a5f6d8a5a457c",
+      "id": "D5f21a87c499144c8",
+      "mechanisms": [],
+      "published_at_kst": "2026-11-01T17:00:24+09:00",
+      "published_date": "2026-11-01",
+      "publisher": "Equiti Global",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "Yen Carry Trade Unwind: Japan Inflation and US Stocks - Equiti Global",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWDFIbk9WbjNxemFsZ09CSDJHRlJPcHBKVlNoYlZYZ3dKb0xxRHNKR0hma0VhNDRtYUVoMlZIaVhQTWxXcVc1TnRxMjZuVmQtRF9QNzdGbzZncFI3NU1oRGlocHIwblk1WHhyUVZwcmphMmlfalI2em1Kd3lNanRROHRVbnYtYU5vb2dXTGRpZEl5aHREVkUxN0cydzJBTGY5?oc=5"
     }
   ],
-  "generated_at_kst": "2026-11-01T08:35:58.639100+09:00",
+  "generated_at_kst": "2026-11-02T08:36:41.799190+09:00",
   "producer": "rss_discovery",
   "schema": "global_position_v1",
-  "window_end_kst": "2026-11-01T08:35:58.639100+09:00",
-  "window_start_kst": "2026-10-31T08:35:58.639100+09:00",
-  "content_sha256": "fed74f5ce5363d14e70b8d65a3b3c0dd00828010858474a4760f73cc8865ad35"
+  "window_end_kst": "2026-11-02T08:36:41.799190+09:00",
+  "window_start_kst": "2026-11-01T08:36:41.799190+09:00",
+  "content_sha256": "39f703511b21a91dd9ac0691847b27fd4976f3b43cba66733dd99206a02a5f9d"
 }

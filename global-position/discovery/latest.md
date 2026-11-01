@@ -1,8 +1,8 @@
-# 글로벌 포지션 일보 · 2026-11-01
+# 글로벌 포지션 일보 · 2026-11-02
 
-취합 구간: 2026-10-31T08:35:58.639100+09:00 ~ 2026-11-01T08:35:58.639100+09:00
+취합 구간: 2026-11-01T08:36:41.799190+09:00 ~ 2026-11-02T08:36:41.799190+09:00
 
-발행: 2026-11-01T08:35:58.639100+09:00 · rss_discovery
+발행: 2026-11-02T08:36:41.799190+09:00 · rss_discovery
 
 자동 공개 RSS 후보 수집입니다. 제목만으로 실제 헤지펀드 포지션이나 매수·매도 압력을 판단하지 않습니다.
 
@@ -74,11 +74,15 @@
 
 |---|---|---|---|---|---|---|
 
-|D35910234f807f74d|2026-10-31T19:03:46+09:00|미확인|hartnett|candidate / headline_only / unverified|BofA’s Michael Hartnett prefers Mag7 bonds over AI shares after selloff - Invezz · 공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.|[https://news.google.com/rss/articles/CBMilwFBVV95cUxPSk9GQ1o5TmQzNkQ3Mi1kOGdZcTgwb0pTelVrZjlDTUNleHZ2b0pYbEIwaHk5U3RHaXlUS29UZ0R4RmVaM3ZPVmxRNjN0OGlsWlROdDFtbFM0QjMwb2NvbXQ2UjA4TVh0cTVWbkFlQnVuYlJSeWZQNGZ0Q0YtMGdIY3hSMW1OQm1xeXpFVzhpSWNlazZndGNn?oc=5](https://news.google.com/rss/articles/CBMilwFBVV95cUxPSk9GQ1o5TmQzNkQ3Mi1kOGdZcTgwb0pTelVrZjlDTUNleHZ2b0pYbEIwaHk5U3RHaXlUS29UZ0R4RmVaM3ZPVmxRNjN0OGlsWlROdDFtbFM0QjMwb2NvbXQ2UjA4TVh0cTVWbkFlQnVuYlJSeWZQNGZ0Q0YtMGdIY3hSMW1OQm1xeXpFVzhpSWNlazZndGNn?oc=5)|
+|Dd92605f2fb5b272c|2026-11-02T00:08:00+09:00|미확인||candidate / headline_only / unverified|Jordi Visser: October's AI Selloff Was Hedge Fund Leverage, Not a Bubble — and CCC Yields at 16% Are the Real Warning - BigGo Finance · 공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.|[https://news.google.com/rss/articles/CBMiW0FVX3lxTE9PMFVZc3dMVkw3RDJ0NlVZQzBKblRIZXNSd3VkTmdPRUllR3Jtc210dWs1OGF4ekpYQ2M0eHpGdUZWZ3FNeWNlMFM4VFBLRUdfQjRwOUd5X1hxTTQ?oc=5](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9PMFVZc3dMVkw3RDJ0NlVZQzBKblRIZXNSd3VkTmdPRUllR3Jtc210dWs1OGF4ekpYQ2M0eHpGdUZWZ3FNeWNlMFM4VFBLRUdfQjRwOUd5X1hxTTQ?oc=5)|
 
-|D340ce52054a79ec3|2026-10-31T16:13:26+09:00|미확인|pimco|candidate / headline_only / unverified|PIMCO Strategic Income Fund yields 9.74% but fa... - Pluang · 공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.|[https://news.google.com/rss/articles/CBMinwFBVV95cUxQc0FxZ0UxRUJ0UG9FdTB3RnhhaHNhVVpLMC0xaHRNNnI3VHBzWVJPSFdTZTBoX2s5WlI4SUtld1lSY2owaGNpZkNmT3c4d1RIc1BmTjkzXzJxcnVORzVmVUU2ZUcyeHFVNTlQa1dIbGRzM29OYTlGS3NpX0JabUpMTXVSRVlUdU4yVlJWUzlRdWsyM2FvNFJLMFFLSnpQUUE?oc=5](https://news.google.com/rss/articles/CBMinwFBVV95cUxQc0FxZ0UxRUJ0UG9FdTB3RnhhaHNhVVpLMC0xaHRNNnI3VHBzWVJPSFdTZTBoX2s5WlI4SUtld1lSY2owaGNpZkNmT3c4d1RIc1BmTjkzXzJxcnVORzVmVUU2ZUcyeHFVNTlQa1dIbGRzM29OYTlGS3NpX0JabUpMTXVSRVlUdU4yVlJWUzlRdWsyM2FvNFJLMFFLSnpQUUE?oc=5)|
+|Dbef232c5b907bea4|2026-11-01T20:31:00+09:00|미확인||candidate / headline_only / unverified|US Hedge Funds Just Sold Every AI Stock They Bought Since 2025 - BeInCrypto · 공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.|[https://news.google.com/rss/articles/CBMiX0FVX3lxTE5DVi1PMml3VHdqcWE1M243aHA3Tll5M0FrNU1uVTBVVV9kZDlyUFhOb1o3Z3VHN2luekEtU0hLQXlBLVdBSUtfaU9mSy1yY1Nkb1Q3Tldna2QzMnJoRUpr?oc=5](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5DVi1PMml3VHdqcWE1M243aHA3Tll5M0FrNU1uVTBVVV9kZDlyUFhOb1o3Z3VHN2luekEtU0hLQXlBLVdBSUtfaU9mSy1yY1Nkb1Q3Tldna2QzMnJoRUpr?oc=5)|
 
-|Dbfc58046e842ebae|2026-11-01T00:30:00+09:00|미확인||candidate / headline_only / unverified|Hedge Funds De-Grossing Hits 7.8%: Is Crypto Next? - Coin Gabbar · 공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.|[https://news.google.com/rss/articles/CBMifEFVX3lxTE9xUm9MdkIweDFGVkhEYlN0RHN5Tm55djVwdWRSdkREbThvRUhYV0hCQWQ1UWZVVjdkV29PbjJnUVRTc1ZCOWMwUVlBdjVmaWFheUEta0dKdTBtX2V4ZWdKa1dPaHF0aWRBM1N2YWJoQ3VNWVFlakxka3lxZVU?oc=5](https://news.google.com/rss/articles/CBMifEFVX3lxTE9xUm9MdkIweDFGVkhEYlN0RHN5Tm55djVwdWRSdkREbThvRUhYV0hCQWQ1UWZVVjdkV29PbjJnUVRTc1ZCOWMwUVlBdjVmaWFheUEta0dKdTBtX2V4ZWdKa1dPaHF0aWRBM1N2YWJoQ3VNWVFlakxka3lxZVU?oc=5)|
+|Debc5ce4d3d6df514|2026-11-01T13:54:00+09:00|미확인||candidate / headline_only / unverified|Let's Peek Into Current Hedge Fund Positioning, Via CoT Report - TalkMarkets - Howl.Link · 공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.|[https://news.google.com/rss/articles/CBMiO0FVX3lxTE1lUVZCenB5cUxWandLRUc1TzZ0aTNrcGZUc05FNEh4SUVCaTlhTjI5cE1OYTVUMFlNQ1Nr?oc=5](https://news.google.com/rss/articles/CBMiO0FVX3lxTE1lUVZCenB5cUxWandLRUc1TzZ0aTNrcGZUc05FNEh4SUVCaTlhTjI5cE1OYTVUMFlNQ1Nr?oc=5)|
+
+|D185154376c8f20e2|2026-11-01T23:06:00+09:00|미확인||candidate / headline_only / unverified|Goldman Sachs Data Shows Hedge Funds Reverse All AI Stock Buying Since 2025 in Just Five - Hokanews · 공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.|[https://news.google.com/rss/articles/CBMif0FVX3lxTE5tTHhubXV1WWdiOHVSSzdlTWRMRWR6UGNTeHFEOEd6V0hzRGd2RmtEU2stQXBLa2JhT1JyZndxcTg0RUMyWnJxaXoxOFV6dTVvYVQ5YlVJRGlvcEt6ckdqQlkzb202clZYMFZaX2p4Nm9UMlFnTnlrX1dQdzZEWjQ?oc=5](https://news.google.com/rss/articles/CBMif0FVX3lxTE5tTHhubXV1WWdiOHVSSzdlTWRMRWR6UGNTeHFEOEd6V0hzRGd2RmtEU2stQXBLa2JhT1JyZndxcTg0RUMyWnJxaXoxOFV6dTVvYVQ5YlVJRGlvcEt6ckdqQlkzb202clZYMFZaX2p4Nm9UMlFnTnlrX1dQdzZEWjQ?oc=5)|
+
+|D5f21a87c499144c8|2026-11-01T17:00:24+09:00|미확인||candidate / headline_only / unverified|Yen Carry Trade Unwind: Japan Inflation and US Stocks - Equiti Global · 공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.|[https://news.google.com/rss/articles/CBMioAFBVV95cUxQWDFIbk9WbjNxemFsZ09CSDJHRlJPcHBKVlNoYlZYZ3dKb0xxRHNKR0hma0VhNDRtYUVoMlZIaVhQTWxXcVc1TnRxMjZuVmQtRF9QNzdGbzZncFI3NU1oRGlocHIwblk1WHhyUVZwcmphMmlfalI2em1Kd3lNanRROHRVbnYtYU5vb2dXTGRpZEl5aHREVkUxN0cydzJBTGY5?oc=5](https://news.google.com/rss/articles/CBMioAFBVV95cUxQWDFIbk9WbjNxemFsZ09CSDJHRlJPcHBKVlNoYlZYZ3dKb0xxRHNKR0hma0VhNDRtYUVoMlZIaVhQTWxXcVc1TnRxMjZuVmQtRF9QNzdGbzZncFI3NU1oRGlocHIwblk1WHhyUVZwcmphMmlfalI2em1Kd3lNanRROHRVbnYtYU5vb2dXTGRpZEl5aHREVkUxN0cydzJBTGY5?oc=5)|
 
 
 ## 수집 범위
