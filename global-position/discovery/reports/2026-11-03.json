@@ -1,0 +1,328 @@
+{
+  "assessments": {
+    "ai_positioning": {
+      "confidence": "낮음",
+      "counter_ids": [],
+      "evidence_ids": [],
+      "label": "판단 자료 부족",
+      "limitations": [
+        "전체 헤지펀드의 실제 포지션을 추정한 수치가 아닙니다."
+      ],
+      "summary": "원문 검증 자료를 기다립니다."
+    },
+    "korea_path": {
+      "confidence": "낮음",
+      "counter_ids": [],
+      "evidence_ids": [],
+      "label": "판단 자료 부족",
+      "limitations": [
+        "전체 헤지펀드의 실제 포지션을 추정한 수치가 아닙니다."
+      ],
+      "summary": "원문 검증 자료를 기다립니다."
+    },
+    "liquidity": {
+      "confidence": "낮음",
+      "counter_ids": [],
+      "evidence_ids": [],
+      "label": "판단 자료 부족",
+      "limitations": [
+        "전체 헤지펀드의 실제 포지션을 추정한 수치가 아닙니다."
+      ],
+      "summary": "원문 검증 자료를 기다립니다."
+    },
+    "pressure": {
+      "confidence": "낮음",
+      "counter_ids": [],
+      "evidence_ids": [],
+      "label": "판단 자료 부족",
+      "limitations": [
+        "전체 헤지펀드의 실제 포지션을 추정한 수치가 아닙니다."
+      ],
+      "summary": "원문 검증 자료를 기다립니다."
+    }
+  },
+  "complete": true,
+  "core_targets": [
+    {
+      "change": "미확인",
+      "evidence_ids": [],
+      "focus": "AI·M7 과밀 / 옵션 / 포지션 비대칭",
+      "id": "tuteja",
+      "institution": "Goldman Sachs",
+      "name": "Shawn Tuteja",
+      "role": "ETF·맞춤형 바스켓 변동성 트레이딩",
+      "summary_ko": "원문 검증 일보 대기"
+    },
+    {
+      "change": "미확인",
+      "evidence_ids": [],
+      "focus": "펀드 자금흐름 / 현금·과열 / 자산배분",
+      "id": "hartnett",
+      "institution": "BofA Global Research",
+      "name": "Michael Hartnett",
+      "role": "최고 투자전략가 · Flow Show",
+      "summary_ko": "원문 검증 일보 대기"
+    },
+    {
+      "change": "미확인",
+      "evidence_ids": [],
+      "focus": "금리·채권 / 조달·유동성 / 위험자산 배분",
+      "id": "pimco",
+      "institution": "PIMCO",
+      "name": "PIMCO",
+      "role": "기관 · Ivascyn / Balls / Wilding 등",
+      "summary_ko": "원문 검증 일보 대기"
+    }
+  ],
+  "coverage": [
+    {
+      "items": 0,
+      "name": "Shawn Tuteja",
+      "note": "RSS 후보만 확인 · 원문/GPT 분석과 구분",
+      "status": "checked",
+      "url": "https://news.google.com/rss/search?q=%22Shawn+Tuteja%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "items": 2,
+      "name": "Michael Hartnett",
+      "note": "RSS 후보만 확인 · 원문/GPT 분석과 구분",
+      "status": "checked",
+      "url": "https://news.google.com/rss/search?q=%22Michael+Hartnett%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "items": 1,
+      "name": "PIMCO",
+      "note": "RSS 후보만 확인 · 원문/GPT 분석과 구분",
+      "status": "checked",
+      "url": "https://news.google.com/rss/search?q=PIMCO+%28Ivascyn+OR+Balls+OR+Wilding+OR+outlook+OR+flows%29+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "items": 4,
+      "name": "글로벌 포지션·프라임브로커",
+      "note": "RSS 후보만 확인 · 원문/GPT 분석과 구분",
+      "status": "checked",
+      "url": "https://news.google.com/rss/search?q=%28%22hedge+fund%22+OR+%22prime+broker%22%29+%28positioning+OR+deleveraging+OR+%22net+exposure%22+OR+%22gross+exposure%22%29+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "items": 3,
+      "name": "CTA·옵션·자금흐름",
+      "note": "RSS 후보만 확인 · 원문/GPT 분석과 구분",
+      "status": "checked",
+      "url": "https://news.google.com/rss/search?q=%28CTA+OR+%22volatility+control%22+OR+%22dealer+gamma%22+OR+%22short+covering%22+OR+%22fund+flows%22%29+%28stocks+OR+equity+OR+equities%29+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "items": 1,
+      "name": "국채·조달·캐리",
+      "note": "RSS 후보만 확인 · 원문/GPT 분석과 구분",
+      "status": "checked",
+      "url": "https://news.google.com/rss/search?q=%28%22treasury+basis%22+OR+%22basis+trade%22+OR+repo+OR+%22margin+call%22+OR+%22yen+carry%22%29+%28%22hedge+fund%22+OR+leverage+OR+trade%29+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "items": 0,
+      "name": "Reddit r/stocks",
+      "note": "RSS 후보만 확인 · 원문/GPT 분석과 구분",
+      "status": "checked",
+      "url": "https://www.reddit.com/r/stocks/new/.rss"
+    },
+    {
+      "items": 0,
+      "name": "Reddit r/investing",
+      "note": "HTTPError",
+      "status": "failed",
+      "url": "https://www.reddit.com/r/investing/new/.rss"
+    },
+    {
+      "items": 0,
+      "name": "Reddit r/wallstreetbets",
+      "note": "HTTPError",
+      "status": "failed",
+      "url": "https://www.reddit.com/r/wallstreetbets/new/.rss"
+    }
+  ],
+  "coverage_note": "자동 공개 RSS 후보 수집입니다. 제목만으로 실제 헤지펀드 포지션이나 매수·매도 압력을 판단하지 않습니다.",
+  "date_kst": "2026-11-03",
+  "entries": [
+    {
+      "access": "headline_only",
+      "actors": [
+        "hartnett"
+      ],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:7c59f69a5be1c43032958b5b",
+      "id": "Ddcbd4a71568713a2",
+      "mechanisms": [],
+      "published_at_kst": "2026-11-02T11:01:01+09:00",
+      "published_date": "2026-11-02",
+      "publisher": "The Dark Side Of The Boom",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "Hartnett's Great Bond Market Pivot: When the AI Boom Meets the Credit Market's Breaking Point - The Dark Side Of The Boom",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQS0xSmJEV2ZQdi1HakNaYTAtSThkQ2p1OUdUQW5fRlJFeVhKdmpNZ3lkbmFwWVdwMUozcEVwdWtjcjVDTUkyeHMtM2FIbXJsUlhtN0U3WVBPczVVaTZ3TmUxd1FqOG1wZjVMT1hRSlBIM0JKcUdqTzJSbUQ2bnExaXo3SQ?oc=5"
+    },
+    {
+      "access": "headline_only",
+      "actors": [
+        "hartnett"
+      ],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:06b902780ac77cd2fe9c8c73",
+      "id": "D6a2e643d48d92d1c",
+      "mechanisms": [],
+      "published_at_kst": "2026-11-02T08:56:22+09:00",
+      "published_date": "2026-11-02",
+      "publisher": "investingLive",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "Bank of America’s Hartnett says buy tech bonds as relative returns hit 30-year low - investingLive",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPU3Z6Ni1GeUdIMHBERUl6eWFjM0NfaVpoeDB1R2dLV3E3MTdIMV9KYVhLZ0RuVFUxbTBGWjMxa1hBTG5MT0dzUG5TcnAzRXJlNWF1dGo2T0xFcDJESngydHBJSDkzMVdPNy1jV1FBa2U2OTR0bDFqNS1pY3U2ZlJWYXBXQ3pUSHprd21BQ3c4eDV0b0V0NlJ2a0d0Q01FVjk2dUVkVFJ1WlZPaWxlZnVXTHRjWlVyTW10SHRUTmpGUUlzZ1hRV0d6eg?oc=5"
+    },
+    {
+      "access": "headline_only",
+      "actors": [
+        "pimco"
+      ],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:fbd89309dc0e79e1605f8fba",
+      "id": "Ddc1e8f9b2a5787cf",
+      "mechanisms": [],
+      "published_at_kst": "2026-11-03T06:46:00+09:00",
+      "published_date": "2026-11-03",
+      "publisher": "Business Wire",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "PIMCO Closed-End Funds Declare Monthly Common Share Distributions - Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQb2JtTDQwdzI5TW5oOW5QZXYxdkZTellmX3RMRlZleUhmQXFCa0dvRDloaTVESEpuMjdmMGZhTXZ4NlFTVHFWaVcwbUxFTnd1N3A3Ulg3VlVSX2FtcGUzWmFnM2l3aGV5cGtoOWpRTXBiUmFJR2dWWVBEN2xkQk1zMlpKaE1IclFTVVRLWHRsbmpPa25NSWRyajVmeEEwZmhhMVVqNXVmSFJhM0MwUDNJamdtMUgxb2tJRjkzRFZPWQ?oc=5"
+    },
+    {
+      "access": "headline_only",
+      "actors": [],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:fbd9487107f19090b0492188",
+      "id": "Dc1e29c9a48446363",
+      "mechanisms": [],
+      "published_at_kst": "2026-11-02T18:25:00+09:00",
+      "published_date": "2026-11-02",
+      "publisher": "BigGo Finance",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "Goldman Sachs Deconstructs October's US Stock Market Turmoil: Seven Contrarian Signals Emerge, Hedge Fund Net Exposure Already Prices In a Bear Market - BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA3NTRWYW5fV0ZHeFAzcmxJMjJfaU9pUW1XT0k4MjctTU00S3QwcmFDU0dWSGVmZVZoX2J2QTl0QVZlVG1paXRlcHZMcUgxeW1oT3p5U18yNnF4R3Q1R01mZzNwdk9JZjlqNERPc0RJTTZnenh6SUE?oc=5"
+    },
+    {
+      "access": "headline_only",
+      "actors": [],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:16838523a9918ea9abe1d0da",
+      "id": "De438f65ae1dea4cd",
+      "mechanisms": [],
+      "published_at_kst": "2026-11-02T18:43:10+09:00",
+      "published_date": "2026-11-02",
+      "publisher": "www.christophe-barraud.com",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "Morning Brief: Hedge Funds Slash Equity Exposure in Biggest De-Grossing in Nine Years; Trump to Give Iran Diplomacy More Time; China Stocks Rise on Reported Regulator Support - www.christophe-barraud.com",
+      "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPWHJOd1Qza3NsNlRWT2k0VHczbmtlRkYzZFl5NWxvR0RZdW9ZSXFwUTloRTRhT3U2TGNfMWdjdTRaZGIyZVQ2OVE1eWZfcmRycjRJZ1dZcHczVkc5dHVpcF81bnMzd25QRENkanh2VFh3aloyYmE4b05Tb3d0d1BPWXVSczZyanJIZllEWUhBNFl4VkxodEFabWpmRElIWXNsY0xFazB2WnVNRHlEVEpUYzFONXNvYmcxaGZCS2duak03MGlLRGEwbHpuV3o3Q1BCNXdrZ3dldTZIZTlsejlGZTBWTS1pdkk4d0ZTVWkyeUZNbU05dS1SQjJYZzBKanV5NHBmNTZOSDlILWJEeVVQdjd3Vng5XzdNTjlSckFRQXd4REYxRUQxT2JkMFZlQWV4?oc=5"
+    },
+    {
+      "access": "headline_only",
+      "actors": [],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:49e7d59f4c15e22ee528926c",
+      "id": "Dd8988278cb9870cd",
+      "mechanisms": [],
+      "published_at_kst": "2026-11-02T16:01:34+09:00",
+      "published_date": "2026-11-02",
+      "publisher": "NDTV Profit",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "Hedge Funds Are Reversing Their AI Bets. Is The Trade Starting To Crack? - NDTV Profit",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQXy13ZE1TRmhaVG1Zb1hvVmJZV3JGMkhOQXNGZGpZNkdSeFRBMGxmaEd1SmlXZXhTaG8yVVc2S3Q1ekdCS25YQXlGYTBVcG5DTlNvdFE5TDNmV3ZEd3Z4OEZ4S2x5cTF1d1M3bXZKc1VjN2NqRENjeDZERS1TZjV4OTVWZ2p3eEhSWDdRYTh3MXlmMWh3aEhNRlZyYUFjaHZMeWVRaklYRkc0cHJBSmhfb3A0RkFJZlZ4S1FTU2tFR01GWEN1TkV2N0ZiSVFlV1MxazVLOHo2bjRjWlRHWFlwbzZzV3c4N2VVV21zZURRenlaRjZ4V2tJYmZZUUdKLU9XREHSAYoCQVVfeXFMUGQ3NWRQWHotaWVFRmZmR0t1NnAxc1gtTWpibnZ3dTFNdFhTbVlIb1k5OVhZTHBqT2tkcVBWLS1IcE1aekhSUV9fUVhMMmpLZkJac25aTjkzdGZRbkNVckI5akcxWkxod1JhQVVaZkFtMG9kd29xUVZ5SnVNc2Z0OWt4YzRWVm5CMUFHUDhQdjE0R3JNeFBaRnJDMlhzUFFITlFkVTJqYTJtdHFpcGFmWmJaeVRqd2UzQ3lFUDVKbWhnUEVabUlsUnp3M2p2VWVjQWNTTEw2T2tpTkJRdllzYU1kYmQxNmFKUjUxZUhyRDh4OFNIcklUQVZMT3ZCYXNLM1JYb1FOWWMyVWc?oc=5"
+    },
+    {
+      "access": "headline_only",
+      "actors": [],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:729a4f8f5b2396eb97f00bbe",
+      "id": "D786ee81ec611cdd4",
+      "mechanisms": [],
+      "published_at_kst": "2026-11-02T09:35:00+09:00",
+      "published_date": "2026-11-02",
+      "publisher": "BigGo Finance",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "Yen-Dollar Volatility Hits 4.5-Year Low as Hedge Fund Yen Selling Shrinks to One-Eighth - BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE91ZXdhbGx5NjFjeFppWno0T0ZvejZzT251TW9MMUI1R290ZFFqV2VJSlFiOXFQQXFabE1NSElDTzBjamxqcDBVMEw2RnpubDNCRXZITW5qRXZpdE1BNFhWNDdmZmFoNVh4Si1sdGhwOGJYSFNPT0E?oc=5"
+    },
+    {
+      "access": "headline_only",
+      "actors": [],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:351b0d7df52e00b0ce769ecb",
+      "id": "D4f51b3f8c93778eb",
+      "mechanisms": [],
+      "published_at_kst": "2026-11-03T00:20:08+09:00",
+      "published_date": "2026-11-03",
+      "publisher": "TradingView",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "Hedge funds turn underweight on AI for first time since 2023 - Morgan Stanley - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUUdoMHNNd0tMZFhLbFd5ZUZVdnk5c0VnV2JkSEdUcEJLc09NQlhidzVMcV9tTmFiYUt4UGtpbFRIdGtDZTQtNTA4QmJqTGR6Q1E1eXNtei1LWC04Uy1ldld5cnBEOElPNGhmS0hlVUVUWWNZdGVnem1yUHg3X29SbldMSUVOcWtjYmhZT0toYkRlNURzb3czUVZDYnRoTnpHMC1USWF0ZVE5Z25aZ3lGZFZhUGNSMThKYnBfWDNFWUNrcjBYN0dqOExIYW9qVWJaLWtIWA?oc=5"
+    },
+    {
+      "access": "headline_only",
+      "actors": [],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:1e667e1f88691baebae984ec",
+      "id": "Dfc99f3a0aacce124",
+      "mechanisms": [],
+      "published_at_kst": "2026-11-03T03:41:21+09:00",
+      "published_date": "2026-11-03",
+      "publisher": "TOKENPOST",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "Hedge Funds Turn Underweight on AI for First Time Since Early 2023 - TOKENPOST",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCY2c2bV80VVoxV3QxU2tsQmM0Z1NDSFVpa2l4RmJ0bUVWV3NwaTIwM3pkaFZyQl9QbVpCOWRuMWNaZTlJNFV5WEQ2NXFtdVFLVGJlVFFZdnY3QQ?oc=5"
+    },
+    {
+      "access": "headline_only",
+      "actors": [],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:82ac27773d48554e1cd47695",
+      "id": "D03f73b39d10fdef2",
+      "mechanisms": [],
+      "published_at_kst": "2026-11-03T01:38:56+09:00",
+      "published_date": "2026-11-03",
+      "publisher": "StoneX",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "What a Yen Carry Trade Unwind Means for Nasdaq and Nikkei Stocks - StoneX",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNWc4emlkdFhyenFZWEhxYWs1SWZPc1lZTXdQY2UwUmV2LVluUWZIam80WlU5QnRuVDNNYU43T0Q2N3MzZE5YanNmWU4wOXE3SWtvSGRoYzAxWG5hZ0RWODN3TDVGMG1ucGY4TTdfZXROU2tmQWlQamRrOTVXcHdZTlZ6VUVmS3ptY05VTW1DdW9BMlhPQzBIRjNNaEpuNHIwQkE?oc=5"
+    }
+  ],
+  "generated_at_kst": "2026-11-03T08:38:20.012405+09:00",
+  "producer": "rss_discovery",
+  "schema": "global_position_v1",
+  "window_end_kst": "2026-11-03T08:38:20.012405+09:00",
+  "window_start_kst": "2026-11-02T08:38:20.012405+09:00",
+  "content_sha256": "73fa6cdf1252b0532678f3698d7a41124f547a3c8300f69a601caca754c89b39"
+}
