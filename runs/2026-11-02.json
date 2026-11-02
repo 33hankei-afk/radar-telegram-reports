@@ -3,13 +3,14 @@
   "status": "running",
   "stage": "collecting",
   "started_at_kst": "2026-11-02T21:22:23+09:00",
-  "updated_at_kst": "2026-11-02T21:24:28+09:00",
+  "updated_at_kst": "2026-11-02T21:24:59+09:00",
   "ended_at_kst": null,
   "attempt": 1,
   "request_id": "20261102T212234p0900-daily21",
-  "verified_posts": 853,
-  "checked_channels": 54,
-  "verified_full_channels": 52,
+  "source_status": "partial",
+  "verified_posts": 981,
+  "checked_channels": 59,
+  "verified_full_channels": 57,
   "failed_channels": [
     "aetherjapanresearch",
     "report_figure_by_offset"
