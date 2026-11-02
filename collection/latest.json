@@ -6,11 +6,11 @@
   "status": "running",
   "stage": "collecting",
   "started_at_kst": "2026-11-02T21:22:51.968621+09:00",
-  "updated_at_kst": "2026-11-02T21:23:29.071892+09:00",
+  "updated_at_kst": "2026-11-02T21:23:42.878190+09:00",
   "ended_at_kst": null,
-  "checked_channels": 24,
-  "verified_full_channels": 23,
-  "verified_posts": 490,
+  "checked_channels": 34,
+  "verified_full_channels": 33,
+  "verified_posts": 676,
   "searfin_status": "complete",
   "failed_channels": [
     "aetherjapanresearch"
