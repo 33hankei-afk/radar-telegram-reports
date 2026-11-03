@@ -1,0 +1,315 @@
+{
+  "assessments": {
+    "ai_positioning": {
+      "confidence": "낮음",
+      "counter_ids": [],
+      "evidence_ids": [],
+      "label": "판단 자료 부족",
+      "limitations": [
+        "전체 헤지펀드의 실제 포지션을 추정한 수치가 아닙니다."
+      ],
+      "summary": "원문 검증 자료를 기다립니다."
+    },
+    "korea_path": {
+      "confidence": "낮음",
+      "counter_ids": [],
+      "evidence_ids": [],
+      "label": "판단 자료 부족",
+      "limitations": [
+        "전체 헤지펀드의 실제 포지션을 추정한 수치가 아닙니다."
+      ],
+      "summary": "원문 검증 자료를 기다립니다."
+    },
+    "liquidity": {
+      "confidence": "낮음",
+      "counter_ids": [],
+      "evidence_ids": [],
+      "label": "판단 자료 부족",
+      "limitations": [
+        "전체 헤지펀드의 실제 포지션을 추정한 수치가 아닙니다."
+      ],
+      "summary": "원문 검증 자료를 기다립니다."
+    },
+    "pressure": {
+      "confidence": "낮음",
+      "counter_ids": [],
+      "evidence_ids": [],
+      "label": "판단 자료 부족",
+      "limitations": [
+        "전체 헤지펀드의 실제 포지션을 추정한 수치가 아닙니다."
+      ],
+      "summary": "원문 검증 자료를 기다립니다."
+    }
+  },
+  "complete": true,
+  "core_targets": [
+    {
+      "change": "미확인",
+      "evidence_ids": [],
+      "focus": "AI·M7 과밀 / 옵션 / 포지션 비대칭",
+      "id": "tuteja",
+      "institution": "Goldman Sachs",
+      "name": "Shawn Tuteja",
+      "role": "ETF·맞춤형 바스켓 변동성 트레이딩",
+      "summary_ko": "원문 검증 일보 대기"
+    },
+    {
+      "change": "미확인",
+      "evidence_ids": [],
+      "focus": "펀드 자금흐름 / 현금·과열 / 자산배분",
+      "id": "hartnett",
+      "institution": "BofA Global Research",
+      "name": "Michael Hartnett",
+      "role": "최고 투자전략가 · Flow Show",
+      "summary_ko": "원문 검증 일보 대기"
+    },
+    {
+      "change": "미확인",
+      "evidence_ids": [],
+      "focus": "금리·채권 / 조달·유동성 / 위험자산 배분",
+      "id": "pimco",
+      "institution": "PIMCO",
+      "name": "PIMCO",
+      "role": "기관 · Ivascyn / Balls / Wilding 등",
+      "summary_ko": "원문 검증 일보 대기"
+    }
+  ],
+  "coverage": [
+    {
+      "items": 0,
+      "name": "Shawn Tuteja",
+      "note": "RSS 후보만 확인 · 원문/GPT 분석과 구분",
+      "status": "checked",
+      "url": "https://news.google.com/rss/search?q=%22Shawn+Tuteja%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "items": 0,
+      "name": "Michael Hartnett",
+      "note": "RSS 후보만 확인 · 원문/GPT 분석과 구분",
+      "status": "checked",
+      "url": "https://news.google.com/rss/search?q=%22Michael+Hartnett%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "items": 5,
+      "name": "PIMCO",
+      "note": "RSS 후보만 확인 · 원문/GPT 분석과 구분",
+      "status": "checked",
+      "url": "https://news.google.com/rss/search?q=PIMCO+%28Ivascyn+OR+Balls+OR+Wilding+OR+outlook+OR+flows%29+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "items": 0,
+      "name": "글로벌 포지션·프라임브로커",
+      "note": "RSS 후보만 확인 · 원문/GPT 분석과 구분",
+      "status": "checked",
+      "url": "https://news.google.com/rss/search?q=%28%22hedge+fund%22+OR+%22prime+broker%22%29+%28positioning+OR+deleveraging+OR+%22net+exposure%22+OR+%22gross+exposure%22%29+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "items": 3,
+      "name": "CTA·옵션·자금흐름",
+      "note": "RSS 후보만 확인 · 원문/GPT 분석과 구분",
+      "status": "checked",
+      "url": "https://news.google.com/rss/search?q=%28CTA+OR+%22volatility+control%22+OR+%22dealer+gamma%22+OR+%22short+covering%22+OR+%22fund+flows%22%29+%28stocks+OR+equity+OR+equities%29+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "items": 1,
+      "name": "국채·조달·캐리",
+      "note": "RSS 후보만 확인 · 원문/GPT 분석과 구분",
+      "status": "checked",
+      "url": "https://news.google.com/rss/search?q=%28%22treasury+basis%22+OR+%22basis+trade%22+OR+repo+OR+%22margin+call%22+OR+%22yen+carry%22%29+%28%22hedge+fund%22+OR+leverage+OR+trade%29+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "items": 0,
+      "name": "Reddit r/stocks",
+      "note": "RSS 후보만 확인 · 원문/GPT 분석과 구분",
+      "status": "checked",
+      "url": "https://www.reddit.com/r/stocks/new/.rss"
+    },
+    {
+      "items": 0,
+      "name": "Reddit r/investing",
+      "note": "HTTPError",
+      "status": "failed",
+      "url": "https://www.reddit.com/r/investing/new/.rss"
+    },
+    {
+      "items": 0,
+      "name": "Reddit r/wallstreetbets",
+      "note": "HTTPError",
+      "status": "failed",
+      "url": "https://www.reddit.com/r/wallstreetbets/new/.rss"
+    }
+  ],
+  "coverage_note": "자동 공개 RSS 후보 수집입니다. 제목만으로 실제 헤지펀드 포지션이나 매수·매도 압력을 판단하지 않습니다.",
+  "date_kst": "2026-11-04",
+  "entries": [
+    {
+      "access": "headline_only",
+      "actors": [
+        "pimco"
+      ],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:5a3175b58c1fc658046fcfb6",
+      "id": "Deebf9bd9a5d38561",
+      "mechanisms": [],
+      "published_at_kst": "2026-11-04T02:08:59+09:00",
+      "published_date": "2026-11-04",
+      "publisher": "TradingView",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "PIMCO Dynamic Income Opportunities Fund Estimates – FWB:V37 - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ucktLd05Ma0FZNlZJVTV5MjVVa1BmbXZ5LUd1OGZ6ZkFQdGdHUGVKYjE5NXJ3QVVyY1BVWXEzQkRuMGF6SUhMSktGYnhWY1FjMWxEeVlBQ2pEN3N4OGNvalB0QUZPSTRxYmxqSWRueUVDQlE?oc=5"
+    },
+    {
+      "access": "headline_only",
+      "actors": [
+        "pimco"
+      ],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:fe9ad509f4af9242242207ae",
+      "id": "D7e275e9f0fa4f19b",
+      "mechanisms": [],
+      "published_at_kst": "2026-11-03T22:00:00+09:00",
+      "published_date": "2026-11-03",
+      "publisher": "Seeking Alpha",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "PFL: Decent Income Fund From PIMCO With 14.5% Yield, But With Better Alternatives - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUkkxQVFjTjVUUG9xQjgwSlpNd1NLbjJTb2FkSm9nVGcySlRIa05ycnoxU1c0R3BoZ1JCWjdjZEI3RE5XUXZtaVItb0h2dnc2TlRHSVNfbTJDVFlmTE81VzBlMnJlRS1YTHhvTWJQY2t3UXMzRWpWczhkc2RPRFVsbmhMYVp0cmNvNmZEZV9KT3BsRzd4M0k4akJ5ZVlfSmQwclY2SllKal8weVg4akZUSVplUjdQTmpabUkzMl9waFdQM2tKR0E?oc=5"
+    },
+    {
+      "access": "headline_only",
+      "actors": [
+        "pimco"
+      ],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:f566c0657100da9714a1fb65",
+      "id": "Df9f6ec157a13ebd6",
+      "mechanisms": [],
+      "published_at_kst": "2026-11-03T13:14:00+09:00",
+      "published_date": "2026-11-03",
+      "publisher": "TradingView",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "PIMCO Dynamic Income Strategy Fund declares $0.153 dividend - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSmFkVkJKR2NyQUhqc3NmWmZvSS1UUDVuQ1NnQzB4enFfOHVHYmdPTjBReTNhYVJib3R6dC1FNGFtVFRCNWJ6bFhYTFpxWGROMzN6akkxcGZ4Z29iMXdyaDlqQVlsZTZLc0h6ZGhZNnVHcHNteUhKT2lobjZGN0l0ek8xelBjci14VDZPMHZ2empoVGVqYzFvLU40ZUFTLWRxSU1BRHFlSTJKUFlJcG5aY0FmWVVNTTV6N0JERFRn?oc=5"
+    },
+    {
+      "access": "headline_only",
+      "actors": [
+        "pimco"
+      ],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:4d33472bcda73217795c4df6",
+      "id": "D9d62f979e28ba9f6",
+      "mechanisms": [],
+      "published_at_kst": "2026-11-03T13:14:00+09:00",
+      "published_date": "2026-11-03",
+      "publisher": "TradingView",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "PIMCO California Municipal Income Fund declares $0.036 dividend - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOclh4Slo5RWVTeE1jMFRrRVdxSzJYNm1lSjJxNS13OGlvMWF3c210b2Zfa1c2WVlkWHRzMjdRakVXdndiYTlkRkdxb3JyQ1NnbmZ6SEdCM29rMng3bXhWYkpzdGF6R3JONW9lNjVnVFBzQ0lYaHdzNmFQal84VGU3a2xRMk9xSmtSSUdoV3lKX09oaGlERzVxR2ZjSHpQdVl4YWJUbEdNSXlLMG5QaVNYMjQ5UXkxQUxybjMxOEExQURiNWFRaEt6bDhxN0lSdXY5aTl5SlhLaC01d2o0?oc=5"
+    },
+    {
+      "access": "headline_only",
+      "actors": [
+        "pimco"
+      ],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:d6c3478f94c1d4f339cfacbf",
+      "id": "Dba7e9ae6eb1e53a5",
+      "mechanisms": [],
+      "published_at_kst": "2026-11-03T13:10:00+09:00",
+      "published_date": "2026-11-03",
+      "publisher": "TradingView",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "PIMCO Corporate & Income Strategy Fund declares $0.1125 dividend - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQVJHWVNRMDMtNzJIRTl5eklVdzlxM3lQbkJBTGcyRnd6NkNsV01aV0JDalNHdXRYdldkLXZGamFtTWQwSGRZbXljaHJGQ1R4WWRkMzRkbTFpTERtSnFFRjdhUGRvU1VXcjRaak1BX0thUGdOMXZLYk5EZk40S3l5Q1NlTzdUcXdhaHZjTmtYanBaT044aWhGWU9lcU9VU3V5OXczSjdNcFk3SFh4UG41bTJUcURxeWU4azB3ZFV6X01tUQ?oc=5"
+    },
+    {
+      "access": "headline_only",
+      "actors": [],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:0a332830d34e44d32f21810b",
+      "id": "D4af098cbff81edda",
+      "mechanisms": [],
+      "published_at_kst": "2026-11-04T00:15:09+09:00",
+      "published_date": "2026-11-04",
+      "publisher": "TradingKey",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "US Tech Stocks Rally Strongly With Nasdaq Composite Index Set to Snap Three-Day Losing Streak as Midterm Elections Conclude and Short Covering Expectations Rise - TradingKey",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPY1V1dDdJLXBEbXJXSjNCaWdBZVlZd24zWXZIaGZhaGRidnBpT3lRZ3pnWWlwUV96WERZVkhwM3ZSUVphOUtnbzlVcjg2NlNtazZrNUJNdFFXaTFFeHR2S2Rqd3VBMHNtSFBrM1o2dmNPdHFvV2tRbC1OR1p1X1B0R2ZoNUFwUWUwTXczQlA3emRRME1fUFJDX2xYMlVuak53Z0Fzb1NCRUhocEtCdUFkZlczSFdRdVJZY2NRcnNFSXRiQnU2RXgtNzdKalV6UHZD?oc=5"
+    },
+    {
+      "access": "headline_only",
+      "actors": [],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:53482fb4216c54167d296ffe",
+      "id": "Dc633c078beff7cc0",
+      "mechanisms": [],
+      "published_at_kst": "2026-11-03T14:01:33+09:00",
+      "published_date": "2026-11-03",
+      "publisher": "富途牛牛",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "Delta-One Flows and Positions: Buy-the-dip activity on Friday, but semiconductor inflows cooled; capital outflows from Brazil following the election; increased holdings in credit bonds and inflation-linked bonds; CTA deleveraging - 富途牛牛",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWE5yeTlWQkRvcnVyT0g5RW9sSnR0RVl2MjFTbEhHRmlOU3ZUekZ5UzdCRkxiQUQydDUweDJIcVd4SXBzVlhEYk9Yb2dHUnFvRUlRSmFsazlNSlZDeFdXYTJ5c3prMWdYbExxa0FwWWxOSmpueFVJblRZR0x5eExKZHZIRmVlVHRiM1p6ZjhJdVBYck5XTkhXQWVOMnA?oc=5"
+    },
+    {
+      "access": "headline_only",
+      "actors": [],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:be7685376909769b5e5df02d",
+      "id": "Dbb8a67e5c33919fa",
+      "mechanisms": [],
+      "published_at_kst": "2026-11-04T06:26:00+09:00",
+      "published_date": "2026-11-04",
+      "publisher": "Yahoo Finance",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "Net Asset Value Restatement for Simplify DBi CTA Managed Futures Index ETF (SDMF) - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQczhkQ0toNVcwcHcxeDhQOVRNZC1fREd2MGp3ZEhDbUhudTZWZF82czYtdUhmRWx1VTFoNFFzcV96TGxkR29KUHJTd0NoZzJDWlM4dVg3eXRkeHZXS3FUTzVQZ1g4Ulg4ZlhUT0RvWGUyVTlTSkR4enJyWnZhNEtkbE13N3ZuaE1vMVVmNUp0cVdCV2R5aTR0bGFmZm1YWWxZa3pKXw?oc=5"
+    },
+    {
+      "access": "headline_only",
+      "actors": [],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:73e32f16a462051cf012ca50",
+      "id": "D7aa3cc47b223ab36",
+      "mechanisms": [],
+      "published_at_kst": "2026-11-03T22:19:33+09:00",
+      "published_date": "2026-11-03",
+      "publisher": "Unisba Media",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "RISK OF THE CARRY TRADE UNWIND IS GROWING AS THE YEN CROSSES A CRITICAL LEVEL - TRILLIONS AT STAKE Adriana Volpe Compagno (OsxdKMbBwj) - Unisba Media",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1hb0ZXbmp0ekwtalNqQm54SG5YdzFONjN1cFNySzBoVVhIYmN5dnRza2xlNVdUUFAxUEZrNF9BaDRBM2IwYUgxbWlxVVN5MzlvUk9yTG41TEZvRFRTUkFzLTJTUFZNdw?oc=5"
+    }
+  ],
+  "generated_at_kst": "2026-11-04T08:40:44.065986+09:00",
+  "producer": "rss_discovery",
+  "schema": "global_position_v1",
+  "window_end_kst": "2026-11-04T08:40:44.065986+09:00",
+  "window_start_kst": "2026-11-03T08:40:44.065986+09:00",
+  "content_sha256": "098b67269bc74f763bf3ad96d042d326ac875f7fbb37b4bd6a6dfb1b80e577ad"
+}
