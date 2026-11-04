@@ -1,9 +1,9 @@
 {
   "date_kst": "2026-11-04",
   "status": "running",
-  "stage": "publishing",
+  "stage": "verifying",
   "started_at_kst": "2026-11-04T21:43:10+09:00",
-  "updated_at_kst": "2026-11-04T21:47:42+09:00",
+  "updated_at_kst": "2026-11-04T21:50:10+09:00",
   "ended_at_kst": null,
   "attempt": 1,
   "request_id": "20261104T214346p0900-daily21",
@@ -20,7 +20,18 @@
   "partial_channels": [
     "yieldnspread"
   ],
-  "published_paths": [],
+  "published_paths": [
+    "reports/2026-11-04.json",
+    "reports/2026-11-04.md",
+    "latest.md",
+    "latest.json"
+  ],
+  "publication": {
+    "reports/2026-11-04.json": "success",
+    "reports/2026-11-04.md": "success",
+    "latest.md": "success",
+    "latest.json": "success"
+  },
   "errors": [
     "aetherjapanresearch: public read failed: ValueError: not an approved public channel preview",
     "report_figure_by_offset: public read failed: ValueError: not an approved public channel preview",
