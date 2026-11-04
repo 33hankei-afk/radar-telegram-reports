@@ -1,10 +1,10 @@
 {
   "date_kst": "2026-11-04",
-  "status": "running",
-  "stage": "verifying",
+  "status": "partial",
+  "stage": "finished",
   "started_at_kst": "2026-11-04T21:43:10+09:00",
-  "updated_at_kst": "2026-11-04T21:50:10+09:00",
-  "ended_at_kst": null,
+  "updated_at_kst": "2026-11-04T21:50:56+09:00",
+  "ended_at_kst": "2026-11-04T21:50:56+09:00",
   "attempt": 1,
   "request_id": "20261104T214346p0900-daily21",
   "source_status": "partial",
@@ -20,6 +20,17 @@
   "partial_channels": [
     "yieldnspread"
   ],
+  "consensus_up_count": 0,
+  "consensus_down_count": 0,
+  "media_review_count": 457,
+  "theme_counts": {
+    "T1": 20,
+    "T2": 7,
+    "T3": 2,
+    "T4": 57,
+    "T5": 32,
+    "OTHER": 225
+  },
   "published_paths": [
     "reports/2026-11-04.json",
     "reports/2026-11-04.md",
@@ -31,6 +42,20 @@
     "reports/2026-11-04.md": "success",
     "latest.md": "success",
     "latest.json": "success"
+  },
+  "verification": {
+    "source_workflow_run_id": 41831798815,
+    "source_artifact_id": 13322389368,
+    "source_artifact_sha256": "92ff1017e2b16ef7c4feb556c67750c305d96ed5d5c35394e7b61825934d38ed",
+    "body_hash_mismatches": 0,
+    "local_schema_validation": "passed",
+    "reference_validation": "passed",
+    "theme_partition_validation": "passed",
+    "remote_reread": "passed",
+    "latest_matches_dated_report": true,
+    "report_date_matches": true,
+    "validation_workflow_run_id": 41832695722,
+    "validation_workflow_conclusion": "success"
   },
   "errors": [
     "aetherjapanresearch: public read failed: ValueError: not an approved public channel preview",
