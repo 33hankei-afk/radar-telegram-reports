@@ -1,14 +1,16 @@
 {
   "date_kst": "2026-11-04",
   "status": "running",
-  "stage": "collecting",
+  "stage": "publishing",
   "started_at_kst": "2026-11-04T21:43:10+09:00",
-  "updated_at_kst": "2026-11-04T21:45:53+09:00",
+  "updated_at_kst": "2026-11-04T21:47:42+09:00",
   "ended_at_kst": null,
   "attempt": 1,
   "request_id": "20261104T214346p0900-daily21",
   "source_status": "partial",
   "verified_posts": 1269,
+  "report_entries": 358,
+  "related_posts": 343,
   "checked_channels": 59,
   "verified_full_channels": 56,
   "failed_channels": [
