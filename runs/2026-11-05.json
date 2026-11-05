@@ -1,9 +1,9 @@
 {
   "date_kst": "2026-11-05",
   "status": "running",
-  "stage": "collecting",
+  "stage": "publishing",
   "started_at_kst": "2026-11-05T21:23:16+09:00",
-  "updated_at_kst": "2026-11-05T21:26:21+09:00",
+  "updated_at_kst": "2026-11-05T21:27:58+09:00",
   "ended_at_kst": null,
   "attempt": 1,
   "request_id": "20261105T212348p0900-daily21",
@@ -23,5 +23,7 @@
   ],
   "searfin_status": "complete",
   "source_status": "partial",
-  "partial_channels": []
+  "partial_channels": [],
+  "report_entries": 312,
+  "related_posts": 297
 }
