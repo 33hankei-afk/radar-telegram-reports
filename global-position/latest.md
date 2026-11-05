@@ -1,79 +1,79 @@
-# 글로벌 포지션 일보 · 2026-11-05
+# 글로벌 포지션 일보 · 2026-11-06
 
-취합 구간: 2026-11-04T08:14:00+09:00 ~ 2026-11-05T08:14:00+09:00
+취합 구간: 2026-11-05T08:23:47+09:00 ~ 2026-11-06T08:23:47+09:00
 
-발행: 2026-11-05T08:14:00+09:00 · gpt_verified
+발행: 2026-11-06T08:23:47+09:00 · gpt_verified
 
-2026-11-04T08:14:00+09:00~2026-11-05T08:14:00+09:00 KST. 신규 원문·전문 6건을 확인했습니다. BofA 고객의 단일주식 매도는 지속됐지만 ETF 매수와 Citadel의 낮은 CTA 포지션·리테일/자사주 매입 수요가 반등 시 재구축 여지를 높였습니다. AI는 반도체 강세 ETF와 인버스 ETF, SMH 풋 수요가 함께 늘어 방향 확신보다 변동성 확대 신호가 강합니다. Tuteja·Hartnett·PIMCO 핵심 대상은 실제 재검색 결과 새 독립 발언 0건입니다. 당일 PB gross/net 원표, 딜러 감마, basis·repo 마진콜, 엔 캐리 및 한국 직접 수급은 미확인입니다.
+2026-11-05T08:23:47+09:00~2026-11-06T08:23:47+09:00 KST. 신규 전문 5건과 공개 커뮤니티 1건을 확인했습니다. 핵심은 AI 하이퍼스케일러의 하루짜리 회전 매수가 다음 날 되팔기로 뒤집히고, 레버리지 ETF 리밸런싱·리테일 매도·반도체 옵션 하방 흐름이 겹친 점입니다. 이를 전체 헤지펀드의 신규 쇼트로 과대해석하지 않고 롱 청산·리밸런싱·헤지를 분리했습니다. Tuteja·Hartnett·PIMCO 핵심 대상은 실제 재검색 결과 새 독립 발언 0건입니다. 신규 PB gross/net 원표, basis·repo 마진콜, 엔 캐리 및 한국 직접 수급은 미확인입니다.
 
 
 ## 글로벌 주식 매수·매도 압력
 
-단일주식 매도 지속 · 낮은 CTA 포지션의 재매수 여지 확대 / 신뢰도 중간
+AI 롱 청산·ETF 리밸런싱 중심의 매도 압력 급증 / 신뢰도 높음
 
-BofA 고객은 단일주식 71억달러를 매도했고 헤지펀드 유출은 7월 중순 이후 최대였지만 ETF에는 24억달러가 유입됐습니다. Citadel 모델상 CTA 포지션은 -3.3σ까지 낮아졌고 리테일·자사주 매입 수요가 대기해, 현금주식 위험축소와 반등 시 체계적 재매수가 공존합니다.
+Reuters가 확인한 헤지펀드의 전일 하이퍼스케일러 매수분 재매도, 멀티전략 펀드 손실, 약 470억달러로 추정된 레버리지·인버스 ETF 리밸런싱과 리테일 매도는 단기 매도 압력이 우세했음을 보여줍니다. 다만 관측된 핵심은 롱 청산·리밸런싱·헤지이며 신규 쇼트 규모는 확인되지 않았습니다.
 
-근거: E04, E06
+근거: E01
 
-반대 근거: E01
+반대 근거: E02, E05
 
-확인 한계: BofA의 롱 청산·신규 쇼트·쇼트커버 세부 구성은 공개되지 않았습니다.
+확인 한계: Goldman PB·Nomura·Vanda 수치는 각각 고객 표본과 장중 추정이며 전체 시장 장부가 아닙니다.
 
-확인 한계: Citadel 수치는 자사 플랫폼과 모델 표본이며 전체 CTA·리테일 장부가 아닙니다.
+확인 한계: 순노출 감소를 신규 쇼트로 환산할 자료가 없습니다.
 
 
 ## AI·반도체 포지션
 
-AI 롱 축소 뒤 선택적 저가매수 · 반도체 풋 헤지 병존 / 신뢰도 중간
+하이퍼스케일러 단기 회전 실패 · 반도체 하방 헤지 강화 / 신뢰도 높음
 
-Goldman의 별도 트레이더는 AI 매도와 밸류에이션 조정 뒤 포지션이 깨끗해졌고 쇼트 수익실현 가능성이 있다고 봤습니다. 실제 ETF에서는 SOXL·SOXX 유입과 SOXS 유입이 동시에 나타났고, SMH 옵션은 70%가 풋이어서 방향 확신보다 저가매수와 하방 헤지가 함께 커진 국면입니다.
+롱온리·헤지펀드의 하이퍼스케일러 회전 매수는 다음 날 일부 되팔기로 뒤집혔고, SOXX·EWT 옵션은 거래량 급증과 음의 순델타를 보였습니다. AI 전체의 구조적 약세 확정이라기보다 과밀 롱 축소와 보호수요 급증이 동시에 나타난 포지션 충격입니다.
 
-근거: E01, E02, E05
+근거: E01, E02, E03
 
 반대 근거: E04
 
-확인 한계: Rich Privorotsky 의견은 Shawn Tuteja의 관점 변화 증거가 아닙니다.
+확인 한계: 옵션 순델타는 보호 매수·투기 매도를 분해하지 못합니다.
 
-확인 한계: 옵션 거래량은 매수·매도 주체와 실제 딜러 감마를 확정하지 못합니다.
+확인 한계: CNBC의 장기 매수 의견은 포지션 관측이 아닌 전망입니다.
 
 
 ## 금리·조달·유동성
 
-AI 신용 확대에도 국채 구축 증거 없음 · 중기 재정조달 부담 / 신뢰도 중간
+판단 자료 부족 / 신뢰도 낮음
 
-TBAC는 AI 관련 차입이 늘지만 현재 국채·비기술 신용을 구축한다는 명확한 증거가 없고, 현물 국채 repo보다 선물·스왑을 통한 듀레이션 수요가 늘었다고 설명했습니다. 단기 시장기능은 안정적이지만 현 발행 규모 기준 FY2028~29의 2.14조달러 자금부족 전망은 중기 쿠폰 확대와 조달비용 위험을 남깁니다.
+10년물 4.8%가 AI 위험선호의 기회비용이라는 의견은 확인했지만, 신규 basis·repo·마진콜·엔 캐리 실재 포지션 자료는 확보하지 못했습니다. 이전 TBAC의 국채 구축 증거 부재는 배경자료일 뿐 이번 구간의 유동성 변화로 승격하지 않습니다.
 
-근거: E03
+근거: 없음
 
-반대 근거: E01
+반대 근거: C31
 
-확인 한계: TBAC는 정책자문·딜러 의견이며 현재 basis·repo 마진콜 규모를 공개하지 않습니다.
+확인 한계: Reuters 기사도 급락이 repo 마진콜에서 비롯됐다고 확인하지 않았습니다.
 
-확인 한계: 엔 캐리 실재 청산 규모는 확인되지 않았습니다.
+확인 한계: 국채 매수나 금리 상승을 주식 매도로 일대일 대응시키지 않았습니다.
 
 
 ## 한국장 전달 경로
 
-반도체 저가매수와 풋 헤지가 충돌하는 조건부 고변동성 경로 / 신뢰도 낮음
+대만 반도체 옵션 하방 압력의 한국 고베타 전이 경로 / 신뢰도 중간
 
-SOXL·SOXX 유입은 한국 반도체에 반등 경로를 제공하지만 SOXS 동반 유입과 SMH 풋 우위는 하방 보호 수요가 남았음을 보여줍니다. CTA 재매수가 현실화되면 한국 고베타 반도체로 위험선호가 전이될 수 있으나 국내 외국인 현·선물 직접 자료가 없어 조건부 경로입니다.
+대만 반도체 비중이 큰 EWT의 옵션 거래량이 평소의 3배, 순옵션 델타가 주식 6만8천주 상당 음수였고 SOXX도 같은 방향이었습니다. 미국 AI 롱 청산이 이어지면 한국 반도체에 외국인 위험축소로 전이될 조건이 커졌지만, 한국 현·선물 직접 수급은 없어 조건부 경로입니다.
 
-근거: E01, E05, E06
+근거: E01, E03
 
 반대 근거: E04
 
-확인 한계: 미국 ETF·옵션 흐름은 한국 외국인 수급이나 국내 헤지펀드 순노출이 아닙니다.
+확인 한계: EWT·SOXX 옵션은 한국 외국인 수급이나 국내 헤지펀드 순노출이 아닙니다.
 
-확인 한계: 한국 직접 수급 원자료가 없습니다.
+확인 한계: 한국 직접 현·선물·대차 원자료를 확인하지 못했습니다.
 
 
 ## 핵심 3대상
 
-- Shawn Tuteja / 11월 5일 실제 재검색: 최근 24시간 Shawn Tuteja의 새 발언 없음. MarketWatch의 신규 Goldman 의견은 Rich Privorotsky 발언으로 분리했습니다. 마지막 Tuteja 확인은 10월 8일 2차 보도의 AI·M7 과밀·옵션 비대칭 경계입니다. / 변화: 미확인 / 근거: C01
+- Shawn Tuteja / 11월 6일 실제 재검색: 최근 24시간 Shawn Tuteja의 새 독립 발언 없음. 신규 Goldman 관측은 John Flood·미국 트레이딩 데스크 발언으로 분리했습니다. 마지막 Tuteja 확인은 10월 8일 2차 보도의 AI·M7 과밀·옵션 비대칭 경계입니다. / 변화: 미확인 / 근거: C01
 
-- Michael Hartnett / 11월 5일 실제 재검색: 최근 24시간 새 Hartnett/Flow Show 발언 없음. 신규 BofA 자료는 equity client flows이며 Hartnett 사건으로 세지 않았습니다. 마지막 확인은 10월 30일 기술채권 선별 매수 관점입니다. / 변화: 미확인 / 근거: C11
+- Michael Hartnett / 11월 6일 실제 재검색: 최근 24시간 Michael Hartnett/Flow Show 새 발언 없음. 공개 검색에서 확인된 최신 주간 BofA 흐름은 10월 30일 자료였으며 이번 창구 신규 근거로 쓰지 않았습니다. 마지막 확인은 10월 30일 기술채권 선별 매수 관점입니다. / 변화: 미확인 / 근거: C11
 
-- PIMCO / 11월 5일 실제 재검색: 최근 24시간 Ivascyn/Balls/Wilding의 새 공식 발언 없음. 마지막 공식 확인은 10월 28일 Wilding의 AI 투자·금리·경제 재배분 분석입니다. / 변화: 미확인 / 근거: C12
+- PIMCO / 11월 6일 실제 재검색: 최근 24시간 Ivascyn/Balls/Wilding의 새 공식 발언 없음. PIMCO CEO Manny Roman의 11월 3일 AI 금융 경계는 핵심 대상 범위와 시간창 밖이어서 신규 발언으로 세지 않았습니다. 마지막 공식 확인은 10월 28일 Wilding 분석입니다. / 변화: 미확인 / 근거: C12
 
 
 ## 확인 원문
@@ -82,17 +82,17 @@ SOXL·SOXX 유입은 한국 반도체에 반등 경로를 제공하지만 SOXS �
 
 |---|---|---|---|---|---|---|
 
-|E01|2026-11-04T08:46:00+09:00|2026-11-03|ETF 투자자, SPY, QQQ, SOXL, SOXS, SOXX|news / full_text / observed_metric|미국 ETF 하루 143.5억달러 유입·SPY와 QQQ, SOXL·SOXS 동시 유입 · ETF.com의 11월 3일 06:00 ET 기준 집계를 전재한 Yahoo Finance 전문에서 미국 주식 ETF는 102.7억달러, 미국 채권 ETF는 22.3억달러, 전체 ETF는 143.5억달러 순유입됐습니다. SPY 51.4억달러, QQQ 39.4억달러, SOXL 16.3억달러, SOXX 10.1억달러가 유입됐고 반대 방향인 SOXS에도 5.0억달러가 들어왔습니다. 반도체 방향 베팅이 양쪽으로 확대된 것으로, ETF 생성·환매 흐름이며 헤지펀드 순포지션은 아닙니다.|[https://finance.yahoo.com/markets/options/articles/daily-etf-flows-spy-takes-234639008.html](https://finance.yahoo.com/markets/options/articles/daily-etf-flows-spy-takes-234639008.html)|
+|E01|2026-11-06T03:32:00+09:00|2026-11-05|Goldman Sachs Prime Brokerage, 대형 멀티전략 헤지펀드, TMT 헤지펀드, Nomura, Vanda Research, 옵션 투자자|news / full_text / reported_flow|AI 급락에 헤지펀드·리테일 매도와 옵션 헤지 급증 · Reuters 전문은 11월 5일 AI 거래의 급격한 되감기 과정에서 헤지펀드가 전날 매수한 하이퍼스케일러 일부를 다시 팔았다고 보도했습니다. Goldman Sachs PB는 대형 AI주 과다 노출로 대형 멀티전략 펀드가 크게 하락했다고 전했고, TMT 펀드는 전년 대비 2.6% 하락했습니다. Nomura는 레버리지·인버스 ETF의 종가 리밸런싱 매도가 약 470억달러로 2006년 이후 두 번째 규모가 될 것으로 추정했습니다. Vanda는 장 마감 약 1시간 전 단일주식 리테일 순매도가 코로나 급락 이후 최대가 될 경로라고 봤고, 지수 풋 프리미엄은 평소의 약 2배였습니다. 이는 보도된 표본·장중 추정이며 전체 헤지펀드 장부나 신규 쇼트 규모가 아닙니다.|[https://www.streetinsider.com/Reuters/Wall+Street+fear+gauge+jumps+most+since+%27Liberation+Day%27+as+AI+trade+stumbles/27298625.html](https://www.streetinsider.com/Reuters/Wall+Street+fear+gauge+jumps+most+since+%27Liberation+Day%27+as+AI+trade+stumbles/27298625.html)|
 
-|E02|2026-11-04T20:10:00+09:00|2026-11-04|Rich Privorotsky, Goldman Sachs, AI 투자자, AI 하이퍼스케일러|news / full_text / opinion|Goldman Privorotsky: AI 매도·밸류에이션 조정 뒤 포지션이 깨끗해지고 쇼트 수익실현 필요 · MarketWatch는 Goldman Sachs 유럽주식 트레이딩 책임자 Rich Privorotsky의 11월 4일 고객 메모를 인용해 AI 종목이 이미 강하게 매도됐고, 밸류에이션이 낮아졌으며 쇼트 포지션은 수익실현이 필요하다고 전했습니다. 그는 선거 불확실성 완화와 기존 전산용량의 희소가치, AMD 실적을 근거로 AI 미시 수요가 강하다고 봤지만 데이터센터 허가 지연이 반도체·냉각·전력설비에는 부담이 될 수 있다고 했습니다. 이는 Tuteja 발언이 아닌 Goldman의 별도 트레이더 의견이며 실제 쇼트커버 규모는 공개되지 않았습니다.|[https://www.marketwatch.com/story/the-ai-trade-has-been-sold-to-death-but-goldman-strategist-highlights-silver-lining-from-democratic-sweep-3d1d6f07](https://www.marketwatch.com/story/the-ai-trade-has-been-sold-to-death-but-goldman-strategist-highlights-silver-lining-from-democratic-sweep-3d1d6f07)|
+|E02|2026-11-05T20:17:27+09:00|2026-11-04|Goldman Sachs trading desk, 롱온리 펀드, 헤지펀드, AI 하이퍼스케일러|news / full_text / reported_flow|Goldman 데스크: 롱온리·헤지펀드가 하이퍼스케일러로 회전 · Investing.com 전문은 11월 4일 Goldman Sachs 미국 데스크 관찰을 인용해 롱온리와 헤지펀드가 반도체·데이터센터 인프라에서 기존 전력·컴퓨팅 용량을 보유한 하이퍼스케일러로 회전했다고 전했습니다. 허가·전력 제약이 기존 사업자의 희소가치를 높일 수 있다는 논리였지만, 다음 거래일 Reuters 보도에서는 헤지펀드가 이 매수분 일부를 다시 팔았다고 확인돼 지속적 위험선호보다 짧은 회전 거래로 봐야 합니다.|[https://www.investing.com/news/stock-market-news/massive-market-rotation-raises-question-is-the-sellai-trade-here-to-stay-5003152](https://www.investing.com/news/stock-market-news/massive-market-rotation-raises-question-is-the-sellai-trade-here-to-stay-5003152)|
 
-|E03|2026-11-04T22:30:00+09:00|2026-11-03|U.S. Department of the Treasury, Treasury Borrowing Advisory Committee, Primary Dealers, 국채 파생상품 투자자|primary / full_text / opinion|미 재무부 TBAC: AI 채권이 국채를 구축했다는 명확한 증거 없음·파생 듀레이션 선호 확대 · 11월 3일 회의의 미 재무부 TBAC 공식 회의록은 AI·초지능 관련 차입이 2027년 확대될 전망이지만 현재 자본경쟁은 기술 신용 생태계 안에 머물고 국채나 비기술 신용을 구축한다는 명확한 증거는 없다고 밝혔습니다. 일부 투자자는 현물 국채를 repo로 레버리지하는 방식보다 회계·세금·롤오버 측면이 유리한 선물·스왑으로 듀레이션을 얻고 있습니다. 장기 국채 수요는 엇갈렸고, 현 쿠폰 발행 규모 기준 FY2028~29 민간보유 시장성 차입의 2.14조달러 자금부족 가능성도 제시됐습니다. 이는 정책·딜러 의견이며 현재 basis trade 청산액이나 헤지펀드 repo 장부가 아닙니다.|[https://home.treasury.gov/news/press-releases/sb0680/](https://home.treasury.gov/news/press-releases/sb0680/)|
+|E03|2026-11-06T01:24:00+09:00|2026-11-05|SOXX 옵션 투자자, EWT 옵션 투자자, 미국·대만 반도체 투자자|news / full_text / observed_metric|SOXX·EWT 옵션 거래 급증과 음의 순옵션 델타 · Schaeffer's 전문은 11월 5일 장중 SOXX 옵션 거래량이 평소의 2.1배인 13만1,343계약, EWT는 3배인 1만7,172계약이었다고 집계했습니다. 순옵션 델타 거래량은 각각 주식 약 46만주와 6만8천주 상당의 음수로, 미국·대만 반도체 ETF에 단기 하방 방향 거래가 우세했습니다. 거래량·델타 흐름은 고객의 보호 매수와 투기적 매도를 구분하지 못하고 실제 딜러 감마 부호도 확정하지 않습니다.|[https://www.schaeffersresearch.com/content/options/2026/11/05/2-semiconductor-etfs-drawing-bearish-options-traders-today](https://www.schaeffersresearch.com/content/options/2026/11/05/2-semiconductor-etfs-drawing-bearish-options-traders-today)|
 
-|E04|2026-11-05T00:56:04+09:00|2026-10-30|Bank of America Securities, 미국 헤지펀드, 기관투자자, 개인투자자|news / full_text / reported_flow|BofA 고객 흐름: 단일주식 71억달러 매도·ETF 24억달러 매수 · Seeking Alpha 기사를 전재한 TradingView 전문은 BofA Securities 고객이 3주 연속 미국 주식을 순매도했고, 헤지펀드의 주간 유출이 7월 중순 이후 최대였다고 보도했습니다. 고객은 단일주식 71억달러를 팔았지만 주식 ETF 24억달러를 매수했고 소형·중형 및 기술 ETF를 선호했습니다. 통신서비스는 2018년 GICS 편입 이후 최대 유출, 기술주는 3주 연속 유출이었습니다. 헤지펀드·기관·개인 모두 매도했지만 세부 롱 청산과 신규 쇼트 구성은 공개되지 않았으며 Hartnett Flow Show가 아니라 BofA equity client flow 자료입니다.|[https://www.tradingview.com/news/seekingalpha%3A1515b1a73094b%3A0-communication-services-purge-leads-3rd-straight-week-of-market-outflows-bofa/](https://www.tradingview.com/news/seekingalpha%3A1515b1a73094b%3A0-communication-services-purge-leads-3rd-straight-week-of-market-outflows-bofa/)|
+|E04|2026-11-06T03:58:48+09:00|2026-11-05|Peter Boockvar, Eric Johnston, Rob Sechan, Larry Adam, AI 투자자|news / full_text / opinion|AI 인프라 전망 재평가와 장기 저가매수 의견이 충돌 · CNBC 전문에서 One Point BFG의 Peter Boockvar와 Cantor Fitzgerald의 Eric Johnston은 규제 변화가 2027년 AI 인프라 투자 전망을 훼손할 수 있다고 경계했습니다. 반면 Newedge의 Rob Sechan은 공급 제약이 기존 컴퓨팅 용량의 가치를 높인다고 봤고 Raymond James의 Larry Adam은 무차별 매도를 장기 매수 기회로 평가했습니다. 10년물 금리 4.8%가 고변동 AI주 대신 무위험 수익을 택하게 만든다는 의견도 제시됐습니다. 이는 상반된 관측자 의견이며 실제 펀드 포지션 데이터가 아닙니다.|[https://www.cnbc.com/2026/11/05/cnbcs-experts-on-whether-the-ai-trade-is-ending-and-what-investors-should-do-next.html](https://www.cnbc.com/2026/11/05/cnbcs-experts-on-whether-the-ai-trade-is-ending-and-what-investors-should-do-next.html)|
 
-|E05|2026-11-05T04:00:14+09:00|2026-11-04|옵션 투자자, Cboe LiveVol, SpotGamma, SMH, TAN|news / full_text / observed_metric|선거 뒤 변동성 매도·로테이션, 반도체 ETF 옵션은 70% 풋 · CNBC는 11월 4일 정오 무렵 S&P 500이 약 2% 반등하는 동안 VIX가 4포인트가량 하락해 17 아래로 내려갔고 옵션 투자자가 변동성을 매도하며 대형 기술주 밖으로 회전했다고 보도했습니다. SMH는 2.6% 하락했고 옵션 거래량은 평소의 2배, 그중 70%가 풋이었으며 11월 13일 만기 475 풋이 거래량 기준 최다였습니다. 반면 TAN 옵션은 평소의 5배, 80%가 콜이었습니다. Cboe LiveVol·SpotGamma 거래량 자료로 실제 딜러 감마 부호나 보유 목적은 확인되지 않았습니다.|[https://www.cnbc.com/2026/11/04/a-massive-trade-just-happened-in-a-leading-mortgage-lender-watch-options-action-live.html](https://www.cnbc.com/2026/11/04/a-massive-trade-just-happened-in-a-leading-mortgage-lender-watch-options-action-live.html)|
+|E05|2026-11-05T20:00:10+09:00|2026-11-03|ETF 투자자, IVV, SPY, RSP, QLD, SOXX|news / full_text / observed_metric|11월 3일 광범위 ETF 유입과 QLD·SOXX 유출 · Yahoo Finance에 실린 GuruFocus 전문은 11월 3일 346개 ETF의 추정 순유입이 41.7억달러였고 IVV 14.8억달러, SPY 11.1억달러, RSP 6.08억달러가 유입됐다고 집계했습니다. 반면 레버리지 QLD는 6.154억달러, SOXX는 3.569억달러가 유출됐습니다. 이는 급락 이틀 전의 보유변화 기반 추정치로, 현재 헤지펀드 순노출이나 11월 5일 매도 압력을 나타내지 않습니다.|[https://finance.yahoo.com/markets/options/articles/etf-activity-ivv-leads-1-110010144.html](https://finance.yahoo.com/markets/options/articles/etf-activity-ivv-leads-1-110010144.html)|
 
-|E06|2026-11-05T05:50:04+09:00|2026-11-03|Citadel Securities, CTA, 미국 리테일 투자자, 자사주 매입 기업, 변동성 목표 자금|primary / full_text / observed_metric|Citadel Securities: CTA 미국주식 포지션 -3.3σ·리테일 22일 연속 330억달러 매수 · Citadel Securities 공식 분석은 11월 3일 기준 CTA 모델의 미국주식 포지션이 -3.3표준편차로 1년 범위 하위 2% 미만이며 26거래일 연속 쇼트라고 추정했습니다. 반등이 기술적 기준을 회복하면 CTA 재매수가 가능하다고 봤습니다. 자사 플랫폼의 리테일은 10월 5일부터 22거래일 연속 미국 현물주식을 약 330억달러 순매수했고, 11월 9일까지 S&P 500 시총의 85%가 자사주 매입 가능 구간에 들어올 것으로 추정했습니다. VIX 21 이상과 1개월 실현변동성 11 미만의 괴리가 줄면 변동성 목표 자금도 재진입할 수 있다는 관점입니다. CTA·vol-control은 모델 추정이고 실제 전체 장부가 아닙니다.|[https://www.citadelsecurities.com/news-and-insights/global-market-intelligence/november-the-setup-improves/](https://www.citadelsecurities.com/news-and-insights/global-market-intelligence/november-the-setup-improves/)|
+|E06|2026-11-05T22:50:56+09:00|2026-11-05|Moomoo 커뮤니티, SPX 옵션 투자자, 딜러 감마 모델|community / full_text / unverified|커뮤니티 모델: SPX 7700 양의 감마 핀과 하단 음의 감마 구간 주장 · 공개 Moomoo 게시물은 자체 모델을 통해 11월 5일 08:32 ET SPX 7700 행사가에 큰 양의 감마, 7690~7670에 음의 감마가 있다고 주장했습니다. 원자료·딜러 보유 방향을 독립 검증하지 못한 커뮤니티 모델이므로 미검증 주장으로 분리하며 시장 판단 근거에 쓰지 않습니다.|[https://www.moomoo.com/community/feed/39-0-pre-market-spx-quantitative-gamma-flow-and-market-117564155887621](https://www.moomoo.com/community/feed/39-0-pre-market-spx-quantitative-gamma-flow-and-market-117564155887621)|
 
 |C01|2026-10-08 (시각 미확인)|미확인|tuteja|이전 자료 / news / partial_text / opinion|Tuteja 관련 보도: AI 상승 베팅의 비대칭이 약해졌다는 경계 · 이전 자료입니다. 공개 도입부는 Shawn Tuteja의 메모를 AI 쏠림과 위험보상 경계로 소개합니다. Goldman 원본과 유료 본문은 확인하지 못했습니다.|[https://www.zerohedge.com/markets/asymmetry-has-shifted-goldman-vol-trader-steps-ai-train-hedge-funds-most-crowded-mag-7](https://www.zerohedge.com/markets/asymmetry-has-shifted-goldman-vol-trader-steps-ai-train-hedge-funds-most-crowded-mag-7)|
 
@@ -100,33 +100,31 @@ SOXL·SOXX 유입은 한국 반도체에 반등 경로를 제공하지만 SOXS �
 
 |C12|2026-10-28 (시각 미확인)|2026-10-28|pimco, PIMCO, Tiffany Wilding, AI 하이퍼스케일러|이전 자료 / primary / full_text / opinion|PIMCO Wilding: AI 투자가 경제를 확대하기보다 재배분할 가능성 · 이번 구간 시작 전인 10월 28일 PIMCO 공식 자료입니다. Tiffany Wilding은 AI 투자 급증에도 미국 성장률이 2~2.5%에 머문 점을 들어, AI가 총수요를 더하기보다 경제의 자원을 재배분하고 있을 수 있다고 설명했습니다. 높은 금리와 신용 스프레드의 부담은 강한 현금흐름을 가진 하이퍼스케일러보다 주택·중소기업·고부채 기업에 더 크게 전가될 수 있으며, 수입 장비·인프라 병목·신용여건이 조정 속도를 좌우한다고 봤습니다.|[https://www.pimco.com/nl/en/insights/is-ai-crowding-out-the-rest-of-the-economy](https://www.pimco.com/nl/en/insights/is-ai-crowding-out-the-rest-of-the-economy)|
 
-|C21|2026-11-03T20:06:00+09:00|2026-10-31|글로벌 헤지펀드, Goldman Sachs Prime Brokerage|이전 자료 / news / full_text / reported_flow|Goldman PB: 10월 순레버리지 4.2%p 하락·롱 매도가 쇼트 매도의 4배 · 이번 구간 시작 전 공개된 이전 자료입니다. Investing.com 기사를 전재한 Yahoo Finance 전문에 따르면 Goldman Sachs 프라임브로커 표본에서 10월 fundamental long-short와 systematic 전략은 각각 3.5%, 3.6% 손실을 냈고, 전체 prime book 순레버리지는 4.2%포인트 낮아진 73.4%로 3월 이후 가장 빠르게 하락했습니다. 글로벌 주식 순매도는 7개월 최대 달러 규모였으며 기존 롱 매도가 쇼트 매도의 4배여서 outright bearish 신규 쇼트보다 디리스크 성격이 컸습니다. 기술주 약 200억달러 매도와 AI 주식 5거래일 연속 순매도로 2025년 이후 누적 AI 순매수가 지워졌지만, 매크로·지수 상품은 순매수되고 일부 업종은 유입돼 선택적 회전도 병존했습니다. 이는 Goldman 고객 표본의 10월 월간 관측이며 전체 헤지펀드의 실재 포지션이 아닙니다.|[https://finance.yahoo.com/markets/stocks/articles/goldman-data-shows-hedge-funds-110652627.html](https://finance.yahoo.com/markets/stocks/articles/goldman-data-shows-hedge-funds-110652627.html)|
+|C31|2026-11-04T22:30:00+09:00|2026-11-03|U.S. Department of the Treasury, Treasury Borrowing Advisory Committee, Primary Dealers, 국채 파생상품 투자자|이전 자료 / primary / full_text / opinion|미 재무부 TBAC: AI 채권이 국채를 구축했다는 명확한 증거 없음·파생 듀레이션 선호 확대 · 이번 구간 시작 전 공개된 이전 자료입니다. 11월 3일 회의의 미 재무부 TBAC 공식 회의록은 AI·초지능 관련 차입이 2027년 확대될 전망이지만 현재 자본경쟁은 기술 신용 생태계 안에 머물고 국채나 비기술 신용을 구축한다는 명확한 증거는 없다고 밝혔습니다. 일부 투자자는 현물 국채를 repo로 레버리지하는 방식보다 회계·세금·롤오버 측면이 유리한 선물·스왑으로 듀레이션을 얻고 있습니다. 장기 국채 수요는 엇갈렸고, 현 쿠폰 발행 규모 기준 FY2028~29 민간보유 시장성 차입의 2.14조달러 자금부족 가능성도 제시됐습니다. 이는 정책·딜러 의견이며 현재 basis trade 청산액이나 헤지펀드 repo 장부가 아닙니다.|[https://home.treasury.gov/news/press-releases/sb0680/](https://home.treasury.gov/news/press-releases/sb0680/)|
 
-|C22|2026-11-04T03:04:00+09:00|2026-10-29|글로벌 헤지펀드, Morgan Stanley Prime Brokerage, Goldman Sachs Prime Brokerage, AI 투자자|이전 자료 / news / full_text / reported_flow|Morgan Stanley PB 재전: AI 언더웨이트 전환·순레버리지 상승은 주로 쇼트커버 · 이번 구간 시작 전 공개된 이전 자료입니다. GuruFocus 기사를 전재한 Yahoo Finance 전문은 Morgan Stanley 프라임브로커 자료를 인용해 헤지펀드가 광의의 AI 테마에서 2023년 초 이후 처음 언더웨이트로 전환했다고 보도했습니다. 6월 고점 이후 누적 gross 흐름은 8% 감소했습니다. 미국 long-short 순레버리지는 5%포인트 오른 51%였지만 주로 쇼트 청산이 원인이었고, gross는 207%로 낮아져 적극적 신규 롱 구축보다 book 축소에 가깝다고 설명했습니다. 10월 23~29일 Goldman 고객의 미국주식 순매수 중 73%가 지수·ETF였고 기술주 매수는 앞선 3주 매도의 약 40%만 회복했으며 M7은 5거래일 중 4일 순매도였습니다. 이는 2차 보도이고 원 PB 보고서는 비공개입니다.|[https://finance.yahoo.com/technology/ai/articles/morgan-stanley-flags-major-turn-180449865.html](https://finance.yahoo.com/technology/ai/articles/morgan-stanley-flags-major-turn-180449865.html)|
-
-|C23|2026-11-03T14:08:00+09:00|2026-11-03|AI 하이퍼스케일러, 기술채권 투자자, Sheila Bair, LSEG|이전 자료 / news / full_text / opinion|Reuters: AI 부채·고금리·집중도가 글로벌 충격의 증폭 경로 · 이번 구간 시작 전 공개된 이전 자료입니다. Reuters는 10월 AI 매도에서 Nasdaq 100 시가총액 2조달러 이상이 줄고 기술채권 보험료가 뛰었으며 일부 데이터센터 프로젝트가 자금조달에 어려움을 겪었다고 보도했습니다. AI 하이퍼스케일러의 내년 투자 예상은 1.2조달러, 올해는 9,000억달러이며 기술·AI 종목은 S&P 500의 40% 이상을 차지해 집중도가 높습니다. Sheila Bair는 AI 기업의 부채 의존과 비은행권 레버리지를 취약점으로 지적했습니다. 한편 S&P 500 실적 발표 기업의 84%가 예상치를 상회했다는 LSEG 자료는 반대 근거입니다. 이는 시스템 위험에 관한 기사·전문가 의견이며 헤지펀드 장부 수치는 아닙니다.|[https://www.reuters.com/markets/wealth/global-markets-risks-analysis-pix-graphics-2026-11-03/](https://www.reuters.com/markets/wealth/global-markets-risks-analysis-pix-graphics-2026-11-03/)|
+|C32|2026-11-05T05:50:04+09:00|2026-11-03|Citadel Securities, CTA, 미국 리테일 투자자, 자사주 매입 기업, 변동성 목표 자금|이전 자료 / primary / full_text / observed_metric|Citadel Securities: CTA 미국주식 포지션 -3.3σ·리테일 22일 연속 330억달러 매수 · 이번 구간 시작 전 공개된 이전 자료입니다. Citadel Securities 공식 분석은 11월 3일 기준 CTA 모델의 미국주식 포지션이 -3.3표준편차로 1년 범위 하위 2% 미만이며 26거래일 연속 쇼트라고 추정했습니다. 반등이 기술적 기준을 회복하면 CTA 재매수가 가능하다고 봤습니다. 자사 플랫폼의 리테일은 10월 5일부터 22거래일 연속 미국 현물주식을 약 330억달러 순매수했고, 11월 9일까지 S&P 500 시총의 85%가 자사주 매입 가능 구간에 들어올 것으로 추정했습니다. VIX 21 이상과 1개월 실현변동성 11 미만의 괴리가 줄면 변동성 목표 자금도 재진입할 수 있다는 관점입니다. CTA·vol-control은 모델 추정이고 실제 전체 장부가 아닙니다.|[https://www.citadelsecurities.com/news-and-insights/global-market-intelligence/november-the-setup-improves/](https://www.citadelsecurities.com/news-and-insights/global-market-intelligence/november-the-setup-improves/)|
 
 
 ## 수집 범위
 
-- Shawn Tuteja / checked / Goldman 공식 Insights·Exa·공개 웹 검색. 새 발언 0건; 신규 Goldman 의견은 Rich Privorotsky 발언으로 분리.
+- Shawn Tuteja / checked / Goldman 공식 Insights·Exa·공개 웹을 재검색. 새 Tuteja 독립 발언 0건; John Flood와 Goldman 미국 데스크 관측은 별도 사건으로 분리.
 
-- Michael Hartnett · BofA Flow Show / partial / 새 Hartnett/Flow Show 독립 발언 0건. BofA equity client flows는 별도 기관 자료이며 원 BofA 메모 비공개.
+- Michael Hartnett · BofA Flow Show / partial / Exa·공개 웹·BofA 공개 페이지를 재검색해 새 Hartnett/Flow Show 발언 0건. 원 BofA 유료 메모·배포판은 비공개라 공개 범위만 확인.
 
-- PIMCO · Ivascyn/Balls/Wilding / checked / PIMCO 공식 Insights·Exa·공개 웹 검색. 최근 24시간 새 공식 전망 발언 0건.
+- PIMCO · Ivascyn/Balls/Wilding / checked / PIMCO 공식 Insights·Exa·공개 웹을 재검색. 최근 24시간 새 공식 발언 0건; 시간창 밖 Manny Roman 인터뷰는 제외.
 
-- 글로벌 헤지펀드·프라임브로커 gross/net·롱/숏 / partial / BofA 고객 단일주식·ETF 흐름과 Citadel CTA 모델 확인. 당일 PB gross/net 원표 및 롱/신규 쇼트 분해는 미확인.
+- 글로벌 헤지펀드·프라임브로커 gross/net·롱/숏 / partial / Reuters 전문에서 Goldman PB 멀티전략·TMT 손실과 전일 매수분 재매도 확인. 전체 gross/net 원표와 롱 청산·신규 쇼트·쇼트커버 수량 분해는 미공개.
 
-- CTA·변동성 목표·딜러 감마 / partial / Citadel CTA -3.3σ·vol-control 재진입 조건과 CNBC 옵션 거래량 확인. 실제 전체 CTA 장부와 딜러 감마 부호·규모는 미확인.
+- CTA·변동성 목표·딜러 감마 / partial / 레버리지·인버스 ETF 약 470억달러 리밸런싱 추정과 옵션 헤지 급증 확인. 전체 CTA·vol-control 장부와 실제 딜러 감마 부호는 미확인.
 
-- 펀드·ETF·옵션 흐름 / checked / ETF.com 하루 생성·환매, BofA 고객 흐름, CNBC 옵션 거래량 전문을 확인하고 모집단을 분리.
+- 펀드·ETF·옵션 흐름 / checked / Reuters·Schaeffer's·Yahoo 전문에서 리밸런싱, SOXX/EWT 옵션, 11월 3일 ETF 흐름을 확인하고 관측일을 분리.
 
-- 국채 베이시스·레포·마진·엔 캐리 / partial / 미 재무부 TBAC 공식 회의록에서 파생 듀레이션·repo 구조와 중기 조달 전망 확인. 실재 basis 청산·마진콜·엔 캐리 규모는 0건.
+- 국채 베이시스·레포·마진·엔 캐리 / partial / 공식·언론 검색을 수행했으나 신규 basis·repo 마진콜·엔 캐리 포지션 자료 0건. 금리 의견만 확인해 유동성 판단은 자료 부족 처리.
 
-- 언론·공식 원문 / checked / MarketWatch·CNBC·TradingView 재전·Yahoo 전문과 Citadel Securities·미 재무부 공식 원문을 직접 확인.
+- 언론·공식 원문 / checked / Reuters 재전 전문, Investing.com·CNBC·Schaeffer's·Yahoo 전문을 열어 제목·시각·본문을 확인. 원 PB 보고서는 비공개임을 표시.
 
-- 공개 커뮤니티 / checked / Reddit·투자 커뮤니티의 AI·CTA·gamma·repo·yen carry 조합을 검색했으나 창구 내 직접 URL·게시시각·독립 포지션 주장이 함께 확인되는 신규 글 0건.
+- 공개 커뮤니티 / partial / Reddit·투자 커뮤니티를 검색. Moomoo 직접 게시물 1건을 미검증 community로 분리; Reddit 일부 RSS 접근 실패와 원문 URL 미확보 후보는 미수록.
 
-- 기사 후보 수집 / checked / 저장소 discovery 최신판을 확인. 제목 후보는 검색 출발점으로만 사용하고 원문 검증 전 승격하지 않음.
+- 기사 후보 수집 / checked / global-position/discovery/latest.json을 검색 출발점으로 확인했으나 직전 날짜 후보여서 원문 검증·시간창 필터를 우선 적용.
 
-- 검색 경로 / checked / Exa 7개 축에서 56개 결과와 공개 웹 8개 보강 질의를 검토하고 6개 원문·전문을 채택. 동일 사건·기간 밖·재전 중복을 제외.
+- 검색 경로 / checked / Exa 7개 축에서 56개 결과와 공개 웹 고신뢰 검색을 검토해 신규 전문 5건·커뮤니티 1건을 채택. 동일 사건 재전·시간창 밖·제목만 후보는 제외.
