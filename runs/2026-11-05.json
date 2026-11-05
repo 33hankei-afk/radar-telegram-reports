@@ -1,10 +1,10 @@
 {
   "date_kst": "2026-11-05",
-  "status": "running",
-  "stage": "verifying",
+  "status": "partial",
+  "stage": "finished",
   "started_at_kst": "2026-11-05T21:23:16+09:00",
-  "updated_at_kst": "2026-11-05T21:29:31+09:00",
-  "ended_at_kst": null,
+  "updated_at_kst": "2026-11-05T21:30:13+09:00",
+  "ended_at_kst": "2026-11-05T21:30:13+09:00",
   "attempt": 1,
   "request_id": "20261105T212348p0900-daily21",
   "source_workflow_run_id": 42026780575,
@@ -36,5 +36,30 @@
     "reports/2026-11-05.md": "success",
     "latest.md": "success",
     "latest.json": "success"
+  },
+  "consensus_up_count": 0,
+  "consensus_down_count": 0,
+  "media_review_count": 354,
+  "theme_counts": {
+    "T1": 16,
+    "T2": 2,
+    "T3": 0,
+    "T4": 37,
+    "T5": 31,
+    "OTHER": 211
+  },
+  "verification": {
+    "source_workflow_run_id": 42026780575,
+    "source_artifact_id": 13413673626,
+    "source_artifact_sha256": "4f2a1417f8413bcabdf383df7dfe0be0817a4691df4cba6bad3379f7115ed4b5",
+    "body_hash_mismatches": 0,
+    "local_schema_validation": "passed",
+    "reference_validation": "passed",
+    "theme_partition_validation": "passed",
+    "remote_reread": "passed",
+    "latest_matches_dated_report": true,
+    "report_date_matches": true,
+    "validation_workflow_run_id": 42027558397,
+    "validation_workflow_conclusion": "success"
   }
 }
