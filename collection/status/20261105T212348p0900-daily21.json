@@ -6,14 +6,18 @@
   "status": "running",
   "stage": "collecting",
   "started_at_kst": "2026-11-05T21:24:04.429362+09:00",
-  "updated_at_kst": "2026-11-05T21:24:30.349258+09:00",
+  "updated_at_kst": "2026-11-05T21:24:42.358716+09:00",
   "ended_at_kst": null,
-  "checked_channels": 14,
-  "verified_full_channels": 14,
-  "verified_posts": 406,
+  "checked_channels": 24,
+  "verified_full_channels": 23,
+  "verified_posts": 491,
   "searfin_status": "complete",
-  "failed_channels": [],
-  "errors": [],
+  "failed_channels": [
+    "aetherjapanresearch"
+  ],
+  "errors": [
+    "aetherjapanresearch: public read failed: ValueError: not an approved public channel preview"
+  ],
   "evidence_path": "collection/snapshots/20261105T212348p0900-daily21.json",
   "report_published": false
 }
