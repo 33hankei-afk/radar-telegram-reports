@@ -3,14 +3,14 @@
   "status": "running",
   "stage": "collecting",
   "started_at_kst": "2026-11-05T21:23:16+09:00",
-  "updated_at_kst": "2026-11-05T21:25:53+09:00",
+  "updated_at_kst": "2026-11-05T21:26:21+09:00",
   "ended_at_kst": null,
   "attempt": 1,
   "request_id": "20261105T212348p0900-daily21",
   "source_workflow_run_id": 42026780575,
-  "verified_posts": 853,
-  "checked_channels": 54,
-  "verified_full_channels": 52,
+  "verified_posts": 967,
+  "checked_channels": 59,
+  "verified_full_channels": 57,
   "failed_channels": [
     "aetherjapanresearch",
     "report_figure_by_offset"
@@ -21,5 +21,7 @@
     "report_figure_by_offset: public read failed: ValueError: not an approved public channel preview",
     "runs checkpoint update conflict at 54 channels; retried with latest blob"
   ],
-  "searfin_status": "complete"
+  "searfin_status": "complete",
+  "source_status": "partial",
+  "partial_channels": []
 }
