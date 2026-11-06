@@ -6,19 +6,22 @@
   "status": "running",
   "stage": "collecting",
   "started_at_kst": "2026-11-06T21:49:44.951083+09:00",
-  "updated_at_kst": "2026-11-06T21:50:39.214044+09:00",
+  "updated_at_kst": "2026-11-06T21:50:49.491359+09:00",
   "ended_at_kst": null,
-  "checked_channels": 44,
-  "verified_full_channels": 41,
-  "verified_posts": 916,
+  "checked_channels": 54,
+  "verified_full_channels": 49,
+  "verified_posts": 1039,
   "searfin_status": "complete",
   "failed_channels": [
-    "aetherjapanresearch"
+    "aetherjapanresearch",
+    "report_figure_by_offset"
   ],
   "errors": [
     "hanachina: #71655: view counter missing/invalid",
     "aetherjapanresearch: public read failed: ValueError: not an approved public channel preview",
-    "pharmbiohana: #11850: view counter missing/invalid"
+    "pharmbiohana: #11850: view counter missing/invalid",
+    "cahier_de_market: #11301: view counter missing/invalid",
+    "report_figure_by_offset: public read failed: ValueError: not an approved public channel preview"
   ],
   "evidence_path": "collection/snapshots/20261106T214930p0900-daily21.json",
   "report_published": false,
