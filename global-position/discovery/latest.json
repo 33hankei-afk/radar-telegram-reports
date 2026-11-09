@@ -83,21 +83,21 @@
       "url": "https://news.google.com/rss/search?q=%22Shawn+Tuteja%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-      "items": 0,
+      "items": 2,
       "name": "Michael Hartnett",
       "note": "RSS 후보만 확인 · 원문/GPT 분석과 구분",
       "status": "checked",
       "url": "https://news.google.com/rss/search?q=%22Michael+Hartnett%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-      "items": 0,
+      "items": 1,
       "name": "PIMCO",
       "note": "RSS 후보만 확인 · 원문/GPT 분석과 구분",
       "status": "checked",
       "url": "https://news.google.com/rss/search?q=PIMCO+%28Ivascyn+OR+Balls+OR+Wilding+OR+outlook+OR+flows%29+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-      "items": 0,
+      "items": 3,
       "name": "글로벌 포지션·프라임브로커",
       "note": "RSS 후보만 확인 · 원문/GPT 분석과 구분",
       "status": "checked",
@@ -140,24 +140,64 @@
     }
   ],
   "coverage_note": "자동 공개 RSS 후보 수집입니다. 제목만으로 실제 헤지펀드 포지션이나 매수·매도 압력을 판단하지 않습니다.",
-  "date_kst": "2026-11-08",
+  "date_kst": "2026-11-09",
   "entries": [
     {
       "access": "headline_only",
-      "actors": [],
+      "actors": [
+        "hartnett"
+      ],
       "claim_type": "unverified",
       "direction": "unknown",
       "event_date": null,
-      "event_key": "headline:1504ead171e93814c4cffc87",
-      "id": "Deee8943c63327e38",
+      "event_key": "headline:4366d09f4f3a1bad52fd9cce",
+      "id": "D040992191e325648",
       "mechanisms": [],
-      "published_at_kst": "2026-11-08T06:40:09+09:00",
-      "published_date": "2026-11-08",
-      "publisher": "Yahoo Finance Australia",
+      "published_at_kst": "2026-11-09T03:30:53+09:00",
+      "published_date": "2026-11-09",
+      "publisher": "The Dark Side Of The Boom",
       "source_kind": "candidate",
       "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
-      "title_ko": "Equity positioning suffered one of its sharpest weekly drops on record: DB - Yahoo Finance Australia",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOEpPazJ1bFF0SXM5UVQtLUdWVl9UWTR3SHRGTEgySmwxY1RlZHktOWVxekZBY1k5OXo3VTJZbjVWVVY1bTRnX3dURWswUURYa2szOEVSR1RjY0sxUDlfbl9BWkdhTk9CX1ZoSmJsOGlOaXN6c2tQUzQyOUtyV0c3MlV4R2xJeFFINHBjT1ZKMjJFdUU?oc=5"
+      "title_ko": "Michael Hartnett’s DEM Fatale: The AI Boom Meets Its Political Reckoning - The Dark Side Of The Boom",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdnZZcWdEeGQzVUdMYlRBWm5HWUJtaXVkYmJ0TzlTVUJqQnVkUVJkMGw4cGVyd2Z3ZHJPcW96SWg5M2xkMVNUaFR5a3BFeEpBMmk2b3ZLU1poUHhMdTBJeDB1Z0UteFl1d1Mza0lrYzIxbEUxNlV2Rk5nMHMzSmpvTE5B?oc=5"
+    },
+    {
+      "access": "headline_only",
+      "actors": [
+        "hartnett"
+      ],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:5718f32d1d1fa058dacbad8a",
+      "id": "D4761021c51d7084a",
+      "mechanisms": [],
+      "published_at_kst": "2026-11-08T22:36:42+09:00",
+      "published_date": "2026-11-08",
+      "publisher": "TOKENPOST",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "Hartnett Links Bank of America’s Gold Recommendation to Debt-Limit Fight - TOKENPOST",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1JRHgteFFCMlhfZVNXSzROQ215SUNMbEw1VEZhQUNRc3MxT2w0NHFVVm1zTTRodlpFbE5jT1RNMUpCVjhZZGkxVXNUakU2UE9WSXh2VTB0dTFuUQ?oc=5"
+    },
+    {
+      "access": "headline_only",
+      "actors": [
+        "pimco"
+      ],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:22bf8349b2f595362e12ab51",
+      "id": "D42bbaef2ab8bf72d",
+      "mechanisms": [],
+      "published_at_kst": "2026-11-08T12:40:30+09:00",
+      "published_date": "2026-11-08",
+      "publisher": "TradingView",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "PIMCO Dynamic Income Opportunities Fund Estimates – NASDAQ:XPDOX - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5janNlQVRDQ2lqcGdOaWk5a0dtOU02clFaTHlXeVRZcnFMWjNsZk13WlhJdzNDZFNybmEzX3JQcGUyTmItc2xFWW1vWWJSMlJJVkNzSnZ6YUd6emtpVjdVT2QtNVRVb0xCVHN6ekhtWnZpeGxoVE1yWmZB?oc=5"
     },
     {
       "access": "headline_only",
@@ -165,22 +205,73 @@
       "claim_type": "unverified",
       "direction": "unknown",
       "event_date": null,
-      "event_key": "headline:dd7046cedcd9594963a86d2b",
-      "id": "D391ee45a6ecf678d",
+      "event_key": "headline:746aa6a620857b3dd46567ae",
+      "id": "De52328af81bd2755",
       "mechanisms": [],
-      "published_at_kst": "2026-11-08T05:34:53+09:00",
-      "published_date": "2026-11-08",
-      "publisher": "The Sunday Guardian",
+      "published_at_kst": "2026-11-09T00:08:00+09:00",
+      "published_date": "2026-11-09",
+      "publisher": "BigGo Finance",
       "source_kind": "candidate",
       "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
-      "title_ko": "The voters’ margin call - The Sunday Guardian",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tOXhBZ2VqSjRmMkhzamctbHgtTVRHYlVZWUpEcVN1YzdmTUNiRGpGdkhwNFlVdGJsNE16a2lzS2JPbExJQ2RVSG9NRkc0Y2p3clUyVlZXakFJSU0taUl0eF9vTlA5WVRkTUd6UDF6eFJxV3c1SXp4Q1UtSVozM3PSAX9BVV95cUxObTl4QWdlako0ZjJIc2pnLWx4LU1UR2JVWVlKRHFTdWM3Zk1DYkRqRnZIcDRZVXRibDRNemtpc0tiT2xMSUNkVUhvTUZHNGNqd3JVMlZWV2pBSUlNLWlJdHhfb05QOVlUZE1HelAxenhScVd3NUl6eENVLUlaMzNz?oc=5"
+      "title_ko": "22V's Jordi Visser says the AI selloff was a $70 billion forced deleveraging, not a bubble, and he is buying Micron - BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9RbXdUd0R5NFc1YzlEdWhhM0tLb05sVU9SU2RnZEZDbVluTTUtMGJnVnJmYUx5djI4cDJBcWNsYngwb0hscTRud29VaHp2cWRoXzQ2eWFHeTZqbXc?oc=5"
+    },
+    {
+      "access": "headline_only",
+      "actors": [],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:1dd60aebcc503fb2cb234a06",
+      "id": "Dfe3bba56103c165b",
+      "mechanisms": [],
+      "published_at_kst": "2026-11-09T03:00:01+09:00",
+      "published_date": "2026-11-09",
+      "publisher": "Bloomberg",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "Hedge Fund FOGO Is Obliterating the FOMO Trade - Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQV3hJeXVLY3d3UThvRWZIbDhRd1FzdTJiM0lXVEtkUkZCRTB3YUxrNC1RX2lCbG9pallSMjA1ZXl0LWt4cnFOZzRwUU9weGUzVS1mYk53S083dlhoeVk3ck91N3Ztem9NSGZCUl9XNGpxTUVMamJWVXd6Ym5ZbWlZcWZyYllGc1lYWW9zSXhVQzBQY0x1TkRMTE41MXQtMXUtc2c?oc=5"
+    },
+    {
+      "access": "headline_only",
+      "actors": [],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:a1485dd178c1fda816c3ec14",
+      "id": "D0d048d6580dac091",
+      "mechanisms": [],
+      "published_at_kst": "2026-11-08T13:15:00+09:00",
+      "published_date": "2026-11-08",
+      "publisher": "Howl.Link",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "CoT: Peek Into Future Through Futures, How Hedge Funds Are Positioned - Saturday, Nov 7 - Howl.Link",
+      "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE1kRm1ZZHNKNERlUXBsLXVrSDBqSVY0a041enROVzVaWWIwbWVkVThDMFFGNFFfd080bUww?oc=5"
+    },
+    {
+      "access": "headline_only",
+      "actors": [],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:873b3086cbb1ccfc6e44699e",
+      "id": "Ddc7b08c64bf454e2",
+      "mechanisms": [],
+      "published_at_kst": "2026-11-08T14:35:21+09:00",
+      "published_date": "2026-11-08",
+      "publisher": "Magzter",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "THE VOTERS' MARGIN CALL | The Business Guardian - newspaper - Magzter",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVUJzdU9kZUZuZzkwbEVfaVBRRmhxbVJZWU1SUTFGOURERGxYWVkydUNXYU5oQUtkcmhQTG5rbG9aRjF4OEw1S29kTkVyTlNfaGYzUmNYS2djbFZ0VUo5OUNEdjFzQ3B5Z3h4RnRiT1JSNGZDTlVoTVFSbVNuRWEwNUdHdWFMQ3RJV3VWRmRWZw?oc=5"
     }
   ],
-  "generated_at_kst": "2026-11-08T08:36:47.422326+09:00",
+  "generated_at_kst": "2026-11-09T11:35:23.879145+09:00",
   "producer": "rss_discovery",
   "schema": "global_position_v1",
-  "window_end_kst": "2026-11-08T08:36:47.422326+09:00",
-  "window_start_kst": "2026-11-07T08:36:47.422326+09:00",
-  "content_sha256": "aef3be549064c23adde213fabfe4d73aec70ae77ee9f4deabffd93c775b3ca35"
+  "window_end_kst": "2026-11-09T11:35:23.879145+09:00",
+  "window_start_kst": "2026-11-08T11:35:23.879145+09:00",
+  "content_sha256": "ee30a798d1b089d81d02d1c0c08e530753198d148150c6f74aadbf41441086e2"
 }
