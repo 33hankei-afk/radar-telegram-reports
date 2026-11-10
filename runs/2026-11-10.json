@@ -3,17 +3,22 @@
   "status": "running",
   "stage": "collecting",
   "started_at_kst": "2026-11-10T21:22:20+09:00",
-  "updated_at_kst": "2026-11-10T21:23:53+09:00",
+  "updated_at_kst": "2026-11-10T21:24:43+09:00",
   "ended_at_kst": null,
   "attempt": 1,
   "request_id": "20261110T212248p0900-daily21",
   "source_workflow_run_id": 42815316365,
-  "verified_posts": 510,
-  "checked_channels": 14,
-  "verified_full_channels": 13,
-  "failed_channels": [],
+  "verified_posts": 1094,
+  "checked_channels": 59,
+  "verified_full_channels": 55,
+  "failed_channels": [
+    "aetherjapanresearch"
+  ],
   "published_paths": [],
   "errors": [
-    "bulls_pirates: #4963: view counter missing/invalid"
+    "bulls_pirates: #4963: view counter missing/invalid",
+    "aetherjapanresearch: public read failed: ValueError: not an approved public channel preview",
+    "cahier_de_market: #11351: view counter missing/invalid",
+    "eqmirae: #3302: view counter missing/invalid"
   ]
 }
