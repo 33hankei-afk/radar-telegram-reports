@@ -1,9 +1,9 @@
 {
   "date_kst": "2026-11-10",
   "status": "running",
-  "stage": "publishing",
+  "stage": "verifying",
   "started_at_kst": "2026-11-10T21:22:20+09:00",
-  "updated_at_kst": "2026-11-10T21:26:15+09:00",
+  "updated_at_kst": "2026-11-10T21:27:50+09:00",
   "ended_at_kst": null,
   "attempt": 1,
   "request_id": "20261110T212248p0900-daily21",
@@ -15,7 +15,18 @@
   "failed_channels": [
     "aetherjapanresearch"
   ],
-  "published_paths": [],
+  "published_paths": [
+    "reports/2026-11-10.json",
+    "reports/2026-11-10.md",
+    "latest.md",
+    "latest.json"
+  ],
+  "publication": {
+    "reports/2026-11-10.json": "success",
+    "reports/2026-11-10.md": "success",
+    "latest.md": "success",
+    "latest.json": "success"
+  },
   "errors": [
     "bulls_pirates: #4963: view counter missing/invalid",
     "aetherjapanresearch: public read failed: ValueError: not an approved public channel preview",
