@@ -1,10 +1,10 @@
 {
   "date_kst": "2026-11-10",
-  "status": "running",
-  "stage": "verifying",
+  "status": "partial",
+  "stage": "finished",
   "started_at_kst": "2026-11-10T21:22:20+09:00",
-  "updated_at_kst": "2026-11-10T21:27:50+09:00",
-  "ended_at_kst": null,
+  "updated_at_kst": "2026-11-10T21:28:16+09:00",
+  "ended_at_kst": "2026-11-10T21:28:16+09:00",
   "attempt": 1,
   "request_id": "20261110T212248p0900-daily21",
   "source_workflow_run_id": 42815316365,
@@ -12,6 +12,11 @@
   "verified_posts": 1094,
   "checked_channels": 59,
   "verified_full_channels": 55,
+  "partial_channels": [
+    "bulls_pirates",
+    "cahier_de_market",
+    "eqmirae"
+  ],
   "failed_channels": [
     "aetherjapanresearch"
   ],
@@ -36,5 +41,14 @@
   "report_entries": 403,
   "theme_posts": 388,
   "consensus_up": 16,
-  "consensus_down": 13
+  "consensus_down": 13,
+  "verification": {
+    "artifact_digest": "sha256:6efcd22e6e8a34560be270cbc6db238cfb970e58ae1e6f86b17aea7629e55dfc",
+    "body_hash_mismatches": 0,
+    "remote_files_exact_match": true,
+    "dated_latest_json_match": true,
+    "dated_latest_markdown_match": true,
+    "validation_workflow_run_id": 42815947103,
+    "validation_workflow_conclusion": "success"
+  }
 }
