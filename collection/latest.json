@@ -6,14 +6,16 @@
   "status": "running",
   "stage": "collecting",
   "started_at_kst": "2026-11-10T21:23:25.193456+09:00",
-  "updated_at_kst": "2026-11-10T21:23:33.266006+09:00",
+  "updated_at_kst": "2026-11-10T21:23:44.638984+09:00",
   "ended_at_kst": null,
-  "checked_channels": 4,
-  "verified_full_channels": 4,
-  "verified_posts": 273,
+  "checked_channels": 14,
+  "verified_full_channels": 13,
+  "verified_posts": 510,
   "searfin_status": "complete",
   "failed_channels": [],
-  "errors": [],
+  "errors": [
+    "bulls_pirates: #4963: view counter missing/invalid"
+  ],
   "evidence_path": "collection/snapshots/20261110T212248p0900-daily21.json",
   "report_published": false,
   "status_path": "collection/status/20261110T212248p0900-daily21.json"
