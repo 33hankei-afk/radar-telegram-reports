@@ -1,15 +1,19 @@
 {
   "date_kst": "2026-11-10",
   "status": "running",
-  "stage": "started",
+  "stage": "collecting",
   "started_at_kst": "2026-11-10T21:22:20+09:00",
-  "updated_at_kst": "2026-11-10T21:22:20+09:00",
+  "updated_at_kst": "2026-11-10T21:23:53+09:00",
   "ended_at_kst": null,
   "attempt": 1,
-  "verified_posts": 0,
-  "checked_channels": 0,
-  "verified_full_channels": 0,
+  "request_id": "20261110T212248p0900-daily21",
+  "source_workflow_run_id": 42815316365,
+  "verified_posts": 510,
+  "checked_channels": 14,
+  "verified_full_channels": 13,
   "failed_channels": [],
   "published_paths": [],
-  "errors": []
+  "errors": [
+    "bulls_pirates: #4963: view counter missing/invalid"
+  ]
 }
