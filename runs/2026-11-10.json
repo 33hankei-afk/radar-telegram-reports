@@ -1,13 +1,14 @@
 {
   "date_kst": "2026-11-10",
   "status": "running",
-  "stage": "collecting",
+  "stage": "publishing",
   "started_at_kst": "2026-11-10T21:22:20+09:00",
-  "updated_at_kst": "2026-11-10T21:24:43+09:00",
+  "updated_at_kst": "2026-11-10T21:26:15+09:00",
   "ended_at_kst": null,
   "attempt": 1,
   "request_id": "20261110T212248p0900-daily21",
   "source_workflow_run_id": 42815316365,
+  "source_artifact_id": 13763904341,
   "verified_posts": 1094,
   "checked_channels": 59,
   "verified_full_channels": 55,
@@ -20,5 +21,9 @@
     "aetherjapanresearch: public read failed: ValueError: not an approved public channel preview",
     "cahier_de_market: #11351: view counter missing/invalid",
     "eqmirae: #3302: view counter missing/invalid"
-  ]
+  ],
+  "report_entries": 403,
+  "theme_posts": 388,
+  "consensus_up": 16,
+  "consensus_down": 13
 }
