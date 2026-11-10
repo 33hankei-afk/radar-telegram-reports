@@ -1,29 +1,20 @@
 {
   "schema": "telegram_collection_status_v1",
-  "request_id": "20261106T214930p0900-daily21",
-  "date_kst": "2026-11-06",
-  "execution_date_kst": "2026-11-06",
-  "status": "partial",
-  "stage": "finished",
-  "started_at_kst": "2026-11-06T21:49:44.951083+09:00",
-  "updated_at_kst": "2026-11-06T21:50:58.026794+09:00",
-  "ended_at_kst": "2026-11-06T21:50:58.026827+09:00",
-  "checked_channels": 59,
-  "verified_full_channels": 54,
-  "verified_posts": 1155,
+  "request_id": "20261110T212248p0900-daily21",
+  "date_kst": "2026-11-10",
+  "execution_date_kst": "2026-11-10",
+  "status": "running",
+  "stage": "collecting",
+  "started_at_kst": "2026-11-10T21:23:25.193456+09:00",
+  "updated_at_kst": "2026-11-10T21:23:33.266006+09:00",
+  "ended_at_kst": null,
+  "checked_channels": 4,
+  "verified_full_channels": 4,
+  "verified_posts": 273,
   "searfin_status": "complete",
-  "failed_channels": [
-    "aetherjapanresearch",
-    "report_figure_by_offset"
-  ],
-  "errors": [
-    "hanachina: #71655: view counter missing/invalid",
-    "aetherjapanresearch: public read failed: ValueError: not an approved public channel preview",
-    "pharmbiohana: #11850: view counter missing/invalid",
-    "cahier_de_market: #11301: view counter missing/invalid",
-    "report_figure_by_offset: public read failed: ValueError: not an approved public channel preview"
-  ],
-  "evidence_path": "collection/snapshots/20261106T214930p0900-daily21.json",
+  "failed_channels": [],
+  "errors": [],
+  "evidence_path": "collection/snapshots/20261110T212248p0900-daily21.json",
   "report_published": false,
-  "status_path": "collection/status/20261106T214930p0900-daily21.json"
+  "status_path": "collection/status/20261110T212248p0900-daily21.json"
 }
