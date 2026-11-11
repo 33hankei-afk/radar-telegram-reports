@@ -1,0 +1,256 @@
+{
+  "assessments": {
+    "ai_positioning": {
+      "confidence": "낮음",
+      "counter_ids": [],
+      "evidence_ids": [],
+      "label": "판단 자료 부족",
+      "limitations": [
+        "전체 헤지펀드의 실제 포지션을 추정한 수치가 아닙니다."
+      ],
+      "summary": "원문 검증 자료를 기다립니다."
+    },
+    "korea_path": {
+      "confidence": "낮음",
+      "counter_ids": [],
+      "evidence_ids": [],
+      "label": "판단 자료 부족",
+      "limitations": [
+        "전체 헤지펀드의 실제 포지션을 추정한 수치가 아닙니다."
+      ],
+      "summary": "원문 검증 자료를 기다립니다."
+    },
+    "liquidity": {
+      "confidence": "낮음",
+      "counter_ids": [],
+      "evidence_ids": [],
+      "label": "판단 자료 부족",
+      "limitations": [
+        "전체 헤지펀드의 실제 포지션을 추정한 수치가 아닙니다."
+      ],
+      "summary": "원문 검증 자료를 기다립니다."
+    },
+    "pressure": {
+      "confidence": "낮음",
+      "counter_ids": [],
+      "evidence_ids": [],
+      "label": "판단 자료 부족",
+      "limitations": [
+        "전체 헤지펀드의 실제 포지션을 추정한 수치가 아닙니다."
+      ],
+      "summary": "원문 검증 자료를 기다립니다."
+    }
+  },
+  "complete": true,
+  "core_targets": [
+    {
+      "change": "미확인",
+      "evidence_ids": [],
+      "focus": "AI·M7 과밀 / 옵션 / 포지션 비대칭",
+      "id": "tuteja",
+      "institution": "Goldman Sachs",
+      "name": "Shawn Tuteja",
+      "role": "ETF·맞춤형 바스켓 변동성 트레이딩",
+      "summary_ko": "원문 검증 일보 대기"
+    },
+    {
+      "change": "미확인",
+      "evidence_ids": [],
+      "focus": "펀드 자금흐름 / 현금·과열 / 자산배분",
+      "id": "hartnett",
+      "institution": "BofA Global Research",
+      "name": "Michael Hartnett",
+      "role": "최고 투자전략가 · Flow Show",
+      "summary_ko": "원문 검증 일보 대기"
+    },
+    {
+      "change": "미확인",
+      "evidence_ids": [],
+      "focus": "금리·채권 / 조달·유동성 / 위험자산 배분",
+      "id": "pimco",
+      "institution": "PIMCO",
+      "name": "PIMCO",
+      "role": "기관 · Ivascyn / Balls / Wilding 등",
+      "summary_ko": "원문 검증 일보 대기"
+    }
+  ],
+  "coverage": [
+    {
+      "items": 0,
+      "name": "Shawn Tuteja",
+      "note": "RSS 후보만 확인 · 원문/GPT 분석과 구분",
+      "status": "checked",
+      "url": "https://news.google.com/rss/search?q=%22Shawn+Tuteja%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "items": 0,
+      "name": "Michael Hartnett",
+      "note": "RSS 후보만 확인 · 원문/GPT 분석과 구분",
+      "status": "checked",
+      "url": "https://news.google.com/rss/search?q=%22Michael+Hartnett%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "items": 1,
+      "name": "PIMCO",
+      "note": "RSS 후보만 확인 · 원문/GPT 분석과 구분",
+      "status": "checked",
+      "url": "https://news.google.com/rss/search?q=PIMCO+%28Ivascyn+OR+Balls+OR+Wilding+OR+outlook+OR+flows%29+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "items": 4,
+      "name": "글로벌 포지션·프라임브로커",
+      "note": "RSS 후보만 확인 · 원문/GPT 분석과 구분",
+      "status": "checked",
+      "url": "https://news.google.com/rss/search?q=%28%22hedge+fund%22+OR+%22prime+broker%22%29+%28positioning+OR+deleveraging+OR+%22net+exposure%22+OR+%22gross+exposure%22%29+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "items": 2,
+      "name": "CTA·옵션·자금흐름",
+      "note": "RSS 후보만 확인 · 원문/GPT 분석과 구분",
+      "status": "checked",
+      "url": "https://news.google.com/rss/search?q=%28CTA+OR+%22volatility+control%22+OR+%22dealer+gamma%22+OR+%22short+covering%22+OR+%22fund+flows%22%29+%28stocks+OR+equity+OR+equities%29+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "items": 0,
+      "name": "국채·조달·캐리",
+      "note": "RSS 후보만 확인 · 원문/GPT 분석과 구분",
+      "status": "checked",
+      "url": "https://news.google.com/rss/search?q=%28%22treasury+basis%22+OR+%22basis+trade%22+OR+repo+OR+%22margin+call%22+OR+%22yen+carry%22%29+%28%22hedge+fund%22+OR+leverage+OR+trade%29+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "items": 0,
+      "name": "Reddit r/stocks",
+      "note": "RSS 후보만 확인 · 원문/GPT 분석과 구분",
+      "status": "checked",
+      "url": "https://www.reddit.com/r/stocks/new/.rss"
+    },
+    {
+      "items": 0,
+      "name": "Reddit r/investing",
+      "note": "HTTPError",
+      "status": "failed",
+      "url": "https://www.reddit.com/r/investing/new/.rss"
+    },
+    {
+      "items": 0,
+      "name": "Reddit r/wallstreetbets",
+      "note": "HTTPError",
+      "status": "failed",
+      "url": "https://www.reddit.com/r/wallstreetbets/new/.rss"
+    }
+  ],
+  "coverage_note": "자동 공개 RSS 후보 수집입니다. 제목만으로 실제 헤지펀드 포지션이나 매수·매도 압력을 판단하지 않습니다.",
+  "date_kst": "2026-11-11",
+  "entries": [
+    {
+      "access": "headline_only",
+      "actors": [
+        "pimco"
+      ],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:515c3ad4dc776790f4a19067",
+      "id": "Ddf0ec7419f2e7def",
+      "mechanisms": [],
+      "published_at_kst": "2026-11-11T01:42:13+09:00",
+      "published_date": "2026-11-11",
+      "publisher": "The TRADE",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "PIMCO’s head of global equity trading departs - The TRADE",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5UYkE4ZEZFcjlOUHFRY19sSUhDNk1DQU9PdHI2OERNWHUwaXJPNVJZNEN1dm4xV1NHNHlLNllkaWRnMEVfMnNtVHpiOWtvSktWNlVaMXluVE1wdEwxX3RTUzVYQlJmU0JKVTZCT1Q0YUl2QXdJQXJLLVptQXFLams?oc=5"
+    },
+    {
+      "access": "headline_only",
+      "actors": [],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:a97fed0b467ae5d7bfb19c5e",
+      "id": "D9897f1cfad7e5803",
+      "mechanisms": [],
+      "published_at_kst": "2026-11-10T23:22:42+09:00",
+      "published_date": "2026-11-10",
+      "publisher": "Hedge Fund Alpha",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "October Hedge Fund Performance From PivotalPath - Equity Quant And Managed Futures Take Top Spots, Healthcare Has Worst Month Since January 2022 - Hedge Fund Alpha",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaG9QaGhyVEhTcUQwMWNxUUh3Tjk1VEd2cjJPNm1hZHprVXVaSlFwSzQ1RFhIX3QtMGhjelY1REVVenZXUUx2aUdlbnRzRi11aUJjUTR0Uk5KbHVpLUNLdnY1clhRd3VMWmdKNEhPeGhDb1BTYThBc094YVBGRXptcg?oc=5"
+    },
+    {
+      "access": "headline_only",
+      "actors": [],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:8aec47cad10b2eb7bd16c89e",
+      "id": "D4ca6fadaba907d5a",
+      "mechanisms": [],
+      "published_at_kst": "2026-11-10T18:12:23+09:00",
+      "published_date": "2026-11-10",
+      "publisher": "Hedgeweek",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "Columbia University endowment returns 18.3%, led by hedge fund gains - Hedgeweek",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVVRkU0hsZFNnUUZMV0tUWXBWamtER0xseUZzXzFVZEtyVllpSWlybV9fbnE0OGM3aGlocGdDNmg2VUdORHFtakJYQ2lJZGFuNmtRWTA3TUFibk05SXZDVTVyWVBacVJ1X29HM2ZBd0tPVXVyVG1BcDFOSUN6ek1KS0JObkk4elpEWWFFRVFoMTB1SThuSGV1Yg?oc=5"
+    },
+    {
+      "access": "headline_only",
+      "actors": [],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:b3fd900663cf1c0e836f534c",
+      "id": "D9ad500ddbcd46588",
+      "mechanisms": [],
+      "published_at_kst": "2026-11-10T22:41:19+09:00",
+      "published_date": "2026-11-10",
+      "publisher": "Investing.com",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "S&P 500 market positioning risks ahead of CPI and NVIDIA earnings - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQk5BZnVQaEMzMEhjVGtDY3RJclB6S0dnUV94SHVDaDBwcTc3ZjNPeHQta0EyTzlOdlkydTFFUUplMC1KREFRdGRwLS0zRjNMUGZZclpIeHh0YW5URkxPc1NtSFNORlNpZEZmOFI0S3BsNTM2OHhNcXdOdHdicFJYZ3MzdEN5ZlhlMVp2RHd0c29pN1h0Vk42dmloMm1NOGw0bllsaUV3T2lUSTJTalZSd1hLUmc5bjlkczNKV2Q0M2Zpc2lB?oc=5"
+    },
+    {
+      "access": "headline_only",
+      "actors": [],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:be94c04a9b064e84213bf12b",
+      "id": "D91d806fc35606dc2",
+      "mechanisms": [],
+      "published_at_kst": "2026-11-10T18:56:05+09:00",
+      "published_date": "2026-11-10",
+      "publisher": "FXEmpire",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "Natural Gas News: Record Hedge Fund Shorts Fuel Weather-Driven Rally - FXEmpire",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNb0NlX0dyXzVySUlZN1BmQ1hsN3B3WXpDbDlvSFFwSklNZll3WTd0emtmUHpNU3NCMFQ0NXdyQUVNdXZNdDhvZFpSR0NKNmtxMENRTHJhM1ZwWS1VUkFYek81OW1Sd3RhbUZOUzhXMWl4SUx4X1BHb001cFktdF9UM1dPUzBsUmRsaFNlRmxCY2d0S2JCZ2o0X1p6UGtpb1ZoS25kMG9VckZWZ01hYldOcTdUdENBYkx3bFE?oc=5"
+    },
+    {
+      "access": "headline_only",
+      "actors": [],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:9f049770af3ed5cfc4c14563",
+      "id": "D8840444846641093",
+      "mechanisms": [],
+      "published_at_kst": "2026-11-10T12:42:06+09:00",
+      "published_date": "2026-11-10",
+      "publisher": "Yahoo Finance Australia",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "CTA Jun 2027 21.000 put (CTA270617P00021000) Seasonal returns chart - Yahoo Finance Australia",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE84a2JOVjBoQkN1b3hpUnJEZjR3ZE5nQTdmLXI3OHVqbXZNMmxIbUsxcUdLSzdTX1BuN2ZnMUVSaG9YazBVVkx1cnNNRXEzR05HQjYwQ2piWmp6NDRmNE5LdGV3aExWbEZnbDdCZmRadU5aN2lK?oc=5"
+    }
+  ],
+  "generated_at_kst": "2026-11-11T11:43:38.912592+09:00",
+  "producer": "rss_discovery",
+  "schema": "global_position_v1",
+  "window_end_kst": "2026-11-11T11:43:38.912592+09:00",
+  "window_start_kst": "2026-11-10T11:43:38.912592+09:00",
+  "content_sha256": "d5a313cf559b800a3e7d531a763ace0fc777422b68a627f307619ce96f1e49e7"
+}
