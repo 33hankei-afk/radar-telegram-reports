@@ -1,9 +1,9 @@
 {
   "date_kst": "2026-11-11",
   "status": "running",
-  "stage": "publishing",
+  "stage": "verifying",
   "started_at_kst": "2026-11-11T21:20:43+09:00",
-  "updated_at_kst": "2026-11-11T21:25:04.673+09:00",
+  "updated_at_kst": "2026-11-11T21:26:30.044+09:00",
   "ended_at_kst": null,
   "attempt": 1,
   "request_id": "20261111T212114p0900-daily21",
@@ -14,12 +14,29 @@
   "failed_channels": [
     "aetherjapanresearch"
   ],
-  "published_paths": [],
+  "published_paths": [
+    "reports/2026-11-11.json",
+    "reports/2026-11-11.md",
+    "latest.md",
+    "latest.json"
+  ],
   "publishing_results": {
-    "reports/2026-11-11.json": "pending",
-    "reports/2026-11-11.md": "pending",
-    "latest.md": "pending",
-    "latest.json": "pending"
+    "reports/2026-11-11.json": {
+      "status": "success",
+      "commit_sha": "ac6d89089709b932c5929fe8f2902356e9b6c41e"
+    },
+    "reports/2026-11-11.md": {
+      "status": "success",
+      "commit_sha": "0c63ef34f9988ddfc10cc0322905b7c51752589e"
+    },
+    "latest.md": {
+      "status": "success",
+      "commit_sha": "da4f8228d18de087e085fdd91c0f190a99621822"
+    },
+    "latest.json": {
+      "status": "success",
+      "commit_sha": "081ab8af4252b12e4fa6891e2a544037e6b69b5c"
+    }
   },
   "artifact": {
     "id": 13854227609,
