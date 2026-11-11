@@ -1,9 +1,9 @@
 {
   "date_kst": "2026-11-11",
   "status": "running",
-  "stage": "collecting",
+  "stage": "publishing",
   "started_at_kst": "2026-11-11T21:20:43+09:00",
-  "updated_at_kst": "2026-11-11T21:22:58+09:00",
+  "updated_at_kst": "2026-11-11T21:25:04.673+09:00",
   "ended_at_kst": null,
   "attempt": 1,
   "request_id": "20261111T212114p0900-daily21",
@@ -15,6 +15,19 @@
     "aetherjapanresearch"
   ],
   "published_paths": [],
+  "publishing_results": {
+    "reports/2026-11-11.json": "pending",
+    "reports/2026-11-11.md": "pending",
+    "latest.md": "pending",
+    "latest.json": "pending"
+  },
+  "artifact": {
+    "id": 13854227609,
+    "name": "telegram-public-originals-43019639906",
+    "digest": "sha256:18d35b11a57149241d1b4bf6b339888e283b0b1171624c02024c15e0b73d5957",
+    "body_hashes_checked": 724,
+    "body_hash_mismatches": 0
+  },
   "errors": [
     "hanachina: #71937: view counter missing/invalid",
     "aetherjapanresearch: public read failed: ValueError: not an approved public channel preview",
