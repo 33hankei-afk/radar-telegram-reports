@@ -1,79 +1,79 @@
-# 글로벌 포지션 일보 · 2026-11-11
+# 글로벌 포지션 일보 · 2026-11-12
 
-취합 구간: 2026-11-10T09:01:46+09:00 ~ 2026-11-11T09:01:46+09:00
+취합 구간: 2026-11-11T08:54:12+09:00 ~ 2026-11-12T08:54:12+09:00
 
-발행: 2026-11-11T09:01:46+09:00 · gpt_verified
+발행: 2026-11-12T08:54:12+09:00 · gpt_verified
 
-2026-11-10T09:01:46+09:00~2026-11-11T09:01:46+09:00 KST. 신규 전문·부분본문 8건을 확인했습니다. 반도체·AI ETF 환매와 헤지펀드 gross 축소는 위험축소 지속을 가리키지만, 지수·ETF 쇼트커버와 SOX·나스닥100 반등, QQQ·XLK 유입이 함께 나타나 디그로스 이후 선별 재구축 국면으로 판단했습니다. Hartnett의 11월 5일 Flow Show가 11월 10일 공개 분석으로 신규 확인됐고 PIMCO Wilding의 11월 10일 발언도 확인했습니다. Tuteja는 실제 재검색 결과 새 독립 발언 0건입니다. 원 PB·BofA 보고서, 전체 CTA·vol-control 실거래, 실제 딜러 감마, repo·margin·엔 캐리 및 한국 직접 수급은 미확인입니다.
+2026-11-11T08:54:12+09:00~2026-11-12T08:54:12+09:00 KST. 신규 전문·부분본문 7건을 확인했습니다. Morgan Stanley PB 표본의 아시아 기술주 롱 축소·쇼트 확대와 다중전략 디그로스가 이어졌지만, 기술주 포지션이 장기 밴드 하단으로 내려온 뒤 반도체 ETF·현물 재유입과 미국·한국 반도체 반등이 나타났습니다. 따라서 전일의 '선별 재구축'에서 '과밀 해소 뒤 현물 재매수와 헤지 포지션이 충돌하는 양방향 국면'으로 구체화했습니다. 세 핵심 대상은 실제 재검색했으나 시간창 내 새 독립 발언 0건입니다. 원 PB·BofA 보고서, 전체 CTA·vol-control 실거래, 실제 딜러 감마, 신규 repo·basis·margin·엔 캐리 및 한국 파생 직접 자료는 미확인입니다.
 
 
 ## 글로벌 주식 매수·매도 압력
 
-반도체 ETF 환매·gross 축소 우세, 쇼트커버 반등 병존 / 신뢰도 높음
+롱 축소·신규 쇼트가 우세했으나 현물·ETF 반등 매수 병존 / 신뢰도 높음
 
-SOXX·SMH·AI ETF의 합산 대규모 환매와 Goldman PB 표본의 gross 8.7%p 축소는 위험축소가 이어졌음을 보여줍니다. 다만 PB 순매수 전환이 주로 지수·ETF 쇼트커버였고 SOX·나스닥100이 강하게 반등해, 신규 롱 확신보다 디그로스 이후 기계적 반등이 병존합니다.
+Morgan Stanley PB 표본은 아시아, 특히 한국·대만 기술주에서 롱 축소와 신규 약세 쇼트가 함께 나타났음을 보여줍니다. 다만 미국 기술주 포지션이 장기 밴드 하단으로 내려왔고 반도체 ETF 유입과 현물 반등이 강해, 위험축소가 지속되는 동시에 숏커버·재매수가 시작된 양방향 구도입니다.
 
-근거: E04, E05
+근거: E01, E02, E03
 
-반대 근거: E08
+반대 근거: E04, E06
 
-확인 한계: ETF 생성·환매는 투자자 유형을 식별하지 못합니다.
+확인 한계: PB 자료는 특정 고객 표본이고 원 보고서가 비공개입니다.
 
-확인 한계: Goldman PB는 고객 표본이며 원 보고서가 비공개라 롱·쇼트별 금액을 독립 검증하지 못했습니다.
+확인 한계: ETF 유입과 지수 상승은 신규 롱·쇼트커버·리밸런싱을 분해하지 못합니다.
 
 
 ## AI·반도체 포지션
 
-AI 구축·반도체 축소, 대형지수·우량 기술채권 선별화 / 신뢰도 높음
+AI 과밀 해소 뒤 반도체 재유입, 바닥 확정은 이른 단계 / 신뢰도 높음
 
-SOXX·SMH·ALAI에서는 자금이 빠졌지만 QQQ·XLK에는 유입됐고, Hartnett는 기술주보다 우량 기술채권을 선호하며 capex 둔화가 AI 지출기업과 구축기업을 다르게 만들 것으로 봤습니다. 데이터센터 저등급 신용스프레드 확대는 AI 전면 이탈보다 공급망·신용도별 재가격을 뒷받침합니다.
+기술주 포지션과 AI 콜 수요가 급격히 낮아져 단기 과밀은 완화됐습니다. 동시에 SOXX·SMH 유입, 반도체지수 5.6% 상승과 한국 반도체 외국인 매수가 확인됐습니다. 그러나 풋·콜 스큐가 극단적 과매도는 아니고 PB 표본의 한국·대만 쇼트 확대가 남아 있어 전면 신규 롱 전환으로 보지 않습니다.
 
-근거: E01, E03, E04
+근거: E01, E04, E07
 
-반대 근거: E08
+반대 근거: E02
 
-확인 한계: Hartnett 수치는 2차 공개 분석이며 BofA 원문은 비공개입니다.
+확인 한계: ETF Action과 ETF.com은 같은 11월 10일 흐름 방향·규모가 달라 제공자 범위 차이를 해소하지 못했습니다.
 
-확인 한계: 하루 ETF 흐름과 가격 반등만으로 장기 보유비중 변화를 확정할 수 없습니다.
+확인 한계: 하루 반등은 장기 AI 수요나 포지션 회복을 확정하지 않습니다.
 
 
 ## 금리·조달·유동성
 
-금리인상 경계·AI 신용스프레드 확대, basis 규모는 미확정 / 신뢰도 중간
+금리 재긴축 압력 상승, 신규 repo·basis 스트레스 증거 없음 / 신뢰도 중간
 
-Wilding은 물가 확산과 강한 수요 때문에 긴축적 금융여건이 필요하다고 봤고, AI 관련 하이일드·single-B 스프레드는 최근 고점으로 확대됐습니다. 국채선물 순쇼트 8,700억달러는 규모 경계 신호지만 현물·repo 다리와 마진 자료가 없어 basis 거래 또는 강제청산 규모로 해석하지 않았습니다.
+CPI와 연준 발언 뒤 미국 2년물 금리가 18bp 뛰고 12월 인상 기대가 강화됐지만 AI 현물 반등이 이를 압도했습니다. 미국 채권시장이 휴장해 당일 국채·repo 신호가 없었고, 신규 margin call·basis 청산·엔 캐리 실재 규모도 확인되지 않아 유동성 위기로 확대 해석하지 않았습니다.
 
-근거: E02, E03, E06
+근거: E06, C02
 
-반대 근거: C31, C50
+반대 근거: 미확인
 
-확인 한계: CFTC 관측일은 11월 3일이며 공시 지연이 있습니다.
+확인 한계: C02는 취합 구간 이전 PIMCO 의견이며 현재 펀드 포지션 관측이 아닙니다.
 
-확인 한계: 국채선물 쇼트는 방향성·헤지·상대가치 거래를 모두 포함하고 현물·repo·스왑을 보여주지 않습니다.
+확인 한계: 국채선물 쇼트만으로 cash-futures basis 또는 주식 매도를 추정할 수 없습니다.
 
 
 ## 한국장 전달 경로
 
-반도체 환매와 숏커버 반등이 충돌하는 조건부 고변동성 경로 / 신뢰도 낮음
+한국 반도체 현물 위험선호 전달 확인, 파생 확인은 미완료 / 신뢰도 중간
 
-SOXX·SMH 대규모 환매는 한국 반도체 고베타 수급에 하방 경로지만, SOX 6.9% 반등과 QQQ·XLK 유입은 낙폭회복 경로입니다. SPX 음의 감마 모델은 변동성 증폭 가능성을 시사할 뿐이며, 한국 외국인 현·선물 직접 자료가 없어 양방향 조건부 판단입니다.
+외국인이 코스피 현물 6,587억원을 순매수하고 삼성전자·SK하이닉스가 급등해 미국 AI 수요 회복 기대의 한국 전달은 확인됐습니다. 다만 Morgan Stanley PB 표본은 직전 주 한국 기술주 롱 축소·쇼트 확대를 가리키고, 외국인 선물·옵션 동시 자료는 같은 원문에서 확인하지 못해 지속성은 조건부입니다.
 
-근거: E04, E07
+근거: E07
 
-반대 근거: E08
+반대 근거: E02
 
-확인 한계: 미국 ETF와 옵션 모델은 한국 외국인·기관 수급이 아닙니다.
+확인 한계: 현물 하루 수급은 헤지펀드 전체 포지션이나 다음 날 방향을 보장하지 않습니다.
 
-확인 한계: SquawkFlow 감마는 딜러 보유방향을 가정한 모델이며 실제 장부가 아닙니다.
+확인 한계: 한국 파생·공매도·대차 직접 원자료를 이번 보고서 근거로 확보하지 못했습니다.
 
 
 ## 핵심 3대상
 
-- Shawn Tuteja / 11월 11일 실제 재검색: 최근 24시간 Shawn Tuteja 새 독립 발언 없음. Goldman의 다른 데스크·전략가 의견은 Tuteja 사건으로 세지 않았습니다. 마지막 확인 관점은 10월 8일 2차 보도의 AI·M7 과밀과 옵션 비대칭 경계이나 30일 문맥 한도를 넘어 원문 행에서는 제외했습니다. / 변화: 미확인 / 근거: 미확인
+- Shawn Tuteja / 11월 12일 실제 재검색: 최근 24시간 Shawn Tuteja 새 독립 발언 없음. Goldman 공식 자료와 공개 웹에서 확인된 최신 Tuteja 관점은 10월 8일 AI·M7 과밀과 옵션 비대칭 경계이며 30일 문맥 한도를 넘어 원문 행에서는 제외했습니다. / 변화: 미확인 / 근거: 미확인
 
-- Michael Hartnett / 11월 11일 신규 공개 확인: 11월 10일 공개 분석을 통해 11월 5일자 Flow Show 'DEM fatale'을 확인했습니다. AI 자본집약화·신용제약을 경계하면서 기술주보다 선별 기술채권을 선호하고, capex 둔화가 AI 지출기업과 구축기업을 차별화할 것으로 봤습니다. BofA 원문은 비공개입니다. / 변화: 신규 확인 / 근거: C11, E01
+- Michael Hartnett / 11월 12일 실제 재검색: 최근 24시간 Michael Hartnett/BofA Flow Show 새 독립 발언 없음. 마지막 확인은 11월 5일자 'DEM fatale'의 기술주보다 선별 기술채권 선호와 AI 조달·정치 제약 경계입니다. 11월 11일 검색 결과는 같은 사건 재전 또는 타 기관 포지션 자료였습니다. / 변화: 미확인 / 근거: C01
 
-- PIMCO / 11월 11일 신규 공개 확인: 11월 10일 Bloomberg Talks 인터뷰에서 Tiffany Wilding은 물가 확산과 긴축적 금융여건 유지 필요성을 강조하고 AI 투자 속도가 3분기 급증 수준에서 둔화될 것으로 예상했습니다. 공개 전사·요약은 부분 본문입니다. / 변화: 신규 확인 / 근거: C12, E02, C50
+- PIMCO / 11월 12일 실제 재검색: 최근 24시간 Ivascyn/Balls/Wilding 새 독립 발언 없음. 구간 시작 직전 공개된 Wilding 공식 글은 전일 인터뷰와 같은 CPI·연준 재조정 사건을 확장한 자료로, 12월·1월 25bp 인상을 기본경로로 제시했지만 새 사건으로 중복 집계하지 않았습니다. / 변화: 미확인 / 근거: C02
 
 
 ## 확인 원문
@@ -82,55 +82,53 @@ SOXX·SMH 대규모 환매는 한국 반도체 고베타 수급에 하방 경로
 
 |---|---|---|---|---|---|---|
 
-|E01|2026-11-10T18:50:29+09:00|2026-11-05|hartnett, Michael Hartnett, BofA Global Research, AI 하이퍼스케일러, 기술채권 투자자|news / full_text / opinion|Hartnett Flow Show: AI 자본집약화와 정치·신용 제약, 기술채권 선호 · 11월 10일 공개된 상세 분석은 BofA Michael Hartnett의 11월 5일자 Flow Show 'DEM fatale'을 인용했습니다. Hartnett는 2026년 글로벌 하이퍼스케일러 부채 발행을 약 2,970억달러, 미국 발행을 2,170억달러, 주식 발행을 약 1,000억달러로 제시하고 자사주 매입 연율이 2024년 1,000억달러에서 2026년 약 140억달러로 감소했다고 봤습니다. AI capex 둔화는 재무가 강한 AI 지출기업에는 현금흐름 개선 요인이지만 반도체·네오클라우드 등 구축기업에는 실적 위험이라며 기술주보다 선별 기술채권을 선호했습니다. BofA 원문은 비공개이고 공개 분석에는 작성자의 해석이 포함됩니다.|[https://www.investing.com/analysis/michael-hartnetts-dem-fatale-the-ai-boom-meets-its-political-reckoning-200691275](https://www.investing.com/analysis/michael-hartnetts-dem-fatale-the-ai-boom-meets-its-political-reckoning-200691275)|
+|E01|2026-11-11T20:04:32+09:00|2026-11-11|Deutsche Bank, Carrick Lane, 기술주 투자자, AI 옵션 투자자|news / full_text / observed_metric|기술주 포지션은 장기 밴드 하단, AI 콜 과열은 해소됐지만 바닥 확인은 이르다 · Reuters는 Deutsche Bank 자료에서 지난주 매도로 기술주 포지션이 2025년 4월 저점 아래이자 장기 밴드 하단 아래로 내려갔다고 보도했습니다. Carrick Lane은 AI 종목 리테일 콜 매수가 급감해 선거 주간 매도의 가장 큰 포지션 변화였다고 봤지만, 1개월 정규화 풋·콜 스큐는 13년 범위 중간 수준이라 매수 신호로 볼 만큼 과매도는 아니라고 했습니다. 대형주 실현상관의 제한적 상승은 전면 경기침체보다 섹터별 충격 해석을 뒷받침했고, 단기 기술 추세는 여전히 약세였습니다. 이는 여러 기관의 표본·모델과 관측자 의견이지 전체 펀드 장부가 아닙니다.|[https://www.investing.com/news/economy-news/after-us-market-shakeout-signs-suggest-too-soon-to-say-worst-is-over-5018331](https://www.investing.com/news/economy-news/after-us-market-shakeout-signs-suggest-too-soon-to-say-worst-is-over-5018331)|
 
-|E02|2026-11-11T01:37:50+09:00|2026-11-10|pimco, PIMCO, Tiffany Wilding, Federal Reserve, AI 데이터센터 투자자|news / partial_text / opinion|PIMCO Wilding: 물가 확산·긴축 유지, AI 투자 속도 둔화 예상 · Bloomberg Talks의 11월 10일 인터뷰를 정리한 공개 전사 자료에서 PIMCO Tiffany Wilding은 10월 CPI의 강세가 에너지 전가를 넘어 핵심재와 일부 서비스로 확산돼 연준에 불편한 신호라고 평가했습니다. 연준이 2022년처럼 크게 뒤처진 상태는 아니지만 Waller의 12월 50bp 인상 가능성 언급을 주시하며 금융여건을 긴축적으로 유지할 필요가 있다고 봤습니다. 미국 수요는 소비와 AI 데이터센터 투자에 힘입어 강하지만 AI 투자 속도는 3분기의 급격한 수준에서 4분기와 다음 1분기에 식을 것으로 예상했습니다. 원 Bloomberg 전체 전사가 아닌 공개 전사·요약 페이지이므로 부분 본문으로 표시합니다.|[https://chorusmcp.com/episodes/bloomberg-talks/2026-11-10-pimco-s-tiffany-wilding-talks-cpi-rate-hike-debate](https://chorusmcp.com/episodes/bloomberg-talks/2026-11-10-pimco-s-tiffany-wilding-talks-cpi-rate-hike-debate)|
+|E02|2026-11-11T18:42:00+09:00|2026-11-10|Morgan Stanley Prime Brokerage, 글로벌 주식 헤지펀드, 아시아 fundamental long/short 펀드, 한국 기술주 헤지펀드|news / full_text / reported_flow|Morgan Stanley PB: 아시아 기술주 롱 축소·쇼트 확대, 미국 net 5%p 하락 · Hedgeweek는 Morgan Stanley PB 자료를 인용해 11월 첫 주 글로벌 주식 헤지펀드의 위험축소 속도가 10여 년 만에 가장 빨랐고 long/short 주식 gross 시장가치가 6월 말 이후 10.7% 감소했다고 보도했습니다. 아시아 fundamental 펀드는 대만·한국 기술주 롱을 줄이고 약세 쇼트를 늘린 반면 멀티전략·매크로·퀀트는 쇼트를 줄였습니다. 아시아 long/short gross 레버리지는 3%p 낮아진 124%, 미국 long/short net 레버리지는 하루 5%p 하락한 42%였습니다. 중국·홍콩은 국가 지원 매수에 따른 소비재·반도체 쇼트커버로 유일하게 순매수였습니다. 원 PB 보고서는 비공개이고 특정 고객 표본입니다.|[https://hedgeweek.com/news/hedge-funds-cut-equity-risk-at-fastest-pace-in-a-decade-amid-ai-selloff](https://hedgeweek.com/news/hedge-funds-cut-equity-risk-at-fastest-pace-in-a-decade-amid-ai-selloff)|
 
-|E03|2026-11-10T20:04:30+09:00|2026-11-10|AI 신용 투자자, 데이터센터 개발사, Loomis Sayles, Capital Group, Thornburg Investment Management|news / full_text / observed_metric|AI 신용스프레드 확대와 데이터센터 채권 선별 심화 · Reuters 전문은 11월 5일 급락 때 미국 하이일드 스프레드가 348bp로 2025년 5월 이후 최고, 투자등급 스프레드는 전일 91bp에서 93bp로 확대됐다고 보도했습니다. 데이터센터 비중이 큰 single-B 스프레드는 35bp 넓어진 367bp였고 Galaxy Helios 채권은 11월 5일 89.25센트, 수익률 13%까지 밀렸습니다. 투자자들은 개발사·시공사·장비 공급망을 더 선별하고 있으나, 이미 착공·자금 약정된 2027년 사업은 즉시 축소될 가능성이 낮다는 반대 의견도 제시됐습니다.|[https://www.investing.com/news/stock-market-news/analysisai-debt-faces-pressure-as-democrats-prepare-to-take-over-congress-5014734](https://www.investing.com/news/stock-market-news/analysisai-debt-faces-pressure-as-democrats-prepare-to-take-over-congress-5014734)|
+|E03|2026-11-11T18:00:00+09:00|2026-11-10|Bloomberg Odd Lots, Nishant Kumar, Michael Ball, 다중전략 헤지펀드, CTA, 변동성 목표 자금|news / partial_text / opinion|Bloomberg Odd Lots: 다중전략 펀드 동시 손실과 옵션·CTA의 자기강화 매도 · 11월 10일 녹음된 Bloomberg Odd Lots에서 Nishant Kumar와 Michael Ball은 10월 다중전략·주식·매크로 전략 손실이 겹쳤고, 11월 5일에는 S&P 7,600 지지 이탈 뒤 딜러의 풋 델타헤지 매도, 변동성 목표 자금의 gross 축소, 레버리지 ETF 리밸런싱과 CTA 선물 매도가 하락을 자기강화했다고 설명했습니다. Michael Ball은 최근 반등도 쇼트커버와 풋 변화 같은 기계적 요인이 컸고 투자자 AI 포지션이 거의 중립 또는 쇼트에 가까워 재매수 여지는 있다고 봤습니다. 공개 페이지는 오디오와 설명 중심이며 전체 공식 전사는 없어 부분 본문·관측자 의견으로 표시합니다.|[https://www.bloomberg.com/news/audio/2026-11-11/odd-lots-the-perfect-storm-that-clobbered-hedge-funds-podcast](https://www.bloomberg.com/news/audio/2026-11-11/odd-lots-the-perfect-storm-that-clobbered-hedge-funds-podcast)|
 
-|E04|2026-11-11T03:54:32+09:00|2026-11-10|ETF 투자자, SPY, SOXX, SMH, ALAI, QQQ, IVV, XLK|primary / full_text / observed_metric|SOXX·SMH·AI ETF 대규모 환매, QQQ·IVV·XLK에는 유입 · ETF.com의 11월 10일 생성·환매 집계에서 전체 ETF는 21.5억달러, 미국 주식 ETF는 19.3억달러 순유출됐습니다. SPY 41.9억달러, SOXX 41.3억달러, SMH 10.4억달러, ALAI 5.87억달러가 유출된 반면 QQQ 23.6억달러, IVV 22.2억달러, XLK 6.26억달러가 유입됐고 채권 ETF에는 합계 약 18.3억달러가 들어왔습니다. 반도체·AI 구축 노출 축소와 대형지수·광범위 기술주 재배치가 병존했으며, ETF 흐름은 헤지펀드 순포지션이 아닙니다.|[https://www.etf.com/sections/daily-etf-flows/etf-fund-flows-nov-10-2026-spy-soxx-shed-83b-qqq-adds-24b](https://www.etf.com/sections/daily-etf-flows/etf-fund-flows-nov-10-2026-spy-soxx-shed-83b-qqq-adds-24b)|
+|E04|2026-11-11T23:31:58+09:00|2026-11-10|ETF 투자자, SOXX, SMH, SPY, QQQ, 레버리지 ETF 투자자|primary / full_text / observed_metric|ETF Action: 주식 ETF 266억달러 유입·SOXX 40억달러 유입 · ETF Action의 11월 10일 T+1 생성·환매 집계는 전체 ETF 265.2억달러, 주식 ETF 266.1억달러, 채권 ETF 20.4억달러 순유입을 제시했습니다. SPY 43.3억달러, QQQ 30.5억달러, SOXX 39.8억달러, SMH 12.9억달러가 유입됐고 레버리지·인버스 주식 상품은 23.4억달러 유출됐습니다. SOXS 16.8억달러와 SOXL 8.94억달러 유출은 맞은편 레버리지 포지션 동시 축소를 시사합니다. 같은 관측일 ETF.com 집계와 방향·규모가 크게 달라 제공자 범위와 방법론 차이를 해소하지 못했으며, ETF 흐름은 헤지펀드 장부가 아닙니다.|[https://www.etfaction.com/semiconductors-lead-as-equity-flows-surge-past-26b/](https://www.etfaction.com/semiconductors-lead-as-equity-flows-surge-past-26b/)|
 
-|E05|2026-11-10T23:54:44+09:00|2026-11-06|Goldman Sachs Prime Brokerage, 미국 fundamental long/short 헤지펀드, 기술주 헤지펀드|news / full_text / reported_flow|Goldman PB 재전: gross 8.7%p·net 3.7%p 축소 뒤 지수·ETF 쇼트커버 · 11월 10일 공개된 2차 보도는 Goldman Sachs PB의 11월 6일까지 자료를 인용해 글로벌·미국 기술주 순매도가 2016년 이후 기록에 근접했고 미국 fundamental long/short gross 레버리지가 8.7%p 하락한 207.5%로 2020년 3월 이후 최대 주간 감소였다고 전했습니다. net 레버리지는 3.7%p 낮아진 43.3%였고 11월 6일 순매수 전환은 주로 지수·ETF 쇼트커버였습니다. 원 PB 보고서는 비공개이며, gross 축소가 롱·쇼트 양측 위험축소라는 해석은 전체 펀드 장부에 일반화할 수 없습니다.|[https://247wallst.com/investing/2026/11/10/hedge-funds-dumped-tech-at-a-near-record-pace-right-before-chip-stocks-jumped-7/](https://247wallst.com/investing/2026/11/10/hedge-funds-dumped-tech-at-a-near-record-pace-right-before-chip-stocks-jumped-7/)|
+|E05|2026-11-11T22:15:00+09:00|2026-11-11|SquawkFlow, SPX 옵션 투자자, 딜러 감마 모델|primary / full_text / observed_metric|SPX 감마 모델: 개장 전 -676.7억달러, 종가는 감마 전환선 위 · SquawkFlow는 11월 10일 결제 미결제약정 21,573계약과 가정된 딜러 방향을 이용해 11월 11일 08:15 ET SPX 순감마를 지수 1% 움직임당 -676.7억달러, 감마 전환선을 7,579, 풋월을 7,500으로 계산했습니다. 장중 지수는 전환선을 두 차례 넘었고 16:04 ET 7,619.38로 전환선 위에서 마쳐 모델상 양의 감마 구간이 됐습니다. 이는 실제 딜러 장부나 주문흐름이 아니며 30분 표본 14개 중 1개가 누락됐습니다.|[https://squawkflow.com/gex](https://squawkflow.com/gex)|
 
-|E06|2026-11-10T14:53:00+09:00|2026-11-03|CFTC leveraged funds, 국채선물 투자자, 헤지펀드, CTA|news / full_text / observed_metric|CFTC 재구성: 레버리지펀드 국채선물 순쇼트 8,700억달러, basis 규모와는 다름 · FXNews.ai는 11월 3일 관측 CFTC futures-only 자료의 6개 국채선물 롱·쇼트를 계약 액면으로 환산해 레버리지펀드 순쇼트를 약 8,700억달러로 계산했습니다. 이 중 2·5·10년물이 85.97%였습니다. 그러나 현물 국채, repo 조달, 헤어컷, DV01, 스프레딩 포지션과 거래 목적이 없어 전액을 cash-futures basis 거래로 부를 수 없다고 명시했습니다. CFTC의 leveraged funds에는 헤지펀드 외 CTA·상품풀 등이 포함되고 실제 관측일은 11월 3일입니다.|[https://fxnews.ai/news/leveraged-funds-870-billion-treasury-futures-short/](https://fxnews.ai/news/leveraged-funds-870-billion-treasury-futures-short/)|
+|E06|2026-11-12T07:04:31+09:00|2026-11-11|글로벌 주식 투자자, AI 주식 투자자, Federal Reserve, 채권 투자자|news / full_text / observed_metric|AI 반등이 금리인상 우려를 압도했지만 달러·단기금리는 긴축 재가격 · Reuters는 11월 11일 CoreWeave 급등과 Nvidia 반등으로 나스닥이 1.6%, S&P 500이 1.3%, 반도체가 5.6% 상승했다고 보도했습니다. 반면 전일 CPI와 연준 발언 뒤 2년물 금리는 18bp 뛰었고, 12월 25bp 인상은 사실상 전부 반영되며 50bp 가능성도 약 10% 가격에 포함됐습니다. 미국 채권시장은 재향군인의 날로 휴장이어서 당일 국채 현물·repo 신호는 없었습니다. AI 현물 매수 회복과 금융여건 긴축이 충돌하는 흐름이며, 상승분을 신규 롱과 쇼트커버로 분해할 수는 없습니다.|[https://www.investing.com/news/economy-news/ai-cheer-banishes-rate-hike-fear-5019950](https://www.investing.com/news/economy-news/ai-cheer-banishes-rate-hike-fear-5019950)|
 
-|E07|2026-11-10T22:15:00+09:00|2026-11-10|SquawkFlow, SPX 옵션 투자자, 딜러 감마 모델|primary / full_text / observed_metric|모델상 SPX 순감마 -471.5억달러·감마 전환선 7,588 · SquawkFlow는 11월 9일 결제 미결제약정과 계약별 그릭을 이용한 11월 10일 08:15 ET 모델에서 SPX 순딜러 감마를 지수 1% 움직임당 -471.5억달러, 감마 전환선을 7,588, 풋월을 7,500으로 계산했습니다. 장 마감 캡처 지수는 7,520.93으로 전환선 아래였습니다. 이는 딜러가 모든 계약의 어느 쪽을 보유하는지 알 수 없는 가정 모델이며 실제 딜러 장부·당일 주문흐름이 아닙니다.|[https://squawkflow.com/gex](https://squawkflow.com/gex)|
+|E07|2026-11-11T16:29:10+09:00|2026-11-11|한국 외국인 투자자, Samsung Electronics, SK hynix, 기관 투자자, KRX|news / full_text / observed_metric|외국인 코스피 6,587억원 순매수·삼성전자와 SK하이닉스 주도 반등 · 한국거래소 수치를 인용한 Herald Business는 11월 11일 코스피가 2.60%, 코스닥이 5.62% 상승했고 외국인이 코스피 현물 6,587억원을 순매수했다고 보도했습니다. 삼성전자는 3.57%, SK하이닉스는 5.36% 올랐고 개인과 기관은 각각 7,156억원과 4,816억원 순매도했습니다. 코스피200 변동성지수는 9.33% 하락했습니다. 한국 반도체로의 현물 위험선호 전달은 확인됐지만 외국인 선물·옵션 포지션을 같은 원문에서 확보하지 못해 전체 방향성으로 일반화하지 않습니다.|[https://biz.heraldcorp.com/article/10934064](https://biz.heraldcorp.com/article/10934064)|
 
-|E08|2026-11-10T19:10:08+09:00|2026-11-09|AI 주식 투자자, 반도체 투자자, 하이퍼스케일러 투자자|news / full_text / observed_metric|SOX 6.9%·나스닥100 3.4% 반등, AI 생태계 광범위 회복 · Axios는 11월 9일 나스닥100이 3.4%, 필라델피아 반도체지수가 6.9% 상승했다고 보도했습니다. 반도체·네오클라우드·데이터센터 장비와 하이퍼스케일러가 광범위하게 반등했지만 Nvidia는 개별 이슈로 하락했습니다. 이는 직전 디그로스 뒤 가격 반등의 반대 근거이나, 신규 롱 구축과 쇼트커버를 구분하는 포지션 자료는 아닙니다.|[https://www.axios.com/2026/11/10/ai-stocks-nvidia-broadcom](https://www.axios.com/2026/11/10/ai-stocks-nvidia-broadcom)|
+|C01|2026-11-10T18:50:29+09:00|2026-11-05|hartnett, Michael Hartnett, BofA Global Research, AI 하이퍼스케일러, 기술채권 투자자|이전 자료 / news / full_text / opinion|Hartnett Flow Show: AI 자본집약화와 정치·신용 제약, 기술채권 선호 · 이번 취합 구간 이전 자료입니다. 11월 10일 공개된 상세 분석은 BofA Michael Hartnett의 11월 5일자 Flow Show 'DEM fatale'을 인용했습니다. Hartnett는 2026년 글로벌 하이퍼스케일러 부채 발행을 약 2,970억달러, 미국 발행을 2,170억달러, 주식 발행을 약 1,000억달러로 제시하고 자사주 매입 연율이 2024년 1,000억달러에서 2026년 약 140억달러로 감소했다고 봤습니다. AI capex 둔화는 재무가 강한 AI 지출기업에는 현금흐름 개선 요인이지만 반도체·네오클라우드 등 구축기업에는 실적 위험이라며 기술주보다 선별 기술채권을 선호했습니다. BofA 원문은 비공개이고 공개 분석에는 작성자의 해석이 포함됩니다.|[https://www.investing.com/analysis/michael-hartnetts-dem-fatale-the-ai-boom-meets-its-political-reckoning-200691275](https://www.investing.com/analysis/michael-hartnetts-dem-fatale-the-ai-boom-meets-its-political-reckoning-200691275)|
 
-|C11|2026-10-30T22:59:00+09:00|2026-10-30|hartnett, Michael Hartnett, BofA Global Research, AI 하이퍼스케일러, 기술채권 투자자|이전 자료 / news / full_text / opinion|Hartnett: AI 하이퍼스케일러 기술채권은 '거친 원석' · 이번 구간 시작 전인 10월 30일 자료입니다. Hartnett는 AI 하이퍼스케일러의 주식 발행 확대와 자사주 매입 축소가 채권자에게 유리하다며 기술채권의 선별 매수를 제시했습니다. 보도에 따르면 2026년 기술채권은 약 9% 손실, 하이퍼스케일러 채권 발행은 1,820억달러, 주식 발행은 890억달러였고 자사주 매입 연율은 2024년 1,050억달러에서 140억달러로 줄었습니다. 그는 위험회피가 글로벌 금리인상 순환 종료 전까지 이어질 수 있다고 봤습니다. BofA 원문은 비공개이며 후속 재전은 같은 사건으로 묶었습니다.|[https://www.benzinga.com/markets/bonds/26/10/62740408/tech-bonds-diamonds-in-the-rough-hartnett-bank-of-america](https://www.benzinga.com/markets/bonds/26/10/62740408/tech-bonds-diamonds-in-the-rough-hartnett-bank-of-america)|
+|C03|2026-11-11T03:54:32+09:00|2026-11-10|ETF 투자자, SPY, SOXX, SMH, ALAI, QQQ, IVV, XLK|이전 자료 / primary / full_text / observed_metric|SOXX·SMH·AI ETF 대규모 환매, QQQ·IVV·XLK에는 유입 · 이번 취합 구간 이전 자료입니다. ETF.com의 11월 10일 생성·환매 집계에서 전체 ETF는 21.5억달러, 미국 주식 ETF는 19.3억달러 순유출됐습니다. SPY 41.9억달러, SOXX 41.3억달러, SMH 10.4억달러, ALAI 5.87억달러가 유출된 반면 QQQ 23.6억달러, IVV 22.2억달러, XLK 6.26억달러가 유입됐고 채권 ETF에는 합계 약 18.3억달러가 들어왔습니다. 반도체·AI 구축 노출 축소와 대형지수·광범위 기술주 재배치가 병존했으며, ETF 흐름은 헤지펀드 순포지션이 아닙니다.|[https://www.etf.com/sections/daily-etf-flows/etf-fund-flows-nov-10-2026-spy-soxx-shed-83b-qqq-adds-24b](https://www.etf.com/sections/daily-etf-flows/etf-fund-flows-nov-10-2026-spy-soxx-shed-83b-qqq-adds-24b)|
 
-|C12|2026-10-28 (시각 미확인)|2026-10-28|pimco, PIMCO, Tiffany Wilding, AI 하이퍼스케일러|이전 자료 / primary / full_text / opinion|PIMCO Wilding: AI 투자가 경제를 확대하기보다 재배분할 가능성 · 이번 구간 시작 전인 10월 28일 PIMCO 공식 자료입니다. Tiffany Wilding은 AI 투자 급증에도 미국 성장률이 2~2.5%에 머문 점을 들어, AI가 총수요를 더하기보다 경제의 자원을 재배분하고 있을 수 있다고 설명했습니다. 높은 금리와 신용 스프레드의 부담은 강한 현금흐름을 가진 하이퍼스케일러보다 주택·중소기업·고부채 기업에 더 크게 전가될 수 있으며, 수입 장비·인프라 병목·신용여건이 조정 속도를 좌우한다고 봤습니다.|[https://www.pimco.com/nl/en/insights/is-ai-crowding-out-the-rest-of-the-economy](https://www.pimco.com/nl/en/insights/is-ai-crowding-out-the-rest-of-the-economy)|
+|C04|2026-11-10T23:54:44+09:00|2026-11-06|Goldman Sachs Prime Brokerage, 미국 fundamental long/short 헤지펀드, 기술주 헤지펀드|이전 자료 / news / full_text / reported_flow|Goldman PB 재전: gross 8.7%p·net 3.7%p 축소 뒤 지수·ETF 쇼트커버 · 이번 취합 구간 이전 자료입니다. 11월 10일 공개된 2차 보도는 Goldman Sachs PB의 11월 6일까지 자료를 인용해 글로벌·미국 기술주 순매도가 2016년 이후 기록에 근접했고 미국 fundamental long/short gross 레버리지가 8.7%p 하락한 207.5%로 2020년 3월 이후 최대 주간 감소였다고 전했습니다. net 레버리지는 3.7%p 낮아진 43.3%였고 11월 6일 순매수 전환은 주로 지수·ETF 쇼트커버였습니다. 원 PB 보고서는 비공개이며, gross 축소가 롱·쇼트 양측 위험축소라는 해석은 전체 펀드 장부에 일반화할 수 없습니다.|[https://247wallst.com/investing/2026/11/10/hedge-funds-dumped-tech-at-a-near-record-pace-right-before-chip-stocks-jumped-7/](https://247wallst.com/investing/2026/11/10/hedge-funds-dumped-tech-at-a-near-record-pace-right-before-chip-stocks-jumped-7/)|
 
-|C31|2026-11-04T22:30:00+09:00|2026-11-03|U.S. Department of the Treasury, Treasury Borrowing Advisory Committee, Primary Dealers, 국채 파생상품 투자자|이전 자료 / primary / full_text / opinion|미 재무부 TBAC: AI 채권이 국채를 구축했다는 명확한 증거 없음·파생 듀레이션 선호 확대 · 이번 구간 시작 전 공개된 이전 자료입니다. 11월 3일 회의의 미 재무부 TBAC 공식 회의록은 AI·초지능 관련 차입이 2027년 확대될 전망이지만 현재 자본경쟁은 기술 신용 생태계 안에 머물고 국채나 비기술 신용을 구축한다는 명확한 증거는 없다고 밝혔습니다. 일부 투자자는 현물 국채를 repo로 레버리지하는 방식보다 회계·세금·롤오버 측면이 유리한 선물·스왑으로 듀레이션을 얻고 있습니다. 장기 국채 수요는 엇갈렸고, 현 쿠폰 발행 규모 기준 FY2028~29 민간보유 시장성 차입의 2.14조달러 자금부족 가능성도 제시됐습니다. 이는 정책·딜러 의견이며 현재 basis trade 청산액이나 헤지펀드 repo 장부가 아닙니다.|[https://home.treasury.gov/news/press-releases/sb0680/](https://home.treasury.gov/news/press-releases/sb0680/)|
+|C06|2026-11-10T14:53:00+09:00|2026-11-03|CFTC leveraged funds, 국채선물 투자자, 헤지펀드, CTA|이전 자료 / news / full_text / observed_metric|CFTC 재구성: 레버리지펀드 국채선물 순쇼트 8,700억달러, basis 규모와는 다름 · 이번 취합 구간 이전 자료입니다. FXNews.ai는 11월 3일 관측 CFTC futures-only 자료의 6개 국채선물 롱·쇼트를 계약 액면으로 환산해 레버리지펀드 순쇼트를 약 8,700억달러로 계산했습니다. 이 중 2·5·10년물이 85.97%였습니다. 그러나 현물 국채, repo 조달, 헤어컷, DV01, 스프레딩 포지션과 거래 목적이 없어 전액을 cash-futures basis 거래로 부를 수 없다고 명시했습니다. CFTC의 leveraged funds에는 헤지펀드 외 CTA·상품풀 등이 포함되고 실제 관측일은 11월 3일입니다.|[https://fxnews.ai/news/leveraged-funds-870-billion-treasury-futures-short/](https://fxnews.ai/news/leveraged-funds-870-billion-treasury-futures-short/)|
 
-|C32|2026-11-05T05:50:04+09:00|2026-11-03|Citadel Securities, CTA, 미국 리테일 투자자, 자사주 매입 기업, 변동성 목표 자금|이전 자료 / primary / full_text / observed_metric|Citadel Securities: CTA 미국주식 포지션 -3.3σ·리테일 22일 연속 330억달러 매수 · 이번 구간 시작 전 공개된 이전 자료입니다. Citadel Securities 공식 분석은 11월 3일 기준 CTA 모델의 미국주식 포지션이 -3.3표준편차로 1년 범위 하위 2% 미만이며 26거래일 연속 쇼트라고 추정했습니다. 반등이 기술적 기준을 회복하면 CTA 재매수가 가능하다고 봤습니다. 자사 플랫폼의 리테일은 10월 5일부터 22거래일 연속 미국 현물주식을 약 330억달러 순매수했고, 11월 9일까지 S&P 500 시총의 85%가 자사주 매입 가능 구간에 들어올 것으로 추정했습니다. VIX 21 이상과 1개월 실현변동성 11 미만의 괴리가 줄면 변동성 목표 자금도 재진입할 수 있다는 관점입니다. CTA·vol-control은 모델 추정이고 실제 전체 장부가 아닙니다.|[https://www.citadelsecurities.com/news-and-insights/global-market-intelligence/november-the-setup-improves/](https://www.citadelsecurities.com/news-and-insights/global-market-intelligence/november-the-setup-improves/)|
-
-|C41|2026-11-06T03:32:00+09:00|2026-11-05|Goldman Sachs Prime Brokerage, 대형 멀티전략 헤지펀드, TMT 헤지펀드, Nomura, Vanda Research, 옵션 투자자|이전 자료 / news / full_text / reported_flow|AI 급락에 헤지펀드·리테일 매도와 옵션 헤지 급증 · 이번 구간 이전인 11월 5일 시장 충격 자료입니다. Reuters 전문은 11월 5일 AI 거래의 급격한 되감기 과정에서 헤지펀드가 전날 매수한 하이퍼스케일러 일부를 다시 팔았다고 보도했습니다. Goldman Sachs PB는 대형 AI주 과다 노출로 대형 멀티전략 펀드가 크게 하락했다고 전했고, TMT 펀드는 전년 대비 2.6% 하락했습니다. Nomura는 레버리지·인버스 ETF의 종가 리밸런싱 매도가 약 470억달러로 2006년 이후 두 번째 규모가 될 것으로 추정했습니다. Vanda는 장 마감 약 1시간 전 단일주식 리테일 순매도가 코로나 급락 이후 최대가 될 경로라고 봤고, 지수 풋 프리미엄은 평소의 약 2배였습니다. 이는 보도된 표본·장중 추정이며 전체 헤지펀드 장부나 신규 쇼트 규모가 아닙니다.|[https://www.streetinsider.com/Reuters/Wall+Street+fear+gauge+jumps+most+since+%27Liberation+Day%27+as+AI+trade+stumbles/27298625.html](https://www.streetinsider.com/Reuters/Wall+Street+fear+gauge+jumps+most+since+%27Liberation+Day%27+as+AI+trade+stumbles/27298625.html)|
-
-|C50|2026-11-10T08:27:47+09:00|2026-11-09|pimco, PIMCO, Lotfi Karoui, AI 신용 투자자|이전 자료 / primary / full_text / opinion|PIMCO: AI 장기 신용공급 집중 속 MBS·EM 분산 제안 · 이번 구간 시작 약 28분 전에 공개된 11월 9일 PIMCO 공식 자료입니다. AI 관련 차입자는 2026년 미국 비금융 IG 15년 초과 만기 발행의 거의 절반을 차지했습니다. 중간선거 규제가 근기 발행 속도를 늦춰도 최종 자금수요와 집중위험은 크게 줄지 않을 것으로 보고, agency·non-agency MBS와 EM 채권을 분산 대안으로 제시했습니다. 이전 자료이므로 이번 구간의 신규 근거로 표시하지 않습니다.|[https://www.pimco.com/us/en/insights/the-credit-market-lens-where-to-seek-diversification-from-the-ai-investment-theme](https://www.pimco.com/us/en/insights/the-credit-market-lens-where-to-seek-diversification-from-the-ai-investment-theme)|
+|C02|2026-11-11T07:14:39+09:00|2026-11-10|pimco, PIMCO, Tiffany Wilding, Federal Reserve|이전 자료 / primary / full_text / opinion|PIMCO Wilding: 12월·1월 25bp 인상 기본경로, 장기 인상순환보다 정책 재조정 · 이번 구간 시작 약 1시간 47분 전 공개된 PIMCO 공식 자료입니다. Tiffany Wilding은 10월 CPI의 광범위한 강세를 반영해 12월과 1월 각각 25bp 인상을 기본경로로 바꾸고 3월 추가 인상 위험을 언급했습니다. 다만 2022년과 달리 임금·기대인플레이션의 재가속 증거가 부족하며, 장기 인상순환보다 금융여건이 지나치게 완화되는 것을 막는 정책 재조정으로 봤습니다. 시간창 밖이므로 신규 근거가 아닌 이전 문맥입니다.|[https://www.pimco.com/au/en/insights/inflation-is-sticky-but-this-isnt-2022-all-over-again](https://www.pimco.com/au/en/insights/inflation-is-sticky-but-this-isnt-2022-all-over-again)|
 
 
 ## 수집 범위
 
-- Shawn Tuteja / checked / Goldman 공식 Insights·Exa·공개 웹을 재검색. 최근 24시간 새 Tuteja 독립 발언 0건.
+- Shawn Tuteja / checked / Goldman 공식 Insights, Exa, 공개 웹을 재검색. 최근 24시간 새 독립 발언 0건.
 
-- Michael Hartnett · BofA Flow Show / partial / 11월 10일 공개된 상세 2차 분석으로 11월 5일자 Flow Show 사건을 신규 확인. BofA 원 메모는 비공개라 수치·도표를 직접 대조하지 못함.
+- Michael Hartnett · BofA Flow Show / partial / BofA·Flow Show·Hartnett를 재검색. 새 독립 발언 0건이며 11월 5일 사건 재전만 확인; BofA 원 메모는 비공개.
 
-- PIMCO · Ivascyn/Balls/Wilding / partial / Wilding의 11월 10일 Bloomberg Talks 발언을 공개 전사·요약에서 확인. 원 Bloomberg 전체 전사는 미확보; Ivascyn/Balls 새 발언은 0건.
+- PIMCO · Ivascyn/Balls/Wilding / checked / PIMCO 공식·인터뷰 검색. 시간창 내 새 발언 0건. 시작 직전 Wilding 공식 글은 전일 인터뷰와 동일 사건의 확장판으로 context 처리.
 
-- 글로벌 헤지펀드·프라임브로커 gross/net·롱/숏 / partial / Goldman PB 2차 보도에서 gross/net 변화와 지수·ETF 쇼트커버 확인. 원 PB 보고서와 롱·쇼트 금액 분해는 비공개.
+- 글로벌 헤지펀드·프라임브로커 gross/net·롱/숏 / partial / Morgan Stanley PB 재전과 Bloomberg 공개 오디오·설명을 확인. 원 PB 보고서와 전체 고객 장부는 비공개.
 
-- CTA·변동성 목표·딜러 감마 / partial / CFTC leveraged funds와 SquawkFlow 감마 모델 확인. 전체 CTA 실거래·vol-control AUM 및 실제 딜러 장부는 미확인.
+- CTA·변동성 목표·딜러 감마 / partial / Bloomberg Odd Lots의 관측자 설명과 SquawkFlow 모델 확인. CTA·vol-control 실제 전체 거래액과 딜러 실제 장부는 미확인.
 
-- 펀드·ETF·옵션 흐름 / checked / ETF.com 11월 10일 생성·환매 전문과 Goldman PB 쇼트커버 2차 보도를 확인하고 모집단을 분리.
+- 펀드·ETF·옵션 흐름 / partial / ETF Action T+1 흐름과 Reuters 옵션 자료 확인. 같은 관측일 ETF.com 수치와 불일치해 방법론 차이를 명시.
 
-- 국채 베이시스·레포·마진·엔 캐리 / partial / 11월 3일 CFTC 국채선물 포지션 재구성 확인. 현물 국채·repo·haircut·margin 및 신규 엔 캐리 청산 규모는 0건.
+- 국채 베이시스·레포·마진·엔 캐리 / checked / CFTC·Fed·OFR·Reuters·공개 웹을 검색했으나 신규 실재 포지션·repo·margin·엔 캐리 청산 자료 0건. 미국 채권시장은 11월 11일 휴장.
 
-- 언론·공식 원문 / checked / Reuters 전재 전문, ETF.com·PIMCO 공식 원문과 공개 전사, Investing.com·Axios·24/7 전문을 직접 확인.
+- 한국 직접 전달 경로 / partial / KRX 수치를 인용한 현물 수급·지수·반도체 가격 확인. 같은 원문에서 외국인 선물·옵션 포지션은 미확보.
 
-- 공개 커뮤니티 / checked / Reddit r/stocks·r/investing·r/wallstreetbets와 공개 투자 커뮤니티를 검색했으나 시간창 내 직접 URL·게시시각이 확인되는 독립 포지션 주장 0건. 모델 사이트는 community가 아닌 모델 원문으로 분리.
+- 언론·공식 원문 / checked / Reuters 전문 2건, PIMCO·ETF Action·SquawkFlow 원문, Hedgeweek·Herald 전문과 Bloomberg 공개 오디오 설명을 직접 확인.
 
-- 기사 후보 수집 / checked / global-position/discovery/latest.json(2026-11-10)을 확인. 시간창 내 후보는 PIMCO 배당기사로 핵심 전망과 무관해 제외; 원문 검증을 우선.
+- 공개 커뮤니티 / checked / Reddit r/stocks·r/investing·r/wallstreetbets와 공개 투자 커뮤니티를 검색했으나 시간창 내 직접 URL·게시시각을 검증할 수 있는 독립 포지션 주장 0건.
 
-- 검색 경로 / checked / Exa 7개 축 56개 결과와 공개 웹 8개 보강 질의를 검토해 신규 전문·부분본문 8건을 채택. 재전은 같은 event_key로 묶고 시간창 밖 자료는 context로 분리.
+- 기사 후보 수집 / checked / global-position/discovery/latest.json(2026-11-11)을 확인. 후보 6건은 시간창 밖이거나 핵심 포지션과 무관해 신규 근거로 승격하지 않음.
+
+- 검색 경로 / checked / Exa 27개 질의에서 최대 218개 결과와 공개 웹 8개 보강 질의를 검토해 7건을 신규 채택. 동일 사건 재전과 시간창 밖 자료를 분리.
