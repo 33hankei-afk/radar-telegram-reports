@@ -3,11 +3,11 @@
   "request_id": "20261111T212114p0900-daily21",
   "date_kst": "2026-11-11",
   "execution_date_kst": "2026-11-11",
-  "status": "running",
+  "status": "failed",
   "stage": "collecting",
   "started_at_kst": "2026-11-11T21:21:40.274811+09:00",
-  "updated_at_kst": "2026-11-11T21:22:20.388387+09:00",
-  "ended_at_kst": null,
+  "updated_at_kst": "2026-11-11T21:22:24.386075+09:00",
+  "ended_at_kst": "2026-11-11T21:22:24.386107+09:00",
   "checked_channels": 34,
   "verified_full_channels": 31,
   "verified_posts": 724,
@@ -18,7 +18,8 @@
   "errors": [
     "hanachina: #71937: view counter missing/invalid",
     "aetherjapanresearch: public read failed: ValueError: not an approved public channel preview",
-    "meritz_research: #45106: view counter missing/invalid"
+    "meritz_research: #45106: view counter missing/invalid",
+    "collector/checkpoint failed: ValueError"
   ],
   "evidence_path": "collection/snapshots/20261111T212114p0900-daily21.json",
   "report_published": false
