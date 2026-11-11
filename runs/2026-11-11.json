@@ -1,18 +1,49 @@
 {
   "date_kst": "2026-11-11",
-  "status": "running",
-  "stage": "verifying",
+  "status": "partial",
+  "stage": "finished",
   "started_at_kst": "2026-11-11T21:20:43+09:00",
-  "updated_at_kst": "2026-11-11T21:26:30.044+09:00",
-  "ended_at_kst": null,
+  "updated_at_kst": "2026-11-11T21:27:05.629+09:00",
+  "ended_at_kst": "2026-11-11T21:27:05.629+09:00",
   "attempt": 1,
   "request_id": "20261111T212114p0900-daily21",
   "source_workflow_run_id": 43019639906,
   "verified_posts": 724,
   "checked_channels": 34,
   "verified_full_channels": 31,
+  "partial_channels": [
+    "hanachina",
+    "meritz_research"
+  ],
   "failed_channels": [
     "aetherjapanresearch"
+  ],
+  "unprocessed_channels": [
+    "kimcharger",
+    "TNBfolio",
+    "earlystock1",
+    "huhpharm",
+    "meritz_tech",
+    "easobi",
+    "daegurr",
+    "macrojunglemicrolens",
+    "sejongdata2013",
+    "smallcap",
+    "tlsrltnf",
+    "awake_realtimecheck",
+    "egzion",
+    "cahier_de_market",
+    "eqmirae",
+    "survival_DoPB",
+    "report_figure_by_offset",
+    "yieldnspread",
+    "shinhanresearch",
+    "athletes_village",
+    "bio_shinhan",
+    "goupstock",
+    "rafikiresearch",
+    "maddingStock",
+    "globaletfi"
   ],
   "published_paths": [
     "reports/2026-11-11.json",
@@ -45,10 +76,24 @@
     "body_hashes_checked": 724,
     "body_hash_mismatches": 0
   },
+  "verification": {
+    "remote_exact_match": true,
+    "date_kst": "2026-11-11",
+    "schema": "telegram_summaries_v1",
+    "entries": 248,
+    "top20": 20,
+    "theme_urls": 235,
+    "consensus_up": 0,
+    "consensus_down": 0,
+    "latest_json_matches_date_report": true,
+    "validation_workflow_run_id": 43020321494,
+    "validation_workflow_conclusion": "success"
+  },
   "errors": [
     "hanachina: #71937: view counter missing/invalid",
     "aetherjapanresearch: public read failed: ValueError: not an approved public channel preview",
     "meritz_research: #45106: view counter missing/invalid",
-    "collector/checkpoint failed: ValueError"
+    "collector/checkpoint failed: ValueError",
+    "수집기 중단으로 고정 59채널 중 25개 채널 미처리; 검증된 범위만 부분 보고서로 게시"
   ]
 }
