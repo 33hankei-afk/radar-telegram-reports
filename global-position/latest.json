@@ -3,92 +3,74 @@
     "ai_positioning": {
       "confidence": "높음",
       "counter_ids": [
-        "E04"
+        "E08"
       ],
       "evidence_ids": [
         "E01",
-        "E02",
-        "E03"
+        "E03",
+        "E04"
       ],
-      "label": "하이퍼스케일러 단기 회전 실패 · 반도체 하방 헤지 강화",
+      "label": "AI 구축·반도체 축소, 대형지수·우량 기술채권 선별화",
       "limitations": [
-        "옵션 순델타는 보호 매수·투기 매도를 분해하지 못합니다.",
-        "CNBC의 장기 매수 의견은 포지션 관측이 아닌 전망입니다."
+        "Hartnett 수치는 2차 공개 분석이며 BofA 원문은 비공개입니다.",
+        "하루 ETF 흐름과 가격 반등만으로 장기 보유비중 변화를 확정할 수 없습니다."
       ],
-      "summary": "롱온리·헤지펀드의 하이퍼스케일러 회전 매수는 다음 날 일부 되팔기로 뒤집혔고, SOXX·EWT 옵션은 거래량 급증과 음의 순델타를 보였습니다. AI 전체의 구조적 약세 확정이라기보다 과밀 롱 축소와 보호수요 급증이 동시에 나타난 포지션 충격입니다."
+      "summary": "SOXX·SMH·ALAI에서는 자금이 빠졌지만 QQQ·XLK에는 유입됐고, Hartnett는 기술주보다 우량 기술채권을 선호하며 capex 둔화가 AI 지출기업과 구축기업을 다르게 만들 것으로 봤습니다. 데이터센터 저등급 신용스프레드 확대는 AI 전면 이탈보다 공급망·신용도별 재가격을 뒷받침합니다."
     },
     "korea_path": {
-      "confidence": "중간",
-      "counter_ids": [
-        "E04"
-      ],
-      "evidence_ids": [
-        "E01",
-        "E03"
-      ],
-      "label": "대만 반도체 옵션 하방 압력의 한국 고베타 전이 경로",
-      "limitations": [
-        "EWT·SOXX 옵션은 한국 외국인 수급이나 국내 헤지펀드 순노출이 아닙니다.",
-        "한국 직접 현·선물·대차 원자료를 확인하지 못했습니다."
-      ],
-      "summary": "대만 반도체 비중이 큰 EWT의 옵션 거래량이 평소의 3배, 순옵션 델타가 주식 6만8천주 상당 음수였고 SOXX도 같은 방향이었습니다. 미국 AI 롱 청산이 이어지면 한국 반도체에 외국인 위험축소로 전이될 조건이 커졌지만, 한국 현·선물 직접 수급은 없어 조건부 경로입니다."
-    },
-    "liquidity": {
       "confidence": "낮음",
       "counter_ids": [
-        "C31"
+        "E08"
       ],
-      "evidence_ids": [],
-      "label": "판단 자료 부족",
+      "evidence_ids": [
+        "E04",
+        "E07"
+      ],
+      "label": "반도체 환매와 숏커버 반등이 충돌하는 조건부 고변동성 경로",
       "limitations": [
-        "Reuters 기사도 급락이 repo 마진콜에서 비롯됐다고 확인하지 않았습니다.",
-        "국채 매수나 금리 상승을 주식 매도로 일대일 대응시키지 않았습니다."
+        "미국 ETF와 옵션 모델은 한국 외국인·기관 수급이 아닙니다.",
+        "SquawkFlow 감마는 딜러 보유방향을 가정한 모델이며 실제 장부가 아닙니다."
       ],
-      "summary": "10년물 4.8%가 AI 위험선호의 기회비용이라는 의견은 확인했지만, 신규 basis·repo·마진콜·엔 캐리 실재 포지션 자료는 확보하지 못했습니다. 이전 TBAC의 국채 구축 증거 부재는 배경자료일 뿐 이번 구간의 유동성 변화로 승격하지 않습니다."
+      "summary": "SOXX·SMH 대규모 환매는 한국 반도체 고베타 수급에 하방 경로지만, SOX 6.9% 반등과 QQQ·XLK 유입은 낙폭회복 경로입니다. SPX 음의 감마 모델은 변동성 증폭 가능성을 시사할 뿐이며, 한국 외국인 현·선물 직접 자료가 없어 양방향 조건부 판단입니다."
+    },
+    "liquidity": {
+      "confidence": "중간",
+      "counter_ids": [
+        "C31",
+        "C50"
+      ],
+      "evidence_ids": [
+        "E02",
+        "E03",
+        "E06"
+      ],
+      "label": "금리인상 경계·AI 신용스프레드 확대, basis 규모는 미확정",
+      "limitations": [
+        "CFTC 관측일은 11월 3일이며 공시 지연이 있습니다.",
+        "국채선물 쇼트는 방향성·헤지·상대가치 거래를 모두 포함하고 현물·repo·스왑을 보여주지 않습니다."
+      ],
+      "summary": "Wilding은 물가 확산과 강한 수요 때문에 긴축적 금융여건이 필요하다고 봤고, AI 관련 하이일드·single-B 스프레드는 최근 고점으로 확대됐습니다. 국채선물 순쇼트 8,700억달러는 규모 경계 신호지만 현물·repo 다리와 마진 자료가 없어 basis 거래 또는 강제청산 규모로 해석하지 않았습니다."
     },
     "pressure": {
       "confidence": "높음",
       "counter_ids": [
-        "E02",
-        "E05"
+        "E08"
       ],
       "evidence_ids": [
-        "E01"
+        "E04",
+        "E05"
       ],
-      "label": "AI 롱 청산·ETF 리밸런싱 중심의 매도 압력 급증",
+      "label": "반도체 ETF 환매·gross 축소 우세, 쇼트커버 반등 병존",
       "limitations": [
-        "Goldman PB·Nomura·Vanda 수치는 각각 고객 표본과 장중 추정이며 전체 시장 장부가 아닙니다.",
-        "순노출 감소를 신규 쇼트로 환산할 자료가 없습니다."
+        "ETF 생성·환매는 투자자 유형을 식별하지 못합니다.",
+        "Goldman PB는 고객 표본이며 원 보고서가 비공개라 롱·쇼트별 금액을 독립 검증하지 못했습니다."
       ],
-      "summary": "Reuters가 확인한 헤지펀드의 전일 하이퍼스케일러 매수분 재매도, 멀티전략 펀드 손실, 약 470억달러로 추정된 레버리지·인버스 ETF 리밸런싱과 리테일 매도는 단기 매도 압력이 우세했음을 보여줍니다. 다만 관측된 핵심은 롱 청산·리밸런싱·헤지이며 신규 쇼트 규모는 확인되지 않았습니다."
+      "summary": "SOXX·SMH·AI ETF의 합산 대규모 환매와 Goldman PB 표본의 gross 8.7%p 축소는 위험축소가 이어졌음을 보여줍니다. 다만 PB 순매수 전환이 주로 지수·ETF 쇼트커버였고 SOX·나스닥100이 강하게 반등해, 신규 롱 확신보다 디그로스 이후 기계적 반등이 병존합니다."
     }
   },
   "complete": true,
-  "content_sha256": "c1bdc8e071f5082e9a8a3c692963c43a63c3fabad8e11023147b6ce47d111c88",
+  "content_sha256": "f851c575d799cd8811ed9138b2818c666d10c0487981dabdc90f75b71194ab82",
   "context_entries": [
-    {
-      "access": "partial_text",
-      "actors": [
-        "tuteja"
-      ],
-      "claim_type": "opinion",
-      "direction": "hedge",
-      "event_date": null,
-      "event_key": "tuteja-ai-asymmetry-20261008",
-      "id": "C01",
-      "mechanisms": [
-        "crowding",
-        "dealer_gamma"
-      ],
-      "published_at_kst": null,
-      "published_date": "2026-10-08",
-      "publisher": "ZeroHedge (공개 도입부)",
-      "source_kind": "news",
-      "summary_ko": "이전 자료입니다. 공개 도입부는 Shawn Tuteja의 메모를 AI 쏠림과 위험보상 경계로 소개합니다. Goldman 원본과 유료 본문은 확인하지 못했습니다.",
-      "title_ko": "Tuteja 관련 보도: AI 상승 베팅의 비대칭이 약해졌다는 경계",
-      "title_original": "The Asymmetry Has Shifted: Goldman Vol Trader Steps Off The AI Train As Hedge Funds Most Crowded In Mag 7",
-      "url": "https://www.zerohedge.com/markets/asymmetry-has-shifted-goldman-vol-trader-steps-ai-train-hedge-funds-most-crowded-mag-7"
-    },
     {
       "access": "full_text",
       "actors": [
@@ -201,117 +183,7 @@
       "title_ko": "Citadel Securities: CTA 미국주식 포지션 -3.3σ·리테일 22일 연속 330억달러 매수",
       "title_original": "November: The Setup Improves",
       "url": "https://www.citadelsecurities.com/news-and-insights/global-market-intelligence/november-the-setup-improves/"
-    }
-  ],
-  "core_targets": [
-    {
-      "change": "미확인",
-      "evidence_ids": [
-        "C01"
-      ],
-      "focus": "AI·M7 과밀 / 옵션 / 포지션 비대칭",
-      "id": "tuteja",
-      "institution": "Goldman Sachs",
-      "name": "Shawn Tuteja",
-      "role": "ETF·맞춤형 바스켓 변동성 트레이딩",
-      "summary_ko": "11월 6일 실제 재검색: 최근 24시간 Shawn Tuteja의 새 독립 발언 없음. 신규 Goldman 관측은 John Flood·미국 트레이딩 데스크 발언으로 분리했습니다. 마지막 Tuteja 확인은 10월 8일 2차 보도의 AI·M7 과밀·옵션 비대칭 경계입니다."
     },
-    {
-      "change": "미확인",
-      "evidence_ids": [
-        "C11"
-      ],
-      "focus": "펀드 자금흐름 / 현금·과열 / 자산배분",
-      "id": "hartnett",
-      "institution": "BofA Global Research",
-      "name": "Michael Hartnett",
-      "role": "최고 투자전략가 · Flow Show",
-      "summary_ko": "11월 6일 실제 재검색: 최근 24시간 Michael Hartnett/Flow Show 새 발언 없음. 공개 검색에서 확인된 최신 주간 BofA 흐름은 10월 30일 자료였으며 이번 창구 신규 근거로 쓰지 않았습니다. 마지막 확인은 10월 30일 기술채권 선별 매수 관점입니다."
-    },
-    {
-      "change": "미확인",
-      "evidence_ids": [
-        "C12"
-      ],
-      "focus": "금리·채권 / 조달·유동성 / 위험자산 배분",
-      "id": "pimco",
-      "institution": "PIMCO",
-      "name": "PIMCO",
-      "role": "기관 · Ivascyn / Balls / Wilding 등",
-      "summary_ko": "11월 6일 실제 재검색: 최근 24시간 Ivascyn/Balls/Wilding의 새 공식 발언 없음. PIMCO CEO Manny Roman의 11월 3일 AI 금융 경계는 핵심 대상 범위와 시간창 밖이어서 신규 발언으로 세지 않았습니다. 마지막 공식 확인은 10월 28일 Wilding 분석입니다."
-    }
-  ],
-  "coverage": [
-    {
-      "name": "Shawn Tuteja",
-      "note": "Goldman 공식 Insights·Exa·공개 웹을 재검색. 새 Tuteja 독립 발언 0건; John Flood와 Goldman 미국 데스크 관측은 별도 사건으로 분리.",
-      "status": "checked",
-      "url": "https://www.goldmansachs.com/insights/the-markets"
-    },
-    {
-      "name": "Michael Hartnett · BofA Flow Show",
-      "note": "Exa·공개 웹·BofA 공개 페이지를 재검색해 새 Hartnett/Flow Show 발언 0건. 원 BofA 유료 메모·배포판은 비공개라 공개 범위만 확인.",
-      "status": "partial",
-      "url": "https://business.bofa.com/en-us/content/market-strategies-insights/weekly-market-recap-report.html"
-    },
-    {
-      "name": "PIMCO · Ivascyn/Balls/Wilding",
-      "note": "PIMCO 공식 Insights·Exa·공개 웹을 재검색. 최근 24시간 새 공식 발언 0건; 시간창 밖 Manny Roman 인터뷰는 제외.",
-      "status": "checked",
-      "url": "https://www.pimco.com/us/en/insights"
-    },
-    {
-      "name": "글로벌 헤지펀드·프라임브로커 gross/net·롱/숏",
-      "note": "Reuters 전문에서 Goldman PB 멀티전략·TMT 손실과 전일 매수분 재매도 확인. 전체 gross/net 원표와 롱 청산·신규 쇼트·쇼트커버 수량 분해는 미공개.",
-      "status": "partial",
-      "url": "https://www.streetinsider.com/Reuters/Wall+Street+fear+gauge+jumps+most+since+%27Liberation+Day%27+as+AI+trade+stumbles/27298625.html"
-    },
-    {
-      "name": "CTA·변동성 목표·딜러 감마",
-      "note": "레버리지·인버스 ETF 약 470억달러 리밸런싱 추정과 옵션 헤지 급증 확인. 전체 CTA·vol-control 장부와 실제 딜러 감마 부호는 미확인.",
-      "status": "partial",
-      "url": "https://www.streetinsider.com/Reuters/Wall+Street+fear+gauge+jumps+most+since+%27Liberation+Day%27+as+AI+trade+stumbles/27298625.html"
-    },
-    {
-      "name": "펀드·ETF·옵션 흐름",
-      "note": "Reuters·Schaeffer's·Yahoo 전문에서 리밸런싱, SOXX/EWT 옵션, 11월 3일 ETF 흐름을 확인하고 관측일을 분리.",
-      "status": "checked",
-      "url": "https://www.schaeffersresearch.com/content/options/2026/11/05/2-semiconductor-etfs-drawing-bearish-options-traders-today"
-    },
-    {
-      "name": "국채 베이시스·레포·마진·엔 캐리",
-      "note": "공식·언론 검색을 수행했으나 신규 basis·repo 마진콜·엔 캐리 포지션 자료 0건. 금리 의견만 확인해 유동성 판단은 자료 부족 처리.",
-      "status": "partial",
-      "url": "https://home.treasury.gov/news/press-releases/sb0680/"
-    },
-    {
-      "name": "언론·공식 원문",
-      "note": "Reuters 재전 전문, Investing.com·CNBC·Schaeffer's·Yahoo 전문을 열어 제목·시각·본문을 확인. 원 PB 보고서는 비공개임을 표시.",
-      "status": "checked",
-      "url": "https://www.reuters.com/"
-    },
-    {
-      "name": "공개 커뮤니티",
-      "note": "Reddit·투자 커뮤니티를 검색. Moomoo 직접 게시물 1건을 미검증 community로 분리; Reddit 일부 RSS 접근 실패와 원문 URL 미확보 후보는 미수록.",
-      "status": "partial",
-      "url": "https://www.moomoo.com/community/feed/39-0-pre-market-spx-quantitative-gamma-flow-and-market-117564155887621"
-    },
-    {
-      "name": "기사 후보 수집",
-      "note": "global-position/discovery/latest.json을 검색 출발점으로 확인했으나 직전 날짜 후보여서 원문 검증·시간창 필터를 우선 적용.",
-      "status": "checked",
-      "url": "https://github.com/33hankei-afk/radar-telegram-reports/blob/main/global-position/discovery/latest.json"
-    },
-    {
-      "name": "검색 경로",
-      "note": "Exa 7개 축에서 56개 결과와 공개 웹 고신뢰 검색을 검토해 신규 전문 5건·커뮤니티 1건을 채택. 동일 사건 재전·시간창 밖·제목만 후보는 제외.",
-      "status": "checked",
-      "url": "https://exa.ai/"
-    }
-  ],
-  "coverage_note": "2026-11-05T08:23:47+09:00~2026-11-06T08:23:47+09:00 KST. 신규 전문 5건과 공개 커뮤니티 1건을 확인했습니다. 핵심은 AI 하이퍼스케일러의 하루짜리 회전 매수가 다음 날 되팔기로 뒤집히고, 레버리지 ETF 리밸런싱·리테일 매도·반도체 옵션 하방 흐름이 겹친 점입니다. 이를 전체 헤지펀드의 신규 쇼트로 과대해석하지 않고 롱 청산·리밸런싱·헤지를 분리했습니다. Tuteja·Hartnett·PIMCO 핵심 대상은 실제 재검색 결과 새 독립 발언 0건입니다. 신규 PB gross/net 원표, basis·repo 마진콜, 엔 캐리 및 한국 직접 수급은 미확인입니다.",
-  "date_kst": "2026-11-06",
-  "entries": [
     {
       "access": "full_text",
       "actors": [
@@ -326,7 +198,7 @@
       "direction": "risk_reduce",
       "event_date": "2026-11-05",
       "event_key": "reuters-ai-unwind-risk-reduction-20261105",
-      "id": "E01",
+      "id": "C41",
       "mechanisms": [
         "long_liquidation",
         "gross_deleveraging",
@@ -339,7 +211,7 @@
       "published_date": "2026-11-06",
       "publisher": "Reuters · StreetInsider",
       "source_kind": "news",
-      "summary_ko": "Reuters 전문은 11월 5일 AI 거래의 급격한 되감기 과정에서 헤지펀드가 전날 매수한 하이퍼스케일러 일부를 다시 팔았다고 보도했습니다. Goldman Sachs PB는 대형 AI주 과다 노출로 대형 멀티전략 펀드가 크게 하락했다고 전했고, TMT 펀드는 전년 대비 2.6% 하락했습니다. Nomura는 레버리지·인버스 ETF의 종가 리밸런싱 매도가 약 470억달러로 2006년 이후 두 번째 규모가 될 것으로 추정했습니다. Vanda는 장 마감 약 1시간 전 단일주식 리테일 순매도가 코로나 급락 이후 최대가 될 경로라고 봤고, 지수 풋 프리미엄은 평소의 약 2배였습니다. 이는 보도된 표본·장중 추정이며 전체 헤지펀드 장부나 신규 쇼트 규모가 아닙니다.",
+      "summary_ko": "이번 구간 이전인 11월 5일 시장 충격 자료입니다. Reuters 전문은 11월 5일 AI 거래의 급격한 되감기 과정에서 헤지펀드가 전날 매수한 하이퍼스케일러 일부를 다시 팔았다고 보도했습니다. Goldman Sachs PB는 대형 AI주 과다 노출로 대형 멀티전략 펀드가 크게 하락했다고 전했고, TMT 펀드는 전년 대비 2.6% 하락했습니다. Nomura는 레버리지·인버스 ETF의 종가 리밸런싱 매도가 약 470억달러로 2006년 이후 두 번째 규모가 될 것으로 추정했습니다. Vanda는 장 마감 약 1시간 전 단일주식 리테일 순매도가 코로나 급락 이후 최대가 될 경로라고 봤고, 지수 풋 프리미엄은 평소의 약 2배였습니다. 이는 보도된 표본·장중 추정이며 전체 헤지펀드 장부나 신규 쇼트 규모가 아닙니다.",
       "title_ko": "AI 급락에 헤지펀드·리테일 매도와 옵션 헤지 급증",
       "title_original": "Phones 'explode' on Wall Street as 'steamroller' shows up for the AI trade",
       "url": "https://www.streetinsider.com/Reuters/Wall+Street+fear+gauge+jumps+most+since+%27Liberation+Day%27+as+AI+trade+stumbles/27298625.html"
@@ -347,142 +219,367 @@
     {
       "access": "full_text",
       "actors": [
-        "Goldman Sachs trading desk",
-        "롱온리 펀드",
-        "헤지펀드",
-        "AI 하이퍼스케일러"
+        "pimco",
+        "PIMCO",
+        "Lotfi Karoui",
+        "AI 신용 투자자"
       ],
-      "claim_type": "reported_flow",
-      "direction": "risk_add",
-      "event_date": "2026-11-04",
-      "event_key": "goldman-hyperscaler-rotation-20261104",
-      "id": "E02",
+      "claim_type": "opinion",
+      "direction": "mixed",
+      "event_date": "2026-11-09",
+      "event_key": "pimco-credit-diversification-ai-20261109",
+      "id": "C50",
       "mechanisms": [
+        "rates_credit",
         "crowding",
-        "net_exposure",
-        "fund_flows",
-        "other"
+        "fund_flows"
       ],
-      "published_at_kst": "2026-11-05T20:17:27+09:00",
-      "published_date": "2026-11-05",
-      "publisher": "Investing.com · Goldman Sachs trading desk",
-      "source_kind": "news",
-      "summary_ko": "Investing.com 전문은 11월 4일 Goldman Sachs 미국 데스크 관찰을 인용해 롱온리와 헤지펀드가 반도체·데이터센터 인프라에서 기존 전력·컴퓨팅 용량을 보유한 하이퍼스케일러로 회전했다고 전했습니다. 허가·전력 제약이 기존 사업자의 희소가치를 높일 수 있다는 논리였지만, 다음 거래일 Reuters 보도에서는 헤지펀드가 이 매수분 일부를 다시 팔았다고 확인돼 지속적 위험선호보다 짧은 회전 거래로 봐야 합니다.",
-      "title_ko": "Goldman 데스크: 롱온리·헤지펀드가 하이퍼스케일러로 회전",
-      "title_original": "Massive market rotation raises question: Is the sell-AI trade here to stay?",
-      "url": "https://www.investing.com/news/stock-market-news/massive-market-rotation-raises-question-is-the-sellai-trade-here-to-stay-5003152"
+      "published_at_kst": "2026-11-10T08:27:47+09:00",
+      "published_date": "2026-11-10",
+      "publisher": "PIMCO",
+      "source_kind": "primary",
+      "summary_ko": "이번 구간 시작 약 28분 전에 공개된 11월 9일 PIMCO 공식 자료입니다. AI 관련 차입자는 2026년 미국 비금융 IG 15년 초과 만기 발행의 거의 절반을 차지했습니다. 중간선거 규제가 근기 발행 속도를 늦춰도 최종 자금수요와 집중위험은 크게 줄지 않을 것으로 보고, agency·non-agency MBS와 EM 채권을 분산 대안으로 제시했습니다. 이전 자료이므로 이번 구간의 신규 근거로 표시하지 않습니다.",
+      "title_ko": "PIMCO: AI 장기 신용공급 집중 속 MBS·EM 분산 제안",
+      "title_original": "The Credit Market Lens: Where to Seek Diversification From the AI Investment Theme",
+      "url": "https://www.pimco.com/us/en/insights/the-credit-market-lens-where-to-seek-diversification-from-the-ai-investment-theme"
+    }
+  ],
+  "core_targets": [
+    {
+      "change": "미확인",
+      "evidence_ids": [],
+      "focus": "AI·M7 과밀 / 옵션 / 포지션 비대칭",
+      "id": "tuteja",
+      "institution": "Goldman Sachs",
+      "name": "Shawn Tuteja",
+      "role": "ETF·맞춤형 바스켓 변동성 트레이딩",
+      "summary_ko": "11월 11일 실제 재검색: 최근 24시간 Shawn Tuteja 새 독립 발언 없음. Goldman의 다른 데스크·전략가 의견은 Tuteja 사건으로 세지 않았습니다. 마지막 확인 관점은 10월 8일 2차 보도의 AI·M7 과밀과 옵션 비대칭 경계이나 30일 문맥 한도를 넘어 원문 행에서는 제외했습니다."
     },
+    {
+      "change": "신규 확인",
+      "evidence_ids": [
+        "C11",
+        "E01"
+      ],
+      "focus": "펀드 자금흐름 / 현금·과열 / 자산배분",
+      "id": "hartnett",
+      "institution": "BofA Global Research",
+      "name": "Michael Hartnett",
+      "role": "최고 투자전략가 · Flow Show",
+      "summary_ko": "11월 11일 신규 공개 확인: 11월 10일 공개 분석을 통해 11월 5일자 Flow Show 'DEM fatale'을 확인했습니다. AI 자본집약화·신용제약을 경계하면서 기술주보다 선별 기술채권을 선호하고, capex 둔화가 AI 지출기업과 구축기업을 차별화할 것으로 봤습니다. BofA 원문은 비공개입니다."
+    },
+    {
+      "change": "신규 확인",
+      "evidence_ids": [
+        "C12",
+        "E02",
+        "C50"
+      ],
+      "focus": "금리·채권 / 조달·유동성 / 위험자산 배분",
+      "id": "pimco",
+      "institution": "PIMCO",
+      "name": "PIMCO",
+      "role": "기관 · Ivascyn / Balls / Wilding 등",
+      "summary_ko": "11월 11일 신규 공개 확인: 11월 10일 Bloomberg Talks 인터뷰에서 Tiffany Wilding은 물가 확산과 긴축적 금융여건 유지 필요성을 강조하고 AI 투자 속도가 3분기 급증 수준에서 둔화될 것으로 예상했습니다. 공개 전사·요약은 부분 본문입니다."
+    }
+  ],
+  "coverage": [
+    {
+      "name": "Shawn Tuteja",
+      "note": "Goldman 공식 Insights·Exa·공개 웹을 재검색. 최근 24시간 새 Tuteja 독립 발언 0건.",
+      "status": "checked",
+      "url": "https://www.goldmansachs.com/insights/the-markets"
+    },
+    {
+      "name": "Michael Hartnett · BofA Flow Show",
+      "note": "11월 10일 공개된 상세 2차 분석으로 11월 5일자 Flow Show 사건을 신규 확인. BofA 원 메모는 비공개라 수치·도표를 직접 대조하지 못함.",
+      "status": "partial",
+      "url": "https://www.investing.com/analysis/michael-hartnetts-dem-fatale-the-ai-boom-meets-its-political-reckoning-200691275"
+    },
+    {
+      "name": "PIMCO · Ivascyn/Balls/Wilding",
+      "note": "Wilding의 11월 10일 Bloomberg Talks 발언을 공개 전사·요약에서 확인. 원 Bloomberg 전체 전사는 미확보; Ivascyn/Balls 새 발언은 0건.",
+      "status": "partial",
+      "url": "https://chorusmcp.com/episodes/bloomberg-talks/2026-11-10-pimco-s-tiffany-wilding-talks-cpi-rate-hike-debate"
+    },
+    {
+      "name": "글로벌 헤지펀드·프라임브로커 gross/net·롱/숏",
+      "note": "Goldman PB 2차 보도에서 gross/net 변화와 지수·ETF 쇼트커버 확인. 원 PB 보고서와 롱·쇼트 금액 분해는 비공개.",
+      "status": "partial",
+      "url": "https://247wallst.com/investing/2026/11/10/hedge-funds-dumped-tech-at-a-near-record-pace-right-before-chip-stocks-jumped-7/"
+    },
+    {
+      "name": "CTA·변동성 목표·딜러 감마",
+      "note": "CFTC leveraged funds와 SquawkFlow 감마 모델 확인. 전체 CTA 실거래·vol-control AUM 및 실제 딜러 장부는 미확인.",
+      "status": "partial",
+      "url": "https://squawkflow.com/gex"
+    },
+    {
+      "name": "펀드·ETF·옵션 흐름",
+      "note": "ETF.com 11월 10일 생성·환매 전문과 Goldman PB 쇼트커버 2차 보도를 확인하고 모집단을 분리.",
+      "status": "checked",
+      "url": "https://www.etf.com/sections/daily-etf-flows/etf-fund-flows-nov-10-2026-spy-soxx-shed-83b-qqq-adds-24b"
+    },
+    {
+      "name": "국채 베이시스·레포·마진·엔 캐리",
+      "note": "11월 3일 CFTC 국채선물 포지션 재구성 확인. 현물 국채·repo·haircut·margin 및 신규 엔 캐리 청산 규모는 0건.",
+      "status": "partial",
+      "url": "https://fxnews.ai/news/leveraged-funds-870-billion-treasury-futures-short/"
+    },
+    {
+      "name": "언론·공식 원문",
+      "note": "Reuters 전재 전문, ETF.com·PIMCO 공식 원문과 공개 전사, Investing.com·Axios·24/7 전문을 직접 확인.",
+      "status": "checked",
+      "url": "https://www.investing.com/news/stock-market-news/analysisai-debt-faces-pressure-as-democrats-prepare-to-take-over-congress-5014734"
+    },
+    {
+      "name": "공개 커뮤니티",
+      "note": "Reddit r/stocks·r/investing·r/wallstreetbets와 공개 투자 커뮤니티를 검색했으나 시간창 내 직접 URL·게시시각이 확인되는 독립 포지션 주장 0건. 모델 사이트는 community가 아닌 모델 원문으로 분리.",
+      "status": "checked",
+      "url": "https://www.reddit.com/r/stocks/new/"
+    },
+    {
+      "name": "기사 후보 수집",
+      "note": "global-position/discovery/latest.json(2026-11-10)을 확인. 시간창 내 후보는 PIMCO 배당기사로 핵심 전망과 무관해 제외; 원문 검증을 우선.",
+      "status": "checked",
+      "url": "https://github.com/33hankei-afk/radar-telegram-reports/blob/main/global-position/discovery/latest.json"
+    },
+    {
+      "name": "검색 경로",
+      "note": "Exa 7개 축 56개 결과와 공개 웹 8개 보강 질의를 검토해 신규 전문·부분본문 8건을 채택. 재전은 같은 event_key로 묶고 시간창 밖 자료는 context로 분리.",
+      "status": "checked",
+      "url": "https://exa.ai/"
+    }
+  ],
+  "coverage_note": "2026-11-10T09:01:46+09:00~2026-11-11T09:01:46+09:00 KST. 신규 전문·부분본문 8건을 확인했습니다. 반도체·AI ETF 환매와 헤지펀드 gross 축소는 위험축소 지속을 가리키지만, 지수·ETF 쇼트커버와 SOX·나스닥100 반등, QQQ·XLK 유입이 함께 나타나 디그로스 이후 선별 재구축 국면으로 판단했습니다. Hartnett의 11월 5일 Flow Show가 11월 10일 공개 분석으로 신규 확인됐고 PIMCO Wilding의 11월 10일 발언도 확인했습니다. Tuteja는 실제 재검색 결과 새 독립 발언 0건입니다. 원 PB·BofA 보고서, 전체 CTA·vol-control 실거래, 실제 딜러 감마, repo·margin·엔 캐리 및 한국 직접 수급은 미확인입니다.",
+  "date_kst": "2026-11-11",
+  "entries": [
     {
       "access": "full_text",
       "actors": [
-        "SOXX 옵션 투자자",
-        "EWT 옵션 투자자",
-        "미국·대만 반도체 투자자"
-      ],
-      "claim_type": "observed_metric",
-      "direction": "hedge",
-      "event_date": "2026-11-05",
-      "event_key": "soxx-ewt-bearish-options-delta-20261105",
-      "id": "E03",
-      "mechanisms": [
-        "dealer_gamma",
-        "crowding",
-        "other"
-      ],
-      "published_at_kst": "2026-11-06T01:24:00+09:00",
-      "published_date": "2026-11-06",
-      "publisher": "Schaeffer's Investment Research",
-      "source_kind": "news",
-      "summary_ko": "Schaeffer's 전문은 11월 5일 장중 SOXX 옵션 거래량이 평소의 2.1배인 13만1,343계약, EWT는 3배인 1만7,172계약이었다고 집계했습니다. 순옵션 델타 거래량은 각각 주식 약 46만주와 6만8천주 상당의 음수로, 미국·대만 반도체 ETF에 단기 하방 방향 거래가 우세했습니다. 거래량·델타 흐름은 고객의 보호 매수와 투기적 매도를 구분하지 못하고 실제 딜러 감마 부호도 확정하지 않습니다.",
-      "title_ko": "SOXX·EWT 옵션 거래 급증과 음의 순옵션 델타",
-      "title_original": "2 Semiconductor ETFs Drawing Bearish Options Traders Today",
-      "url": "https://www.schaeffersresearch.com/content/options/2026/11/05/2-semiconductor-etfs-drawing-bearish-options-traders-today"
-    },
-    {
-      "access": "full_text",
-      "actors": [
-        "Peter Boockvar",
-        "Eric Johnston",
-        "Rob Sechan",
-        "Larry Adam",
-        "AI 투자자"
+        "hartnett",
+        "Michael Hartnett",
+        "BofA Global Research",
+        "AI 하이퍼스케일러",
+        "기술채권 투자자"
       ],
       "claim_type": "opinion",
       "direction": "mixed",
       "event_date": "2026-11-05",
-      "event_key": "cnbc-ai-rout-expert-split-20261105",
-      "id": "E04",
+      "event_key": "bofa-flow-show-dem-fatale-20261105",
+      "id": "E01",
       "mechanisms": [
         "crowding",
+        "fund_flows",
         "rates_credit",
         "other"
       ],
-      "published_at_kst": "2026-11-06T03:58:48+09:00",
-      "published_date": "2026-11-06",
-      "publisher": "CNBC",
+      "published_at_kst": "2026-11-10T18:50:29+09:00",
+      "published_date": "2026-11-10",
+      "publisher": "Investing.com · Stephen Innes",
       "source_kind": "news",
-      "summary_ko": "CNBC 전문에서 One Point BFG의 Peter Boockvar와 Cantor Fitzgerald의 Eric Johnston은 규제 변화가 2027년 AI 인프라 투자 전망을 훼손할 수 있다고 경계했습니다. 반면 Newedge의 Rob Sechan은 공급 제약이 기존 컴퓨팅 용량의 가치를 높인다고 봤고 Raymond James의 Larry Adam은 무차별 매도를 장기 매수 기회로 평가했습니다. 10년물 금리 4.8%가 고변동 AI주 대신 무위험 수익을 택하게 만든다는 의견도 제시됐습니다. 이는 상반된 관측자 의견이며 실제 펀드 포지션 데이터가 아닙니다.",
-      "title_ko": "AI 인프라 전망 재평가와 장기 저가매수 의견이 충돌",
-      "title_original": "CNBC's experts on whether the AI trade is ending and what investors should do next",
-      "url": "https://www.cnbc.com/2026/11/05/cnbcs-experts-on-whether-the-ai-trade-is-ending-and-what-investors-should-do-next.html"
+      "summary_ko": "11월 10일 공개된 상세 분석은 BofA Michael Hartnett의 11월 5일자 Flow Show 'DEM fatale'을 인용했습니다. Hartnett는 2026년 글로벌 하이퍼스케일러 부채 발행을 약 2,970억달러, 미국 발행을 2,170억달러, 주식 발행을 약 1,000억달러로 제시하고 자사주 매입 연율이 2024년 1,000억달러에서 2026년 약 140억달러로 감소했다고 봤습니다. AI capex 둔화는 재무가 강한 AI 지출기업에는 현금흐름 개선 요인이지만 반도체·네오클라우드 등 구축기업에는 실적 위험이라며 기술주보다 선별 기술채권을 선호했습니다. BofA 원문은 비공개이고 공개 분석에는 작성자의 해석이 포함됩니다.",
+      "title_ko": "Hartnett Flow Show: AI 자본집약화와 정치·신용 제약, 기술채권 선호",
+      "title_original": "Michael Hartnett’s DEM Fatale: The AI Boom Meets Its Political Reckoning",
+      "url": "https://www.investing.com/analysis/michael-hartnetts-dem-fatale-the-ai-boom-meets-its-political-reckoning-200691275"
+    },
+    {
+      "access": "partial_text",
+      "actors": [
+        "pimco",
+        "PIMCO",
+        "Tiffany Wilding",
+        "Federal Reserve",
+        "AI 데이터센터 투자자"
+      ],
+      "claim_type": "opinion",
+      "direction": "risk_reduce",
+      "event_date": "2026-11-10",
+      "event_key": "pimco-wilding-cpi-rates-ai-investment-20261110",
+      "id": "E02",
+      "mechanisms": [
+        "rates_credit",
+        "crowding",
+        "other"
+      ],
+      "published_at_kst": "2026-11-11T01:37:50+09:00",
+      "published_date": "2026-11-11",
+      "publisher": "Bloomberg Talks · Chorus",
+      "source_kind": "news",
+      "summary_ko": "Bloomberg Talks의 11월 10일 인터뷰를 정리한 공개 전사 자료에서 PIMCO Tiffany Wilding은 10월 CPI의 강세가 에너지 전가를 넘어 핵심재와 일부 서비스로 확산돼 연준에 불편한 신호라고 평가했습니다. 연준이 2022년처럼 크게 뒤처진 상태는 아니지만 Waller의 12월 50bp 인상 가능성 언급을 주시하며 금융여건을 긴축적으로 유지할 필요가 있다고 봤습니다. 미국 수요는 소비와 AI 데이터센터 투자에 힘입어 강하지만 AI 투자 속도는 3분기의 급격한 수준에서 4분기와 다음 1분기에 식을 것으로 예상했습니다. 원 Bloomberg 전체 전사가 아닌 공개 전사·요약 페이지이므로 부분 본문으로 표시합니다.",
+      "title_ko": "PIMCO Wilding: 물가 확산·긴축 유지, AI 투자 속도 둔화 예상",
+      "title_original": "PIMCO's Tiffany Wilding Talks CPI, Rate Hike Debate",
+      "url": "https://chorusmcp.com/episodes/bloomberg-talks/2026-11-10-pimco-s-tiffany-wilding-talks-cpi-rate-hike-debate"
+    },
+    {
+      "access": "full_text",
+      "actors": [
+        "AI 신용 투자자",
+        "데이터센터 개발사",
+        "Loomis Sayles",
+        "Capital Group",
+        "Thornburg Investment Management"
+      ],
+      "claim_type": "observed_metric",
+      "direction": "risk_reduce",
+      "event_date": "2026-11-10",
+      "event_key": "reuters-ai-credit-spreads-regulation-20261110",
+      "id": "E03",
+      "mechanisms": [
+        "rates_credit",
+        "crowding",
+        "fund_flows"
+      ],
+      "published_at_kst": "2026-11-10T20:04:30+09:00",
+      "published_date": "2026-11-10",
+      "publisher": "Reuters · Investing.com",
+      "source_kind": "news",
+      "summary_ko": "Reuters 전문은 11월 5일 급락 때 미국 하이일드 스프레드가 348bp로 2025년 5월 이후 최고, 투자등급 스프레드는 전일 91bp에서 93bp로 확대됐다고 보도했습니다. 데이터센터 비중이 큰 single-B 스프레드는 35bp 넓어진 367bp였고 Galaxy Helios 채권은 11월 5일 89.25센트, 수익률 13%까지 밀렸습니다. 투자자들은 개발사·시공사·장비 공급망을 더 선별하고 있으나, 이미 착공·자금 약정된 2027년 사업은 즉시 축소될 가능성이 낮다는 반대 의견도 제시됐습니다.",
+      "title_ko": "AI 신용스프레드 확대와 데이터센터 채권 선별 심화",
+      "title_original": "Analysis-AI debt faces pressure as Democrats prepare to take over Congress",
+      "url": "https://www.investing.com/news/stock-market-news/analysisai-debt-faces-pressure-as-democrats-prepare-to-take-over-congress-5014734"
     },
     {
       "access": "full_text",
       "actors": [
         "ETF 투자자",
-        "IVV",
         "SPY",
-        "RSP",
-        "QLD",
-        "SOXX"
+        "SOXX",
+        "SMH",
+        "ALAI",
+        "QQQ",
+        "IVV",
+        "XLK"
       ],
       "claim_type": "observed_metric",
       "direction": "mixed",
-      "event_date": "2026-11-03",
-      "event_key": "gurufocus-etf-flows-20261103",
-      "id": "E05",
+      "event_date": "2026-11-10",
+      "event_key": "etfcom-daily-flows-20261110",
+      "id": "E04",
       "mechanisms": [
         "fund_flows",
-        "crowding"
+        "crowding",
+        "net_exposure"
       ],
-      "published_at_kst": "2026-11-05T20:00:10+09:00",
-      "published_date": "2026-11-05",
-      "publisher": "GuruFocus News · Yahoo Finance",
-      "source_kind": "news",
-      "summary_ko": "Yahoo Finance에 실린 GuruFocus 전문은 11월 3일 346개 ETF의 추정 순유입이 41.7억달러였고 IVV 14.8억달러, SPY 11.1억달러, RSP 6.08억달러가 유입됐다고 집계했습니다. 반면 레버리지 QLD는 6.154억달러, SOXX는 3.569억달러가 유출됐습니다. 이는 급락 이틀 전의 보유변화 기반 추정치로, 현재 헤지펀드 순노출이나 11월 5일 매도 압력을 나타내지 않습니다.",
-      "title_ko": "11월 3일 광범위 ETF 유입과 QLD·SOXX 유출",
-      "title_original": "ETF Activity: IVV Leads With $1.48 Billion Inflow on Nov. 3",
-      "url": "https://finance.yahoo.com/markets/options/articles/etf-activity-ivv-leads-1-110010144.html"
+      "published_at_kst": "2026-11-11T03:54:32+09:00",
+      "published_date": "2026-11-11",
+      "publisher": "ETF.com",
+      "source_kind": "primary",
+      "summary_ko": "ETF.com의 11월 10일 생성·환매 집계에서 전체 ETF는 21.5억달러, 미국 주식 ETF는 19.3억달러 순유출됐습니다. SPY 41.9억달러, SOXX 41.3억달러, SMH 10.4억달러, ALAI 5.87억달러가 유출된 반면 QQQ 23.6억달러, IVV 22.2억달러, XLK 6.26억달러가 유입됐고 채권 ETF에는 합계 약 18.3억달러가 들어왔습니다. 반도체·AI 구축 노출 축소와 대형지수·광범위 기술주 재배치가 병존했으며, ETF 흐름은 헤지펀드 순포지션이 아닙니다.",
+      "title_ko": "SOXX·SMH·AI ETF 대규모 환매, QQQ·IVV·XLK에는 유입",
+      "title_original": "ETF Fund Flows Nov. 10, 2026: SPY, SOXX Shed $8.3B; QQQ Adds $2.4B",
+      "url": "https://www.etf.com/sections/daily-etf-flows/etf-fund-flows-nov-10-2026-spy-soxx-shed-83b-qqq-adds-24b"
     },
     {
       "access": "full_text",
       "actors": [
-        "Moomoo 커뮤니티",
+        "Goldman Sachs Prime Brokerage",
+        "미국 fundamental long/short 헤지펀드",
+        "기술주 헤지펀드"
+      ],
+      "claim_type": "reported_flow",
+      "direction": "mixed",
+      "event_date": "2026-11-06",
+      "event_key": "goldman-pb-week-through-20261106",
+      "id": "E05",
+      "mechanisms": [
+        "gross_deleveraging",
+        "net_exposure",
+        "long_liquidation",
+        "short_covering",
+        "crowding"
+      ],
+      "published_at_kst": "2026-11-10T23:54:44+09:00",
+      "published_date": "2026-11-10",
+      "publisher": "24/7 Wall St. · Goldman Sachs Prime Brokerage 재전",
+      "source_kind": "news",
+      "summary_ko": "11월 10일 공개된 2차 보도는 Goldman Sachs PB의 11월 6일까지 자료를 인용해 글로벌·미국 기술주 순매도가 2016년 이후 기록에 근접했고 미국 fundamental long/short gross 레버리지가 8.7%p 하락한 207.5%로 2020년 3월 이후 최대 주간 감소였다고 전했습니다. net 레버리지는 3.7%p 낮아진 43.3%였고 11월 6일 순매수 전환은 주로 지수·ETF 쇼트커버였습니다. 원 PB 보고서는 비공개이며, gross 축소가 롱·쇼트 양측 위험축소라는 해석은 전체 펀드 장부에 일반화할 수 없습니다.",
+      "title_ko": "Goldman PB 재전: gross 8.7%p·net 3.7%p 축소 뒤 지수·ETF 쇼트커버",
+      "title_original": "Hedge Funds Dumped Tech at a Near-Record Pace Right Before Chip Stocks Jumped 7%",
+      "url": "https://247wallst.com/investing/2026/11/10/hedge-funds-dumped-tech-at-a-near-record-pace-right-before-chip-stocks-jumped-7/"
+    },
+    {
+      "access": "full_text",
+      "actors": [
+        "CFTC leveraged funds",
+        "국채선물 투자자",
+        "헤지펀드",
+        "CTA"
+      ],
+      "claim_type": "observed_metric",
+      "direction": "unknown",
+      "event_date": "2026-11-03",
+      "event_key": "cftc-treasury-futures-leveraged-funds-20261103",
+      "id": "E06",
+      "mechanisms": [
+        "treasury_basis",
+        "repo_margin",
+        "rates_credit"
+      ],
+      "published_at_kst": "2026-11-10T14:53:00+09:00",
+      "published_date": "2026-11-10",
+      "publisher": "FXNews.ai · CFTC",
+      "source_kind": "news",
+      "summary_ko": "FXNews.ai는 11월 3일 관측 CFTC futures-only 자료의 6개 국채선물 롱·쇼트를 계약 액면으로 환산해 레버리지펀드 순쇼트를 약 8,700억달러로 계산했습니다. 이 중 2·5·10년물이 85.97%였습니다. 그러나 현물 국채, repo 조달, 헤어컷, DV01, 스프레딩 포지션과 거래 목적이 없어 전액을 cash-futures basis 거래로 부를 수 없다고 명시했습니다. CFTC의 leveraged funds에는 헤지펀드 외 CTA·상품풀 등이 포함되고 실제 관측일은 11월 3일입니다.",
+      "title_ko": "CFTC 재구성: 레버리지펀드 국채선물 순쇼트 8,700억달러, basis 규모와는 다름",
+      "title_original": "Leveraged funds were net short about $870bn of Treasury futures—a gauge, not the basis trade itself",
+      "url": "https://fxnews.ai/news/leveraged-funds-870-billion-treasury-futures-short/"
+    },
+    {
+      "access": "full_text",
+      "actors": [
+        "SquawkFlow",
         "SPX 옵션 투자자",
         "딜러 감마 모델"
       ],
-      "claim_type": "unverified",
-      "direction": "unknown",
-      "event_date": "2026-11-05",
-      "event_key": "community-spx-gamma-model-20261105",
-      "id": "E06",
+      "claim_type": "observed_metric",
+      "direction": "hedge",
+      "event_date": "2026-11-10",
+      "event_key": "squawkflow-spx-gex-20261110",
+      "id": "E07",
       "mechanisms": [
         "dealer_gamma",
         "vol_control"
       ],
-      "published_at_kst": "2026-11-05T22:50:56+09:00",
-      "published_date": "2026-11-05",
-      "publisher": "Moomoo Community · Isham Syah Putra",
-      "source_kind": "community",
-      "summary_ko": "공개 Moomoo 게시물은 자체 모델을 통해 11월 5일 08:32 ET SPX 7700 행사가에 큰 양의 감마, 7690~7670에 음의 감마가 있다고 주장했습니다. 원자료·딜러 보유 방향을 독립 검증하지 못한 커뮤니티 모델이므로 미검증 주장으로 분리하며 시장 판단 근거에 쓰지 않습니다.",
-      "title_ko": "커뮤니티 모델: SPX 7700 양의 감마 핀과 하단 음의 감마 구간 주장",
-      "title_original": "39.0 Pre-Market: SPX Quantitative Gamma, Flow and Market Structure Brief - Thursday, November 5, 2026",
-      "url": "https://www.moomoo.com/community/feed/39-0-pre-market-spx-quantitative-gamma-flow-and-market-117564155887621"
+      "published_at_kst": "2026-11-10T22:15:00+09:00",
+      "published_date": "2026-11-10",
+      "publisher": "SquawkFlow",
+      "source_kind": "primary",
+      "summary_ko": "SquawkFlow는 11월 9일 결제 미결제약정과 계약별 그릭을 이용한 11월 10일 08:15 ET 모델에서 SPX 순딜러 감마를 지수 1% 움직임당 -471.5억달러, 감마 전환선을 7,588, 풋월을 7,500으로 계산했습니다. 장 마감 캡처 지수는 7,520.93으로 전환선 아래였습니다. 이는 딜러가 모든 계약의 어느 쪽을 보유하는지 알 수 없는 가정 모델이며 실제 딜러 장부·당일 주문흐름이 아닙니다.",
+      "title_ko": "모델상 SPX 순감마 -471.5억달러·감마 전환선 7,588",
+      "title_original": "SPX GEX Today: Gamma Exposure by Strike",
+      "url": "https://squawkflow.com/gex"
+    },
+    {
+      "access": "full_text",
+      "actors": [
+        "AI 주식 투자자",
+        "반도체 투자자",
+        "하이퍼스케일러 투자자"
+      ],
+      "claim_type": "observed_metric",
+      "direction": "risk_add",
+      "event_date": "2026-11-09",
+      "event_key": "axios-ai-stocks-bounce-20261109",
+      "id": "E08",
+      "mechanisms": [
+        "short_covering",
+        "crowding",
+        "other"
+      ],
+      "published_at_kst": "2026-11-10T19:10:08+09:00",
+      "published_date": "2026-11-10",
+      "publisher": "Axios",
+      "source_kind": "news",
+      "summary_ko": "Axios는 11월 9일 나스닥100이 3.4%, 필라델피아 반도체지수가 6.9% 상승했다고 보도했습니다. 반도체·네오클라우드·데이터센터 장비와 하이퍼스케일러가 광범위하게 반등했지만 Nvidia는 개별 이슈로 하락했습니다. 이는 직전 디그로스 뒤 가격 반등의 반대 근거이나, 신규 롱 구축과 쇼트커버를 구분하는 포지션 자료는 아닙니다.",
+      "title_ko": "SOX 6.9%·나스닥100 3.4% 반등, AI 생태계 광범위 회복",
+      "title_original": "AI stocks bounce back — with one notable exception",
+      "url": "https://www.axios.com/2026/11/10/ai-stocks-nvidia-broadcom"
     }
   ],
-  "generated_at_kst": "2026-11-06T08:23:47+09:00",
+  "generated_at_kst": "2026-11-11T09:01:46+09:00",
   "producer": "gpt_verified",
   "schema": "global_position_v1",
-  "window_end_kst": "2026-11-06T08:23:47+09:00",
-  "window_start_kst": "2026-11-05T08:23:47+09:00"
+  "window_end_kst": "2026-11-11T09:01:46+09:00",
+  "window_start_kst": "2026-11-10T09:01:46+09:00"
 }
