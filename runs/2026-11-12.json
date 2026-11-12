@@ -3,14 +3,15 @@
   "status": "running",
   "stage": "collecting",
   "started_at_kst": "2026-11-12T21:44:47+09:00",
-  "updated_at_kst": "2026-11-12T21:45:14+09:00",
+  "updated_at_kst": "2026-11-12T21:45:56+09:00",
   "ended_at_kst": null,
   "attempt": 1,
   "request_id": "20261112T214514p0900-daily21",
-  "verified_posts": 0,
-  "checked_channels": 0,
-  "verified_full_channels": 0,
+  "verified_posts": 255,
+  "checked_channels": 4,
+  "verified_full_channels": 4,
   "failed_channels": [],
   "published_paths": [],
-  "errors": []
+  "errors": [],
+  "source_workflow_run_id": 43220799072
 }
