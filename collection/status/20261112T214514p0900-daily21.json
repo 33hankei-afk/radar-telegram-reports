@@ -3,17 +3,19 @@
   "request_id": "20261112T214514p0900-daily21",
   "date_kst": "2026-11-12",
   "execution_date_kst": "2026-11-12",
-  "status": "running",
+  "status": "failed",
   "stage": "collecting",
   "started_at_kst": "2026-11-12T21:45:22.892265+09:00",
-  "updated_at_kst": "2026-11-12T21:45:42.640445+09:00",
-  "ended_at_kst": null,
+  "updated_at_kst": "2026-11-12T21:45:46.322368+09:00",
+  "ended_at_kst": "2026-11-12T21:45:46.322388+09:00",
   "checked_channels": 14,
   "verified_full_channels": 14,
   "verified_posts": 507,
   "searfin_status": "complete",
   "failed_channels": [],
-  "errors": [],
+  "errors": [
+    "collector/checkpoint failed: ValueError"
+  ],
   "evidence_path": "collection/snapshots/20261112T214514p0900-daily21.json",
   "report_published": false
 }
