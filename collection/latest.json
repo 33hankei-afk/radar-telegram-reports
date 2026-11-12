@@ -1,26 +1,20 @@
 {
   "schema": "telegram_collection_status_v1",
-  "request_id": "20261111T212114p0900-daily21",
-  "date_kst": "2026-11-11",
-  "execution_date_kst": "2026-11-11",
+  "request_id": "20261112T214514p0900-daily21",
+  "date_kst": "2026-11-12",
+  "execution_date_kst": "2026-11-12",
   "status": "running",
   "stage": "collecting",
-  "started_at_kst": "2026-11-11T21:21:40.274811+09:00",
-  "updated_at_kst": "2026-11-11T21:22:20.388387+09:00",
+  "started_at_kst": "2026-11-12T21:45:22.892265+09:00",
+  "updated_at_kst": "2026-11-12T21:45:31.673469+09:00",
   "ended_at_kst": null,
-  "checked_channels": 34,
-  "verified_full_channels": 31,
-  "verified_posts": 724,
+  "checked_channels": 4,
+  "verified_full_channels": 4,
+  "verified_posts": 255,
   "searfin_status": "complete",
-  "failed_channels": [
-    "aetherjapanresearch"
-  ],
-  "errors": [
-    "hanachina: #71937: view counter missing/invalid",
-    "aetherjapanresearch: public read failed: ValueError: not an approved public channel preview",
-    "meritz_research: #45106: view counter missing/invalid"
-  ],
-  "evidence_path": "collection/snapshots/20261111T212114p0900-daily21.json",
+  "failed_channels": [],
+  "errors": [],
+  "evidence_path": "collection/snapshots/20261112T214514p0900-daily21.json",
   "report_published": false,
-  "status_path": "collection/status/20261111T212114p0900-daily21.json"
+  "status_path": "collection/status/20261112T214514p0900-daily21.json"
 }
