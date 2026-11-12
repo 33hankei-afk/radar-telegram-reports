@@ -1,9 +1,9 @@
 {
   "date_kst": "2026-11-12",
   "status": "running",
-  "stage": "collecting",
+  "stage": "publishing",
   "started_at_kst": "2026-11-12T21:44:47+09:00",
-  "updated_at_kst": "2026-11-12T21:46:26+09:00",
+  "updated_at_kst": "2026-11-12T21:47:24+09:00",
   "ended_at_kst": null,
   "attempt": 1,
   "request_id": "20261112T214514p0900-daily21",
@@ -13,6 +13,19 @@
   "verified_full_channels": 14,
   "failed_channels": [],
   "published_paths": [],
+  "publishing_results": {
+    "reports/2026-11-12.json": "pending",
+    "reports/2026-11-12.md": "pending",
+    "latest.md": "pending",
+    "latest.json": "pending"
+  },
+  "artifact": {
+    "id": 13944967339,
+    "name": "telegram-public-originals-43220799072",
+    "digest": "sha256:f7f345d241af34c6d31284d15cc475ab926500693e43e908157ddf39cf9e4b27",
+    "body_hashes_checked": 507,
+    "body_hash_mismatches": 0
+  },
   "errors": [
     "collector/checkpoint failed: ValueError",
     "수집기 중단으로 고정 59채널 중 45개 채널 미처리"
