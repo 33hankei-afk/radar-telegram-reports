@@ -1,19 +1,21 @@
 {
   "date_kst": "2026-11-14",
-  "status": "running",
-  "stage": "verifying",
+  "status": "partial",
+  "stage": "finished",
   "started_at_kst": "2026-11-14T21:19:08+09:00",
-  "updated_at_kst": "2026-11-14T21:22:53+09:00",
-  "ended_at_kst": null,
+  "updated_at_kst": "2026-11-14T21:23:22+09:00",
+  "ended_at_kst": "2026-11-14T21:23:22+09:00",
   "attempt": 1,
   "request_id": "20261114T211929p0900-daily21",
   "source_workflow_run_id": 43594248434,
   "verified_posts": 261,
   "checked_channels": 59,
   "verified_full_channels": 58,
+  "partial_channels": [],
   "failed_channels": [
     "aetherjapanresearch"
   ],
+  "unprocessed_channels": [],
   "published_paths": [
     "reports/2026-11-14.json",
     "reports/2026-11-14.md",
@@ -44,6 +46,19 @@
     "digest": "sha256:a66b8516337362a4e7827d3e477f5998213b837a950a512bff98c23094026b6c",
     "body_hashes_checked": 261,
     "body_hash_mismatches": 0
+  },
+  "verification": {
+    "remote_exact_match": true,
+    "date_kst": "2026-11-14",
+    "schema": "telegram_summaries_v1",
+    "entries": 136,
+    "top20": 20,
+    "theme_urls": 127,
+    "consensus_up": 0,
+    "consensus_down": 0,
+    "latest_json_matches_date_report": true,
+    "validation_workflow_run_id": 43594517879,
+    "validation_workflow_conclusion": "success"
   },
   "errors": [
     "aetherjapanresearch: public read failed: ValueError: not an approved public channel preview"
