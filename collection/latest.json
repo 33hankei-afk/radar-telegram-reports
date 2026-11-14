@@ -1,24 +1,20 @@
 {
   "schema": "telegram_collection_status_v1",
-  "request_id": "20261113T214335p0900-daily21",
-  "date_kst": "2026-11-13",
-  "execution_date_kst": "2026-11-13",
-  "status": "partial",
-  "stage": "finished",
-  "started_at_kst": "2026-11-13T21:43:44.942583+09:00",
-  "updated_at_kst": "2026-11-13T21:45:06.413564+09:00",
-  "ended_at_kst": "2026-11-13T21:45:06.413599+09:00",
-  "checked_channels": 59,
-  "verified_full_channels": 58,
-  "verified_posts": 1150,
+  "request_id": "20261114T211929p0900-daily21",
+  "date_kst": "2026-11-14",
+  "execution_date_kst": "2026-11-14",
+  "status": "running",
+  "stage": "collecting",
+  "started_at_kst": "2026-11-14T21:19:36.850447+09:00",
+  "updated_at_kst": "2026-11-14T21:19:41.059597+09:00",
+  "ended_at_kst": null,
+  "checked_channels": 4,
+  "verified_full_channels": 4,
+  "verified_posts": 62,
   "searfin_status": "complete",
-  "failed_channels": [
-    "aetherjapanresearch"
-  ],
-  "errors": [
-    "aetherjapanresearch: public read failed: ValueError: not an approved public channel preview"
-  ],
-  "evidence_path": "collection/snapshots/20261113T214335p0900-daily21.json",
+  "failed_channels": [],
+  "errors": [],
+  "evidence_path": "collection/snapshots/20261114T211929p0900-daily21.json",
   "report_published": false,
-  "status_path": "collection/status/20261113T214335p0900-daily21.json"
+  "status_path": "collection/status/20261114T211929p0900-daily21.json"
 }
