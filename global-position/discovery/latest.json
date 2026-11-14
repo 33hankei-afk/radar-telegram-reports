@@ -83,35 +83,35 @@
       "url": "https://news.google.com/rss/search?q=%22Shawn+Tuteja%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-      "items": 0,
+      "items": 1,
       "name": "Michael Hartnett",
       "note": "RSS 후보만 확인 · 원문/GPT 분석과 구분",
       "status": "checked",
       "url": "https://news.google.com/rss/search?q=%22Michael+Hartnett%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-      "items": 3,
+      "items": 2,
       "name": "PIMCO",
       "note": "RSS 후보만 확인 · 원문/GPT 분석과 구분",
       "status": "checked",
       "url": "https://news.google.com/rss/search?q=PIMCO+%28Ivascyn+OR+Balls+OR+Wilding+OR+outlook+OR+flows%29+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-      "items": 2,
+      "items": 1,
       "name": "글로벌 포지션·프라임브로커",
       "note": "RSS 후보만 확인 · 원문/GPT 분석과 구분",
       "status": "checked",
       "url": "https://news.google.com/rss/search?q=%28%22hedge+fund%22+OR+%22prime+broker%22%29+%28positioning+OR+deleveraging+OR+%22net+exposure%22+OR+%22gross+exposure%22%29+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-      "items": 3,
+      "items": 1,
       "name": "CTA·옵션·자금흐름",
       "note": "RSS 후보만 확인 · 원문/GPT 분석과 구분",
       "status": "checked",
       "url": "https://news.google.com/rss/search?q=%28CTA+OR+%22volatility+control%22+OR+%22dealer+gamma%22+OR+%22short+covering%22+OR+%22fund+flows%22%29+%28stocks+OR+equity+OR+equities%29+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
-      "items": 3,
+      "items": 4,
       "name": "국채·조달·캐리",
       "note": "RSS 후보만 확인 · 원문/GPT 분석과 구분",
       "status": "checked",
@@ -140,26 +140,26 @@
     }
   ],
   "coverage_note": "자동 공개 RSS 후보 수집입니다. 제목만으로 실제 헤지펀드 포지션이나 매수·매도 압력을 판단하지 않습니다.",
-  "date_kst": "2026-11-13",
+  "date_kst": "2026-11-14",
   "entries": [
     {
       "access": "headline_only",
       "actors": [
-        "pimco"
+        "hartnett"
       ],
       "claim_type": "unverified",
       "direction": "unknown",
       "event_date": null,
-      "event_key": "headline:a42dd6e3ddeb32730ee14630",
-      "id": "D88779c531426a6c7",
+      "event_key": "headline:98709e4da1ad838de622a8c1",
+      "id": "D7666c0bae78cd069",
       "mechanisms": [],
-      "published_at_kst": "2026-11-13T06:30:57+09:00",
+      "published_at_kst": "2026-11-13T20:10:32+09:00",
       "published_date": "2026-11-13",
-      "publisher": "Seeking Alpha",
+      "publisher": "Yahoo Finance UK",
       "source_kind": "candidate",
       "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
-      "title_ko": "HYS: Lesser Known PIMCO Fund Wipes Floor With PTY (NYSEARCA:HYS) - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcVBoNm9fWVFKRjdYOFhWaF94N2NTRDdLc3BzNUJTb2Fld1pfMFRobkoydWxfMGZ2UWdiRkV0UWZOQmdraVBVYnkzRVJHZnI4VkFMbEljdXd3NnZ6bkN5Q2VYeFFoVHlfbkNYQUJwRnZ6RzBaQnZxTFp3RWoyOFBteGZFaVBUbkVIUDZjNEVTR19VMVBSZzNoQVhtMjVhMG8td1FiRUlaUU1XQTBWWGFQSVg3dHVramZBTWtETzZNbWRNSW5EemU2aV9RUQ?oc=5"
+      "title_ko": "BofA’s Hartnett says stay risk-off until yields fall below 4.5% and oil hits $70 - Yahoo Finance UK",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaGV4SEVObkx4TzlQVzhrTmszQ3dmWVl5blBWWFFwelg4U3hRR2FjWlFJVXZqMWJfU1lLZF9qdlpOeUpjcjRZLS1td3BsR21nbTVRWVRWblZqTmdnUE9BRzFXR3pHU21xeloyWlNYS1p1Mi15dHhtR1RWM1FiblpCTko3TQ?oc=5"
     },
     {
       "access": "headline_only",
@@ -169,16 +169,16 @@
       "claim_type": "unverified",
       "direction": "unknown",
       "event_date": null,
-      "event_key": "headline:200a19aa4834a4e0d0733829",
-      "id": "D535d371713a2fd58",
+      "event_key": "headline:760a0884cdd8d4d86a28bf3c",
+      "id": "De5d08e2c68e3e7c3",
       "mechanisms": [],
-      "published_at_kst": "2026-11-12T20:35:26+09:00",
-      "published_date": "2026-11-12",
-      "publisher": "Bloomberg.com",
+      "published_at_kst": "2026-11-14T01:08:13+09:00",
+      "published_date": "2026-11-14",
+      "publisher": "ETF Database",
       "source_kind": "candidate",
       "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
-      "title_ko": "Blackstone and Pimco Target Gulf’s Multibillion-Dollar Buildout - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPV3J5Q240V3dob21yclhzMmJBNm1od3VXSWlWWnRGU3Z5dUVrZ0k4ajVWVzB2YllnQjN2ZVNaQ3hNU0FvNHpxbEVvSkFtdUhqMFNPYjhqcFE1S3pfRzhXeFp4dHBGcnNVUXhpZnM1OEhVcm9OSERPSE1SUTB0ZzhvVkd1SUIyOTl1TE1QX3lZNk85eUlMdXMzQ25pMkprQm9sSURHdEJ6Y3p1ZktnN1Bz?oc=5"
+      "title_ko": "PIMCO & Guggenheim Talk Fixed Income Opportunities for 2027 - ETF Database",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZmdVV01TY0dFRm9kNDkwVllQcTl1OTJtUS1BVlJaOXpubElwNVJCSXMwUjJRQ1NkODlIZjRyLUxWSHJmTy1JbDEyMGkzSEw2SGZnRkdIdDNvZFQ3M0N3RHlhSjd4OE1lM25oSTFJZGcwVTNTWnZ1Qnk0SHRNZzdUSzRTV3FYZXJYOE1IM1JGYWFyV0pVcWJvbFJ3UzJuQQ?oc=5"
     },
     {
       "access": "headline_only",
@@ -188,16 +188,16 @@
       "claim_type": "unverified",
       "direction": "unknown",
       "event_date": null,
-      "event_key": "headline:a2431fbb0801e6bbe283d409",
-      "id": "D65617b4fc49f184f",
+      "event_key": "headline:f852be1adb2ba2e8ca4c9706",
+      "id": "D481bfa776aa16a65",
       "mechanisms": [],
-      "published_at_kst": "2026-11-12T23:26:49+09:00",
-      "published_date": "2026-11-12",
-      "publisher": "JournalArta",
+      "published_at_kst": "2026-11-13T17:51:54+09:00",
+      "published_date": "2026-11-13",
+      "publisher": "TradingView",
       "source_kind": "candidate",
       "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
-      "title_ko": "PIMCO Flags AI Borrowers as Nearly Half of Long-Dated US Bond Sales - JournalArta",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRVdjbk5JTjlrLW1fR1B2djdNcXJsaU5OSUpCR3B0RURteUdaQXhDRGMtNnMwQl9GVVRMOFRBRDZPSlZGRW00OWJJM3k5Y3daX0UyampSOGg4T0xzbS1GaEhBeHY3VlZCaktBa1ZnbHZLcE0xamF2czlXNnM2TkJRcy1hSk1YNDh0Z2VhY1UyWWNwZkRCdlp0TnptS1JvYTRzR0E?oc=5"
+      "title_ko": "Price to sales forward of PIMCO Dynamic Income Fund – NASDAQ:XPDIX - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNemM5R3ZzSEZ3VmZwOTgyc1NqUWtwTXVCeHFOc3ZQX3g5Mjl0NW1UZS0yUWVjdVZYR29Ud05JbEp1YzIwcEJQLVFpUk5ZYUh3YmpKc05NY3VaRWVyMmtKblJJVXdQVkpsWVdiS2pPNG1HSjJVTUlSeWNKQkNyN2JIR3hoWVRXWFJDVzFJVHFORjNTcU5Gb2F2d1l0bGNNNUE?oc=5"
     },
     {
       "access": "headline_only",
@@ -205,16 +205,16 @@
       "claim_type": "unverified",
       "direction": "unknown",
       "event_date": null,
-      "event_key": "headline:cdb9b9234defb10f0678fd4f",
-      "id": "D1543d4c4cd719283",
+      "event_key": "headline:56bda938bb0dce160414f949",
+      "id": "De79efd22053911f7",
       "mechanisms": [],
-      "published_at_kst": "2026-11-13T03:29:27+09:00",
-      "published_date": "2026-11-13",
+      "published_at_kst": "2026-11-14T04:12:48+09:00",
+      "published_date": "2026-11-14",
       "publisher": "Alternatives Watch",
       "source_kind": "candidate",
       "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
-      "title_ko": "Equity hedge fund losses spread in October as managers soured on U.S. tech shares - Alternatives Watch",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVmpGVlVOd0JSOU1raHM3T1ZOZVVXYVplQzhVZUdzTU5QLXdENmI2M3VfTkUtdkRPbEV2eWpERjN4amxNVXRDeUd4SHpoTFdTOXZIN0FTN0hpOEFvcEVUUmk5WWJNaGVpd3hzSGlMUUpOTzJqX1BuYl9YM1hrUzJKMUJRSm44QW5RRGxqUXYyRzluUFE5eDJSbnZpSjdkR1JPaEE?oc=5"
+      "title_ko": "Hivemind to launch niche l/s hedge fund targeting blockchain, AI infrastructure - Alternatives Watch",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOWdRYmN0VE5OT1pxQnNJbnpTa2dyZnhQVUQ1V1FFQkljR1kyblJQVWlrNm9ZcVgzNW1MWV9kREpPeU9WLUh3UXpMdi04cW5CcWdwelNiVWdfU2NBUXMzdkpmMkhkeC1oNnFpZkM5RDRjRVlnSUdsYVB4WEFIdnBsNHJzNVdJUjlRdUFNNjMtUlA4UDlDN0ppNlBnZ2RmVW5IUHc2MlUtT1AzcVV1d0VmejNyRThHSGFoUmxpY2haaG92QQ?oc=5"
     },
     {
       "access": "headline_only",
@@ -222,33 +222,16 @@
       "claim_type": "unverified",
       "direction": "unknown",
       "event_date": null,
-      "event_key": "headline:01d4ba7c074a7bbf41c41ad5",
-      "id": "Daf0322c9f23d5750",
+      "event_key": "headline:18697662968fa95ccd104d35",
+      "id": "D721e6e9efc29a1f7",
       "mechanisms": [],
-      "published_at_kst": "2026-11-12T23:08:26+09:00",
-      "published_date": "2026-11-12",
-      "publisher": "Howl.Link",
-      "source_kind": "candidate",
-      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
-      "title_ko": "AI Trade Risks Grow as Hedge Funds Turn Bearish on Big Tech – Big Breaking Wire - Howl.Link",
-      "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFB6QkR2M2ZENFg4XzZPMlJFZk9wekZTT3FpTkgwQ2dCcW55ZDRVVVh2Ri1aWGNWMndrVU5B?oc=5"
-    },
-    {
-      "access": "headline_only",
-      "actors": [],
-      "claim_type": "unverified",
-      "direction": "unknown",
-      "event_date": null,
-      "event_key": "headline:3cfd0c3a631c74974331ba7d",
-      "id": "D8c4129c7bc6d38de",
-      "mechanisms": [],
-      "published_at_kst": "2026-11-13T05:00:00+09:00",
+      "published_at_kst": "2026-11-13T16:11:52+09:00",
       "published_date": "2026-11-13",
-      "publisher": "Morningstar",
+      "publisher": "Yahoo Finance UK",
       "source_kind": "candidate",
       "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
-      "title_ko": "CTA Previews Health Innovation at CES 2027, Announces New Wearable Technology White Paper - Morningstar",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQMV9Ea3c4S3ZaRGVzS2NyQWhGbXRwa1RqcTl3THdrRkluOGpIQWZTaFhOVjQ4NlRPM2FVT1cyR1RMejdKaXdLbmU1QmxTNHJENjJSM19TdW96Vy1KQ3BXamxITm8tb3BoOTJyajFtd1dpWU9jakRDNXE5Q2FaZ2ZlZzdxcWhCUF9tMXdBTDJoV09UUUc4a0ZJVHlXd0JBZnl3MWNHQXhiaXlCSmlLYXhLR1pqQTBJa1Vkb3R6UUNOVGhYZk5BbDcwMjZQQWotdVJEM0laUlJ6S0FIM1BUSzVrZG1yQQ?oc=5"
+      "title_ko": "CTA Dec 2026 22.000 put (CTA261218P00022000) stock price, news, quote and history - Yahoo Finance UK",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5PVWlsVVg3OVhfX3JJUVJ5Q0c1S3RuY2FhMU9FU2ZfRGlLUDBKOEN2VmNnM21QNzZNSzg0Z3YtQUJLOWtjQW04RkQ5WUlsNmxnTFdjUVYyXy1kU25BZVBrMEtHamU?oc=5"
     },
     {
       "access": "headline_only",
@@ -256,16 +239,16 @@
       "claim_type": "unverified",
       "direction": "unknown",
       "event_date": null,
-      "event_key": "headline:5871c3825f15ad22b6502104",
-      "id": "Db930c19c9a1a94bf",
+      "event_key": "headline:7e7cf7083f0e91acda974488",
+      "id": "D6d705d88d34572d0",
       "mechanisms": [],
-      "published_at_kst": "2026-11-12T20:47:35+09:00",
-      "published_date": "2026-11-12",
-      "publisher": "Crypto Briefing",
+      "published_at_kst": "2026-11-14T06:45:00+09:00",
+      "published_date": "2026-11-14",
+      "publisher": "HedgeCo.Net",
       "source_kind": "candidate",
       "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
-      "title_ko": "Ethereum faces potential selling pressure near $1,980 as dealer gamma shifts - Crypto Briefing",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOG1lXzBGbXEyeWZHTUQtT0dQY3FLS2ZHZGlJTXNoWG9RM1lhd1p4QWllTXc0LVFhbXE1Ynhzem9sNWJhOXNlWkoxUS1fOFhuUGR4a0ppeWJjcTdhQW51c0VWNmlNRWNYd3NNcGVwdXE3OWR4WFZkWFYtbm9nRFVvbA?oc=5"
+      "title_ko": "Hedge Funds Have Unwound Most of the Bitcoin Basis Trade as CME Net Shorts Fell 89% From Their Peak - HedgeCo.Net",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQanpLNjVEMl9sczJOeG1jVGNPMnlrUHV0enBrNlBZOV8xWU12UEl2THJvS2F3cGZ4NmVyX0daUjl0UHpGV05iVHRCUmJXY0tYdkdmMl9yNlVSOS1MSS1zenU1SFpaM2RTNm5LY3lacUQ5RjFzbDFGb0ZIaldfV2k1ZV9PNHZ4aUwyaURUVTRveExLbTdNWTVmTnlCcXFta20xLTJibE5IZHh0Xy12QnBOZWN0Z0NETmRkS0ZWSDF5UWhXMGJSUWZoUmNabUQ4M2Q5QVE?oc=5"
     },
     {
       "access": "headline_only",
@@ -273,16 +256,16 @@
       "claim_type": "unverified",
       "direction": "unknown",
       "event_date": null,
-      "event_key": "headline:31c0f81ec83c8ba5efcf9f52",
-      "id": "D7134849f3c75b27d",
+      "event_key": "headline:cd1bb3f5c0fdaf4dbcdfe06c",
+      "id": "D5e21e3e505e907f4",
       "mechanisms": [],
-      "published_at_kst": "2026-11-12T23:00:18+09:00",
-      "published_date": "2026-11-12",
-      "publisher": "Crypto Briefing",
+      "published_at_kst": "2026-11-13T19:23:57+09:00",
+      "published_date": "2026-11-13",
+      "publisher": "Hedgeweek",
       "source_kind": "candidate",
       "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
-      "title_ko": "Hedge funds unwind Bitcoin basis trade as CME net shorts fall 89% - Crypto Briefing",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5fVTVkNEs4LVQwLUNYdVFyczIwalgyMFhSMmthWFFLbEUwb2thXzlwX2QxVkw2cjhfTUNGeWxiczZISTJ6S2YyOWw3TjVHUnNua1lnZWRUZ0dpUlBYNHFjQVExb0hRcmRiZnBhNW4zRmpsUmx6?oc=5"
+      "title_ko": "Global regulators target hedge fund leverage in sovereign bond markets - Hedgeweek",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSW1jbXJvZFFTTGxlNE1vVXJmMmw0dXpEVjFURU10LUF0dG1HSFIwTVYtNjZUNkh1SWI2QXljbTRRcElsOTROcEJKMFpwTWdfMUpCSl9vRzJJT3dmWm54UFJIVGVBUElIcmtMS3F6c1VLOFpPbHpSQUZYZGF6WVR1R0xrX1c5MWtndm5KcTZoeWNJSmF6QTJIa2xuRkZQdw?oc=5"
     },
     {
       "access": "headline_only",
@@ -290,16 +273,16 @@
       "claim_type": "unverified",
       "direction": "unknown",
       "event_date": null,
-      "event_key": "headline:b0e4e5ddf2eef211477a8d28",
-      "id": "D9754f5b37e81777d",
+      "event_key": "headline:6a7f48abba7d562510b939a2",
+      "id": "D83ec4470f721f47f",
       "mechanisms": [],
-      "published_at_kst": "2026-11-12T19:53:15+09:00",
-      "published_date": "2026-11-12",
-      "publisher": "Bloomberg.com",
+      "published_at_kst": "2026-11-14T06:45:00+09:00",
+      "published_date": "2026-11-14",
+      "publisher": "HedgeCo.Net",
       "source_kind": "candidate",
       "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
-      "title_ko": "Hedge Funds’ Leveraged Bets Face New Global Push on Transparency - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeG1aWExpY0p4b1F1MFItREVVQ0ZhUDlXN2ZqOHZDc0h0OVh2YjU4M3RQSFQtSlRnWUJRNVVLRnVOeXRIZmF6MTRmMXJZV1lxbVV1TVk4NHlUcFdGT3QxSmpWWjZlUzBBdEQ5RFpfNnZHS0k3Y3JyNDVIaFpwcjFNV2xMXzhmeVNlQ1ZyRzF6MEZ1MzkyV1VPcllERFEyb1VSZ2EtYlV6ZUNJN3RoM3lsdA?oc=5"
+      "title_ko": "The Financial Stability Board Is Preparing a Consultation on Measuring Hedge Fund Leverage in Sovereign Bond Markets - HedgeCo.Net",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNVXZvYWozSnZnMmx6WXJaMEZhSGhHTVhRVVJJeUNhWHR1MHR2REN5Vko1SEhDMlFUSEFiLTFRMUpScXFjYm90aVdvMmYwYVQwWGlXdVpHT1NuSmdaNUdCM1FuU0hWSFBMc2ZnS3ExTHRvRHRZaEpHV1lmQnlXeVcxenBsV1VkY0JMQzFtVWtFX1ZvMlNIN0U0U01lN29hVkF0UWdlNFJoQTN0RFY1aFpnSVo0ZTh1UFlVUldTbzlLcEhrRGxfU3ZBbndfTjR2cTRZYnhNNzRvRzc3SlhsN0NoN2RxWFA4MlBrY2c?oc=5"
     },
     {
       "access": "headline_only",
@@ -307,22 +290,22 @@
       "claim_type": "unverified",
       "direction": "unknown",
       "event_date": null,
-      "event_key": "headline:28aba2ed86c785c08b7addb4",
-      "id": "D006b40570a15e8d2",
+      "event_key": "headline:8c01953f16769f1b8f15e998",
+      "id": "D6295b5f9fff26d38",
       "mechanisms": [],
-      "published_at_kst": "2026-11-12T23:29:38+09:00",
-      "published_date": "2026-11-12",
-      "publisher": "Pluang",
+      "published_at_kst": "2026-11-14T08:00:36+09:00",
+      "published_date": "2026-11-14",
+      "publisher": "IndexBox",
       "source_kind": "candidate",
       "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
-      "title_ko": "Hedge funds cut net short CME Bitcoin futures t... - Pluang",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSzlVWHMxSVlRakI4WExmcWstcXJVa052V2I3M3E2RXhsYlYyUVVKSU1qWmxkRlJHcW1QWGdxS3lQMTE4cVd3RVZDelJIV3haUUZfWFBOVUZPUmtIU3lsX1lqa01RRVQ2dUU0ODd0QlZpcVBERk1neWJnMkF6UGpjQldHcWlNSnBIZ2NQT21kcXZGS3B6MGhKSXJXUkE?oc=5"
+      "title_ko": "Mineros Gold Treasury Strategy Draws Margin Call Risk Warning - News and Statistics - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMTlydlZSYUZ0WXBfd0lKbTNYZHlMcm1oaGNzdHVleS1pTlFPMmQ1dHpMN0V2NDQ3anlnTVNNUkRHUDBxMHVMY2VhNkJETFc1bWJuLU5yUjV0ZFFSYlAxUG15V01FRExLbmR5TkJCenpkUTZYVnZjS0g0Qnc0Yk1tRnNEbU5KMjN5cmU3WHIzeko1eWR5MDBOTEQyci1rcjNpUHhJTjQ3RlNlTk9VNmd2MEZuYVgzOVJBRGJ6OHdUajZPSC1vQUstbg?oc=5"
     }
   ],
-  "generated_at_kst": "2026-11-13T12:22:06.470920+09:00",
+  "generated_at_kst": "2026-11-14T12:05:34.201771+09:00",
   "producer": "rss_discovery",
   "schema": "global_position_v1",
-  "window_end_kst": "2026-11-13T12:22:06.470920+09:00",
-  "window_start_kst": "2026-11-12T12:22:06.470920+09:00",
-  "content_sha256": "1a05efde4ab7a970d2029066c7a0258aab8bbda9fa48eed8fa93e60360eecb84"
+  "window_end_kst": "2026-11-14T12:05:34.201771+09:00",
+  "window_start_kst": "2026-11-13T12:05:34.201771+09:00",
+  "content_sha256": "75994d4b5f0a1df6915dc3da635359b18e5d3fda7fcf6d564a220092c5fc167b"
 }
