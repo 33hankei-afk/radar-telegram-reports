@@ -1,9 +1,9 @@
 {
   "date_kst": "2026-11-15",
   "status": "running",
-  "stage": "collecting",
+  "stage": "publishing",
   "started_at_kst": "2026-11-15T21:15:41+09:00",
-  "updated_at_kst": "2026-11-15T21:18:15+09:00",
+  "updated_at_kst": "2026-11-15T21:19:33+09:00",
   "ended_at_kst": null,
   "attempt": 1,
   "verified_posts": 209,
@@ -33,5 +33,26 @@
   },
   "notes": [
     "수집 요청이 커밋됨. source 완료와 보고서 완료는 구분."
-  ]
+  ],
+  "report": {
+    "date_kst": "2026-11-15",
+    "observed_at_kst": "2026-11-15T21:17:34.594628+09:00",
+    "entries": 105,
+    "top20": 20,
+    "theme_posts": 91,
+    "consensus_up": 0,
+    "consensus_down": 0,
+    "local_validation": "passed",
+    "artifact_zip_sha256": "1ffbff53087ce0c9c0196799f3db39bf4dd1900936a5d049648b1dd520c3ef1c",
+    "body_hash_mismatches": 0
+  },
+  "publishing": {
+    "attempted": true,
+    "files": {
+      "reports/2026-11-15.json": "pending",
+      "reports/2026-11-15.md": "pending",
+      "latest.md": "pending",
+      "latest.json": "pending"
+    }
+  }
 }
