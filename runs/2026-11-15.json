@@ -3,12 +3,12 @@
   "status": "running",
   "stage": "collecting",
   "started_at_kst": "2026-11-15T21:15:41+09:00",
-  "updated_at_kst": "2026-11-15T21:16:15+09:00",
+  "updated_at_kst": "2026-11-15T21:16:58+09:00",
   "ended_at_kst": null,
   "attempt": 1,
-  "verified_posts": 0,
-  "checked_channels": 0,
-  "verified_full_channels": 0,
+  "verified_posts": 83,
+  "checked_channels": 14,
+  "verified_full_channels": 14,
   "failed_channels": [],
   "published_paths": [],
   "errors": [],
@@ -16,7 +16,11 @@
     "request_id": "20261115T211605p0900-daily21",
     "requested_at_kst": "2026-11-15T21:16:05+09:00",
     "request_commit_sha": "c063b2f6d26852643050c76dd77fc03ee2e723fb",
-    "source_status": "requested"
+    "source_status": "running",
+    "source_stage": "collecting",
+    "source_updated_at_kst": "2026-11-15T21:16:37.003005+09:00",
+    "searfin_status": "complete",
+    "workflow_run_id": 43712968874
   },
   "notes": [
     "수집 요청이 커밋됨. source 완료와 보고서 완료는 구분."
