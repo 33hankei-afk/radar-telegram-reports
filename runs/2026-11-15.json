@@ -3,22 +3,27 @@
   "status": "running",
   "stage": "collecting",
   "started_at_kst": "2026-11-15T21:15:41+09:00",
-  "updated_at_kst": "2026-11-15T21:16:58+09:00",
+  "updated_at_kst": "2026-11-15T21:17:35+09:00",
   "ended_at_kst": null,
   "attempt": 1,
-  "verified_posts": 83,
-  "checked_channels": 14,
-  "verified_full_channels": 14,
-  "failed_channels": [],
+  "verified_posts": 188,
+  "checked_channels": 54,
+  "verified_full_channels": 52,
+  "failed_channels": [
+    "aetherjapanresearch"
+  ],
   "published_paths": [],
-  "errors": [],
+  "errors": [
+    "hanachina: #72159: view counter missing/invalid",
+    "aetherjapanresearch: public read failed: ValueError: not an approved public channel preview"
+  ],
   "collection": {
     "request_id": "20261115T211605p0900-daily21",
     "requested_at_kst": "2026-11-15T21:16:05+09:00",
     "request_commit_sha": "c063b2f6d26852643050c76dd77fc03ee2e723fb",
     "source_status": "running",
     "source_stage": "collecting",
-    "source_updated_at_kst": "2026-11-15T21:16:37.003005+09:00",
+    "source_updated_at_kst": "2026-11-15T21:17:21.587879+09:00",
     "searfin_status": "complete",
     "workflow_run_id": 43712968874
   },
