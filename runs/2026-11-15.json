@@ -1,10 +1,10 @@
 {
   "date_kst": "2026-11-15",
-  "status": "running",
-  "stage": "verifying",
+  "status": "partial",
+  "stage": "finished",
   "started_at_kst": "2026-11-15T21:15:41+09:00",
-  "updated_at_kst": "2026-11-15T21:20:30+09:00",
-  "ended_at_kst": null,
+  "updated_at_kst": "2026-11-15T21:23:41+09:00",
+  "ended_at_kst": "2026-11-15T21:23:41+09:00",
   "attempt": 1,
   "verified_posts": 209,
   "checked_channels": 59,
@@ -20,7 +20,8 @@
   ],
   "errors": [
     "hanachina: #72159: view counter missing/invalid",
-    "aetherjapanresearch: public read failed: ValueError: not an approved public channel preview"
+    "aetherjapanresearch: public read failed: ValueError: not an approved public channel preview",
+    "초기 대용량 UTF-16 분할 업로드의 12000자 경계 손상을 CI가 탐지함; 원본에서 재업로드 후 CI 성공으로 복구"
   ],
   "collection": {
     "request_id": "20261115T211605p0900-daily21",
@@ -37,7 +38,9 @@
     "artifact_digest": "sha256:1ffbff53087ce0c9c0196799f3db39bf4dd1900936a5d049648b1dd520c3ef1c"
   },
   "notes": [
-    "수집 요청이 커밋됨. source 완료와 보고서 완료는 구분."
+    "source 수집 partial과 보고서 게시 검증을 구분함",
+    "전체 59채널 처리, 57개 전수 확인, hanachina 부분 확인, aetherjapanresearch 실패",
+    "보고서 게시·원격 재조회·CI 성공. 누락 범위 때문에 최종 status는 partial"
   ],
   "report": {
     "date_kst": "2026-11-15",
@@ -56,26 +59,37 @@
     "files": {
       "reports/2026-11-15.json": {
         "status": "success",
-        "commit_sha": "32c0a0fc41f93c936c120db8717b2455c54b975a"
+        "commit_sha": "a049f38fc5a6cbc3fb30c6d5ba461955144ad3e6",
+        "blob_sha": "17cc58fb8a701e04a995ce355c0fa7c06777259e"
       },
       "reports/2026-11-15.md": {
         "status": "success",
-        "commit_sha": "8d564e77b851006552b5da3ca28035f5a7d72023"
+        "commit_sha": "8e9d349eb1e4984b0e55fd0dbe29d4ca6e017c86",
+        "blob_sha": "7e470ee3904a13ac14545ec213ce1cf563d9462d"
       },
       "latest.md": {
         "status": "success",
-        "commit_sha": "f6d24f43e4754c543e15ea4125386d802b61e12c"
+        "commit_sha": "1d2540f4e1a8fd0a3d686bd0bcb1891c5c828a86",
+        "blob_sha": "7e470ee3904a13ac14545ec213ce1cf563d9462d"
       },
       "latest.json": {
         "status": "success",
-        "commit_sha": "506ebae270948f0bab32683ba0307f277ab0b718"
+        "commit_sha": "ae3897cfce49ad136eed141135c87316b71de03a",
+        "blob_sha": "17cc58fb8a701e04a995ce355c0fa7c06777259e"
       }
     }
   },
   "verification": {
-    "remote_reread": "pending",
-    "date_schema_url_consistency": "pending",
-    "latest_json_exact_match": "pending",
-    "ci": "pending"
+    "remote_reread": "passed",
+    "date_schema_url_consistency": "passed",
+    "latest_json_exact_match": "passed",
+    "artifact_zip_sha256": "passed",
+    "body_hashes": "209 of 209 passed",
+    "ci": {
+      "status": "success",
+      "run_id": 43713541974,
+      "initial_failed_run_id": 43713324255,
+      "repair_note": "Unicode chunk offset corrected and all four files republished"
+    }
   }
 }
