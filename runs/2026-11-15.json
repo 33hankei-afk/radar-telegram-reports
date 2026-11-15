@@ -1,9 +1,9 @@
 {
   "date_kst": "2026-11-15",
   "status": "running",
-  "stage": "publishing",
+  "stage": "verifying",
   "started_at_kst": "2026-11-15T21:15:41+09:00",
-  "updated_at_kst": "2026-11-15T21:19:33+09:00",
+  "updated_at_kst": "2026-11-15T21:20:30+09:00",
   "ended_at_kst": null,
   "attempt": 1,
   "verified_posts": 209,
@@ -12,7 +12,12 @@
   "failed_channels": [
     "aetherjapanresearch"
   ],
-  "published_paths": [],
+  "published_paths": [
+    "reports/2026-11-15.json",
+    "reports/2026-11-15.md",
+    "latest.md",
+    "latest.json"
+  ],
   "errors": [
     "hanachina: #72159: view counter missing/invalid",
     "aetherjapanresearch: public read failed: ValueError: not an approved public channel preview"
@@ -49,10 +54,28 @@
   "publishing": {
     "attempted": true,
     "files": {
-      "reports/2026-11-15.json": "pending",
-      "reports/2026-11-15.md": "pending",
-      "latest.md": "pending",
-      "latest.json": "pending"
+      "reports/2026-11-15.json": {
+        "status": "success",
+        "commit_sha": "32c0a0fc41f93c936c120db8717b2455c54b975a"
+      },
+      "reports/2026-11-15.md": {
+        "status": "success",
+        "commit_sha": "8d564e77b851006552b5da3ca28035f5a7d72023"
+      },
+      "latest.md": {
+        "status": "success",
+        "commit_sha": "f6d24f43e4754c543e15ea4125386d802b61e12c"
+      },
+      "latest.json": {
+        "status": "success",
+        "commit_sha": "506ebae270948f0bab32683ba0307f277ab0b718"
+      }
     }
+  },
+  "verification": {
+    "remote_reread": "pending",
+    "date_schema_url_consistency": "pending",
+    "latest_json_exact_match": "pending",
+    "ci": "pending"
   }
 }
