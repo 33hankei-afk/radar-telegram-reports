@@ -3,12 +3,12 @@
   "status": "running",
   "stage": "collecting",
   "started_at_kst": "2026-11-15T21:15:41+09:00",
-  "updated_at_kst": "2026-11-15T21:17:35+09:00",
+  "updated_at_kst": "2026-11-15T21:18:15+09:00",
   "ended_at_kst": null,
   "attempt": 1,
-  "verified_posts": 188,
-  "checked_channels": 54,
-  "verified_full_channels": 52,
+  "verified_posts": 209,
+  "checked_channels": 59,
+  "verified_full_channels": 57,
   "failed_channels": [
     "aetherjapanresearch"
   ],
@@ -21,11 +21,15 @@
     "request_id": "20261115T211605p0900-daily21",
     "requested_at_kst": "2026-11-15T21:16:05+09:00",
     "request_commit_sha": "c063b2f6d26852643050c76dd77fc03ee2e723fb",
-    "source_status": "running",
-    "source_stage": "collecting",
-    "source_updated_at_kst": "2026-11-15T21:17:21.587879+09:00",
+    "source_status": "partial",
+    "source_stage": "finished",
+    "source_updated_at_kst": "2026-11-15T21:17:29.578791+09:00",
     "searfin_status": "complete",
-    "workflow_run_id": 43712968874
+    "workflow_run_id": 43712968874,
+    "source_ended_at_kst": "2026-11-15T21:17:29.578813+09:00",
+    "artifact_id": 14160942538,
+    "artifact_name": "telegram-public-originals-43712968874",
+    "artifact_digest": "sha256:1ffbff53087ce0c9c0196799f3db39bf4dd1900936a5d049648b1dd520c3ef1c"
   },
   "notes": [
     "수집 요청이 커밋됨. source 완료와 보고서 완료는 구분."
