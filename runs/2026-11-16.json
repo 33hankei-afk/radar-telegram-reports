@@ -1,9 +1,9 @@
 {
   "date_kst": "2026-11-16",
   "status": "running",
-  "stage": "publishing",
+  "stage": "verifying",
   "started_at_kst": "2026-11-16T22:34:22+09:00",
-  "updated_at_kst": "2026-11-16T22:37:21+09:00",
+  "updated_at_kst": "2026-11-16T22:38:36+09:00",
   "ended_at_kst": null,
   "attempt": 1,
   "verified_posts": 1000,
@@ -12,7 +12,12 @@
   "failed_channels": [
     "aetherjapanresearch"
   ],
-  "published_paths": [],
+  "published_paths": [
+    "reports/2026-11-16.json",
+    "reports/2026-11-16.md",
+    "latest.md",
+    "latest.json"
+  ],
   "errors": [
     "aetherjapanresearch: public read failed: ValueError: not an approved public channel preview"
   ],
@@ -45,10 +50,28 @@
   "publishing": {
     "attempted": true,
     "files": {
-      "reports/2026-11-16.json": "pending",
-      "reports/2026-11-16.md": "pending",
-      "latest.md": "pending",
-      "latest.json": "pending"
+      "reports/2026-11-16.json": {
+        "status": "success",
+        "commit_sha": "5958cc7e44446819c6833b7f325fc7b6004c71c2"
+      },
+      "reports/2026-11-16.md": {
+        "status": "success",
+        "commit_sha": "d7681747995146731f8953bd01e326c16d3e2a05"
+      },
+      "latest.md": {
+        "status": "success",
+        "commit_sha": "5297ecef095087c251a75ca8ca680fd6b5665410"
+      },
+      "latest.json": {
+        "status": "success",
+        "commit_sha": "e4bdd68d90af29494522e23a076614b0e998ea74"
+      }
     }
+  },
+  "verification": {
+    "remote_reread": "pending",
+    "date_schema_url_consistency": "pending",
+    "latest_json_exact_match": "pending",
+    "ci": "pending"
   }
 }
