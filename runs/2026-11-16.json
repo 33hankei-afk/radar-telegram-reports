@@ -3,19 +3,27 @@
   "status": "running",
   "stage": "collecting",
   "started_at_kst": "2026-11-16T22:34:22+09:00",
-  "updated_at_kst": "2026-11-16T22:34:52+09:00",
+  "updated_at_kst": "2026-11-16T22:35:35+09:00",
   "ended_at_kst": null,
   "attempt": 1,
-  "verified_posts": 0,
-  "checked_channels": 0,
-  "verified_full_channels": 0,
-  "failed_channels": [],
+  "verified_posts": 500,
+  "checked_channels": 24,
+  "verified_full_channels": 23,
+  "failed_channels": [
+    "aetherjapanresearch"
+  ],
   "published_paths": [],
-  "errors": [],
+  "errors": [
+    "aetherjapanresearch: public read failed: ValueError: not an approved public channel preview"
+  ],
   "collection": {
     "request_id": "20261116T223442p0900-daily21",
     "requested_at_kst": "2026-11-16T22:34:42+09:00",
     "request_commit_sha": "73026a07243f1b3d2455162959d590832d110728",
-    "source_status": "requested"
+    "source_status": "running",
+    "source_stage": "collecting",
+    "source_updated_at_kst": "2026-11-16T22:35:17.473822+09:00",
+    "searfin_status": "complete",
+    "workflow_run_id": 43877107409
   }
 }
