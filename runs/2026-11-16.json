@@ -1,9 +1,9 @@
 {
   "date_kst": "2026-11-16",
   "status": "running",
-  "stage": "started",
+  "stage": "collecting",
   "started_at_kst": "2026-11-16T22:34:22+09:00",
-  "updated_at_kst": "2026-11-16T22:34:22+09:00",
+  "updated_at_kst": "2026-11-16T22:34:52+09:00",
   "ended_at_kst": null,
   "attempt": 1,
   "verified_posts": 0,
@@ -11,5 +11,11 @@
   "verified_full_channels": 0,
   "failed_channels": [],
   "published_paths": [],
-  "errors": []
+  "errors": [],
+  "collection": {
+    "request_id": "20261116T223442p0900-daily21",
+    "requested_at_kst": "2026-11-16T22:34:42+09:00",
+    "request_commit_sha": "73026a07243f1b3d2455162959d590832d110728",
+    "source_status": "requested"
+  }
 }
