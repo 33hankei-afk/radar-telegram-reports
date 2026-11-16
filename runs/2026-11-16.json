@@ -3,12 +3,12 @@
   "status": "running",
   "stage": "collecting",
   "started_at_kst": "2026-11-16T22:34:22+09:00",
-  "updated_at_kst": "2026-11-16T22:35:35+09:00",
+  "updated_at_kst": "2026-11-16T22:36:20+09:00",
   "ended_at_kst": null,
   "attempt": 1,
-  "verified_posts": 500,
-  "checked_channels": 24,
-  "verified_full_channels": 23,
+  "verified_posts": 1000,
+  "checked_channels": 59,
+  "verified_full_channels": 58,
   "failed_channels": [
     "aetherjapanresearch"
   ],
@@ -20,10 +20,14 @@
     "request_id": "20261116T223442p0900-daily21",
     "requested_at_kst": "2026-11-16T22:34:42+09:00",
     "request_commit_sha": "73026a07243f1b3d2455162959d590832d110728",
-    "source_status": "running",
-    "source_stage": "collecting",
-    "source_updated_at_kst": "2026-11-16T22:35:17.473822+09:00",
+    "source_status": "partial",
+    "source_stage": "finished",
+    "source_updated_at_kst": "2026-11-16T22:35:55.301322+09:00",
     "searfin_status": "complete",
-    "workflow_run_id": 43877107409
+    "workflow_run_id": 43877107409,
+    "source_ended_at_kst": "2026-11-16T22:35:55.301349+09:00",
+    "artifact_id": 14229802833,
+    "artifact_name": "telegram-public-originals-43877107409",
+    "artifact_digest": "sha256:32518ec6b2112773bf8e71c906cafd60afcb56fb807e78bae0d227a9b25c9eb8"
   }
 }
