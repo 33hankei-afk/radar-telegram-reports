@@ -1,9 +1,9 @@
 {
   "date_kst": "2026-11-16",
   "status": "running",
-  "stage": "collecting",
+  "stage": "publishing",
   "started_at_kst": "2026-11-16T22:34:22+09:00",
-  "updated_at_kst": "2026-11-16T22:36:20+09:00",
+  "updated_at_kst": "2026-11-16T22:37:21+09:00",
   "ended_at_kst": null,
   "attempt": 1,
   "verified_posts": 1000,
@@ -29,5 +29,26 @@
     "artifact_id": 14229802833,
     "artifact_name": "telegram-public-originals-43877107409",
     "artifact_digest": "sha256:32518ec6b2112773bf8e71c906cafd60afcb56fb807e78bae0d227a9b25c9eb8"
+  },
+  "report": {
+    "date_kst": "2026-11-16",
+    "observed_at_kst": "2026-11-16T22:35:59.954543+09:00",
+    "entries": 355,
+    "top20": 20,
+    "theme_posts": 345,
+    "consensus_up": 0,
+    "consensus_down": 0,
+    "local_validation": "passed",
+    "artifact_zip_sha256": "32518ec6b2112773bf8e71c906cafd60afcb56fb807e78bae0d227a9b25c9eb8",
+    "body_hash_mismatches": 0
+  },
+  "publishing": {
+    "attempted": true,
+    "files": {
+      "reports/2026-11-16.json": "pending",
+      "reports/2026-11-16.md": "pending",
+      "latest.md": "pending",
+      "latest.json": "pending"
+    }
   }
 }
