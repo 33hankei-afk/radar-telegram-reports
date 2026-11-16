@@ -1,10 +1,10 @@
 {
   "date_kst": "2026-11-16",
-  "status": "running",
-  "stage": "verifying",
+  "status": "partial",
+  "stage": "finished",
   "started_at_kst": "2026-11-16T22:34:22+09:00",
-  "updated_at_kst": "2026-11-16T22:38:36+09:00",
-  "ended_at_kst": null,
+  "updated_at_kst": "2026-11-16T22:39:08+09:00",
+  "ended_at_kst": "2026-11-16T22:39:08+09:00",
   "attempt": 1,
   "verified_posts": 1000,
   "checked_channels": 59,
@@ -52,26 +52,40 @@
     "files": {
       "reports/2026-11-16.json": {
         "status": "success",
-        "commit_sha": "5958cc7e44446819c6833b7f325fc7b6004c71c2"
+        "commit_sha": "5958cc7e44446819c6833b7f325fc7b6004c71c2",
+        "blob_sha": "52f5f013361f75827a730170ff1e343dddfebc39"
       },
       "reports/2026-11-16.md": {
         "status": "success",
-        "commit_sha": "d7681747995146731f8953bd01e326c16d3e2a05"
+        "commit_sha": "d7681747995146731f8953bd01e326c16d3e2a05",
+        "blob_sha": "df279e6520f7f2a4216d340774ed7cd65344a63f"
       },
       "latest.md": {
         "status": "success",
-        "commit_sha": "5297ecef095087c251a75ca8ca680fd6b5665410"
+        "commit_sha": "5297ecef095087c251a75ca8ca680fd6b5665410",
+        "blob_sha": "df279e6520f7f2a4216d340774ed7cd65344a63f"
       },
       "latest.json": {
         "status": "success",
-        "commit_sha": "e4bdd68d90af29494522e23a076614b0e998ea74"
+        "commit_sha": "e4bdd68d90af29494522e23a076614b0e998ea74",
+        "blob_sha": "52f5f013361f75827a730170ff1e343dddfebc39"
       }
     }
   },
   "verification": {
-    "remote_reread": "pending",
-    "date_schema_url_consistency": "pending",
-    "latest_json_exact_match": "pending",
-    "ci": "pending"
-  }
+    "remote_reread": "passed",
+    "date_schema_url_consistency": "passed",
+    "latest_json_exact_match": "passed",
+    "artifact_zip_sha256": "passed",
+    "body_hashes": "1000 of 1000 passed",
+    "ci": {
+      "status": "success",
+      "run_id": 43877713651
+    }
+  },
+  "notes": [
+    "source 수집 partial과 보고서 게시 검증을 구분함",
+    "전체 59채널 처리, 58개 전수 확인, aetherjapanresearch 실패",
+    "보고서 게시·원격 재조회·CI 성공. 누락 범위 때문에 최종 status는 partial"
+  ]
 }
