@@ -1,10 +1,10 @@
 {
   "date_kst": "2026-11-17",
-  "status": "running",
-  "stage": "verifying",
+  "status": "partial",
+  "stage": "finished",
   "started_at_kst": "2026-11-17T21:42:52+09:00",
-  "updated_at_kst": "2026-11-17T21:47:02+09:00",
-  "ended_at_kst": null,
+  "updated_at_kst": "2026-11-17T21:47:36+09:00",
+  "ended_at_kst": "2026-11-17T21:47:36+09:00",
   "attempt": 1,
   "verified_posts": 1018,
   "checked_channels": 59,
@@ -39,5 +39,23 @@
     "report_md": "268a59164e402ec65be0f0c13fe4fcf13c358d07",
     "latest_md": "ca932df796682929e93f0bb2032460ce8873a6b7",
     "latest_json": "53412151c1b2590a0dfeec4952b5e5df5778cbb7"
+  },
+  "verification": {
+    "remote_report_json_exact": true,
+    "remote_report_md_exact": true,
+    "remote_latest_json_exact": true,
+    "remote_latest_md_exact": true,
+    "date_kst": "2026-11-17",
+    "schema": "telegram_summaries_v1",
+    "entries": 404,
+    "top20": 20,
+    "body_hash_mismatches": 0,
+    "date_mismatches": 0
+  },
+  "validation_workflow": {
+    "run_id": 44086354092,
+    "status": "completed",
+    "conclusion": "success",
+    "url": "https://github.com/33hankei-afk/radar-telegram-reports/actions/runs/44086354092"
   }
 }
