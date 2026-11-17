@@ -1,9 +1,9 @@
 {
   "date_kst": "2026-11-17",
   "status": "running",
-  "stage": "collecting",
+  "stage": "publishing",
   "started_at_kst": "2026-11-17T21:42:52+09:00",
-  "updated_at_kst": "2026-11-17T21:44:53+09:00",
+  "updated_at_kst": "2026-11-17T21:46:03+09:00",
   "ended_at_kst": null,
   "attempt": 1,
   "verified_posts": 1018,
@@ -24,5 +24,9 @@
   "source_report_published": false,
   "workflow_run_id": 44085795649,
   "source_ended_at_kst": "2026-11-17T21:44:35.711662+09:00",
-  "searfin_status": "complete"
+  "searfin_status": "complete",
+  "report_entry_count": 404,
+  "top20_count": 20,
+  "theme_post_count": 396,
+  "report_sha256": "45bc5842522a13c423f86f95658f8111d37b09d0242b41f483af43efc12dac01"
 }
