@@ -3,23 +3,28 @@
   "status": "running",
   "stage": "collecting",
   "started_at_kst": "2026-11-18T21:06:08+09:00",
-  "updated_at_kst": "2026-11-18T21:07:37+09:00",
+  "updated_at_kst": "2026-11-18T21:08:21+09:00",
   "ended_at_kst": null,
   "attempt": 1,
-  "verified_posts": 1315,
-  "checked_channels": 14,
-  "verified_full_channels": 14,
-  "failed_channels": [],
+  "verified_posts": 1427,
+  "checked_channels": 24,
+  "verified_full_channels": 23,
+  "failed_channels": [
+    "aetherjapanresearch"
+  ],
   "published_paths": [],
   "errors": [
-    "searfin: repeated page or pagination safety limit"
+    "searfin: repeated page or pagination safety limit",
+    "aetherjapanresearch: public read failed: ValueError: not an approved public channel preview",
+    "collector/checkpoint failed: JSONDecodeError"
   ],
   "collection_request_id": "20261118T210626p0900-daily21",
   "collection_request_commit": "d425562ea23b0dfd1793b6ac0dc8adac054f23da",
-  "source_status": "running",
+  "source_status": "failed",
   "source_stage": "collecting",
   "searfin_status": "partial",
   "source_evidence_path": "collection/snapshots/20261118T210626p0900-daily21.json",
   "source_report_published": false,
-  "workflow_run_id": 44300767170
+  "workflow_run_id": 44300767170,
+  "source_ended_at_kst": "2026-11-18T21:07:36.153826+09:00"
 }
