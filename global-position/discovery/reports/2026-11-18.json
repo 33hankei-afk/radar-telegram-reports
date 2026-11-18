@@ -1,0 +1,311 @@
+{
+  "assessments": {
+    "ai_positioning": {
+      "confidence": "낮음",
+      "counter_ids": [],
+      "evidence_ids": [],
+      "label": "판단 자료 부족",
+      "limitations": [
+        "전체 헤지펀드의 실제 포지션을 추정한 수치가 아닙니다."
+      ],
+      "summary": "원문 검증 자료를 기다립니다."
+    },
+    "korea_path": {
+      "confidence": "낮음",
+      "counter_ids": [],
+      "evidence_ids": [],
+      "label": "판단 자료 부족",
+      "limitations": [
+        "전체 헤지펀드의 실제 포지션을 추정한 수치가 아닙니다."
+      ],
+      "summary": "원문 검증 자료를 기다립니다."
+    },
+    "liquidity": {
+      "confidence": "낮음",
+      "counter_ids": [],
+      "evidence_ids": [],
+      "label": "판단 자료 부족",
+      "limitations": [
+        "전체 헤지펀드의 실제 포지션을 추정한 수치가 아닙니다."
+      ],
+      "summary": "원문 검증 자료를 기다립니다."
+    },
+    "pressure": {
+      "confidence": "낮음",
+      "counter_ids": [],
+      "evidence_ids": [],
+      "label": "판단 자료 부족",
+      "limitations": [
+        "전체 헤지펀드의 실제 포지션을 추정한 수치가 아닙니다."
+      ],
+      "summary": "원문 검증 자료를 기다립니다."
+    }
+  },
+  "complete": true,
+  "core_targets": [
+    {
+      "change": "미확인",
+      "evidence_ids": [],
+      "focus": "AI·M7 과밀 / 옵션 / 포지션 비대칭",
+      "id": "tuteja",
+      "institution": "Goldman Sachs",
+      "name": "Shawn Tuteja",
+      "role": "ETF·맞춤형 바스켓 변동성 트레이딩",
+      "summary_ko": "원문 검증 일보 대기"
+    },
+    {
+      "change": "미확인",
+      "evidence_ids": [],
+      "focus": "펀드 자금흐름 / 현금·과열 / 자산배분",
+      "id": "hartnett",
+      "institution": "BofA Global Research",
+      "name": "Michael Hartnett",
+      "role": "최고 투자전략가 · Flow Show",
+      "summary_ko": "원문 검증 일보 대기"
+    },
+    {
+      "change": "미확인",
+      "evidence_ids": [],
+      "focus": "금리·채권 / 조달·유동성 / 위험자산 배분",
+      "id": "pimco",
+      "institution": "PIMCO",
+      "name": "PIMCO",
+      "role": "기관 · Ivascyn / Balls / Wilding 등",
+      "summary_ko": "원문 검증 일보 대기"
+    }
+  ],
+  "coverage": [
+    {
+      "items": 0,
+      "name": "Shawn Tuteja",
+      "note": "RSS 후보만 확인 · 원문/GPT 분석과 구분",
+      "status": "checked",
+      "url": "https://news.google.com/rss/search?q=%22Shawn+Tuteja%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "items": 1,
+      "name": "Michael Hartnett",
+      "note": "RSS 후보만 확인 · 원문/GPT 분석과 구분",
+      "status": "checked",
+      "url": "https://news.google.com/rss/search?q=%22Michael+Hartnett%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "items": 2,
+      "name": "PIMCO",
+      "note": "RSS 후보만 확인 · 원문/GPT 분석과 구분",
+      "status": "checked",
+      "url": "https://news.google.com/rss/search?q=PIMCO+%28Ivascyn+OR+Balls+OR+Wilding+OR+outlook+OR+flows%29+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "items": 3,
+      "name": "글로벌 포지션·프라임브로커",
+      "note": "RSS 후보만 확인 · 원문/GPT 분석과 구분",
+      "status": "checked",
+      "url": "https://news.google.com/rss/search?q=%28%22hedge+fund%22+OR+%22prime+broker%22%29+%28positioning+OR+deleveraging+OR+%22net+exposure%22+OR+%22gross+exposure%22%29+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "items": 2,
+      "name": "CTA·옵션·자금흐름",
+      "note": "RSS 후보만 확인 · 원문/GPT 분석과 구분",
+      "status": "checked",
+      "url": "https://news.google.com/rss/search?q=%28CTA+OR+%22volatility+control%22+OR+%22dealer+gamma%22+OR+%22short+covering%22+OR+%22fund+flows%22%29+%28stocks+OR+equity+OR+equities%29+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "items": 1,
+      "name": "국채·조달·캐리",
+      "note": "RSS 후보만 확인 · 원문/GPT 분석과 구분",
+      "status": "checked",
+      "url": "https://news.google.com/rss/search?q=%28%22treasury+basis%22+OR+%22basis+trade%22+OR+repo+OR+%22margin+call%22+OR+%22yen+carry%22%29+%28%22hedge+fund%22+OR+leverage+OR+trade%29+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "items": 0,
+      "name": "Reddit r/stocks",
+      "note": "HTTPError",
+      "status": "failed",
+      "url": "https://www.reddit.com/r/stocks/new/.rss"
+    },
+    {
+      "items": 0,
+      "name": "Reddit r/investing",
+      "note": "HTTPError",
+      "status": "failed",
+      "url": "https://www.reddit.com/r/investing/new/.rss"
+    },
+    {
+      "items": 0,
+      "name": "Reddit r/wallstreetbets",
+      "note": "HTTPError",
+      "status": "failed",
+      "url": "https://www.reddit.com/r/wallstreetbets/new/.rss"
+    }
+  ],
+  "coverage_note": "자동 공개 RSS 후보 수집입니다. 제목만으로 실제 헤지펀드 포지션이나 매수·매도 압력을 판단하지 않습니다.",
+  "date_kst": "2026-11-18",
+  "entries": [
+    {
+      "access": "headline_only",
+      "actors": [
+        "hartnett"
+      ],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:18b78934c52d1044631d47bc",
+      "id": "Dc3d5812c513e9589",
+      "mechanisms": [],
+      "published_at_kst": "2026-11-18T12:30:46+09:00",
+      "published_date": "2026-11-18",
+      "publisher": "The Dark Side Of The Boom",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "BofA's Hartnett: Fund Managers Have Lost Their Nerve, but Not Their Equity Exposure - The Dark Side Of The Boom",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZVdKeWZybE5Ed09vSE9odDU4T08zRk14OFhXRzBTODlGUnE4S3J0SFRwSXhWRnRZOVhtcTRWdWFWZEFTV29QSWdmZUl0WkhtYTJlZUc5Zzd4X01YeHA5ZnpkS0JVdU80WndaOFNiSVBwTEpGQjZDNXlOaXg2Wl9jUmdnQQ?oc=5"
+    },
+    {
+      "access": "headline_only",
+      "actors": [
+        "pimco"
+      ],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:b5aefe43b667995888bfe7f1",
+      "id": "Daff0630b27cb55f7",
+      "mechanisms": [],
+      "published_at_kst": "2026-11-18T12:12:46+09:00",
+      "published_date": "2026-11-18",
+      "publisher": "TradingView",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "Return on assets % of PIMCO Dynamic Income Opportunities Fund – LS:A3C822 - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNHVQZXdWX0M1UVgzWHkxYUJNSFptN3Z5RmhLY01XZmRiRDJGQUZkVWlkOHhRenVMY1V4M25qeTZGZmhTOXg1a1dsVmdBWWhkRDdIVXZyTHVndmhJSnNtVUdpSk94U2pxLXdoak9PSDdyRzVjWmVEVzNXRTg2TEU3amJBSFotWl9ZZVB6Z2VQcGxxUHVNTXlheWQ3aFY?oc=5"
+    },
+    {
+      "access": "headline_only",
+      "actors": [
+        "pimco"
+      ],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:b4f0fe4a35124bccb543e5eb",
+      "id": "Da5c292c09e5bacc4",
+      "mechanisms": [],
+      "published_at_kst": "2026-11-17T20:57:00+09:00",
+      "published_date": "2026-11-17",
+      "publisher": "https://www.irishsun.com/",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "US AI investment slowdown may ease financing pressure, benefit hyperscalers: PIMCO - https://www.irishsun.com/",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZDZtU3VZS2pFMW1lNFZkSWdkeW9WSmkyMmt2clhMenZldjIxNERZOWQ2UEdQTmVfcmRCUWZodGNQaGMwZENPd25rYURfN0IwZ3pmTXJhaTdBSVVXM3BaZDVPdWlkWm4xczhNdmltODJEMHg2c1dmbTdNMENkNG83MzRLdTFEVWFNNDJWb3h6RzV0dUlJdk9NMFZfSFBqVUtyTnBRYTFOSXBzOFV3Q0ktMXdxUDk3M1Z1SkFYSg?oc=5"
+    },
+    {
+      "access": "headline_only",
+      "actors": [],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:2a66a8a731eece613868fb28",
+      "id": "Dd8b55f129884b377",
+      "mechanisms": [],
+      "published_at_kst": "2026-11-18T11:56:00+09:00",
+      "published_date": "2026-11-18",
+      "publisher": "BigGo Finance",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "UK-based accounts account for nearly half of foreign net selling in South Korea as hedge fund deleveraging fuels volatility - BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0xQlVaUVVHZWpvSFJMWGF0SGlRTEJnTjA0bjRaTFJEbWVNdzdqWVVpSHJRZU1CZ0pic2NRTHhwWlBRUTFSeEcxWW90YnU1SUpxc2pFamtfcWtidHlDc1ByUHF6RGNqS01HTnozM3JOOWtQZm9Zbmc?oc=5"
+    },
+    {
+      "access": "headline_only",
+      "actors": [],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:3548f958c19c580fcde1dbb8",
+      "id": "D8cb6c4772b4a27d7",
+      "mechanisms": [],
+      "published_at_kst": "2026-11-18T03:00:00+09:00",
+      "published_date": "2026-11-18",
+      "publisher": "HedgeCo.Net",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "Chinese Hedge Funds Suffered Double-Digit Losses in October’s AI Selloff: - HedgeCo.Net",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORHZxYjBFaVd0UWdHR25tM3ZYMkExaFF0ODdhdTZ1V3NNSm1kWmQ5UktZSXhscHJ3YmlEcHQ2N1RtT3RXNURsWWpJaW9veUU2dFZoeVN5NjBUb1lnc1pGR1p3VzF1SUR4QnNnX2JxOVo0MktDOWJ3dlBjalJwZldfRTlKRXdoVHBwQzJlVEY4ejVkUm00eE5RaTFfQktENEFmLWxlQXpKTzBiMDJmelE?oc=5"
+    },
+    {
+      "access": "headline_only",
+      "actors": [],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:b55d700aee8ca8d2ccbdb5e7",
+      "id": "Dd9d2fb4968207b0a",
+      "mechanisms": [],
+      "published_at_kst": "2026-11-17T22:17:25+09:00",
+      "published_date": "2026-11-17",
+      "publisher": "Traders Union",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "Renaissance Technologies cuts Nvidia stake as regulatory filings show major hedge fund repositioning - Traders Union",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUzJsMzNCZXFaQjI5UTIyZ3Itd2JOT3l2SFpGYXBHcmNiSTJQNWRYa2hxcVNnMXQtVDBFVHNFV0lQcWJyWUJ3VDJKMUNiazM4blZVSm96NXpQNXFnSVREbzdaZGh2MGFSSWVQa2tUM3M1SGwzQTBrUUFhT2d4VnVIVDJRQUZfa1ZVMzlpV25GMA?oc=5"
+    },
+    {
+      "access": "headline_only",
+      "actors": [],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:d3d5acab6398676735eababb",
+      "id": "D0b4d0fb3f82312d0",
+      "mechanisms": [],
+      "published_at_kst": "2026-11-17T15:42:40+09:00",
+      "published_date": "2026-11-17",
+      "publisher": "FOREX.com",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "VIX Short Covering Surges as Traders Reassess Stock Market Risk - FOREX.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZXQ0eXRTallsVU1lVmRUQm9qMV8zd3k4VUl1SzNlM3BibmYzTEt3SHQ3V0JsWVdBSlQzOExCYTQ5R2xWNGFJVmVVQ3FSbnJqYmhrWnRSdE43VlBhdmJyZkVwdXVDYVkxa21nOFBEdmtDTWx4Z3VPN1I2MDlMNjZjTzRUMEVnSnY1alFVQkpoYjNJSDI1a1hqNExfTUNFN1k3cFJUWUc1SmRLdHhpSXZz0gG7AUFVX3lxTFBEZ29wUnY1dTZ1elFleFdSYUFwVkNoZHp0TUJiZjlLb2xYVVcxZmd4enhKNlRyUDc4RnFIUkZNTm1sa2JVMkJ1UUNHSFJZY2pKU0NXSndJN3YwUVhQMlB5N2hwMFI0dFRWem9fbnFxd2kxSFV6WEtoNndYNGJsempsZEZza2VuV2E3UFRQejdTMTVDbFA5VkdVd0dYV2JYRWpDNmVncFRxU0xtZzBKc2Nza1B6UTRQejFsNzQ?oc=5"
+    },
+    {
+      "access": "headline_only",
+      "actors": [],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:966777b200b5d4f7979cb270",
+      "id": "D3edd1873818eb7bd",
+      "mechanisms": [],
+      "published_at_kst": "2026-11-17T16:28:00+09:00",
+      "published_date": "2026-11-17",
+      "publisher": "Kalkine Media",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "Is SS&C (NASDAQ:SSNC) Seeing Hedge Fund Flows at an Annual High? - Kalkine Media",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMk9oVmZmMWVNQ1FVVlcyWV8zZHlDUm9sVFNoUV92OXdyYWhZcFROcFBmbGVJNFU1c0hlTDcxUk85MlpILTRIQUg5WkRjQTBZX0tsRF9qNzVkcWZITDZfUlNNeS1heE9QOURJeFVMb1VidWJwUF9sTnVxRTR1MU55ckVobG9CdWZkUjkzZTRYcUJYOTBYMFFNdnowRmdSOEl2S0YxeVIxd0g?oc=5"
+    },
+    {
+      "access": "headline_only",
+      "actors": [],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:716a7d039fda57746a0b76b6",
+      "id": "D042f0fb0ffe3cc59",
+      "mechanisms": [],
+      "published_at_kst": "2026-11-17T20:39:20+09:00",
+      "published_date": "2026-11-17",
+      "publisher": "链捕手ChainCatcher",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "AI Stock God Fund Q3 Plummets 92%: After the Margin Call, He Uses Options to Bet Again - 链捕手ChainCatcher",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4yeFZ5ZzRxODhGR3BLc0hHR1Q0V1psU1ZXUy02eHBGcXVWR05GY2ZNaHduSWdVZ2UweU1kb25QVFNHdVA5ekQ0SDItOW1tNkNRU1lLRnFTYkEyUDA?oc=5"
+    }
+  ],
+  "generated_at_kst": "2026-11-18T13:10:13.233967+09:00",
+  "producer": "rss_discovery",
+  "schema": "global_position_v1",
+  "window_end_kst": "2026-11-18T13:10:13.233967+09:00",
+  "window_start_kst": "2026-11-17T13:10:13.233967+09:00",
+  "content_sha256": "0feacf889fb3deb9d8513e203b61acbe0123674b9a82bc9cee8e60f829c50eae"
+}
