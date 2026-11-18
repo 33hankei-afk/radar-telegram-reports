@@ -3,15 +3,23 @@
   "status": "running",
   "stage": "collecting",
   "started_at_kst": "2026-11-18T21:06:08+09:00",
-  "updated_at_kst": "2026-11-18T21:06:26+09:00",
+  "updated_at_kst": "2026-11-18T21:07:37+09:00",
   "ended_at_kst": null,
   "attempt": 1,
-  "verified_posts": 0,
-  "checked_channels": 0,
-  "verified_full_channels": 0,
+  "verified_posts": 1315,
+  "checked_channels": 14,
+  "verified_full_channels": 14,
   "failed_channels": [],
   "published_paths": [],
-  "errors": [],
+  "errors": [
+    "searfin: repeated page or pagination safety limit"
+  ],
   "collection_request_id": "20261118T210626p0900-daily21",
-  "collection_request_commit": "d425562ea23b0dfd1793b6ac0dc8adac054f23da"
+  "collection_request_commit": "d425562ea23b0dfd1793b6ac0dc8adac054f23da",
+  "source_status": "running",
+  "source_stage": "collecting",
+  "searfin_status": "partial",
+  "source_evidence_path": "collection/snapshots/20261118T210626p0900-daily21.json",
+  "source_report_published": false,
+  "workflow_run_id": 44300767170
 }
