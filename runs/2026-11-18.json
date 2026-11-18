@@ -1,9 +1,9 @@
 {
   "date_kst": "2026-11-18",
   "status": "running",
-  "stage": "publishing",
+  "stage": "verifying",
   "started_at_kst": "2026-11-18T21:06:08+09:00",
-  "updated_at_kst": "2026-11-18T21:09:33+09:00",
+  "updated_at_kst": "2026-11-18T21:10:33+09:00",
   "ended_at_kst": null,
   "attempt": 1,
   "verified_posts": 1427,
@@ -12,7 +12,12 @@
   "failed_channels": [
     "aetherjapanresearch"
   ],
-  "published_paths": [],
+  "published_paths": [
+    "reports/2026-11-18.json",
+    "reports/2026-11-18.md",
+    "latest.md",
+    "latest.json"
+  ],
   "errors": [
     "searfin: repeated page or pagination safety limit",
     "aetherjapanresearch: public read failed: ValueError: not an approved public channel preview",
@@ -30,5 +35,11 @@
   "report_entry_count": 369,
   "top20_count": 20,
   "theme_post_count": 357,
-  "report_sha256": "1738202fc87c94faa6a3cb0e23c544f275740ce9d6a7d2336ea1da338dce8f9a"
+  "report_sha256": "1738202fc87c94faa6a3cb0e23c544f275740ce9d6a7d2336ea1da338dce8f9a",
+  "publication_commits": {
+    "report_json": "52d4f480b5d855ee5799ab8a2b3163284290b7c8",
+    "report_md": "9e15ded7bee506d192293692d6a8d518dbd71453",
+    "latest_md": "a849f8a19b8f9742dc097cdb4d0b8423b6ad6265",
+    "latest_json": "126627c121a1871580d0c3c30386d4eede6b1be0"
+  }
 }
