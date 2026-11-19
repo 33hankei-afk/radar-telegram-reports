@@ -1,9 +1,9 @@
 {
   "date_kst": "2026-11-19",
   "status": "running",
-  "stage": "collecting",
+  "stage": "publishing",
   "started_at_kst": "2026-11-19T21:08:16+09:00",
-  "updated_at_kst": "2026-11-19T21:10:46+09:00",
+  "updated_at_kst": "2026-11-19T21:11:35+09:00",
   "ended_at_kst": null,
   "attempt": 1,
   "verified_posts": 1025,
@@ -27,5 +27,9 @@
   "source_evidence_path": "collection/snapshots/20261119T210837p0900-daily21.json",
   "source_report_published": false,
   "workflow_run_id": 44521145788,
-  "source_ended_at_kst": "2026-11-19T21:10:01.100280+09:00"
+  "source_ended_at_kst": "2026-11-19T21:10:01.100280+09:00",
+  "report_entry_count": 358,
+  "top20_count": 20,
+  "theme_post_count": 345,
+  "report_sha256": "99449a60815a85e3c8d070e14d226f49d896c51294799f740645d5dfffa5e550"
 }
