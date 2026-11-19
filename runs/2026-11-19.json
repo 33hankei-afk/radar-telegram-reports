@@ -3,12 +3,12 @@
   "status": "running",
   "stage": "collecting",
   "started_at_kst": "2026-11-19T21:08:16+09:00",
-  "updated_at_kst": "2026-11-19T21:10:11+09:00",
+  "updated_at_kst": "2026-11-19T21:10:46+09:00",
   "ended_at_kst": null,
   "attempt": 1,
-  "verified_posts": 922,
-  "checked_channels": 54,
-  "verified_full_channels": 52,
+  "verified_posts": 1025,
+  "checked_channels": 59,
+  "verified_full_channels": 57,
   "failed_channels": [
     "searfin",
     "aetherjapanresearch"
@@ -21,10 +21,11 @@
   ],
   "collection_request_id": "20261119T210837p0900-daily21",
   "collection_request_commit": "8a94a7c1c7d9cd87ce759ccb4040cf6719180a19",
-  "source_status": "running",
-  "source_stage": "collecting",
+  "source_status": "partial",
+  "source_stage": "finished",
   "searfin_status": "failed",
   "source_evidence_path": "collection/snapshots/20261119T210837p0900-daily21.json",
   "source_report_published": false,
-  "workflow_run_id": 44521145788
+  "workflow_run_id": 44521145788,
+  "source_ended_at_kst": "2026-11-19T21:10:01.100280+09:00"
 }
