@@ -6,11 +6,11 @@
   "status": "running",
   "stage": "collecting",
   "started_at_kst": "2026-11-19T21:08:46.777165+09:00",
-  "updated_at_kst": "2026-11-19T21:08:55.697658+09:00",
+  "updated_at_kst": "2026-11-19T21:09:08.279041+09:00",
   "ended_at_kst": null,
-  "checked_channels": 4,
-  "verified_full_channels": 4,
-  "verified_posts": 238,
+  "checked_channels": 14,
+  "verified_full_channels": 14,
+  "verified_posts": 465,
   "searfin_status": "failed",
   "failed_channels": [
     "searfin"
