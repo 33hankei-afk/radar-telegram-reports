@@ -3,18 +3,21 @@
   "status": "running",
   "stage": "collecting",
   "started_at_kst": "2026-11-19T21:08:16+09:00",
-  "updated_at_kst": "2026-11-19T21:09:26+09:00",
+  "updated_at_kst": "2026-11-19T21:10:11+09:00",
   "ended_at_kst": null,
   "attempt": 1,
-  "verified_posts": 465,
-  "checked_channels": 14,
-  "verified_full_channels": 14,
+  "verified_posts": 922,
+  "checked_channels": 54,
+  "verified_full_channels": 52,
   "failed_channels": [
-    "searfin"
+    "searfin",
+    "aetherjapanresearch"
   ],
   "published_paths": [],
   "errors": [
-    "searfin: public read failed: ValueError: not an approved public channel preview"
+    "searfin: public read failed: ValueError: not an approved public channel preview",
+    "aetherjapanresearch: public read failed: ValueError: not an approved public channel preview",
+    "pikachu_aje: #8479: view counter missing/invalid"
   ],
   "collection_request_id": "20261119T210837p0900-daily21",
   "collection_request_commit": "8a94a7c1c7d9cd87ce759ccb4040cf6719180a19",
