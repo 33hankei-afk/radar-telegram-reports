@@ -1,79 +1,79 @@
-# 글로벌 포지션 일보 · 2026-11-19
+# 글로벌 포지션 일보 · 2026-11-20
 
-취합 구간: 2026-11-18T08:48:31+09:00 ~ 2026-11-19T08:48:31+09:00
+취합 구간: 2026-11-19T08:08:34+09:00 ~ 2026-11-20T08:08:34+09:00
 
-발행: 2026-11-19T08:48:31+09:00 · gpt_verified
+발행: 2026-11-20T08:08:34+09:00 · gpt_verified
 
-2026-11-18T08:48:31+09:00~2026-11-19T08:48:31+09:00 KST. 신규 원문 5건과 제목만 확인한 PIMCO 후보 1건을 기록했습니다. ECB는 헤지펀드의 유로 국채 레포 비중과 3월 스트레스 당시 13% 디레버리징을 공개했고, FOMC 의사록은 헤지펀드 레버리지·프라임브로커·AI 신용집중을 취약성으로 지목하면서도 당시 repo 시장은 안정적이었다고 평가했습니다. Nvidia 실적 뒤 단기 변동성 역전과 휴일 주간 반등성 옵션 흐름, 한국 기관 주도 반등·외국인 순매도 지속을 함께 반영했습니다. Shawn Tuteja와 Hartnett, Ivascyn/Balls/Wilding의 새 독립 발언은 0건입니다. 신규 엔 캐리 청산·현재 미국 국채 basis 마진콜·검증 가능한 커뮤니티 주장은 0건입니다.
+2026-11-19T08:08:34+09:00~2026-11-20T08:08:34+09:00 KST. 신규 원문 7건과 부분 본문 13F 자료 1건을 기록했습니다. Hunterbrook Capital의 AMD 신규 쇼트와 AMD 반론을 같은 사건으로 묶었고, Anthropic IPO에도 이어진 AI 주식 매도·Nvidia 이벤트 프리미엄 해소·한국 외국인 매도 지속을 반영했습니다. Goldman Prime Book 수치는 게시시각 미확인 경계일 2차 보도이므로 신규 평가 근거에서 제외했습니다. Shawn Tuteja, Hartnett, Ivascyn/Balls/Wilding의 새 독립 발언은 0건이며, BofA FMS와 PIMCO 10월 전망의 재전송을 새 발언으로 세지 않았습니다. 신규 repo 경색·미국 국채 basis 마진콜·엔 캐리 청산·검증 가능한 커뮤니티 주장은 0건입니다.
 
 
 ## 글로벌 주식 매수·매도 압력
 
-레버리지 취약성 상존, 단기 옵션 흐름은 반등 완충 / 신뢰도 중간
+신규 종목 쇼트와 AI 롱 청산이 매도 압력 확대 / 신뢰도 높음
 
-ECB 실측은 3월 금리 변동성 급등 때 헤지펀드 유로 국채 레포 포지션이 13% 줄어 스트레스 시 빠른 gross deleveraging 가능성을 보여줍니다. 연준도 헤지펀드 레버리지와 제한된 딜러 중개능력을 증폭 경로로 지목했습니다. 반면 SpotGamma는 이벤트 프리미엄 소멸과 휴일 주간 헤지 흐름이 완만한 상승을 지지할 수 있다고 봤습니다.
+Hunterbrook Capital은 AMD 신규 쇼트를 공개했고, Anthropic 상장 첫날에도 Nvidia·AMD·neocloud가 하락하면서 Nasdaq과 S&P 500이 각각 2.25%, 2.02% 내렸습니다. 이는 개별 신규 쇼트와 기존 AI 롱 축소가 동시에 작동한 관측입니다. 다만 AMD 의혹은 독립 확정되지 않았고 ICI의 이전 주간 자료는 주식형 자금 순유입을 보여 전면 환매로 단정할 수 없습니다.
 
-근거: E01, E02
+근거: E01, E04
 
-반대 근거: E04
+반대 근거: E02, C08
 
-확인 한계: ECB 수치는 2026년 3월 스트레스 사례이며 현재 실시간 gross/net 장부가 아닙니다.
+확인 한계: Hunterbrook는 쇼트 이해관계를 공개한 조사기관이며 주장의 사실관계는 규제기관이 확정하지 않았습니다.
 
-확인 한계: SpotGamma는 메커니즘 의견이고 전체 딜러 감마의 실측치가 아닙니다.
+확인 한계: 지수 하락은 롱 청산·신규 쇼트·파생 헤지·현금화 비중을 분해하지 못합니다.
 
 
 ## AI·반도체 포지션
 
-실적 안도와 AI 신용집중 경계가 병존 / 신뢰도 높음
+AI 실적보다 자금조달·규제·포지션 위험이 우세 / 신뢰도 높음
 
-Nvidia 실적·가이던스는 예상보다 좋았지만 4.8% 시간외 반응은 옵션이 가격한 7.7%보다 작았고 단기 변동성 곡선은 역전됐습니다. 연준은 AI 관련 부채의 복잡한 구조와 소수 기업 집중을 금융안정 위험으로 논의했습니다. 실적은 수요 붕괴를 부정하지만 포지션이 강한 위험추가로 복귀했다고 보기는 어렵습니다.
+Nvidia 호실적과 Anthropic의 기록적 IPO에도 Nvidia는 3.30%, AMD는 7.72% 하락했습니다. 신규 AMD 쇼트는 중국 수출통제 위험을 겨냥했고, Reuters는 AI 인프라 지출·밸류에이션 우려가 기술주 전반으로 확산됐다고 보도했습니다. 한국 반도체는 상승해 펀더멘털 반론이 남지만 글로벌 가격 반응은 위험축소가 우세했습니다.
 
-근거: E02, E03
+근거: E01, E04
 
-반대 근거: E04
+반대 근거: E05
 
-확인 한계: 옵션 내재변동성은 실제 순매수 방향이나 딜러 헤지를 완전히 분해하지 못합니다.
+확인 한계: Anthropic 첫 거래일 가격은 IPO 수급과 차익실현의 영향이 커 중기 AI 수요를 직접 측정하지 않습니다.
 
-확인 한계: 연준의 AI 위험 평가는 10월 회의 시점의 시나리오 논의입니다.
+확인 한계: AMD 쇼트 한 건을 전체 반도체 신규 쇼트 확대 규모로 일반화할 수 없습니다.
 
 
 ## 금리·조달·유동성
 
-단기 repo는 안정적이나 긴축·레버리지 꼬리위험 유지 / 신뢰도 높음
+이벤트 프리미엄은 완화, 펀드 유입과 시장 매도 간 시차 / 신뢰도 중간
 
-FOMC 당시 repo 금리는 IORB보다 소폭 낮고 준비금은 충분해 단기자금시장 기능은 안정적이었습니다. 그러나 거의 모든 참석자가 추가 금리인상이 적절할 가능성이 높다고 봤고, ECB 자료는 변동성 급등 시 레포 차입이 빠르게 줄 수 있음을 보여줍니다. 현재 자금경색 증거와 구조적 디레버리징 취약성을 구분해야 합니다.
+Saxo 자료에서 Nvidia 실적 뒤 1일 변동성과 단기 옵션 프리미엄이 시간가치보다 더 빠르게 낮아졌고 단기·꼬리보호 수요도 보이지 않았습니다. ICI의 11월 11일 주간에는 주식형 370억달러와 채권형 17억달러가 순유입됐습니다. 그러나 내재상관은 60일 고점에 근접했고 이 자료들은 11월 19일 급락 전 관측이라 현재 자금경색 여부를 직접 확정하지 못합니다.
 
-근거: E01, E02
+근거: E03, C08
 
-반대 근거: 미확인
+반대 근거: C02
 
-확인 한계: 연준 자금시장 관측은 10월 27~28일 회의 자료라 11월 19일 장중 repo를 직접 측정하지 않습니다.
+확인 한계: ICI 주간 추정치는 최근 AI 매도와 시차가 있으며 뮤추얼펀드·ETF 외 헤지펀드 장부를 포함하지 않습니다.
 
-확인 한계: 유로지역 레포 표본을 미국 국채 basis 전체로 일반화할 수 없습니다.
+확인 한계: 옵션 프리미엄 하락은 유동성 개선뿐 아니라 이벤트 통과에 따른 기계적 변동성 하락을 반영합니다.
 
 
 ## 한국장 전달 경로
 
-기관 주도 반등, 외국인 위험축소는 지속 / 신뢰도 높음
+반도체 반등과 외국인 구조적 이탈의 괴리 확대 / 신뢰도 높음
 
-Nvidia 실적 뒤 코스피와 반도체 대형주는 반등했지만 외국인은 3,337억원 순매도했고 기관이 5,118억원 순매수해 지수를 끌어올렸습니다. 외국인 순매도는 전일 1조4,400억원보다 줄었으나 순매수 전환은 아니어서 AI 안도 랠리와 글로벌 위험축소가 함께 전달됐습니다.
+11월 19일 코스피와 삼성전자·SK하이닉스는 상승했지만 외국인은 4,055억원 순매도했습니다. Reuters의 LSEG 집계는 7개월 연속 순매도 가능성과 2008년 이후 누적 1,152억달러의 기록적 유출을 제시했습니다. 기업 이익과 밸류에이션보다 글로벌 AI 포지션 축소·수급 공백이 한국장에 더 강하게 전달되는 국면입니다.
 
-근거: E05
+근거: E05, E06
 
-반대 근거: C03
+반대 근거: 미확인
 
-확인 한계: 한국 수치는 현물 투자자 분류이며 선물·옵션·대차·공매도 동시 장부는 미확인입니다.
+확인 한계: LSEG 누적 수치는 외국인 전체이며 헤지펀드·롱온리·패시브를 분리하지 않습니다.
 
-확인 한계: 외국인 범주에는 글로벌 헤지펀드 외 장기자금과 패시브 자금도 포함됩니다.
+확인 한계: 현물 수급과 선물·옵션·대차·공매도 동시 장부는 확인되지 않았습니다.
 
 
 ## 핵심 3대상
 
-- Shawn Tuteja / 11월 19일 실제 재검색: 최근 24시간 Shawn Tuteja의 AI·M7·옵션·변동성 새 독립 발언 없음. 마지막 직접 공식 자료는 8월 21일로 30일 문맥 한도를 넘어 제외했습니다. / 변화: 미확인 / 근거: 미확인
+- Shawn Tuteja / 11월 20일 실제 재검색: 최근 24시간 Shawn Tuteja의 AI·M7·옵션·변동성 새 독립 발언 없음. 마지막 직접 공식 자료는 8월 21일로 30일 문맥 한도를 넘어 제외했습니다. / 변화: 미확인 / 근거: 미확인
 
-- Michael Hartnett / 11월 19일 실제 재검색: Michael Hartnett/BofA의 새 독립 Flow Show·FMS 발언은 0건입니다. 11월 17일 확인한 FMS의 기술주 비중 축소·낮은 현금·채권 이동 관점을 이전 문맥으로 유지하며, 재전송을 새 변화로 세지 않았습니다. / 변화: 미확인 / 근거: C01
+- Michael Hartnett / 11월 20일 실제 재검색: Michael Hartnett/BofA의 새 독립 Flow Show·FMS 발언은 0건입니다. 11월 17일 FMS의 기술주 비중 축소·낮은 현금·채권 이동 관점을 이전 문맥으로 유지하며, 11월 19일 후속 기사는 같은 설문의 재전송이라 새 변화로 세지 않았습니다. / 변화: 미확인 / 근거: C05
 
-- PIMCO / 11월 19일 실제 재검색: Ivascyn/Balls/Wilding의 시간창 내 새 독립 발언은 0건입니다. PIMCO는 AI 신용위험 팟캐스트를 새로 게시했으나 본문 접근 실패로 미검증 처리했습니다. 창 시작 직전 Seidner의 2027 전망과 이전 Ivascyn의 고품질 채권 선호를 과거 문맥으로 유지합니다. / 변화: 미확인 / 근거: C06, C07
+- PIMCO / 11월 20일 실제 재검색: Ivascyn/Balls/Wilding의 새 독립 발언은 0건입니다. 11월 19일 게시된 'Growth Holds, Risks Widen' 기사는 10월 PIMCO 전망의 재전송으로 확인돼 신규 발언에서 제외했습니다. 최근 직접 자료인 Ivascyn의 고품질 채권·듀레이션 선호와 Seidner의 AI 신용집중 경계를 이전 문맥으로 유지합니다. / 변화: 미확인 / 근거: C06, C07
 
 
 ## 확인 원문
@@ -82,57 +82,63 @@ Nvidia 실적 뒤 코스피와 반도체 대형주는 반등했지만 외국인�
 
 |---|---|---|---|---|---|---|
 
-|E01|2026-11-19T08:01:48+09:00|2026-11-18|European Central Bank, 글로벌 헤지펀드, 유로지역 은행·딜러|primary / full_text / observed_metric|ECB: 유로 국채 레포에서 헤지펀드 비중 14%, 3월 스트레스 때 포지션 13% 축소 · ECB의 증권금융거래 자료 분석에서 헤지펀드는 유로지역 국채 담보 레포 잔액의 14%, 중앙청산 거래를 제외하면 27%를 차지했습니다. 2026년 2월 중동 충돌 직전 총 레포 포지션은 약 6,400억유로로 전년 초보다 60% 넘게 늘었지만, 금리 변동성이 급등한 3월에는 13% 줄어 딜러·기타 금융기관의 3% 축소보다 빨랐습니다. 순 현금차입도 2월 1,050억유로 이상에서 약 500억유로 감소했고 여름에 다시 늘었습니다. 이는 스트레스 때의 procyclical gross deleveraging 표본이며 현재 실시간 포지션은 아닙니다.|[https://www.ecb.europa.eu/press/financial-stability-publications/fsr/focus/2026/html/ecb.fsrbox202611_07~d23692bb6f.en.html](https://www.ecb.europa.eu/press/financial-stability-publications/fsr/focus/2026/html/ecb.fsrbox202611_07~d23692bb6f.en.html)|
+|E01|2026-11-20T00:26:30+09:00|2026-11-19|Hunterbrook Media, Hunterbrook Capital, AMD, AI 반도체 투자자|primary / full_text / reported_flow|Hunterbrook Capital, AMD 신규 쇼트 공개: 중국 수출통제·공급망 위험 제기 · Hunterbrook Media는 계열 펀드 Hunterbrook Capital이 AMD 쇼트와 비교기업 바스켓 롱을 보유한다고 공개했습니다. 조사팀은 미국이 2025년 3월 블랙리스트에 올린 IEIT Systems의 서버에서 이후 버전의 AMD 펌웨어가 확인됐고, IEIT와 연결된 Aivres·Kaytus·Maginfra에도 거의 동일한 펌웨어가 있었다고 주장했습니다. 또 AMD의 2025 회계연도 매출 중 중국·홍콩 22.4%, 싱가포르 12.4%를 제시하며 수출규제 강화가 성장 전망을 훼손할 수 있다고 봤습니다. 이는 이해관계가 공개된 쇼트셀러의 주장으로, AMD의 위법 여부나 인과관계가 독립적으로 확정된 것은 아닙니다.|[https://newsletter.hntrbrk.com/p/amd-has-its-own-china-problem](https://newsletter.hntrbrk.com/p/amd-has-its-own-china-problem)|
 
-|E02|2026-11-19T04:00:00+09:00|2026-10-28|Federal Reserve, FOMC, 헤지펀드, 프라임브로커, AI 관련 기업|primary / full_text / opinion|연준 의사록: 헤지펀드 레버리지·AI 금융집중을 주요 취약성으로 지목 · 10월 27~28일 FOMC 의사록에서 연준 staff는 높은 자산가치와 헤지펀드 레버리지를 가장 두드러진 금융안정 취약성으로 평가했습니다. 다수 참석자는 제한된 딜러 중개능력과 헤지펀드 레버리지가 스트레스 증폭 경로가 될 수 있고 은행의 프라임브로커 익스포저를 계속 감시해야 한다고 봤습니다. AI 관련 부채의 불투명한 구조·집중과 실망스러운 수익률이 손실을 키울 위험도 논의됐습니다. 한편 당시 repo 금리는 IORB보다 소폭 낮고 준비금은 충분해 단기자금시장은 안정적이었습니다. 거의 모든 참석자는 기준 전망에서 추가 인상이 적절할 가능성이 높다고 판단했습니다. 관측·발언일은 10월 회의이며 11월 18일 공개 자료입니다.|[https://www.federalreserve.gov/monetarypolicy/fomcminutes20261028.htm](https://www.federalreserve.gov/monetarypolicy/fomcminutes20261028.htm)|
+|E02|2026-11-20T01:24:53+09:00|2026-11-19|CNBC, AMD, Hunterbrook Capital, AI 반도체 투자자|news / full_text / observed_metric|AMD, 쇼트 보고서 뒤 7.72% 하락…회사는 의혹을 부인 · CNBC는 Hunterbrook의 쇼트 공개 뒤 AMD가 11월 19일 7.72% 하락한 489.19달러로 마감했다고 보도했습니다. AMD는 해당 주장이 사업 관행과 관계를 왜곡하며 미국 수출통제 법규를 준수한다고 반박했습니다. CNBC는 Hunterbrook의 의혹을 독립적으로 검증하지 못했다고 명시했습니다. E01과 동일 사건의 반론·가격반응으로 묶었으며 별도의 독립 포지션 신호로 중복 집계하지 않습니다.|[https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html](https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html)|
 
-|E03|2026-11-18T17:23:56+09:00|2026-11-18|Saxo Bank, Nvidia 옵션 투자자, S&P 500 옵션 투자자|primary / full_text / observed_metric|Nvidia 실적 상회 뒤 단기 변동성 역전: 예상 7.7%보다 작은 4.8% 시간외 상승 · Saxo는 Nvidia의 매출 1,158억달러와 다음 분기 가이던스가 예상치를 웃돌았지만 시간외 상승률 4.8%는 옵션이 가격한 실적일 변동 약 7.7% 안에 머물렀다고 집계했습니다. 1일 변동성 지표는 26.84로 VIX 25.46과 3개월 24.98을 웃돌아 곡선 전단이 역전됐고, 내재상관은 17.64% 오른 18.74였습니다. 반면 SKEW는 낮아지고 전일 섹터·ETF 흐름에 단기 꼬리보호 수요가 없었습니다. 단기 이벤트 프리미엄과 동조화 위험은 높지만 지수 급락 헤지 수요로 일방 해석하기 어렵습니다.|[https://www.home.saxo/en-gb/content/articles/options/nvidia-beats-into-an-inverted-volatility-curve---options-brief---18-november-2026-18112026](https://www.home.saxo/en-gb/content/articles/options/nvidia-beats-into-an-inverted-volatility-curve---options-brief---18-november-2026-18112026)|
+|E03|2026-11-19T21:45:40+09:00|2026-11-18|Saxo Bank, Nvidia 옵션 투자자, S&P 500 옵션 투자자|primary / full_text / observed_metric|Nvidia 이벤트 프리미엄 해소: 1일 변동성 13.38% 하락, 내재상관은 고점 근접 · 11월 18일 종가 기반 Saxo 자료에서 1일 변동성 지표는 13.38% 내린 23.25로 VIX 24.56 아래로 내려왔고, 금요일 S&P 500 옵션 예상 변동은 시간가치 감소분보다 더 낮아진 1.55%였습니다. Nvidia는 호실적 뒤 첫 정규장에서 2.89% 하락했고 IV rank는 100에서 59.4로 떨어졌습니다. 반면 내재상관은 8.59% 오른 20.35로 60일 고점 20.93에 근접했습니다. 옵션 흐름에는 단기·꼬리보호 수요가 보이지 않아 이벤트 위험은 줄었지만 종목 동조화 위험은 남았습니다.|[https://www.home.saxo/en-gb/content/articles/options/nvidia-slips-as-one-day-volatility-cools---options-brief---19-november-2026-19112026](https://www.home.saxo/en-gb/content/articles/options/nvidia-slips-as-one-day-volatility-cools---options-brief---19-november-2026-19112026)|
 
-|E04|2026-11-19T02:07:00+09:00|2026-11-18|SpotGamma, Brent Kochuba, 옵션 딜러, Nvidia 옵션 투자자|primary / full_text / opinion|SpotGamma: Nvidia 안도는 약했지만 추수감사절 주간 옵션 흐름은 완만한 상승 가능성 · Brent Kochuba는 Nvidia 실적 뒤 이벤트 프리미엄이 빠졌으나 새로운 강한 매수 수요가 붙지 않아 반응이 안도 수준이었다고 평가했습니다. S&P 500 옵션 가격 하락과 만기 도래로 기존 헤지가 사라지면 시장이 완만히 오를 여지가 있고, 짧은 휴일 주간의 낮은 실현변동성이 딜러 헤지를 순응적으로 만들 수 있다고 봤습니다. 다만 인터넷 인프라 장애처럼 예고 없는 충격이 단일 세션의 보호 수요를 되살릴 수 있다는 조건을 달았습니다. 이는 SpotGamma의 메커니즘 의견이며 전체 딜러 감마 장부의 실측치가 아닙니다.|[https://spotgamma.com/holiday-week-options-flows/](https://spotgamma.com/holiday-week-options-flows/)|
+|E04|2026-11-19T18:02:43+09:00|2026-11-19|Reuters, Anthropic, Nvidia, AMD, AI 주식 투자자|news / full_text / observed_metric|Anthropic 상장에도 AI 매도 지속: Nasdaq 2.25%·S&P 500 2.02% 하락 · Anthropic은 공모가 83달러로 사상 최대 810억달러를 조달하고 첫 거래에서 상승했지만, 장중 상승폭을 반납하면서 AI 종목 전반의 투자심리를 되살리지 못했습니다. Reuters 최종 시세표에서 Nasdaq은 2.25%, S&P 500은 2.02%, Dow는 2.19% 하락했고 Nvidia는 3.30%, AMD는 7.72%, CoreWeave는 6.11% 내렸습니다. 단일 IPO의 첫날 가격은 잡음이 크지만, AI 자금조달·밸류에이션 우려가 개별 종목에서 시장 전반으로 확산된 당일 관측입니다.|[https://www.investing.com/news/stock-market-news/nasdaq-futures-jump-as-anthropics-record-ipo-pricing-fuels-hopes-for-strong-debut-5038156](https://www.investing.com/news/stock-market-news/nasdaq-futures-jump-as-anthropics-record-ipo-pricing-fuels-hopes-for-strong-debut-5038156)|
 
-|E05|2026-11-18T16:35:20+09:00|2026-11-18|KRX, 한국 외국인 투자자, 한국 기관 투자자, Samsung Electronics, SK hynix|news / full_text / observed_metric|코스피 1.99% 반등에도 외국인 3,337억원 순매도, 기관이 5,118억원 순매수 · 11월 18일 코스피는 Nvidia 실적·가이던스 상회에 1.99% 오른 5,067.44로 마감했습니다. 삼성전자는 2.31%, SK하이닉스는 4.19% 상승했습니다. 그러나 외국인은 3,337.5억원, 개인은 6,379.8억원을 순매도했고 기관은 5,117.6억원을 순매수해 반등을 주도했습니다. 전일 1조4,400억원 외국인 순매도보다 규모는 줄었지만 외국인 위험축소가 순매수로 전환된 것은 아닙니다. 현물 투자자 분류에는 헤지펀드 외 투자자가 포함되며 파생·대차·공매도는 분리되지 않습니다.|[https://en.yna.co.kr/view/AEN20261118007252320](https://en.yna.co.kr/view/AEN20261118007252320)|
+|E05|2026-11-19T17:48:26+09:00|2026-11-19|KRX, 한국 외국인 투자자, 한국 기관 투자자, Samsung Electronics, SK hynix|news / full_text / observed_metric|코스피 1.39% 상승했지만 외국인 4,055억원 순매도 지속 · 11월 19일 코스피는 1.39% 오른 5,137.89로 마감했고 삼성전자와 SK하이닉스는 각각 1.13%, 3.41% 상승했습니다. 그러나 외국인은 4,054.6억원, 개인은 652억원을 순매도했고 기관 순매수는 192.2억원에 그쳤습니다. 원화는 달러당 1,330원으로 3원 강세였습니다. 지수·반도체 상승을 외국인 순매수 전환으로 해석할 수 없으며, 현물 분류에는 헤지펀드 외 장기·패시브 자금도 포함됩니다.|[https://en.yna.co.kr/view/AEN20261119006552320](https://en.yna.co.kr/view/AEN20261119006552320)|
 
-|E06|2026-11-19T08:30:17+09:00|미확인|pimco, PIMCO, Lotfi Karoui, Nidhi Nakra|primary / headline_only / unverified|AI 붐인가 신용위험인가? · 제목 기반 요약 · 본문 미확인 · PIMCO가 AI 투자와 신용위험을 다룬 새 팟캐스트를 게시한 사실과 제목·발표자만 확인했습니다. 원문 페이지를 열지 못해 구체적 주장, 방향, 수치, 발언일은 검증하지 못했습니다. 판단 근거로 사용하지 않습니다.|[https://www.pimco.com/us/en/insights/ai-boom-or-credit-risk](https://www.pimco.com/us/en/insights/ai-boom-or-credit-risk)|
+|E06|2026-11-19T16:08:46+09:00|2026-11-19|Reuters, LSEG, 한국 외국인 투자자, Samsung Electronics, SK hynix|news / full_text / reported_flow|Reuters: 한국 외국인 누적 순유출 1,152억달러, 7개월 연속 매도 가능성 · Reuters는 LSEG의 2008년 이후 자료에서 한국 주식 외국인 누적 순유출이 1,152억달러로 사상 최대이며 11월까지 7개월 연속 순매도 가능성이 있다고 보도했습니다. 삼성전자·SK하이닉스의 AI 이익은 기록적이지만 KOSPI는 6월 고점 대비 44% 하락했고, 상승기에는 홍콩 상장 SK하이닉스 연계 레버리지 단일종목 ETF가 변동을 키웠다고 설명했습니다. 자사주 매입의 완충도 종료에 가까워지고 있습니다. 누적 수치는 한국 전체 외국인 흐름이며 헤지펀드만을 분리하지 않습니다.|[https://www.investing.com/news/economy-news/analysisrecord-profits-but-record-outflows-sell-korea-trade-stalks-seoul-market-5037911](https://www.investing.com/news/economy-news/analysisrecord-profits-but-record-outflows-sell-korea-trade-stalks-seoul-market-5037911)|
 
-|C01|2026-11-17T19:53:58+09:00|2026-11-12|hartnett, Michael Hartnett, BofA Global Research, 글로벌 펀드매니저|이전 자료 / news / full_text / observed_metric|BofA 11월 FMS: 기술주 비중 2006년 이후 최대 축소, 반도체 롱은 여전히 최다 과밀 · 이번 취합 구간 이전 자료입니다. Michael Hartnett가 이끄는 BofA 팀의 11월 6~12일 펀드매니저 설문에서 기술주 오버웨이트는 한 달 새 2006년 이후 가장 크게 줄었습니다. 글로벌 반도체 롱을 최다 과밀거래로 꼽은 비율은 39%로 7월 82%에서 낮아졌고, M7 롱은 12%였습니다. 응답자의 52%는 6개월 내 하이퍼스케일러 capex 삭감을 예상했고, 순 38%는 기업이 과잉투자 중이라고 답했습니다. 최대 꼬리위험은 AI 버블 34%, 하이퍼스케일러 신용사건 31%였습니다. 평균 현금은 3.9%에서 3.6%로 낮아졌고 채권 언더웨이트는 13%포인트 축소돼, 전면 현금화보다 기술주 집중도 축소와 채권 이동에 가깝습니다. 공개 기사 표본은 193명·5260억달러이며 Reuters 병행 보도는 169명·4610억달러를 제시해 패널·응답항목별 표본 차이가 있습니다.|[https://www.investing.com/news/stock-market-news/betting-on-chip-stocks-remains-the-most-crowded-trade-by-far-bofas-survey-finds-5032235](https://www.investing.com/news/stock-market-news/betting-on-chip-stocks-remains-the-most-crowded-trade-by-far-bofas-survey-finds-5032235)|
+|E07|2026-11-19 (시각 미확인)|2026-11-16|Goldman Sachs Prime Book, The Market Ear, 기본적 long/short 헤지펀드|news / full_text / reported_flow|Goldman PB 재전: 기술주 롱/숏 1.79, 순레버리지 41.6%로 5년 최저 · Canadian Mining Report가 The Market Ear를 거쳐 인용한 Goldman Sachs Prime Book 자료에서 11월 13일까지 6주간 기술주 순매도는 10년 내 가장 강한 수준(z-score -4.4), 11월 16일 기술주 롱/숏 비율은 연중 2.9에서 1.79로 하락했습니다. fundamental long/short 펀드의 gross leverage는 11월 중 4.4%포인트 줄어 206.3%, net leverage는 7.6%포인트 줄어 41.6%로 5년 최저라고 전했습니다. 공개 페이지는 게시일만 확인돼 경계일 신규 판단 근거로 쓰지 않았고, Goldman 고객 표본·유료 2차 인용이라 전체 펀드 장부와 원차트를 독립 검증하지 못했습니다.|[https://www.canadianminingreport.com/blog/hedge-funds-cut-net-leverage-to-a-five-year-low-as-tech-sells-off-what-it-means-for-gold-and-the-dollar](https://www.canadianminingreport.com/blog/hedge-funds-cut-net-leverage-to-a-five-year-low-as-tech-sells-off-what-it-means-for-gold-and-the-dollar)|
 
-|C02|2026-11-17T22:05:07+09:00|2026-11-17|Citadel, Scott Rubner, CTA, Nvidia 소매 투자자|이전 자료 / news / full_text / reported_flow|Citadel 표본: CTA 미국주식 140억달러 순쇼트 추정, 소매 Nvidia 9일간 44억달러 순매수 · 이번 취합 구간 이전 자료입니다. Scott Rubner의 Citadel 모델은 중간선거 뒤 10거래일 SPY 실현변동성을 33.2v, QQQ 50.7v, SMH 92v, SOXX 108v로 집계했습니다. CTA 포지션은 11월 6일 역사 평균보다 -4.3표준편차까지 낮아졌고 현재 미국주식 총 140억달러 순쇼트로 추정됐습니다. 반대로 Citadel 플랫폼의 소매는 Nvidia를 9거래일 연속 약 44억달러 순매수했고 전주 Nvidia 옵션 프리미엄 거래는 32억달러로 최근 3개월 주평균의 3.4배였습니다. CTA 수치는 모델 추정, 소매 수치는 Citadel 플랫폼 표본이므로 전체 투자자 장부가 아닙니다.|[https://www.investing.com/news/stock-market-news/citadels-rubner-says-equity-volatility-hits-highest-since-april-2025-93CH-5032831](https://www.investing.com/news/stock-market-news/citadels-rubner-says-equity-volatility-hits-highest-since-april-2025-93CH-5032831)|
+|E08|2026-11-20T02:10:55+09:00|2026-09-30|SEC 13F 보고 운용사, Nvidia, Soros Fund, Tiger Global|news / partial_text / unverified|3분기 13F Nvidia 보유 엇갈림 · 부분 본문 확인 · 공개된 부분 본문은 2026년 3분기 13F에서 여러 헤지펀드가 Nvidia 보유를 늘리거나 유지했고 일부는 줄였다고 설명하며, 제목은 Soros Fund의 축소를 명시했습니다. 세부 수량과 전체 표는 접근하지 못해 방향을 현재 포지션 판단에 사용하지 않았습니다. 실제 관측일은 9월 30일이며 13F는 현금·대부분의 쇼트·비공개 파생을 포함하지 않고 최대 45일 지연됩니다.|[https://seekingalpha.com/news/4674131-hedge-funds-turn-bullish-on-nvidia-in-q3-but-soros-fund-cut-exposure](https://seekingalpha.com/news/4674131-hedge-funds-turn-bullish-on-nvidia-in-q3-but-soros-fund-cut-exposure)|
 
-|C03|2026-11-18T06:54:44+09:00|2026-11-17|Nvidia, Colette Kress, AI 인프라 투자자, Reuters|이전 자료 / news / full_text / observed_metric|Nvidia 실적·가이던스 상회에도 시간외 반응은 약 2%로 제한 · 이번 취합 구간 이전 자료입니다. Nvidia는 3분기 매출·이익이 예상치를 웃돌고 4분기 매출 1260억~1340억달러를 제시해 컨센서스 약 1250억달러를 상회했습니다. 중국 데이터센터 매출은 가이던스에 포함하지 않았고 FY2028 매출 75% 증가를 예상했습니다. 시간외 주가는 약 2% 상승해 사전 옵션의 8.5% 변동폭보다 작았습니다. Reuters가 인용한 운용자들은 기초 수요는 견조하지만 자금조달, 마진 지속성, 경영승계 위험 때문에 강한 실적만으로 포지션 심리가 완전히 바뀌지는 않았다고 평가했습니다.|[https://www.investing.com/news/stock-market-news/nvidia-earnings-beat-estimates-attention-turns-to-call-5034180](https://www.investing.com/news/stock-market-news/nvidia-earnings-beat-estimates-attention-turns-to-call-5034180)|
+|C01|2026-11-19T08:01:48+09:00|2026-11-18|European Central Bank, 글로벌 헤지펀드, 유로지역 은행·딜러|이전 자료 / primary / full_text / observed_metric|ECB: 유로 국채 레포에서 헤지펀드 비중 14%, 3월 스트레스 때 포지션 13% 축소 · 이번 취합 구간 이전 자료입니다. ECB의 증권금융거래 자료 분석에서 헤지펀드는 유로지역 국채 담보 레포 잔액의 14%, 중앙청산 거래를 제외하면 27%를 차지했습니다. 2026년 2월 중동 충돌 직전 총 레포 포지션은 약 6,400억유로로 전년 초보다 60% 넘게 늘었지만, 금리 변동성이 급등한 3월에는 13% 줄어 딜러·기타 금융기관의 3% 축소보다 빨랐습니다. 순 현금차입도 2월 1,050억유로 이상에서 약 500억유로 감소했고 여름에 다시 늘었습니다. 이는 스트레스 때의 procyclical gross deleveraging 표본이며 현재 실시간 포지션은 아닙니다.|[https://www.ecb.europa.eu/press/financial-stability-publications/fsr/focus/2026/html/ecb.fsrbox202611_07~d23692bb6f.en.html](https://www.ecb.europa.eu/press/financial-stability-publications/fsr/focus/2026/html/ecb.fsrbox202611_07~d23692bb6f.en.html)|
 
-|C04|2026-11-17T16:36:30+09:00|2026-11-17|KRX, 한국 외국인 투자자, 한국 기관 투자자, Samsung Electronics, SK hynix|이전 자료 / news / full_text / observed_metric|코스피 5000선 하회: 외국인 1.44조원 순매도, 기관·개인은 순매수 · 이번 취합 구간 이전 자료입니다. 11월 17일 코스피는 2.59% 내린 4,968.48로 4거래일 연속 하락했고 9개월 최저를 기록했습니다. 외국인은 1조4,400억원 순매도했지만 기관은 5,435.6억원, 개인은 4,217.9억원 순매수했습니다. 삼성전자와 SK하이닉스는 각각 3.3%, 1.96% 하락했습니다. 전일 외국인·기관 동반 매도와 달리 이날은 외국인 매도를 국내 기관·개인이 일부 흡수했으나 지수 하락을 막지는 못했습니다. 현물 투자자 분류에는 헤지펀드 외 투자자가 포함되며 파생·대차·공매도는 분리되지 않습니다.|[https://en.yna.co.kr/view/AEN20261117006352320](https://en.yna.co.kr/view/AEN20261117006352320)|
+|C02|2026-11-19T04:00:00+09:00|2026-10-28|Federal Reserve, FOMC, 헤지펀드, 프라임브로커, AI 관련 기업|이전 자료 / primary / full_text / opinion|연준 의사록: 헤지펀드 레버리지·AI 금융집중을 주요 취약성으로 지목 · 이번 취합 구간 이전 자료입니다. 10월 27~28일 FOMC 의사록에서 연준 staff는 높은 자산가치와 헤지펀드 레버리지를 가장 두드러진 금융안정 취약성으로 평가했습니다. 다수 참석자는 제한된 딜러 중개능력과 헤지펀드 레버리지가 스트레스 증폭 경로가 될 수 있고 은행의 프라임브로커 익스포저를 계속 감시해야 한다고 봤습니다. AI 관련 부채의 불투명한 구조·집중과 실망스러운 수익률이 손실을 키울 위험도 논의됐습니다. 한편 당시 repo 금리는 IORB보다 소폭 낮고 준비금은 충분해 단기자금시장은 안정적이었습니다. 거의 모든 참석자는 기준 전망에서 추가 인상이 적절할 가능성이 높다고 판단했습니다. 관측·발언일은 10월 회의이며 11월 18일 공개 자료입니다.|[https://www.federalreserve.gov/monetarypolicy/fomcminutes20261028.htm](https://www.federalreserve.gov/monetarypolicy/fomcminutes20261028.htm)|
 
-|C05|2026-11-18T05:28:07+09:00|2026-11-17|CNBC, Cboe, SPY 옵션 투자자, S&P 500 투자자|이전 자료 / news / full_text / observed_metric|S&P 보호풋 수요 확대: VIX 27.7·SPY 풋콜 거래량 1.5 · 이번 취합 구간 이전 자료입니다. 11월 17일 장중 VIX는 27.7까지 약 5포인트 올랐고 SPY 풋/콜 거래량 비율은 1.5로 4월 첫째 주 이후 최고였습니다. CNBC는 S&P 변동성이 Nasdaq-100보다 빠르게 올라 보호 수요가 AI 종목을 넘어 대형주 전반으로 번졌다고 보도했습니다. 다만 고정행사가 변동성 상승은 질서정연했고 VIX는 11월 5일 고점 28.4 아래여서 공황성 헤지로 단정하기 어렵다는 반대 의견도 실었습니다.|[https://www.cnbc.com/2026/11/17/wall-streets-fear-gauge-is-surging-again-and-this-time-its-not-just-about-ai-jitters.html](https://www.cnbc.com/2026/11/17/wall-streets-fear-gauge-is-surging-again-and-this-time-its-not-just-about-ai-jitters.html)|
+|C03|2026-11-19T02:07:00+09:00|2026-11-18|SpotGamma, Brent Kochuba, 옵션 딜러, Nvidia 옵션 투자자|이전 자료 / primary / full_text / opinion|SpotGamma: Nvidia 안도는 약했지만 추수감사절 주간 옵션 흐름은 완만한 상승 가능성 · 이번 취합 구간 이전 자료입니다. Brent Kochuba는 Nvidia 실적 뒤 이벤트 프리미엄이 빠졌으나 새로운 강한 매수 수요가 붙지 않아 반응이 안도 수준이었다고 평가했습니다. S&P 500 옵션 가격 하락과 만기 도래로 기존 헤지가 사라지면 시장이 완만히 오를 여지가 있고, 짧은 휴일 주간의 낮은 실현변동성이 딜러 헤지를 순응적으로 만들 수 있다고 봤습니다. 다만 인터넷 인프라 장애처럼 예고 없는 충격이 단일 세션의 보호 수요를 되살릴 수 있다는 조건을 달았습니다. 이는 SpotGamma의 메커니즘 의견이며 전체 딜러 감마 장부의 실측치가 아닙니다.|[https://spotgamma.com/holiday-week-options-flows/](https://spotgamma.com/holiday-week-options-flows/)|
+
+|C04|2026-11-18T16:35:20+09:00|2026-11-18|KRX, 한국 외국인 투자자, 한국 기관 투자자, Samsung Electronics, SK hynix|이전 자료 / news / full_text / observed_metric|코스피 1.99% 반등에도 외국인 3,337억원 순매도, 기관이 5,118억원 순매수 · 이번 취합 구간 이전 자료입니다. 11월 18일 코스피는 Nvidia 실적·가이던스 상회에 1.99% 오른 5,067.44로 마감했습니다. 삼성전자는 2.31%, SK하이닉스는 4.19% 상승했습니다. 그러나 외국인은 3,337.5억원, 개인은 6,379.8억원을 순매도했고 기관은 5,117.6억원을 순매수해 반등을 주도했습니다. 전일 1조4,400억원 외국인 순매도보다 규모는 줄었지만 외국인 위험축소가 순매수로 전환된 것은 아닙니다. 현물 투자자 분류에는 헤지펀드 외 투자자가 포함되며 파생·대차·공매도는 분리되지 않습니다.|[https://en.yna.co.kr/view/AEN20261118007252320](https://en.yna.co.kr/view/AEN20261118007252320)|
+
+|C05|2026-11-17T19:53:58+09:00|2026-11-12|hartnett, Michael Hartnett, BofA Global Research, 글로벌 펀드매니저|이전 자료 / news / full_text / observed_metric|BofA 11월 FMS: 기술주 비중 2006년 이후 최대 축소, 반도체 롱은 여전히 최다 과밀 · 이번 취합 구간 이전 자료입니다. Michael Hartnett가 이끄는 BofA 팀의 11월 6~12일 펀드매니저 설문에서 기술주 오버웨이트는 한 달 새 2006년 이후 가장 크게 줄었습니다. 글로벌 반도체 롱을 최다 과밀거래로 꼽은 비율은 39%로 7월 82%에서 낮아졌고, M7 롱은 12%였습니다. 응답자의 52%는 6개월 내 하이퍼스케일러 capex 삭감을 예상했고, 순 38%는 기업이 과잉투자 중이라고 답했습니다. 최대 꼬리위험은 AI 버블 34%, 하이퍼스케일러 신용사건 31%였습니다. 평균 현금은 3.9%에서 3.6%로 낮아졌고 채권 언더웨이트는 13%포인트 축소돼, 전면 현금화보다 기술주 집중도 축소와 채권 이동에 가깝습니다. 공개 기사 표본은 193명·5260억달러이며 Reuters 병행 보도는 169명·4610억달러를 제시해 패널·응답항목별 표본 차이가 있습니다.|[https://www.investing.com/news/stock-market-news/betting-on-chip-stocks-remains-the-most-crowded-trade-by-far-bofas-survey-finds-5032235](https://www.investing.com/news/stock-market-news/betting-on-chip-stocks-remains-the-most-crowded-trade-by-far-bofas-survey-finds-5032235)|
 
 |C06|2026-11-17T06:39:26+09:00|2026-11-16|pimco, PIMCO, Daniel Ivascyn, 고품질 채권 투자자|이전 자료 / primary / full_text / opinion|Ivascyn: 25년 만의 고금리에서 고품질 채권·듀레이션 선호 · 이번 취합 구간 시작 약 1시간 45분 전 공개된 PIMCO 공식 자료입니다. Dan Ivascyn은 실질금리 상승으로 채권 수익률이 약 25년 만의 높은 수준이며 3~5년 관점에서 고품질 채권과 듀레이션이 매력적이라고 평가했습니다. 주식 위험의 가격은 역사적으로 비싸고, AI 투자는 수백 년 내 가장 큰 기업투자 물결로 일부는 부실투자가 될 수 있어 낮은 품질의 신용위험보다 고품질·글로벌 분산을 선호했습니다. 시간창 밖이므로 신규 근거가 아닌 이전 문맥입니다.|[https://www.pimco.com/us/en/insights/income-update-compelling-yields-drive-long-term-opportunities](https://www.pimco.com/us/en/insights/income-update-compelling-yields-drive-long-term-opportunities)|
 
 |C07|2026-11-18T08:31:41+09:00|2026-11-17|pimco, PIMCO, Marc Seidner|이전 자료 / primary / full_text / opinion|PIMCO 2027 전망: AI 노출이 주식·신용·인프라에 중첩, 고품질·상대가치로 분산 · 이번 취합 구간 시작 직전 공개된 PIMCO 공식 자료입니다. Marc Seidner는 AI 관련 자본지출이 현금흐름을 웃돌아 차입 의존과 기술 섹터 신용스프레드 확대가 나타났고, 2026년 미국 달러 비금융 투자등급채 발행의 거의 4분의 1이 AI 관련이었다고 설명했습니다. PIMCO는 무담보 신용·주식보다 양질의 자산과 계약 현금흐름으로 뒷받침된 인프라 금융, 고품질 신용, 상대가치, MBS 등 분산을 선호했습니다. 11월 11~13일 관측 수치가 포함된 과거 문맥이며 신규 시간창 근거는 아닙니다.|[https://www.pimco.com/us/en/insights/charting-the-year-ahead-investment-ideas-for-2027](https://www.pimco.com/us/en/insights/charting-the-year-ahead-investment-ideas-for-2027)|
 
+|C08|2026-11-18T19:00:00+09:00|2026-11-11|Investment Company Institute, 미국 뮤추얼펀드·ETF 투자자|이전 자료 / primary / full_text / observed_metric|ICI 11월 11일 주간: 장기펀드·ETF 343억달러 순유입, 주식 370억달러 순유입 · 이번 취합 구간 이전에 공개된 ICI 공식 주간 추정치입니다. 11월 11일 종료 주간 장기 뮤추얼펀드·ETF 합계 순유입은 343.2억달러였고, 주식형 370.2억달러·채권형 16.7억달러 순유입과 혼합형 41.5억달러·원자재형 2.3억달러 순유출이 집계됐습니다. 뮤추얼펀드는 225.6억달러 순유출, ETF 순발행은 568.8억달러였습니다. 보고자산 98% 이상을 포괄하는 산업 추정치이지만 관측일이 11월 11일로 최근 매도 국면 이전입니다.|[https://www.ici.org/research/stats/combined_flows](https://www.ici.org/research/stats/combined_flows)|
+
 
 ## 수집 범위
 
-- Shawn Tuteja / checked / Goldman 공식 Insights·팟캐스트·공개 웹을 검색. 최근 24시간 새 독립 발언 0건; 마지막 직접 공식 자료는 8월 21일.
+- Shawn Tuteja / checked / Goldman 공식 Insights·팟캐스트·공개 웹을 재검색. 최근 24시간 새 독립 발언 0건; 마지막 직접 자료는 8월 21일.
 
-- Michael Hartnett · BofA Flow Show/FMS / checked / BofA/Hartnett·Flow Show·FMS 공개 웹과 신뢰 언론을 검색. 11월 17일 FMS 재전송 외 새 독립 사건 0건.
+- Michael Hartnett · BofA Flow Show/FMS / checked / BofA/Hartnett·Flow Show·FMS를 재검색. 11월 17일 FMS 재전송 외 새 독립 사건 0건.
 
-- PIMCO · Ivascyn/Balls/Wilding / partial / 세 명의 새 독립 발언은 0건. Seidner 공식 전망은 창 시작 직전이라 문맥 처리. 새 AI 신용 팟캐스트는 제목·발표자만 확인되고 원문 접근 실패.
+- PIMCO · Ivascyn/Balls/Wilding / checked / 세 명의 새 독립 발언 0건. 11월 19일 Financial Investigator 기사는 10월 Wilding/Balls Cyclical Outlook 재전송.
 
-- 글로벌 헤지펀드·프라임브로커 gross/net·롱/숏 / checked / ECB 원자료의 6,400억유로 gross repo·13% 축소와 FOMC의 프라임브로커 모니터링 논의를 확인. 실시간 전체 펀드 장부는 미공개.
+- 글로벌 헤지펀드·프라임브로커 gross/net·롱/숏 / partial / Hunterbrook 신규 AMD 쇼트와 Goldman PB 2차 인용의 gross 206.3%·net 41.6%를 확인. Goldman 원차트·전체 PB 합산 장부는 비공개.
 
-- CTA·변동성 목표·딜러 감마 / partial / Saxo 변동성 곡선·상관과 SpotGamma 휴일 주간 흐름을 확인. 새 CTA·vol-control 실제 체결과 전체 딜러 감마 장부는 미확인.
+- CTA·변동성 목표·딜러 감마 / partial / Saxo의 이벤트 프리미엄·내재상관·보호수요를 확인. 신규 CTA·vol-control 실제 체결과 전체 딜러 감마 장부는 미확인.
 
-- 펀드·ETF 자금흐름 / partial / 한국 외국인·기관 현물 수급과 SpotGamma 옵션 흐름을 확인. 글로벌 ETF 전체 일간 유출입의 독립 원자료는 미확인.
+- 펀드·ETF 자금흐름 / checked / ICI 공식 11월 11일 관측 주간 추정과 한국 외국인 현물 수급을 확인. 관측시차와 표본 범위를 명시.
 
-- 국채 베이시스·레포·마진·엔 캐리 / partial / ECB 유로 국채 레포 실측과 FOMC의 미국 repo 안정·헤지펀드 레버리지 논의를 확인. 신규 엔 캐리 청산과 현재 미국 basis 마진콜 직접 관측은 0건.
+- 국채 베이시스·레포·마진·엔 캐리 / checked / Fed·ECB·CFTC·OFR·신뢰 언론을 검색. 전일 ECB/FOMC 자료 이후 신규 미국 basis 마진콜·repo 경색·엔 캐리 청산 직접 관측 0건.
 
-- 13F·CFTC 공시 / checked / 새 분기 13F·COT 이벤트 없음. 이전 13F는 9월 30일 보유분이며 현금·대부분 쇼트 미포함, 최대 45일 지연 한계를 유지.
+- 13F·CFTC 공시 / partial / Seeking Alpha의 Q3 Nvidia 13F 부분 본문을 확인했으나 세부 표 접근 실패. 9월 30일 관측, 현금·대부분 쇼트 미포함, 최대 45일 지연을 명시. 이번 주 COT는 아직 미발표.
 
-- 한국 직접 전달 경로 / checked / KRX 기반 11월 18일 외국인·기관·개인 현물 수급과 삼성전자·SK하이닉스 반응을 확인.
+- 한국 직접 전달 경로 / checked / KRX 기반 11월 19일 수급과 Reuters/LSEG의 장기 외국인 유출 분석을 확인.
 
-- 언론·공식 원문 / checked / ECB·Federal Reserve·PIMCO·Saxo·SpotGamma·연합뉴스 원문을 열어 확인. PIMCO 팟캐스트는 접근 실패를 별도 표시.
+- 언론·공식 원문 / checked / Hunterbrook·AMD/CNBC·Saxo·Reuters·연합뉴스·ICI 원문을 열어 확인하고 반론·표본·관측시차를 기록.
 
-- 공개 커뮤니티 / checked / Reddit·공개 투자 커뮤니티를 검색했으나 시간창 안에 게시시각·직접 URL·독립 근거를 함께 검증한 포지션 주장 0건.
+- 공개 커뮤니티 / checked / Reddit·공개 투자 커뮤니티를 재검색했으나 시간창 안에 직접 URL·게시시각·독립 근거를 함께 확인한 포지션 주장 0건.
 
-- 기사 후보 수집 / checked / global-position/discovery/latest.json을 확인했으며 후보 배열은 비어 있었습니다. 분석 원문은 별도 공개 웹 검색으로 확보.
+- 기사 후보 수집 / checked / discovery/latest.json의 9개 후보를 확인. ECB·Goldman PB·crypto basis 후보는 재전송·2차자료·관련성 한계로 검증 보고서의 독립 판단 근거로 승격하지 않음.
 
-- 검색 경로 / checked / 핵심 대상·프라임브로커·시스템전략·repo/basis·한국·공시·커뮤니티 검색과 후속 원문 검증을 완료.
+- 검색 경로 / checked / 핵심 대상·프라임브로커·신규 쇼트·시스템전략·repo/basis·한국·공시·커뮤니티 검색과 후속 원문 검증을 완료.
