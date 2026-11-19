@@ -4,16 +4,20 @@
   "date_kst": "2026-11-19",
   "execution_date_kst": "2026-11-19",
   "status": "running",
-  "stage": "started",
+  "stage": "collecting",
   "started_at_kst": "2026-11-19T21:08:46.777165+09:00",
-  "updated_at_kst": "2026-11-19T21:08:46.777165+09:00",
+  "updated_at_kst": "2026-11-19T21:08:55.697658+09:00",
   "ended_at_kst": null,
-  "checked_channels": 0,
-  "verified_full_channels": 0,
-  "verified_posts": 0,
-  "searfin_status": "pending",
-  "failed_channels": [],
-  "errors": [],
+  "checked_channels": 4,
+  "verified_full_channels": 4,
+  "verified_posts": 238,
+  "searfin_status": "failed",
+  "failed_channels": [
+    "searfin"
+  ],
+  "errors": [
+    "searfin: public read failed: ValueError: not an approved public channel preview"
+  ],
   "evidence_path": "collection/snapshots/20261119T210837p0900-daily21.json",
   "report_published": false
 }
