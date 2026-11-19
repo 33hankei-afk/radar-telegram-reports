@@ -1,0 +1,307 @@
+{
+  "assessments": {
+    "ai_positioning": {
+      "confidence": "낮음",
+      "counter_ids": [],
+      "evidence_ids": [],
+      "label": "판단 자료 부족",
+      "limitations": [
+        "전체 헤지펀드의 실제 포지션을 추정한 수치가 아닙니다."
+      ],
+      "summary": "원문 검증 자료를 기다립니다."
+    },
+    "korea_path": {
+      "confidence": "낮음",
+      "counter_ids": [],
+      "evidence_ids": [],
+      "label": "판단 자료 부족",
+      "limitations": [
+        "전체 헤지펀드의 실제 포지션을 추정한 수치가 아닙니다."
+      ],
+      "summary": "원문 검증 자료를 기다립니다."
+    },
+    "liquidity": {
+      "confidence": "낮음",
+      "counter_ids": [],
+      "evidence_ids": [],
+      "label": "판단 자료 부족",
+      "limitations": [
+        "전체 헤지펀드의 실제 포지션을 추정한 수치가 아닙니다."
+      ],
+      "summary": "원문 검증 자료를 기다립니다."
+    },
+    "pressure": {
+      "confidence": "낮음",
+      "counter_ids": [],
+      "evidence_ids": [],
+      "label": "판단 자료 부족",
+      "limitations": [
+        "전체 헤지펀드의 실제 포지션을 추정한 수치가 아닙니다."
+      ],
+      "summary": "원문 검증 자료를 기다립니다."
+    }
+  },
+  "complete": true,
+  "core_targets": [
+    {
+      "change": "미확인",
+      "evidence_ids": [],
+      "focus": "AI·M7 과밀 / 옵션 / 포지션 비대칭",
+      "id": "tuteja",
+      "institution": "Goldman Sachs",
+      "name": "Shawn Tuteja",
+      "role": "ETF·맞춤형 바스켓 변동성 트레이딩",
+      "summary_ko": "원문 검증 일보 대기"
+    },
+    {
+      "change": "미확인",
+      "evidence_ids": [],
+      "focus": "펀드 자금흐름 / 현금·과열 / 자산배분",
+      "id": "hartnett",
+      "institution": "BofA Global Research",
+      "name": "Michael Hartnett",
+      "role": "최고 투자전략가 · Flow Show",
+      "summary_ko": "원문 검증 일보 대기"
+    },
+    {
+      "change": "미확인",
+      "evidence_ids": [],
+      "focus": "금리·채권 / 조달·유동성 / 위험자산 배분",
+      "id": "pimco",
+      "institution": "PIMCO",
+      "name": "PIMCO",
+      "role": "기관 · Ivascyn / Balls / Wilding 등",
+      "summary_ko": "원문 검증 일보 대기"
+    }
+  ],
+  "coverage": [
+    {
+      "items": 0,
+      "name": "Shawn Tuteja",
+      "note": "RSS 후보만 확인 · 원문/GPT 분석과 구분",
+      "status": "checked",
+      "url": "https://news.google.com/rss/search?q=%22Shawn+Tuteja%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "items": 0,
+      "name": "Michael Hartnett",
+      "note": "RSS 후보만 확인 · 원문/GPT 분석과 구분",
+      "status": "checked",
+      "url": "https://news.google.com/rss/search?q=%22Michael+Hartnett%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "items": 1,
+      "name": "PIMCO",
+      "note": "RSS 후보만 확인 · 원문/GPT 분석과 구분",
+      "status": "checked",
+      "url": "https://news.google.com/rss/search?q=PIMCO+%28Ivascyn+OR+Balls+OR+Wilding+OR+outlook+OR+flows%29+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "items": 3,
+      "name": "글로벌 포지션·프라임브로커",
+      "note": "RSS 후보만 확인 · 원문/GPT 분석과 구분",
+      "status": "checked",
+      "url": "https://news.google.com/rss/search?q=%28%22hedge+fund%22+OR+%22prime+broker%22%29+%28positioning+OR+deleveraging+OR+%22net+exposure%22+OR+%22gross+exposure%22%29+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "items": 1,
+      "name": "CTA·옵션·자금흐름",
+      "note": "RSS 후보만 확인 · 원문/GPT 분석과 구분",
+      "status": "checked",
+      "url": "https://news.google.com/rss/search?q=%28CTA+OR+%22volatility+control%22+OR+%22dealer+gamma%22+OR+%22short+covering%22+OR+%22fund+flows%22%29+%28stocks+OR+equity+OR+equities%29+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "items": 5,
+      "name": "국채·조달·캐리",
+      "note": "RSS 후보만 확인 · 원문/GPT 분석과 구분",
+      "status": "checked",
+      "url": "https://news.google.com/rss/search?q=%28%22treasury+basis%22+OR+%22basis+trade%22+OR+repo+OR+%22margin+call%22+OR+%22yen+carry%22%29+%28%22hedge+fund%22+OR+leverage+OR+trade%29+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "items": 0,
+      "name": "Reddit r/stocks",
+      "note": "HTTPError",
+      "status": "failed",
+      "url": "https://www.reddit.com/r/stocks/new/.rss"
+    },
+    {
+      "items": 0,
+      "name": "Reddit r/investing",
+      "note": "HTTPError",
+      "status": "failed",
+      "url": "https://www.reddit.com/r/investing/new/.rss"
+    },
+    {
+      "items": 0,
+      "name": "Reddit r/wallstreetbets",
+      "note": "HTTPError",
+      "status": "failed",
+      "url": "https://www.reddit.com/r/wallstreetbets/new/.rss"
+    }
+  ],
+  "coverage_note": "자동 공개 RSS 후보 수집입니다. 제목만으로 실제 헤지펀드 포지션이나 매수·매도 압력을 판단하지 않습니다.",
+  "date_kst": "2026-11-19",
+  "entries": [
+    {
+      "access": "headline_only",
+      "actors": [
+        "pimco"
+      ],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:1e64b6219c6c519a241904f7",
+      "id": "D08922ebdbca85e67",
+      "mechanisms": [],
+      "published_at_kst": "2026-11-19T05:54:14+09:00",
+      "published_date": "2026-11-19",
+      "publisher": "TradingView",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "Debt to assets ratio of PIMCO Dynamic Income Opportunities Fund – LS:A3C822 - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMkg3ZW55dlplX29za3BNZnRPY2J4VnJ5ckpnZHZabDk4MjA3NmhNa0xIR09FRm9DRVRVWWZTa2hNY2MxUm9JUEtNSmJhU193SjBGb2RXbGxwVTVqQjMtbGxDNkZoMHc4alpHQU1kTjAtbWZnampsWkgxZDFXR1htLVlmNXpyd3VxTk5OVWpNNmE2SnluMnlBVg?oc=5"
+    },
+    {
+      "access": "headline_only",
+      "actors": [],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:521eea70dd1c8e3d2c38e26a",
+      "id": "Dacfef39c63b4822f",
+      "mechanisms": [],
+      "published_at_kst": "2026-11-19T04:57:58+09:00",
+      "published_date": "2026-11-19",
+      "publisher": "Beinsure",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "Hedge funds cut leverage at fastest pace since 2020 amid tech selloff - Beinsure",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWWJzN0Z6V0YzbFZ4b1BSUF9Vb1Bzc1VmVEhWZ2thNG1qdUVSaHFSSUVrSFZoV2FSSWw3WEtJSHJXWHV0aTVNNE1uSkRNOUpYekNxdVphT25NRG55N0ZzcEZxbVZObnowUjFRY2FpTEg1TjVmZDhSbHFCeHJUZXd2SHVPMURqV0FKUmJ6ZmdR?oc=5"
+    },
+    {
+      "access": "headline_only",
+      "actors": [],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:c262fb92681d861b95be2826",
+      "id": "Df5b0abafd7889d8c",
+      "mechanisms": [],
+      "published_at_kst": "2026-11-19T05:25:18+09:00",
+      "published_date": "2026-11-19",
+      "publisher": "Beinsure",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "ECB Warns Hedge Funds Pose Risks to European Sovereign Debt and Insurers - Beinsure",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaV9yQmhNNmZETHVuTS0xMzNMR2gyUWRIVU03MHhJZ3cyWl9HV2R4d0NLOWh0VzZvNkVpRy1BMzdLYUNUZ2luUkdwbFJNaDVWdk1qYmRmemxmY2Rhdl9KMldYYklsQXV1Y2FtQUhKSGFnRXZ2N25WR2pSTFJwV0VTV3hzd1ZDaXUycmZFemkyNjBOQV91SkxCZnFB?oc=5"
+    },
+    {
+      "access": "headline_only",
+      "actors": [],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:99ecc5692be697ef44fe3c78",
+      "id": "D1404b257687c384e",
+      "mechanisms": [],
+      "published_at_kst": "2026-11-19T02:44:41+09:00",
+      "published_date": "2026-11-19",
+      "publisher": "Aktualita.co",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "Hedge Funds Face New Market Risks as AI Stocks Slide: What Investors Should Know - Aktualita.co",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1hN3JDRjhNMk5ZX2VCdUpiRUtYeEUxdGk2Q0ZGTzRYZEM1NVBrV3lRNmlBU1RYemwzZHIwN1BSRnBmQnBoaWxpeG1DQzBhc3h5LVFZeGlmZDMyZ1Z5dXZERTlvVjJzSUNxSXpYaVprU20?oc=5"
+    },
+    {
+      "access": "headline_only",
+      "actors": [],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:73b49ad202ba28a53f7088b4",
+      "id": "Dbb4450bc78c28fc6",
+      "mechanisms": [],
+      "published_at_kst": "2026-11-18T13:11:07+09:00",
+      "published_date": "2026-11-18",
+      "publisher": "Investing.com India",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "Silver Gains On Short Covering After AI Trade Fears And October Inflation Weigh By Kedia Advisory - Investing.com India",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWUpERmhRU1YzR0pNUUJUY25IeGgyWnJsekQxUnlmOGJhQ2xfNE1HMjBNU3Vpcko5cU5rSDgyN081NTl1aGpQVUdRVE5SZzVNdm85UVZGaldJZ0x4WnlBMVo4c1lGLTZPOWFUUExGazQtTTBWdkJhaU9ucGZTTHRzTW5qUkNJLVpOTEVUMVBaeDRyQVRZaGNJSmdYZ0xRQThkZW9odnh3Uy04d3JnZ1VJdVh1cnlIcm4xcmlzUEp5d3pkc3p1c1BydEdETHFjWkE?oc=5"
+    },
+    {
+      "access": "headline_only",
+      "actors": [],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:ab2f6271c86d44122acfb4ec",
+      "id": "Dd157e0947caf5490",
+      "mechanisms": [],
+      "published_at_kst": "2026-11-19T00:27:35+09:00",
+      "published_date": "2026-11-19",
+      "publisher": "Moomoo",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "Live Updates: Bitcoin Stuck Near $65,000 as Popular 'Basis Trade' Returns Dry up - Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWV9TaFJRLTcybGYyRXBTeVNzRG12QUI1UF9LNENSOWNtbzRmcTQ5aDNzYzBSaTFLcmY1R0VlRXZFbGlDTlZpNVEwV2hvWlo4MzNVVXNaRnhDRmptaUxndWpDVm9BQ3J6M3JreHhwaFY4dDd6MU43aHJlYmxnc25hcXM3V1hTbl8yQzJTa0JsN2xmdFdOLVNSVUNLVlJSMHNUNm9ZRVJYTQ?oc=5"
+    },
+    {
+      "access": "headline_only",
+      "actors": [],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:cd898eb0107f7ab272d57709",
+      "id": "D66f46698f5ddab0c",
+      "mechanisms": [],
+      "published_at_kst": "2026-11-18T16:39:29+09:00",
+      "published_date": "2026-11-18",
+      "publisher": "Traders Union",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "Crypto basis trade weakens as stock perpetuals draw more volume - Traders Union",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUktfM3NWQlhucXk3OGM3blREdWxCLXdIbFdQRXA5ejA5aXpDdmZ1VE9yVjBfQ2R0bE52UmtlM2xjdVlrMmNBdm1Ia1NrOHB4ODEzMzRNY04xMjU5NGppVEg3QkhDMHpJYjVrUW02YWU5SE1BbXRHSFpZeTc5YnVNZUtLOU5MbVVBc2t0NTdfRHlERGgtWFhlZ25LcEkzTG1NQU5Z?oc=5"
+    },
+    {
+      "access": "headline_only",
+      "actors": [],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:a99021a9c378e7694b532cc9",
+      "id": "Dd5f4835cd0861b1d",
+      "mechanisms": [],
+      "published_at_kst": "2026-11-18T20:42:52+09:00",
+      "published_date": "2026-11-18",
+      "publisher": "CoinDesk",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "Bitcoin (BTC) price drops as basis trade dries up and Fed minutes loom - CoinDesk",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNU1packRoM1c4R2NWdXB1dzdaWHpRVjJmU2QtMXM0dWQtT1dDTXNlalpJOXZ3R3B6WXk3S0JRU3NURkhJbUNzTmRBaEV6dERqb240d2ZZbzlrRmRScEtkc0FiUFpzcV9mRDAydE5xWkRubU5XLUNpMU1ZQXlhQV9ENDhtT3dpeDFhS2FIWmw5RkdOWG9INm14UnkyMVkycXdFNEtRNl9ScHB3V3hEOVR6TEpwMGY0ZU8t?oc=5"
+    },
+    {
+      "access": "headline_only",
+      "actors": [],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:eee82a50ad46237da9a7506b",
+      "id": "Df9996d8c3c7f6a7c",
+      "mechanisms": [],
+      "published_at_kst": "2026-11-18T22:21:28+09:00",
+      "published_date": "2026-11-18",
+      "publisher": "Altcoin Buzz",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "Is Bitcoin's CME Basis Trade Over? What CFTC Data Shows - Altcoin Buzz",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZFpaZVFPTWhYVEtzaHZwVjI1SWY5bDYyWHE0ZTUtc1ltWE5Na3pHQnBhdENsVzRsaUhlMUtWdTY3RlpqQ3BpSmx6U2pXaHZyUzB1Nl9VMm1mZWUwemF5QXgycDRuU05ybXd3N0s1UHFxRVhaTFlPTHpmNTRyWm5obWJ5eDVISUot?oc=5"
+    }
+  ],
+  "generated_at_kst": "2026-11-19T13:05:46.317353+09:00",
+  "producer": "rss_discovery",
+  "schema": "global_position_v1",
+  "window_end_kst": "2026-11-19T13:05:46.317353+09:00",
+  "window_start_kst": "2026-11-18T13:05:46.317353+09:00",
+  "content_sha256": "8ef838a351fb90bfe5f06419014b27f3e6518dce92d1fd2cdb43a1ce061d9373"
+}
