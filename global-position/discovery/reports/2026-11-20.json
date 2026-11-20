@@ -1,0 +1,356 @@
+{
+  "assessments": {
+    "ai_positioning": {
+      "confidence": "낮음",
+      "counter_ids": [],
+      "evidence_ids": [],
+      "label": "판단 자료 부족",
+      "limitations": [
+        "전체 헤지펀드의 실제 포지션을 추정한 수치가 아닙니다."
+      ],
+      "summary": "원문 검증 자료를 기다립니다."
+    },
+    "korea_path": {
+      "confidence": "낮음",
+      "counter_ids": [],
+      "evidence_ids": [],
+      "label": "판단 자료 부족",
+      "limitations": [
+        "전체 헤지펀드의 실제 포지션을 추정한 수치가 아닙니다."
+      ],
+      "summary": "원문 검증 자료를 기다립니다."
+    },
+    "liquidity": {
+      "confidence": "낮음",
+      "counter_ids": [],
+      "evidence_ids": [],
+      "label": "판단 자료 부족",
+      "limitations": [
+        "전체 헤지펀드의 실제 포지션을 추정한 수치가 아닙니다."
+      ],
+      "summary": "원문 검증 자료를 기다립니다."
+    },
+    "pressure": {
+      "confidence": "낮음",
+      "counter_ids": [],
+      "evidence_ids": [],
+      "label": "판단 자료 부족",
+      "limitations": [
+        "전체 헤지펀드의 실제 포지션을 추정한 수치가 아닙니다."
+      ],
+      "summary": "원문 검증 자료를 기다립니다."
+    }
+  },
+  "complete": true,
+  "core_targets": [
+    {
+      "change": "미확인",
+      "evidence_ids": [],
+      "focus": "AI·M7 과밀 / 옵션 / 포지션 비대칭",
+      "id": "tuteja",
+      "institution": "Goldman Sachs",
+      "name": "Shawn Tuteja",
+      "role": "ETF·맞춤형 바스켓 변동성 트레이딩",
+      "summary_ko": "원문 검증 일보 대기"
+    },
+    {
+      "change": "미확인",
+      "evidence_ids": [],
+      "focus": "펀드 자금흐름 / 현금·과열 / 자산배분",
+      "id": "hartnett",
+      "institution": "BofA Global Research",
+      "name": "Michael Hartnett",
+      "role": "최고 투자전략가 · Flow Show",
+      "summary_ko": "원문 검증 일보 대기"
+    },
+    {
+      "change": "미확인",
+      "evidence_ids": [],
+      "focus": "금리·채권 / 조달·유동성 / 위험자산 배분",
+      "id": "pimco",
+      "institution": "PIMCO",
+      "name": "PIMCO",
+      "role": "기관 · Ivascyn / Balls / Wilding 등",
+      "summary_ko": "원문 검증 일보 대기"
+    }
+  ],
+  "coverage": [
+    {
+      "items": 0,
+      "name": "Shawn Tuteja",
+      "note": "RSS 후보만 확인 · 원문/GPT 분석과 구분",
+      "status": "checked",
+      "url": "https://news.google.com/rss/search?q=%22Shawn+Tuteja%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "items": 0,
+      "name": "Michael Hartnett",
+      "note": "RSS 후보만 확인 · 원문/GPT 분석과 구분",
+      "status": "checked",
+      "url": "https://news.google.com/rss/search?q=%22Michael+Hartnett%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "items": 0,
+      "name": "PIMCO",
+      "note": "RSS 후보만 확인 · 원문/GPT 분석과 구분",
+      "status": "checked",
+      "url": "https://news.google.com/rss/search?q=PIMCO+%28Ivascyn+OR+Balls+OR+Wilding+OR+outlook+OR+flows%29+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "items": 5,
+      "name": "글로벌 포지션·프라임브로커",
+      "note": "RSS 후보만 확인 · 원문/GPT 분석과 구분",
+      "status": "checked",
+      "url": "https://news.google.com/rss/search?q=%28%22hedge+fund%22+OR+%22prime+broker%22%29+%28positioning+OR+deleveraging+OR+%22net+exposure%22+OR+%22gross+exposure%22%29+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "items": 3,
+      "name": "CTA·옵션·자금흐름",
+      "note": "RSS 후보만 확인 · 원문/GPT 분석과 구분",
+      "status": "checked",
+      "url": "https://news.google.com/rss/search?q=%28CTA+OR+%22volatility+control%22+OR+%22dealer+gamma%22+OR+%22short+covering%22+OR+%22fund+flows%22%29+%28stocks+OR+equity+OR+equities%29+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "items": 4,
+      "name": "국채·조달·캐리",
+      "note": "RSS 후보만 확인 · 원문/GPT 분석과 구분",
+      "status": "checked",
+      "url": "https://news.google.com/rss/search?q=%28%22treasury+basis%22+OR+%22basis+trade%22+OR+repo+OR+%22margin+call%22+OR+%22yen+carry%22%29+%28%22hedge+fund%22+OR+leverage+OR+trade%29+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "items": 0,
+      "name": "Reddit r/stocks",
+      "note": "HTTPError",
+      "status": "failed",
+      "url": "https://www.reddit.com/r/stocks/new/.rss"
+    },
+    {
+      "items": 0,
+      "name": "Reddit r/investing",
+      "note": "HTTPError",
+      "status": "failed",
+      "url": "https://www.reddit.com/r/investing/new/.rss"
+    },
+    {
+      "items": 0,
+      "name": "Reddit r/wallstreetbets",
+      "note": "HTTPError",
+      "status": "failed",
+      "url": "https://www.reddit.com/r/wallstreetbets/new/.rss"
+    }
+  ],
+  "coverage_note": "자동 공개 RSS 후보 수집입니다. 제목만으로 실제 헤지펀드 포지션이나 매수·매도 압력을 판단하지 않습니다.",
+  "date_kst": "2026-11-20",
+  "entries": [
+    {
+      "access": "headline_only",
+      "actors": [],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:0e3613a59940e7479794b43d",
+      "id": "Dc023648782111c4a",
+      "mechanisms": [],
+      "published_at_kst": "2026-11-20T01:30:54+09:00",
+      "published_date": "2026-11-20",
+      "publisher": "TradingView",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "Mixed activity by hedge funds on SpaceX in Q3 - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNTdHZWlyMDlhaGJiVXVfZFFhTS1ManlQcUhGdEdlT0x2d3p4eXJtektINmh1bFlBZmRfeTFBZ0tkS3otNzdtWnBqajdBYjlKMHRuT3RCb29sOW9Tc0dqcUFnb1BhTWRheHBvcml4WmxXai1KekFEZHhIOE9zYjVWekhBbW9Tal9hWXd4WjJFbnl3MVI4UHZKVzJKU1hiMDRwQTVULWk2eUd3VEYt?oc=5"
+    },
+    {
+      "access": "headline_only",
+      "actors": [],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:4f9c277a1851e8dc70df99de",
+      "id": "D1ba496c731997264",
+      "mechanisms": [],
+      "published_at_kst": "2026-11-20T02:10:55+09:00",
+      "published_date": "2026-11-20",
+      "publisher": "Seeking Alpha",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "Hedge funds turn bullish on Nvidia in Q3, but Soros Fund cuts exposure - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcWdVQ0Y4RnczM0RGOXMyZEh0QzdjTXJrZnBLV2dwTlgwS0pzR1hqWEwyMlhwRXZoLV9PdWFocHRQS1dUd1BhRUtoTTlCcWt1RkM4UWQwM0djMHdrZ3ItU0o2WlRFUUhqWjhnRTBRVzcwTzVrUk5LY2t1ZDhHbFFtOC1JRTk3V2JCQ1hTWlNUVkJ4M0tsOWQ5bkd5RTFkSWlqaThRLXhLbXhnUQ?oc=5"
+    },
+    {
+      "access": "headline_only",
+      "actors": [],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:ede74b239067ee31922d39c5",
+      "id": "D2631adea49de8456",
+      "mechanisms": [],
+      "published_at_kst": "2026-11-19T19:30:47+09:00",
+      "published_date": "2026-11-19",
+      "publisher": "Hedgeweek",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "ECB warns hedge funds could amplify European sovereign debt volatility - Hedgeweek",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTHpBTlh1NjNkaEg0TUhvWTJmWUR1VzRja3ZzTTNYdjhuTm1uQXpIamhjWHFldVlXa1NxME91VTJ3M2ZEeXVMbldrV1pqMkI4bnNHRGl2NmgtbG9kZzZQem5XekxaS3VBTW1jNkgwZmVZeEVtTjFJLW9ZMkJWY0I0LXdaelp1MUlXV1dwOGVLcjlwZnZPQ2tmWGhONkRzUQ?oc=5"
+    },
+    {
+      "access": "headline_only",
+      "actors": [],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:0cd0cdd48a6a52af9cd1ce4d",
+      "id": "D60293eb2a88ae952",
+      "mechanisms": [],
+      "published_at_kst": "2026-11-20T05:17:00+09:00",
+      "published_date": "2026-11-20",
+      "publisher": "GuruFocus",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "Amazon (AMZN) Sees Mixed Hedge Fund Moves in Q3 2026 Amid Strong GF Score™ - GuruFocus",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZG52QmN2VHB5TU9ScU9Ic0lQWmozSVVnbUxlYXpvcm5ZalN6MnpLZXNCaVFSRU9JcmFPakYyZmw2ZjB1TTIyNmh4UlVqdmZnOWpGb0ZEQTdOMmQ0OW5PQVVpdnc5SmJ6NlFkXzVVMl9tajJaWmVDWGNTeG5VR2JYNXBZU1l6RHhWT2VoQTR1dGR4WDlPMVVoWXZRLVhwRU9uVE1hbUEzckkzQXdPa2h3?oc=5"
+    },
+    {
+      "access": "headline_only",
+      "actors": [],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:ccca34e2d365ae1d8b45ce99",
+      "id": "D0176d8d5dd998a06",
+      "mechanisms": [],
+      "published_at_kst": "2026-11-20T02:04:58+09:00",
+      "published_date": "2026-11-20",
+      "publisher": "GuruFocus",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "Q3 2026 Hedge Fund Moves Highlight Mixed Sentiment on Space Expl - GuruFocus",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZk05aVNaSnpHNXNXQ21rUmkwZHhOdy11ZFZYOHRxOU5lRlppUDE3OEZZQjlsMFE0MENqM0tvS3lETEpGOGg3SW4xLVJ3U0dpdUc3bXM0c2M2XzROZHc0RlVncGFzRW9Zc05yMnhNek5nUTVfMTcwbVNoMVlUWEx5Q1JZV3A3MkdGZG50bFhEYXExQUsweTNsNDI3ejBnUFVSUldVN2ZwdGk0S1RvZzN3UERmRXA3TjZ3WUl5ZnFkSUFwRlVtM0Qw?oc=5"
+    },
+    {
+      "access": "headline_only",
+      "actors": [],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:d03295f4a87c673f3571b439",
+      "id": "D80dcd6c72b1559b1",
+      "mechanisms": [],
+      "published_at_kst": "2026-11-20T04:22:13+09:00",
+      "published_date": "2026-11-20",
+      "publisher": "Yahoo Finance",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "Ecuador Flooding Sparks Short Covering in Cocoa Futures - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRDlWdEkzQ2FjaWpaY1IwYVhSWnNkN1VpY0hkdXhCTnRVNkQzUFJEZlhCRVB4anluSGJwTnZ5OW95cTlHREFhYmROZFZRYVlTR2xMeW4xNEFTQllvMlJ5QnRaU0pxbTZGUkJXVmFodXk2RmcxVG84ZTl0ajlhbm56NndWbWtZTUZpYi12XzhUeThuUElnVmo5eFhEdkhRTndzT0cxREZpeGx3LV9I?oc=5"
+    },
+    {
+      "access": "headline_only",
+      "actors": [],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:72c73871ee777718aa789b7b",
+      "id": "Db889202f190aa71b",
+      "mechanisms": [],
+      "published_at_kst": "2026-11-19T22:53:00+09:00",
+      "published_date": "2026-11-19",
+      "publisher": "kalkine.co.uk",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "CT Automotive Group Plc (LSE:CTA): FTSE AIM All-Share Small-Cap Growth Stock Faces a Fresh Catalyst Test - kalkine.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNN3dhTDc2WWUyNEVEZHlGdFdfVVRNOXJyYkxiNGd5TklqZHYzQ21KX0szZlRZTUV2VFJ3X0gyMldIZnpWT0tMNEtvcFJZcmNqU21URGpjMkxlVDQtUkxtdTFkTmswX3NoeFVqZlhMRGs1Wk9ScUtjV1BUZzEweE9ab25nWVQzeVJCdExVNGw1Q2h6UEdMMEZoOXpUbUFUVzVGUlF1OVM0MjBGV3I0M0hMVUgxMjI1V2JwWXVEQ1hjMTgzWHJucy1nM1pmVFdyVGoxZllVTmtn?oc=5"
+    },
+    {
+      "access": "headline_only",
+      "actors": [],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:e280ffc70d8e0cfce4946727",
+      "id": "D5de561c909880e8a",
+      "mechanisms": [],
+      "published_at_kst": "2026-11-19T13:18:39+09:00",
+      "published_date": "2026-11-19",
+      "publisher": "Investing.com India",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "Natural Gas Rallies On Short Covering After Milder Weather Forecasts Hit Prices By Kedia Advisory - Investing.com India",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUW1ad2g1cWM4QjQyRExPdXBCQW9mRGRXdHRRejB4eGtlS3JGQ1E2Y3puYTN2QWJDblRyLUZkUkJvNHVHaXhWMUtycWdyQzNlWGFQU2ZNZF9MRzVjSTEwa0hwMmsyLXBIR0VSN0F6S1g3YU1YRUV6X29TVGdfLUwtMzRkbkFOMjZLY0NOY1ZoQlBxLWdqOWxON3pTOW9JcDJTUm55cFZQeWViZExHRl9wWnVhOXJMUDdkWUgwUzFZSjJXUUJqLUR6NEVMNlhHVkk?oc=5"
+    },
+    {
+      "access": "headline_only",
+      "actors": [],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:784e7c945c726b89a59e49c3",
+      "id": "D6e2850586545cb9b",
+      "mechanisms": [],
+      "published_at_kst": "2026-11-20T12:06:48+09:00",
+      "published_date": "2026-11-20",
+      "publisher": "StoneX",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "USD/JPY Outlook: Yen Strength Builds as Carry Trades Come Under Threat - StoneX",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQUFGdWVYZXY2cHNISmoyY1RJLXVDT0E4QmU4eVpidEZMclBhMkNlQ2YyYUM4QVFKNk1ya096UVU0bGVvZXFPUjFORFZLZnFubkw4SXgydVZYSTNuNzBJRTRUU21yeVhwTVlVanJGQVBTaTNVN0NUMFRtTlNCSGRxSUpBcEJsaURrMTh4bHpiMlFHMDF6MUNOb3lNbkpILUNqWWhQdkxWRkY0ckpWbjgtZWd5anhMTjVWRFJUM2loVGZDd1ByWHpN?oc=5"
+    },
+    {
+      "access": "headline_only",
+      "actors": [],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:a601475237c17d7d2ac7c649",
+      "id": "Dc827af75309942e5",
+      "mechanisms": [],
+      "published_at_kst": "2026-11-19T15:30:45+09:00",
+      "published_date": "2026-11-19",
+      "publisher": "bloomingbit",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "Sygnum Says Bitcoin Basis Trade Returns to Top US Short-Term Treasury Yields Next Year - bloomingbit",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9YMm1tWFdjWkhHVHVDVkxzdGk3a3JFbXA4bF9qQWk0LUhuUWFEaTJwSllhM2lQRlNzbDVna2pqX1cwekpkUzJQSFQ3cnN0TVVvNmJYNw?oc=5"
+    },
+    {
+      "access": "headline_only",
+      "actors": [],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:900a48a25e87b3971ae86d2c",
+      "id": "Dcf4c45178065e67f",
+      "mechanisms": [],
+      "published_at_kst": "2026-11-19T15:00:00+09:00",
+      "published_date": "2026-11-19",
+      "publisher": "TradingView",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "Bitcoin carry trades could beat Treasury bills in 2027, Sygnum predicts - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOam8zTlBIall1QjJLdHVjU21FTEtFYmtSb3hIMkQ5Q3dzb1lsakI5TzdtalJuQ1NRU01SLWFUZENoMFJHNWN3b2hLRzFvUXB4VGg0OHJ0dXJDWjJ3bW5CVzg5Y3FSNHRuazJNVEVRNnMweE1KWWptRUVvUVlaZ1lFUm1zLXBRbkhudjVkb0htNzRaUXZCa0pOZXZvdHM3VmI5ZktQeEFSYlNwS2xsU1haQlJ1c2lSU2Z1a1ZHWU5Xak1FSS1LZ3pMR09LR3hKWWc?oc=5"
+    },
+    {
+      "access": "headline_only",
+      "actors": [],
+      "claim_type": "unverified",
+      "direction": "unknown",
+      "event_date": null,
+      "event_key": "headline:736e3f5b58ef76f0e42f1686",
+      "id": "D8039287abbf843bf",
+      "mechanisms": [],
+      "published_at_kst": "2026-11-19T15:00:00+09:00",
+      "published_date": "2026-11-19",
+      "publisher": "The Block",
+      "source_kind": "candidate",
+      "summary_ko": "공개 RSS에서 제목·게시시각을 확인한 후보입니다. 원문 검증 전에는 발언 내용이나 실제 포지션으로 확정하지 않습니다.",
+      "title_ko": "Sygnum sees bitcoin carry trades beating Treasury bills in 2027 as funding recovers - The Block",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNjdFbVk2Sm9Eenhtb3Q0V0F0bU0xRGpNeE5qMnVwS1dFRGYtcWcwWHlZbDlkYk9vYjJtdkRIUWh2U1o2UGFZOWVTbVBSaTdoTUUxSHVXQlpDdFVSWlp1dldubUxtLWtzTTE5QVhjMllyV1Zodzg0ZW56NGNQNGo3SGF1a25wbVhZU0ducU1ZT3ZpTk03dmFzSV9iNEVnNEpBOHJCYmhTSGR5dXIwYlY0?oc=5"
+    }
+  ],
+  "generated_at_kst": "2026-11-20T12:56:40.614946+09:00",
+  "producer": "rss_discovery",
+  "schema": "global_position_v1",
+  "window_end_kst": "2026-11-20T12:56:40.614946+09:00",
+  "window_start_kst": "2026-11-19T12:56:40.614946+09:00",
+  "content_sha256": "2d4ee9a5df0fdd63f2489e6f9a19324a0e17ec1d540c2c3618c30172b204ffeb"
+}
