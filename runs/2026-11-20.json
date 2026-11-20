@@ -1,10 +1,10 @@
 {
   "date_kst": "2026-11-20",
-  "status": "running",
-  "stage": "verifying",
+  "status": "partial",
+  "stage": "finished",
   "started_at_kst": "2026-11-20T21:55:02+09:00",
-  "updated_at_kst": "2026-11-20T21:59:40+09:00",
-  "ended_at_kst": null,
+  "updated_at_kst": "2026-11-20T22:00:22+09:00",
+  "ended_at_kst": "2026-11-20T22:00:22+09:00",
   "attempt": 1,
   "verified_posts": 936,
   "checked_channels": 59,
@@ -43,5 +43,27 @@
     "report_md": "a10783dd268f883395ec964e79c005c6921408b2",
     "latest_md": "364abb221c59a3873931578937aea664351d7699",
     "latest_json": "e0e51f9d0929d7346dc42e77f5924c400eefe37f"
+  },
+  "partial_channels": [
+    "hanachina",
+    "eqmirae"
+  ],
+  "verification": {
+    "remote_report_json_exact": true,
+    "remote_report_md_exact": true,
+    "remote_latest_json_exact": true,
+    "remote_latest_md_exact": true,
+    "date_kst": "2026-11-20",
+    "schema": "telegram_summaries_v1",
+    "entries": 355,
+    "top20": 20,
+    "body_hash_mismatches": 0,
+    "date_mismatches": 0
+  },
+  "validation_workflow": {
+    "run_id": 44740376767,
+    "status": "completed",
+    "conclusion": "success",
+    "url": "https://github.com/33hankei-afk/radar-telegram-reports/actions/runs/44740376767"
   }
 }
