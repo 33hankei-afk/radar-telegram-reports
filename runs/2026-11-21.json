@@ -1,9 +1,9 @@
 {
   "date_kst": "2026-11-21",
   "status": "running",
-  "stage": "collecting",
+  "stage": "publishing",
   "started_at_kst": "2026-11-21T21:06:55+09:00",
-  "updated_at_kst": "2026-11-21T21:09:13+09:00",
+  "updated_at_kst": "2026-11-21T21:10:31+09:00",
   "ended_at_kst": null,
   "attempt": 1,
   "verified_posts": 423,
@@ -27,5 +27,11 @@
   "searfin_status": "failed",
   "source_evidence_path": "collection/snapshots/20261121T210715p0900-daily21.json",
   "source_report_published": false,
-  "workflow_run_id": 44902319949
+  "workflow_run_id": 44902319949,
+  "publishing_results": {
+    "reports/2026-11-21.json": "pending",
+    "reports/2026-11-21.md": "pending",
+    "latest.md": "pending",
+    "latest.json": "pending"
+  }
 }
