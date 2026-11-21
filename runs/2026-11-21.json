@@ -3,15 +3,19 @@
   "status": "running",
   "stage": "collecting",
   "started_at_kst": "2026-11-21T21:13:02+09:00",
-  "updated_at_kst": "2026-11-21T21:13:28+09:00",
+  "updated_at_kst": "2026-11-21T21:13:57+09:00",
   "ended_at_kst": null,
   "attempt": 2,
-  "verified_posts": 0,
-  "checked_channels": 0,
-  "verified_full_channels": 0,
-  "failed_channels": [],
+  "verified_posts": 179,
+  "checked_channels": 14,
+  "verified_full_channels": 14,
+  "failed_channels": [
+    "searfin"
+  ],
   "published_paths": [],
-  "errors": [],
+  "errors": [
+    "searfin: public read failed: ValueError: not an approved public channel preview"
+  ],
   "history": [
     {
       "date_kst": "2026-11-21",
@@ -73,6 +77,8 @@
   "collection_request_id": "20261121T211309p0900-daily21-r2",
   "collection_request_commit": "f1534f338253a8a82c2b70d9ac1fa1b0764046aa",
   "workflow_run_id": 44902803479,
-  "source_status": "queued",
-  "source_stage": "queued"
+  "source_status": "running",
+  "source_stage": "collecting",
+  "searfin_status": "failed",
+  "source_evidence_path": "collection/snapshots/20261121T211309p0900-daily21-r2.json"
 }
