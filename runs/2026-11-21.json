@@ -1,9 +1,9 @@
 {
   "date_kst": "2026-11-21",
   "status": "running",
-  "stage": "started",
+  "stage": "collecting",
   "started_at_kst": "2026-11-21T21:13:02+09:00",
-  "updated_at_kst": "2026-11-21T21:13:02+09:00",
+  "updated_at_kst": "2026-11-21T21:13:28+09:00",
   "ended_at_kst": null,
   "attempt": 2,
   "verified_posts": 0,
@@ -69,5 +69,10 @@
         "ci_url": "https://github.com/33hankei-afk/radar-telegram-reports/actions/runs/44902638314"
       }
     }
-  ]
+  ],
+  "collection_request_id": "20261121T211309p0900-daily21-r2",
+  "collection_request_commit": "f1534f338253a8a82c2b70d9ac1fa1b0764046aa",
+  "workflow_run_id": 44902803479,
+  "source_status": "queued",
+  "source_stage": "queued"
 }
