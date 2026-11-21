@@ -1,0 +1,501 @@
+{
+  "assessments": {
+    "ai_positioning": {
+      "confidence": "높음",
+      "counter_ids": [
+        "C02"
+      ],
+      "evidence_ids": [
+        "E01"
+      ],
+      "label": "AI 과밀 롱 손상은 확대, 시장 전체 항복은 아직 아님",
+      "limitations": [
+        "가격 하락을 롱 청산·신규 쇼트·옵션 헤지로 완전히 분해할 수 없습니다.",
+        "Goldman 원 보고서는 비공개이고 Fortune의 전문 보도를 통해 확인했습니다."
+      ],
+      "summary": "Goldman AI 바스켓은 10월 6일 이후 32% 하락했고 인기 헤지펀드 롱의 상대성과도 20년 역사에서 최악권이었습니다. 다만 4분기 미국 주식펀드·ETF 유입 약 1,700억달러와 10년 중 82백분위의 자산운용사 선물 순포지션은 AI 손상이 전 자산군의 완전한 포지션 세척으로 번졌다고 단정하지 못하게 합니다."
+    },
+    "korea_path": {
+      "confidence": "중간",
+      "counter_ids": [
+        "E02"
+      ],
+      "evidence_ids": [
+        "C04",
+        "E01"
+      ],
+      "label": "주말 신규 한국 수급 없음, AI·엔 캐리 경로의 조건부 하방 압력",
+      "limitations": [
+        "최근 24시간 한국장 신규 거래 데이터가 없어 전달 경로는 조건부입니다.",
+        "외국인 현물 분류는 헤지펀드·패시브·장기자금을 구분하지 않습니다."
+      ],
+      "summary": "주말이라 새 한국 현물 수급은 없습니다. 직전 거래일 외국인·기관 동반 매도와 반도체 급락이 이미 확인된 상태에서, 글로벌 AI 롱 손상과 엔 캐리 압력이 월요일에도 이어지면 한국 반도체·원화·외국인 수급으로 재전달될 수 있습니다. 반대로 엔 변동성이 아직 극단적이지 않고 추수감사절 전 안도랠리 가능성은 완충 조건입니다."
+    },
+    "liquidity": {
+      "confidence": "중간",
+      "counter_ids": [
+        "C06"
+      ],
+      "evidence_ids": [
+        "E02",
+        "C05"
+      ],
+      "label": "금융여건 급속 긴축·엔 캐리 취약, 무질서 청산은 미확인",
+      "limitations": [
+        "엔 선물은 현물·swap·옵션·해외대출을 포함하지 않아 전체 캐리 장부가 아닙니다.",
+        "공개 자료에서 repo 경색이나 국채 basis margin call의 직접 관측은 없었습니다."
+      ],
+      "summary": "StoneX의 금융여건 모델은 5일 긴축 속도를 2009년 이후 99.6백분위로 봤고 미·일 2년 금리차가 21bp 축소돼 캐리 압력이 커졌습니다. 반면 엔 선물 숏은 과거보다 작고 USD/JPY 1주·1개월 변동성 백분위와 위험반전은 극단적 청산을 가격하지 않았습니다. 국채 피난매수와 엔 강세를 repo·basis margin call이나 확정된 캐리 청산으로 동일시하지 않습니다."
+    },
+    "pressure": {
+      "confidence": "높음",
+      "counter_ids": [
+        "C02"
+      ],
+      "evidence_ids": [
+        "E01",
+        "C09"
+      ],
+      "label": "매도 압력 지속, 헤지펀드는 부분 항복·광범위 포지션은 미세척",
+      "limitations": [
+        "Goldman 포지션 데이터는 11월 19일까지라 20일 급락을 반영하지 않습니다.",
+        "CTA 설명에는 실제 체결액과 전체 전략의 gross/net 장부가 없습니다."
+      ],
+      "summary": "Goldman 인용 자료에서 헤지펀드 순레버리지는 2025년 4월 이후 최저이고 인기 롱은 6개월간 S&P 500을 14%p 밑돌았습니다. 200일선 붕괴 뒤 CTA 추세매도도 하락을 자기강화했습니다. 그러나 미국 주식 펀드·ETF의 4분기 유입과 자산운용사 선물 순포지션은 여전히 높아 전체 투자자의 일괄 항복으로 볼 수 없습니다."
+    }
+  },
+  "complete": true,
+  "content_sha256": "f710bd46d1cb63481db0366b2c3942290f45f018faca4a37a059f78cc05491b5",
+  "context_entries": [
+    {
+      "access": "full_text",
+      "actors": [
+        "hartnett",
+        "Michael Hartnett",
+        "BofA Global Research",
+        "글로벌 펀드 투자자"
+      ],
+      "claim_type": "opinion",
+      "direction": "mixed",
+      "event_date": "2026-11-20",
+      "event_key": "bofa-hartnett-flow-show-20261120",
+      "id": "C01",
+      "mechanisms": [
+        "fund_flows",
+        "crowding",
+        "rates_credit",
+        "net_exposure"
+      ],
+      "published_at_kst": "2026-11-20T22:26:11+09:00",
+      "published_date": "2026-11-20",
+      "publisher": "Investing.com · BofA Global Research Flow Show",
+      "source_kind": "news",
+      "summary_ko": "이전 취합 구간 자료입니다. Michael Hartnett가 이끄는 BofA 팀은 2026년 6월~2027년 5월 세계적으로 71회 금리인상이 예상되는 가운데, 금리인상이 언제 끝나고 침체 전에 끝나는지가 핵심이라고 봤습니다. IG CDX 80bp 상회와 S&P 500 6,845 하회가 긴축 종료를 앞당길 수 있고, 신규실업수당 25만건·IG 스프레드 100bp 상회는 'doom loop' 신호라고 제시했습니다. 단기적으로 글로벌 주가지수의 순 68%가 과매도여서 추수감사절 뒤 안도랠리 가능성이 있지만, 큰 랠리에는 미 10년물 4.5% 하회·WTI 70달러 하회·달러 고점이 필요하다고 했습니다. Bull & Bear 지표는 7.4에서 7.1로 낮아졌지만 현금 3.6%와 4주간 주식 유입 3,100억달러 때문에 추가 항복이 필요하다는 조건부 위험축소 관점입니다.",
+      "title_ko": "Hartnett: 금리인상 종료와 경기침체 선후가 2027 위험자산 결정",
+      "title_original": "2 questions will decide risk assets heading into 2027, BofA’s Hartnett says",
+      "url": "https://www.investing.com/news/stock-market-news/2-questions-will-decide-risk-assets-heading-into-2027-bofas-hartnett-says-5041695"
+    },
+    {
+      "access": "full_text",
+      "actors": [
+        "Reuters",
+        "LSEG Lipper",
+        "미국 펀드 투자자"
+      ],
+      "claim_type": "observed_metric",
+      "direction": "risk_add",
+      "event_date": "2026-11-18",
+      "event_key": "lseg-lipper-us-fund-flows-20261118",
+      "id": "C02",
+      "mechanisms": [
+        "fund_flows",
+        "crowding",
+        "rates_credit"
+      ],
+      "published_at_kst": "2026-11-20T21:44:34+09:00",
+      "published_date": "2026-11-20",
+      "publisher": "Reuters · LSEG Lipper",
+      "source_kind": "news",
+      "summary_ko": "이전 취합 구간 자료입니다. LSEG Lipper의 11월 18일 종료 주간 자료에서 미국 주식펀드는 457.1억달러 순유입으로 9월 23일 이후 최대였고, 대형주 317억달러·기술주 103억달러가 유입됐습니다. 반면 중형주 11.5억달러·소형주 5.35억달러가 유출됐습니다. 미국 채권펀드는 55.8억달러 순유출로 4주 만에 유출 전환했고 장기 국채 26.4억달러·하이일드 23.1억달러가 빠졌지만 단·중기 국채에는 12.7억달러가 유입됐습니다. 관측 종료 뒤 급락은 반영하지 않아 현재 환매와 동일시할 수 없습니다.",
+      "title_ko": "미국 주식펀드 457억달러 순유입, 기술주펀드 103억달러 유입",
+      "title_original": "US equity funds draw inflows for a third straight week",
+      "url": "https://www.investing.com/news/stock-market-news/us-equity-funds-draw-inflows-for-a-third-straight-week-5041601"
+    },
+    {
+      "access": "full_text",
+      "actors": [
+        "SpotGamma",
+        "S&P 500 옵션 딜러",
+        "Investing.com"
+      ],
+      "claim_type": "reported_flow",
+      "direction": "mixed",
+      "event_date": "2026-11-20",
+      "event_key": "spx-opex-negative-gamma-20261120",
+      "id": "C03",
+      "mechanisms": [
+        "dealer_gamma",
+        "gross_deleveraging",
+        "other"
+      ],
+      "published_at_kst": "2026-11-20T22:58:01+09:00",
+      "published_date": "2026-11-20",
+      "publisher": "Investing.com · SpotGamma 추정",
+      "source_kind": "news",
+      "summary_ko": "이전 취합 구간 자료입니다. Investing.com은 SpotGamma 추정을 인용해 S&P 500 딜러 감마가 약 3년 내 가장 음(-)의 수준이며 전체 감마 노출의 약 30%가 11월 20일 만기라고 보도했습니다. 쇼트감마 딜러의 하락 추종 매도가 일중 변동을 키웠고, 만기 뒤 이 노출이 사라지면 기계적 증폭은 완화될 수 있다고 설명했습니다. 다만 AI 재평가·매파 연준·강달러는 그대로이고 새 감마가 빠르게 쌓일 수 있습니다. 이는 SpotGamma 모델 추정이며 전체 딜러의 실제 장부나 체결액이 아닙니다.",
+      "title_ko": "월물 만기 전 딜러 감마 3년 내 최저 추정, 약 30% 만기 도래",
+      "title_original": "S&P 500 options expiration: will gamma roll-off ease the selloff?",
+      "url": "https://www.investing.com/news/stock-market-news/sp-500-options-expiration-will-gamma-rolloff-ease-the-selloff-93CH-5041839"
+    },
+    {
+      "access": "full_text",
+      "actors": [
+        "KRX",
+        "한국 외국인 투자자",
+        "한국 기관 투자자",
+        "Samsung Electronics",
+        "SK hynix"
+      ],
+      "claim_type": "observed_metric",
+      "direction": "risk_reduce",
+      "event_date": "2026-11-20",
+      "event_key": "krx-kospi-plunge-20261120",
+      "id": "C04",
+      "mechanisms": [
+        "long_liquidation",
+        "fund_flows",
+        "net_exposure",
+        "crowding"
+      ],
+      "published_at_kst": "2026-11-20T16:37:08+09:00",
+      "published_date": "2026-11-20",
+      "publisher": "연합뉴스 · KRX",
+      "source_kind": "news",
+      "summary_ko": "이전 취합 구간 자료입니다. 11월 20일 코스피는 5.21% 내린 4,869.96으로 마감했고 급락으로 프로그램 매매가 5분 중단됐습니다. 외국인은 1조1,300억원, 기관은 9,513.3억원을 순매도했고 개인은 1조5,900억원을 순매수했습니다. 삼성전자는 7.01%, SK하이닉스는 5.92% 하락했습니다. 원화는 달러당 1,336.2원으로 약세였고 3년·5년 국채 금리는 각각 7.4bp·8.4bp 하락해 위험회피가 주식·통화·채권에 동시에 나타났습니다.",
+      "title_ko": "코스피 5.21% 급락: 외국인 1.13조원·기관 9,513억원 동반 순매도",
+      "title_original": "(2nd LD) Seoul shares plunge over 5 pct as Anthropic debut fails to ease AI concerns",
+      "url": "https://en.yna.co.kr/view/AEN20261120005652320"
+    },
+    {
+      "access": "full_text",
+      "actors": [
+        "미국 국채 투자자",
+        "Federal Reserve",
+        "CNBC"
+      ],
+      "claim_type": "observed_metric",
+      "direction": "hedge",
+      "event_date": "2026-11-20",
+      "event_key": "treasury-safe-haven-yields-20261120",
+      "id": "C05",
+      "mechanisms": [
+        "fund_flows",
+        "rates_credit",
+        "treasury_basis"
+      ],
+      "published_at_kst": "2026-11-20T19:21:03+09:00",
+      "published_date": "2026-11-20",
+      "publisher": "CNBC · U.S. Treasury market",
+      "source_kind": "news",
+      "summary_ko": "이전 취합 구간 자료입니다. 11월 20일 미국 주식 급락 속 10년물 국채 금리는 12bp 내린 4.932%, 2년물은 14bp 넘게 내린 4.634%, 30년물은 8bp 넘게 내린 5.316%를 기록했습니다. 이는 안전자산 매수와 금융여건 긴축 우려를 반영했지만, 시장은 여전히 12월 25bp 인상 확률을 약 92%로 가격했습니다. 국채 매수만으로 주식 매도 주체나 basis trade 청산을 특정할 수 없습니다.",
+      "title_ko": "주식 급락에 미 국채 피난수요: 10년물 12bp·2년물 14bp 금리 하락",
+      "title_original": "Treasury yields move sharply lower as investors flee to safe havens",
+      "url": "https://www.cnbc.com/2026/11/20/treasury-yields-bonds-inflation.html"
+    },
+    {
+      "access": "full_text",
+      "actors": [
+        "CFTC",
+        "레버리지드펀드",
+        "헤지펀드",
+        "CTA"
+      ],
+      "claim_type": "observed_metric",
+      "direction": "mixed",
+      "event_date": "2026-11-17",
+      "event_key": "cftc-tff-futures-only-20261117",
+      "id": "C06",
+      "mechanisms": [
+        "net_exposure",
+        "short_covering",
+        "treasury_basis",
+        "carry_trade"
+      ],
+      "published_at_kst": "2026-11-21T05:30:00+09:00",
+      "published_date": "2026-11-21",
+      "publisher": "U.S. Commodity Futures Trading Commission",
+      "source_kind": "primary",
+      "summary_ko": "이전 취합 구간 자료입니다. CFTC TFF 선물 전용 자료에서 S&P 500 통합 레버리지드펀드는 롱 19만5,401계약·쇼트 42만675계약으로 순쇼트 22만5,274계약이었습니다. 전주보다 롱이 4만9,109계약 늘고 쇼트가 2만309계약 줄어 순쇼트가 6만9,418계약 축소됐습니다. 국채선물 순포지션은 2년물 -128만8,895계약(주간 +21만6,309), 5년물 -222만4,698(+10만4,384), 10년물 -248만2,443(-18만1,116), 본드 -14만5,229(+4,629), 울트라본드 -86만8,604(-5만2,916)로 엇갈렸습니다. 엔화 선물 레버리지드펀드는 순쇼트 2만3,790계약으로 전주보다 쇼트가 6,935계약 확대돼 11월 17일 시점에는 광범위 엔 캐리 청산을 뒷받침하지 않았습니다. 선물만 포함해 현물·스왑·repo·옵션은 보이지 않습니다.",
+      "title_ko": "CFTC 11월 17일 관측: S&P 레버리지드펀드 순쇼트 축소, 국채선물은 만기별 엇갈림",
+      "title_original": "Traders in Financial Futures - Futures Only Positions as of November 17, 2026",
+      "url": "https://www.cftc.gov/dea/futures/financial_lf.htm"
+    },
+    {
+      "access": "full_text",
+      "actors": [
+        "pimco",
+        "PIMCO",
+        "Daniel Ivascyn",
+        "고품질 채권 투자자"
+      ],
+      "claim_type": "opinion",
+      "direction": "risk_reduce",
+      "event_date": "2026-11-16",
+      "event_key": "pimco-ivascyn-high-quality-duration-20261116",
+      "id": "C07",
+      "mechanisms": [
+        "rates_credit",
+        "crowding",
+        "other"
+      ],
+      "published_at_kst": "2026-11-17T06:39:26+09:00",
+      "published_date": "2026-11-17",
+      "publisher": "PIMCO · Daniel Ivascyn",
+      "source_kind": "primary",
+      "summary_ko": "이번 취합 구간 시작 약 1시간 45분 전 공개된 PIMCO 공식 자료입니다. Dan Ivascyn은 실질금리 상승으로 채권 수익률이 약 25년 만의 높은 수준이며 3~5년 관점에서 고품질 채권과 듀레이션이 매력적이라고 평가했습니다. 주식 위험의 가격은 역사적으로 비싸고, AI 투자는 수백 년 내 가장 큰 기업투자 물결로 일부는 부실투자가 될 수 있어 낮은 품질의 신용위험보다 고품질·글로벌 분산을 선호했습니다. 시간창 밖이므로 신규 근거가 아닌 이전 문맥입니다.",
+      "title_ko": "Ivascyn: 25년 만의 고금리에서 고품질 채권·듀레이션 선호",
+      "title_original": "Income Update: Compelling Yields Drive Long-Term Opportunities",
+      "url": "https://www.pimco.com/us/en/insights/income-update-compelling-yields-drive-long-term-opportunities"
+    },
+    {
+      "access": "full_text",
+      "actors": [
+        "pimco",
+        "PIMCO",
+        "Marc Seidner"
+      ],
+      "claim_type": "opinion",
+      "direction": "risk_reduce",
+      "event_date": "2026-11-17",
+      "event_key": "pimco-year-ahead-2027-20261117",
+      "id": "C08",
+      "mechanisms": [
+        "rates_credit",
+        "crowding",
+        "fund_flows"
+      ],
+      "published_at_kst": "2026-11-18T08:31:41+09:00",
+      "published_date": "2026-11-18",
+      "publisher": "PIMCO · Marc Seidner",
+      "source_kind": "primary",
+      "summary_ko": "이번 취합 구간 시작 직전 공개된 PIMCO 공식 자료입니다. Marc Seidner는 AI 관련 자본지출이 현금흐름을 웃돌아 차입 의존과 기술 섹터 신용스프레드 확대가 나타났고, 2026년 미국 달러 비금융 투자등급채 발행의 거의 4분의 1이 AI 관련이었다고 설명했습니다. PIMCO는 무담보 신용·주식보다 양질의 자산과 계약 현금흐름으로 뒷받침된 인프라 금융, 고품질 신용, 상대가치, MBS 등 분산을 선호했습니다. 11월 11~13일 관측 수치가 포함된 과거 문맥이며 신규 시간창 근거는 아닙니다.",
+      "title_ko": "PIMCO 2027 전망: AI 노출이 주식·신용·인프라에 중첩, 고품질·상대가치로 분산",
+      "title_original": "Charting the Year Ahead: Investment Ideas for 2027",
+      "url": "https://www.pimco.com/us/en/insights/charting-the-year-ahead-investment-ideas-for-2027"
+    },
+    {
+      "access": "full_text",
+      "actors": [
+        "CNBC",
+        "CTA",
+        "미국 주식 투자자",
+        "Jeremy Siegel"
+      ],
+      "claim_type": "reported_flow",
+      "direction": "risk_reduce",
+      "event_date": "2026-11-20",
+      "event_key": "cnbc-correction-cta-forces-20261120",
+      "id": "C09",
+      "mechanisms": [
+        "cta",
+        "long_liquidation",
+        "crowding",
+        "other"
+      ],
+      "published_at_kst": "2026-11-21T08:53:21+09:00",
+      "published_date": "2026-11-21",
+      "publisher": "CNBC · John Melloy",
+      "source_kind": "news",
+      "summary_ko": "CNBC는 11월 20일 S&P 500과 Dow가 고점 대비 10% 넘게 내려 조정에 진입하고 Nasdaq의 연간 수익률이 음(-)으로 돌아선 배경을 AI 밸류에이션 재평가, Anthropic IPO 이후 현금화, Nvidia 악재, 인플레이션과 매파 연준, 장기 추세선 붕괴로 정리했습니다. 특히 S&P 500의 200일 이동평균 하향 돌파가 CTA 같은 추세추종 주체의 자동 매도를 유발해 하락을 자기강화했다고 설명했습니다. 이는 체결액이 공개된 프라임브로커 집계가 아니라 시장 참가자·교수 인터뷰에 기반한 메커니즘 설명입니다.",
+      "title_ko": "S&P 500 조정의 다섯 요인: AI 현금화·Nvidia·연준·CTA 추세매도",
+      "title_original": "S&P 500 correction: Five forces behind the market sell-off",
+      "url": "https://www.cnbc.com/2026/11/20/sp-500-correction-market-sell-off.html"
+    }
+  ],
+  "core_targets": [
+    {
+      "change": "미확인",
+      "evidence_ids": [],
+      "focus": "AI·M7 과밀 / 옵션 / 포지션 비대칭",
+      "id": "tuteja",
+      "institution": "Goldman Sachs",
+      "name": "Shawn Tuteja",
+      "role": "ETF·맞춤형 바스켓 변동성 트레이딩",
+      "summary_ko": "11월 22일 실제 재검색: 최근 24시간 Shawn Tuteja의 AI·M7·옵션·변동성 새 독립 발언 없음. 마지막 직접 공식 자료는 2026년 8월 21일이며 30일 문맥 한도를 넘어 보고서 근거에서는 제외했습니다."
+    },
+    {
+      "change": "미확인",
+      "evidence_ids": [
+        "C01"
+      ],
+      "focus": "펀드 자금흐름 / 현금·과열 / 자산배분",
+      "id": "hartnett",
+      "institution": "BofA Global Research",
+      "name": "Michael Hartnett",
+      "role": "최고 투자전략가 · Flow Show",
+      "summary_ko": "11월 22일 실제 재검색: Michael Hartnett/BofA Flow Show의 새 독립 발언은 0건입니다. 마지막 확인은 11월 20일 Flow Show로, 과매도 안도랠리 가능성을 열어두되 현금 3.6%와 4주 주식유입 3,100억달러 때문에 추가 항복이 필요하다는 이전 관점을 유지합니다."
+    },
+    {
+      "change": "미확인",
+      "evidence_ids": [
+        "C07",
+        "C08"
+      ],
+      "focus": "금리·채권 / 조달·유동성 / 위험자산 배분",
+      "id": "pimco",
+      "institution": "PIMCO",
+      "name": "PIMCO",
+      "role": "기관 · Ivascyn / Balls / Wilding 등",
+      "summary_ko": "11월 22일 실제 재검색: Ivascyn/Balls/Wilding의 새 독립 발언은 0건입니다. 마지막 직접 확인은 11월 16일 Ivascyn의 고품질 채권·듀레이션 선호이며, 11월 17일 Seidner의 AI 신용집중 경계를 함께 이전 문맥으로 유지합니다."
+    }
+  ],
+  "coverage": [
+    {
+      "name": "Shawn Tuteja",
+      "note": "Goldman 공식 Insights·팟캐스트와 공개 웹을 재검색. 최근 24시간 새 독립 발언 0건; 마지막 직접 자료는 2026년 8월 21일.",
+      "status": "checked",
+      "url": "https://www.goldmansachs.com/insights/the-markets"
+    },
+    {
+      "name": "Michael Hartnett · BofA Flow Show/FMS",
+      "note": "공개 웹·재전문을 재검색. 최근 24시간 새 독립 발언 0건; 마지막 확인은 11월 20일 Flow Show 보도.",
+      "status": "checked",
+      "url": "https://www.investing.com/news/stock-market-news/2-questions-will-decide-risk-assets-heading-into-2027-bofas-hartnett-says-5041695"
+    },
+    {
+      "name": "PIMCO · Ivascyn/Balls/Wilding",
+      "note": "PIMCO 공식 Insights와 공개 웹을 재검색. 최근 24시간 세 대상의 새 독립 발언 0건; 접근 실패가 아니라 검색상 신규 0건.",
+      "status": "checked",
+      "url": "https://www.pimco.com/us/en/insights"
+    },
+    {
+      "name": "글로벌 헤지펀드·프라임브로커 gross/net·롱/숏",
+      "note": "Goldman 인용 보도에서 순레버리지·인기 롱 상대성과·자산운용사 선물 백분위를 확인. 원 PB 보고서와 전체 시장 gross/net 장부는 비공개.",
+      "status": "partial",
+      "url": "https://fortune.com/2026/11/21/goldman-sachs-sp-500-correction-ai-unwind-bottom-three-conditions-hedge-funds-positioning/"
+    },
+    {
+      "name": "CTA·변동성 목표·딜러 감마",
+      "note": "CNBC의 200일선 붕괴·CTA 추세매도 메커니즘을 전문 확인. 새 CTA 체결액, vol-control 감축량, 만기 후 전체 딜러 감마 장부는 미확인.",
+      "status": "partial",
+      "url": "https://www.cnbc.com/2026/11/20/sp-500-correction-market-sell-off.html"
+    },
+    {
+      "name": "펀드·ETF 자금흐름",
+      "note": "Goldman 인용 4분기 약 1,700억달러 유입과 직전 LSEG 주간 유입을 확인. 11월 20일 급락 뒤 실제 일간 환매 집계는 미확인.",
+      "status": "partial",
+      "url": "https://fortune.com/2026/11/21/goldman-sachs-sp-500-correction-ai-unwind-bottom-three-conditions-hedge-funds-positioning/"
+    },
+    {
+      "name": "국채 베이시스·레포·마진·엔 캐리",
+      "note": "StoneX의 미·일 금리차·OIS·엔 선물·옵션 변동성을 확인. 공개 자료에서 repo 경색·basis margin call·광범위 캐리 청산의 직접 관측은 0건.",
+      "status": "partial",
+      "url": "https://www.stonex.com/en-gb/news-and-analysis/usd-jpy-weekly-outlook-yen-carry-unwind-risks-flash-red-2026-11-21/"
+    },
+    {
+      "name": "13F·CFTC 공시",
+      "note": "새 공시는 0건. 최신 CFTC TFF 관측일은 11월 17일이며 선물 전용이라 현물·swap·repo·옵션을 포함하지 않습니다. 새 13F는 없고 13F는 쇼트·현금 미포함입니다.",
+      "status": "checked",
+      "url": "https://www.cftc.gov/MarketReports/CommitmentsofTraders/index.htm"
+    },
+    {
+      "name": "한국 직접 전달 경로",
+      "note": "주말로 신규 거래 데이터 0건. 직전 11월 20일 KRX 기반 외국인·기관 현물 수급을 이전 문맥으로만 유지.",
+      "status": "checked",
+      "url": "https://en.yna.co.kr/view/AEN20261120005652320"
+    },
+    {
+      "name": "언론·공식 원문",
+      "note": "Fortune·StoneX·CNBC 원문을 열어 게시시각·관측일·표본시차를 확인. BofA·Goldman 원 PB 자료의 비공개 한계를 명시.",
+      "status": "checked",
+      "url": "https://fortune.com/2026/11/21/goldman-sachs-sp-500-correction-ai-unwind-bottom-three-conditions-hedge-funds-positioning/"
+    },
+    {
+      "name": "공개 커뮤니티",
+      "note": "Reddit r/stocks·r/investing와 공개 투자 커뮤니티를 재검색했으나 시간창 안에 직접 URL·게시시각·독립 포지션 주장을 함께 확인한 게시물 0건.",
+      "status": "checked",
+      "url": "https://www.reddit.com/r/stocks/new/"
+    },
+    {
+      "name": "기사 후보 수집",
+      "note": "discovery/latest.json의 9개 후보를 확인. 전일 Hartnett 재전송, 종목별 13F, 광고성 managed futures·crypto 후보는 새 독립 포지션 근거로 쓰지 않음.",
+      "status": "checked",
+      "url": "https://github.com/33hankei-afk/radar-telegram-reports/blob/main/global-position/discovery/latest.json"
+    },
+    {
+      "name": "검색 경로",
+      "note": "핵심 대상·PB·CTA/vol-control/gamma·펀드흐름·repo/basis·엔 캐리·CFTC/13F·한국·커뮤니티 검색과 원문 후속 확인을 완료.",
+      "status": "checked",
+      "url": "https://exa.ai/"
+    }
+  ],
+  "coverage_note": "2026-11-21T08:54:09+09:00~2026-11-22T08:54:09+09:00 KST. 신규 원문 2건을 확인했습니다. Goldman 인용 자료의 헤지펀드 순레버리지 저점·AI 인기 롱 손상, StoneX의 엔 캐리 압력과 반대 지표를 반영했습니다. CNBC의 CTA 추세매도 설명은 취합 시작 직전 자료라 이전 문맥으로만 유지했습니다. 전체 투자자 포지션은 아직 완전히 세척되지 않았고, 무질서한 엔 캐리 청산·repo 경색·국채 basis margin call은 직접 확인되지 않았습니다. Shawn Tuteja, Michael Hartnett/BofA Flow Show, PIMCO Ivascyn/Balls/Wilding의 새 독립 발언은 각각 0건입니다. 주말 한국장 신규 수급과 검증 가능한 커뮤니티 포지션 주장은 0건입니다.",
+  "date_kst": "2026-11-22",
+  "entries": [
+    {
+      "access": "full_text",
+      "actors": [
+        "Goldman Sachs",
+        "David Kostin",
+        "Ben Snider",
+        "헤지펀드",
+        "미국 자산운용사"
+      ],
+      "claim_type": "observed_metric",
+      "direction": "risk_reduce",
+      "event_date": "2026-11-19",
+      "event_key": "goldman-snider-ai-unwind-positioning-20261120",
+      "id": "E01",
+      "mechanisms": [
+        "net_exposure",
+        "gross_deleveraging",
+        "crowding",
+        "fund_flows",
+        "long_liquidation"
+      ],
+      "published_at_kst": "2026-11-21T23:47:44+09:00",
+      "published_date": "2026-11-21",
+      "publisher": "Fortune · Goldman Sachs Research/Prime Services 인용",
+      "source_kind": "news",
+      "summary_ko": "Fortune이 전문 확인한 11월 20일 Goldman 자료에 따르면 매도는 AI 언와인드에서 더 넓은 성장 둔화 우려로 번졌고, Goldman AI 주식 바스켓은 10월 6일 이후 32% 하락했습니다. 헤지펀드 순레버리지는 2025년 4월 이후 최저이며 인기 롱 바스켓은 6개월간 S&P 500을 14%p 밑돌았습니다. 그러나 Goldman의 종합 심리지표는 여전히 평균 이상이고, 4분기 미국 주식 뮤추얼펀드·ETF에는 약 1,700억달러가 유입됐으며 자산운용사의 주가지수선물 순포지션은 10년 중 82백분위였습니다. 즉 헤지펀드의 부분 항복은 확인되지만 광범위 투자자 포지션의 완전한 세척은 아니라는 보도입니다. Goldman 데이터 관측은 11월 19일까지여서 금요일 급락은 미반영입니다.",
+      "title_ko": "Goldman: AI 언와인드가 성장 둔화 우려로 확산, 헤지펀드 순레버리지는 2025년 4월 이후 최저",
+      "title_original": "Goldman Sachs admits the 'AI unwind' has spiraled into something more dangerous — and it's watching for 3 signs of bottom",
+      "url": "https://fortune.com/2026/11/21/goldman-sachs-sp-500-correction-ai-unwind-bottom-three-conditions-hedge-funds-positioning/"
+    },
+    {
+      "access": "full_text",
+      "actors": [
+        "StoneX",
+        "David Scutt",
+        "엔 캐리 투자자",
+        "레버리지드펀드",
+        "Federal Reserve",
+        "Bank of Japan"
+      ],
+      "claim_type": "opinion",
+      "direction": "mixed",
+      "event_date": "2026-11-21",
+      "event_key": "stonex-yen-carry-weekly-20261121",
+      "id": "E02",
+      "mechanisms": [
+        "carry_trade",
+        "rates_credit",
+        "net_exposure",
+        "other"
+      ],
+      "published_at_kst": "2026-11-21T13:08:00+09:00",
+      "published_date": "2026-11-21",
+      "publisher": "StoneX · David Scutt",
+      "source_kind": "primary",
+      "summary_ko": "StoneX는 Nasdaq 100의 주간 10.4% 하락과 미·일 2년 금리차의 주간 21bp 축소, 엔화의 2주 고점 상승이 엔 캐리 포지션에 압력을 주었다고 평가했습니다. 다만 11월 17일 기준 레버리지드펀드의 엔 순쇼트는 과거 청산 국면보다 작고, 1개월 USD/JPY 내재변동성은 1년 중 47백분위, 1주물은 34백분위이며 위험반전도 엔 급등 보험 수요가 제한적이었습니다. 따라서 실제 광범위 캐리 청산은 확인되지 않았습니다. 지난주 OIS는 예상 금리인상 한 차례 이상을 경로에서 제거했지만 12월 인상은 여전히 우세했고, 금융여건의 5일 긴축 속도는 2009년 이후 비교치의 99.6백분위였습니다.",
+      "title_ko": "StoneX: 엔 캐리 압력은 커졌지만 선물·옵션은 무질서한 청산을 아직 확인하지 않음",
+      "title_original": "USD/JPY Weekly Outlook: Yen Carry Unwind Risks Flash Red",
+      "url": "https://www.stonex.com/en-gb/news-and-analysis/usd-jpy-weekly-outlook-yen-carry-unwind-risks-flash-red-2026-11-21/"
+    }
+  ],
+  "generated_at_kst": "2026-11-22T08:54:09+09:00",
+  "producer": "gpt_verified",
+  "schema": "global_position_v1",
+  "window_end_kst": "2026-11-22T08:54:09+09:00",
+  "window_start_kst": "2026-11-21T08:54:09+09:00"
+}
