@@ -1,9 +1,9 @@
 {
   "date_kst": "2026-11-21",
   "status": "running",
-  "stage": "started",
+  "stage": "collecting",
   "started_at_kst": "2026-11-21T21:06:55+09:00",
-  "updated_at_kst": "2026-11-21T21:06:55+09:00",
+  "updated_at_kst": "2026-11-21T21:07:15+09:00",
   "ended_at_kst": null,
   "attempt": 1,
   "verified_posts": 0,
@@ -11,5 +11,7 @@
   "verified_full_channels": 0,
   "failed_channels": [],
   "published_paths": [],
-  "errors": []
+  "errors": [],
+  "collection_request_id": "20261121T210715p0900-daily21",
+  "collection_request_commit": "a7378f0f5d380df8a8f7d879f745dd9fb23271aa"
 }
