@@ -3,28 +3,34 @@
   "status": "running",
   "stage": "collecting",
   "started_at_kst": "2026-11-22T21:10:28+09:00",
-  "updated_at_kst": "2026-11-22T21:11:29+09:00",
+  "updated_at_kst": "2026-11-22T21:12:07+09:00",
   "ended_at_kst": null,
   "attempt": 1,
-  "verified_posts": 180,
-  "checked_channels": 24,
-  "verified_full_channels": 22,
+  "verified_posts": 295,
+  "checked_channels": 59,
+  "verified_full_channels": 55,
   "failed_channels": [
     "searfin",
-    "aetherjapanresearch"
+    "aetherjapanresearch",
+    "report_figure_by_offset"
   ],
   "published_paths": [],
   "errors": [
     "searfin: public read failed: ValueError: not an approved public channel preview",
     "gaoshoukorea: #65933: view counter missing/invalid",
     "gaoshoukorea: #65935: view counter missing/invalid",
-    "aetherjapanresearch: public read failed: ValueError: not an approved public channel preview"
+    "aetherjapanresearch: public read failed: ValueError: not an approved public channel preview",
+    "habit4117: #88578: view counter missing/invalid",
+    "report_figure_by_offset: public read failed: ValueError: not an approved public channel preview"
   ],
   "collection_request_id": "20261122T211034p0900-daily22",
   "collection_request_commit": "cbd5dad5064e69f39c0812aab45519f02577bb3f",
   "workflow_run_id": 45020930363,
-  "source_status": "running",
-  "source_stage": "collecting",
+  "source_status": "partial",
+  "source_stage": "finished",
   "searfin_status": "failed",
-  "source_evidence_path": "collection/snapshots/20261122T211034p0900-daily22.json"
+  "source_evidence_path": "collection/snapshots/20261122T211034p0900-daily22.json",
+  "source_started_at_kst": "2026-11-22T21:10:48.884038+09:00",
+  "source_ended_at_kst": "2026-11-22T21:11:48.244304+09:00",
+  "source_report_published": false
 }
