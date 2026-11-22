@@ -1,9 +1,9 @@
 {
   "date_kst": "2026-11-22",
   "status": "running",
-  "stage": "started",
+  "stage": "collecting",
   "started_at_kst": "2026-11-22T21:10:28+09:00",
-  "updated_at_kst": "2026-11-22T21:10:28+09:00",
+  "updated_at_kst": "2026-11-22T21:11:00+09:00",
   "ended_at_kst": null,
   "attempt": 1,
   "verified_posts": 0,
@@ -11,5 +11,10 @@
   "verified_full_channels": 0,
   "failed_channels": [],
   "published_paths": [],
-  "errors": []
+  "errors": [],
+  "collection_request_id": "20261122T211034p0900-daily22",
+  "collection_request_commit": "cbd5dad5064e69f39c0812aab45519f02577bb3f",
+  "workflow_run_id": 45020930363,
+  "source_status": "running",
+  "source_stage": "collecting"
 }
