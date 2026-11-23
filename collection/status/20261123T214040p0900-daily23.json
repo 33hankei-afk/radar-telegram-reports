@@ -6,17 +6,18 @@
   "status": "running",
   "stage": "collecting",
   "started_at_kst": "2026-11-23T21:40:52.089660+09:00",
-  "updated_at_kst": "2026-11-23T21:41:01.416679+09:00",
+  "updated_at_kst": "2026-11-23T21:41:14.439706+09:00",
   "ended_at_kst": null,
-  "checked_channels": 4,
-  "verified_full_channels": 4,
-  "verified_posts": 193,
+  "checked_channels": 14,
+  "verified_full_channels": 13,
+  "verified_posts": 372,
   "searfin_status": "failed",
   "failed_channels": [
     "searfin"
   ],
   "errors": [
-    "searfin: public read failed: ValueError: not an approved public channel preview"
+    "searfin: public read failed: ValueError: not an approved public channel preview",
+    "bulls_pirates: #5064: view counter missing/invalid"
   ],
   "evidence_path": "collection/snapshots/20261123T214040p0900-daily23.json",
   "report_published": false
