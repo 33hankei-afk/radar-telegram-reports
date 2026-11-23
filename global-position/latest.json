@@ -1,50 +1,51 @@
 {
   "assessments": {
     "ai_positioning": {
-      "confidence": "중간",
-      "counter_ids": [],
+      "confidence": "높음",
+      "counter_ids": [
+        "C03"
+      ],
       "evidence_ids": [
-        "E01",
-        "C01"
+        "E02",
+        "E04"
       ],
-      "label": "AI 롱 손상 지속, 과매도 접근과 추가 밸류에이션 조정이 병존",
+      "label": "AI 과밀 롱 급반등, 구조적 우려보다 헤드라인·포지션 효과 우세",
       "limitations": [
-        "새 프라임브로커 원장이나 종목별 실시간 long/short 체결은 공개되지 않았습니다.",
-        "가격·VIX만으로 전체 헤지펀드 포지션을 추정할 수 없습니다."
+        "Nvidia 중심 단일 세션 반등을 AI 장기 펀더멘털 변화로 볼 수 없습니다.",
+        "프라임브로커 수치는 전체 헤지펀드와 장기자금을 포괄하지 않습니다."
       ],
-      "summary": "Reuters는 AI 투자 지속성 의문과 일부 과도한 밸류에이션이 추가 조정 위험이라고 전했습니다. 동시에 S&P 500 내부지표와 VIX가 역사적 과매도·공포 구간에 가까워졌다는 반론도 확인됐습니다. AI 과밀 롱 손상은 지속되지만 신규 쇼트와 롱 청산의 비중은 분해되지 않습니다."
+      "summary": "Nvidia 31%, 반도체지수 12%, Nasdaq 6.5% 상승으로 AI 과밀 롱이 급반등했습니다. 다만 전주 헤지펀드가 개별주 쇼트를 빠르게 늘리고 순레버리지가 극단적으로 낮아졌던 만큼, 한 인물의 복귀 헤드라인이 쇼트커버와 옵션 헤지를 증폭했을 가능성이 큽니다. AI 투자수익성·규제·조사 우려는 해소되지 않았습니다."
     },
     "korea_path": {
       "confidence": "높음",
       "counter_ids": [
-        "E02"
+        "E04"
       ],
       "evidence_ids": [
-        "E03",
-        "C04"
+        "E03"
       ],
-      "label": "야간선물·MSCI Korea 추가 하락 신호, 현물 수급 확인 전",
+      "label": "외국인 매도·원화 약세 지속, 기관 저가매수와 미국 AI 반등이 완충",
       "limitations": [
-        "야간선물과 해외 ETF는 한국 현물 개장 뒤 가격·수급을 확정하지 않습니다.",
-        "정책 안정 조치는 준비·기대 단계이며 실제 집행 규모와 시점이 확인되지 않았습니다."
+        "미국 반등은 한국 현물 마감 뒤 발생해 다음 거래일 실제 수급을 보장하지 않습니다.",
+        "외국인 분류에는 헤지펀드·패시브·장기자금이 모두 섞여 있습니다."
       ],
-      "summary": "개장 전 MSCI Korea ETF는 8.42%, 코스피200 야간선물은 6.99% 하락해 미국 AI·반도체 충격의 추가 전달 가능성이 높았습니다. 다만 직전 코스피가 이미 5.21% 하락했고 월물 만기 종료·증시안정펀드 준비는 완충 조건입니다. 실제 당일 외국인·기관 현물 수급은 개장 뒤 확인이 필요합니다."
+      "summary": "코스피는 3.31% 하락했고 외국인은 2,636억원을 순매도해 7거래일 연속 매도했습니다. 원/달러는 1,345.9원으로 상승했지만 기관이 3,838억원 순매수해 낙폭을 줄였습니다. 한국 마감 뒤 미국 AI 주식이 급반등해 다음 거래일 반등 경로는 열렸으나 외국인 현물 복귀는 아직 확인되지 않았습니다."
     },
     "liquidity": {
       "confidence": "중간",
       "counter_ids": [
+        "C04",
         "C06"
       ],
       "evidence_ids": [
-        "C02",
-        "C05"
+        "E04"
       ],
-      "label": "엔 캐리·금융여건 경계 유지, repo·basis 강제청산은 미확인",
+      "label": "주식 위험선호 회복에도 금리·달러는 완화 신호 아님",
       "limitations": [
-        "최근 24시간 새 공식 repo·basis 포지션 자료가 없습니다.",
-        "CFTC TFF는 11월 17일 관측이고 현물·swap·repo·옵션을 포함하지 않습니다."
+        "새 공식 repo·basis 포지션과 margin call 자료가 없습니다.",
+        "금리 일중 변화만으로 basis trade나 캐리 청산 방향을 특정할 수 없습니다."
       ],
-      "summary": "이전 StoneX 자료의 미·일 금리차 축소와 급격한 금융여건 긴축은 캐리 취약성을 시사하지만, CFTC 화요일 선물과 USD/JPY 옵션은 무질서한 청산을 확인하지 않았습니다. 새 공개 자료에서도 repo 경색이나 국채 basis margin call을 공식적으로 확인하지 못했습니다."
+      "summary": "미국 주식은 강하게 반등했지만 달러는 0.5% 올라 2025년 3월 이후 최고였고 단기 국채금리는 약 7bp 상승했습니다. 10년물 상승은 약 1bp에 그쳐 성장·장기금리 경로는 혼재했습니다. 이는 주식 반등이 광범위한 통화·조달 완화에서 비롯됐다고 보기 어렵게 합니다."
     },
     "pressure": {
       "confidence": "높음",
@@ -52,20 +53,77 @@
         "C01"
       ],
       "evidence_ids": [
-        "E01",
-        "E02"
+        "E02",
+        "E04"
       ],
-      "label": "만기 후 기계적 매도 압력은 완화, 음의 모멘텀·감마 위험은 잔존",
+      "label": "신규 쇼트 확대 뒤 대형 안도랠리, 쇼트커버와 신규 매수 비중은 미확인",
       "limitations": [
-        "SpotGamma 감마는 모델 추정이며 전체 딜러 실제 장부가 아닙니다.",
-        "Reuters의 바닥 지표는 역사적 패턴·운용자 의견이며 실제 순매수 체결을 뜻하지 않습니다."
+        "Goldman 원 PB 보고서는 비공개이고 재전문 수치입니다.",
+        "상승분을 쇼트커버·옵션 헤지·현물 신규 롱으로 분해한 공식 자료가 없습니다."
       ],
-      "summary": "약 9,000억달러 델타의 풋 중심 월물 만기가 해소돼 SpotGamma는 시장 취약성이 일부 낮아졌다고 봤습니다. 그러나 다음 주 SPX 감마는 아직 음(-)이고 Reuters가 확인한 내부지표도 과매도에 접근했을 뿐 완전한 washout은 아니었습니다. 따라서 전일보다 기계적 매도 압력은 낮아졌지만 반전 확인 전입니다."
+      "summary": "Goldman PB 재전문은 개별주 쇼트 추가가 롱 매수의 1.4배이고 베타조정 순레버리지가 3년 중 1백분위였다고 전했습니다. 이후 Nvidia 31% 급등과 Nasdaq 6.5% 반등은 낮아진 순노출에서 큰 squeeze가 날 수 있음을 보여줬습니다. 그러나 실제 커버 체결액이 없어 지속 가능한 신규 위험추가로 단정하지 않습니다."
     }
   },
   "complete": true,
-  "content_sha256": "7c076dcd230d831adc7b07bb87ada07c0de1f03adab4cdacfcf07cea3f1254c1",
+  "content_sha256": "d6ce7e679b5192e3f4223b1c0b4b1e6d917f6ee9398ac8d91de8fd0bcd82a24e",
   "context_entries": [
+    {
+      "access": "full_text",
+      "actors": [
+        "Reuters",
+        "State Street Investment Management",
+        "Nationwide",
+        "Edward Jones",
+        "Glenmede"
+      ],
+      "claim_type": "opinion",
+      "direction": "mixed",
+      "event_date": "2026-11-20",
+      "event_key": "reuters-us-correction-bottom-signals-20261122",
+      "id": "C01",
+      "mechanisms": [
+        "crowding",
+        "fund_flows",
+        "long_liquidation",
+        "other"
+      ],
+      "published_at_kst": "2026-11-22T21:03:38+09:00",
+      "published_date": "2026-11-22",
+      "publisher": "Reuters · Investing.com 재전문",
+      "source_kind": "news",
+      "summary_ko": "이전 취합 구간 자료입니다. Reuters는 S&P 500이 10월 6일 고점 대비 11.6% 하락해 2025년 3월 이후 첫 조정에 진입한 뒤, 시장 내부지표가 바닥 신호에 가까워졌지만 아직 완전한 washout은 아니라고 보도했습니다. 개별 종목의 52주 고점 대비 낙폭과 동조화는 과매도에 접근했고, NYSE 신저가 대비 신고가 지표 하나는 바닥 신호를 냈지만 50일 이동평균 상회 종목 비율은 아직 미달했습니다. VIX 35.89는 2025년 4월 이후 최고이며 일부 운용자는 40 부근을 peak fear 후보로 봤습니다. 반면 AI 투자 지속성·연준 인상·과도한 일부 밸류에이션과 음의 가격 모멘텀 때문에 추가 하락 가능성도 유지됐습니다.",
+      "title_ko": "미국 주식 조정의 바닥 신호 접근, 그러나 모멘텀·AI 밸류에이션 위험 지속",
+      "title_original": "Analysis-Correction or deeper reckoning? Investors seek signs US stock selling will abate",
+      "url": "https://www.investing.com/news/stock-market-news/analysiscorrection-or-deeper-reckoning-investors-seek-signs-us-stock-selling-will-abate-5043939"
+    },
+    {
+      "access": "full_text",
+      "actors": [
+        "SpotGamma",
+        "Sherry An",
+        "S&P 500 옵션 딜러",
+        "변동성 투자자"
+      ],
+      "claim_type": "observed_metric",
+      "direction": "mixed",
+      "event_date": "2026-11-20",
+      "event_key": "spotgamma-post-opex-fragility-20261122",
+      "id": "C02",
+      "mechanisms": [
+        "dealer_gamma",
+        "crowding",
+        "long_liquidation",
+        "other"
+      ],
+      "published_at_kst": "2026-11-23T06:45:00+09:00",
+      "published_date": "2026-11-23",
+      "publisher": "SpotGamma · Sherry An",
+      "source_kind": "primary",
+      "summary_ko": "이전 취합 구간 자료입니다. SpotGamma 모델에서 COR1M은 4일 만에 13에서 46으로 뛰어 분산거래 청산과 주식 동조화를 나타냈고, 급락 구간에는 TRACE가 광범위한 음의 딜러 감마를 표시했습니다. 11월 20일 만기에는 약 9,000억달러 델타가 만료됐고 풋 비중이 80%를 넘었습니다. 만기 해소 뒤 SPX 7,000 부근 음의 감마는 줄어 시장 취약성이 일부 낮아졌지만 다음 주 전체 감마는 아직 음(-)으로 추정됐습니다. VVIX는 102에서 146으로 상승했습니다. SPX 7,000 회복과 단기 변동성 매도 재개는 안정 조건, 7,000 회복 실패나 VIX 40 부근 유지는 추가 스트레스 조건입니다. 이는 SpotGamma 모델이며 전체 딜러 실제 장부가 아닙니다.",
+      "title_ko": "월물 만기 뒤 음의 감마는 완화됐지만 SPX 7,000 아래 취약성은 잔존",
+      "title_original": "Violent Capitulation & Volatility: What’s Next?",
+      "url": "https://spotgamma.com/negative-gamma-selloff-vix-40/"
+    },
     {
       "access": "full_text",
       "actors": [
@@ -79,7 +137,7 @@
       "direction": "risk_reduce",
       "event_date": "2026-11-19",
       "event_key": "goldman-snider-ai-unwind-positioning-20261120",
-      "id": "C01",
+      "id": "C03",
       "mechanisms": [
         "net_exposure",
         "gross_deleveraging",
@@ -110,7 +168,7 @@
       "direction": "mixed",
       "event_date": "2026-11-21",
       "event_key": "stonex-yen-carry-weekly-20261121",
-      "id": "C02",
+      "id": "C04",
       "mechanisms": [
         "carry_trade",
         "rates_credit",
@@ -138,7 +196,7 @@
       "direction": "mixed",
       "event_date": "2026-11-20",
       "event_key": "bofa-hartnett-flow-show-20261120",
-      "id": "C03",
+      "id": "C05",
       "mechanisms": [
         "fund_flows",
         "crowding",
@@ -153,61 +211,6 @@
       "title_ko": "Hartnett: 금리인상 종료와 경기침체 선후가 2027 위험자산 결정",
       "title_original": "2 questions will decide risk assets heading into 2027, BofA’s Hartnett says",
       "url": "https://www.investing.com/news/stock-market-news/2-questions-will-decide-risk-assets-heading-into-2027-bofas-hartnett-says-5041695"
-    },
-    {
-      "access": "full_text",
-      "actors": [
-        "KRX",
-        "한국 외국인 투자자",
-        "한국 기관 투자자",
-        "Samsung Electronics",
-        "SK hynix"
-      ],
-      "claim_type": "observed_metric",
-      "direction": "risk_reduce",
-      "event_date": "2026-11-20",
-      "event_key": "krx-kospi-plunge-20261120",
-      "id": "C04",
-      "mechanisms": [
-        "long_liquidation",
-        "fund_flows",
-        "net_exposure",
-        "crowding"
-      ],
-      "published_at_kst": "2026-11-20T16:37:08+09:00",
-      "published_date": "2026-11-20",
-      "publisher": "연합뉴스 · KRX",
-      "source_kind": "news",
-      "summary_ko": "이전 취합 구간 자료입니다. 11월 20일 코스피는 5.21% 내린 4,869.96으로 마감했고 급락으로 프로그램 매매가 5분 중단됐습니다. 외국인은 1조1,300억원, 기관은 9,513.3억원을 순매도했고 개인은 1조5,900억원을 순매수했습니다. 삼성전자는 7.01%, SK하이닉스는 5.92% 하락했습니다. 원화는 달러당 1,336.2원으로 약세였고 3년·5년 국채 금리는 각각 7.4bp·8.4bp 하락해 위험회피가 주식·통화·채권에 동시에 나타났습니다.",
-      "title_ko": "코스피 5.21% 급락: 외국인 1.13조원·기관 9,513억원 동반 순매도",
-      "title_original": "(2nd LD) Seoul shares plunge over 5 pct as Anthropic debut fails to ease AI concerns",
-      "url": "https://en.yna.co.kr/view/AEN20261120005652320"
-    },
-    {
-      "access": "full_text",
-      "actors": [
-        "미국 국채 투자자",
-        "Federal Reserve",
-        "CNBC"
-      ],
-      "claim_type": "observed_metric",
-      "direction": "hedge",
-      "event_date": "2026-11-20",
-      "event_key": "treasury-safe-haven-yields-20261120",
-      "id": "C05",
-      "mechanisms": [
-        "fund_flows",
-        "rates_credit",
-        "treasury_basis"
-      ],
-      "published_at_kst": "2026-11-20T19:21:03+09:00",
-      "published_date": "2026-11-20",
-      "publisher": "CNBC · U.S. Treasury market",
-      "source_kind": "news",
-      "summary_ko": "이전 취합 구간 자료입니다. 11월 20일 미국 주식 급락 속 10년물 국채 금리는 12bp 내린 4.932%, 2년물은 14bp 넘게 내린 4.634%, 30년물은 8bp 넘게 내린 5.316%를 기록했습니다. 이는 안전자산 매수와 금융여건 긴축 우려를 반영했지만, 시장은 여전히 12월 25bp 인상 확률을 약 92%로 가격했습니다. 국채 매수만으로 주식 매도 주체나 basis trade 청산을 특정할 수 없습니다.",
-      "title_ko": "주식 급락에 미 국채 피난수요: 10년물 12bp·2년물 14bp 금리 하락",
-      "title_original": "Treasury yields move sharply lower as investors flee to safe havens",
-      "url": "https://www.cnbc.com/2026/11/20/treasury-yields-bonds-inflation.html"
     },
     {
       "access": "full_text",
@@ -300,19 +303,19 @@
       "institution": "Goldman Sachs",
       "name": "Shawn Tuteja",
       "role": "ETF·맞춤형 바스켓 변동성 트레이딩",
-      "summary_ko": "11월 23일 실제 재검색: 최근 24시간 Shawn Tuteja의 AI·M7·옵션·변동성 새 독립 발언 없음. 마지막 직접 공식 자료는 2026년 8월 21일이며 30일 문맥 한도를 넘어 제외했습니다."
+      "summary_ko": "11월 24일 실제 재검색: 최근 24시간 Shawn Tuteja의 AI·M7·옵션·변동성 새 독립 발언 없음. 마지막 직접 공식 자료는 2026년 8월 21일이며 30일 문맥 한도를 넘어 제외했습니다."
     },
     {
       "change": "미확인",
       "evidence_ids": [
-        "C03"
+        "C05"
       ],
       "focus": "펀드 자금흐름 / 현금·과열 / 자산배분",
       "id": "hartnett",
       "institution": "BofA Global Research",
       "name": "Michael Hartnett",
       "role": "최고 투자전략가 · Flow Show",
-      "summary_ko": "11월 23일 실제 재검색: 새 독립 Flow Show 발언은 0건입니다. 11월 22일 유통된 게시물은 11월 20일 Flow Show의 S&P 6,845·현금 3.6%·추가 항복 조건을 재전송한 동일 사건이라 신규로 세지 않았습니다."
+      "summary_ko": "11월 24일 실제 재검색: Michael Hartnett/BofA Flow Show의 새 독립 발언 0건. 마지막 확인은 11월 20일 Flow Show이며 추가 포지션 항복 전 전면 매수 신호를 경계한 관점을 이전 문맥으로 유지합니다."
     },
     {
       "change": "미확인",
@@ -325,236 +328,210 @@
       "institution": "PIMCO",
       "name": "PIMCO",
       "role": "기관 · Ivascyn / Balls / Wilding 등",
-      "summary_ko": "11월 23일 실제 재검색: Ivascyn/Balls/Wilding의 새 독립 발언은 0건입니다. 마지막 직접 확인은 11월 16일 Ivascyn의 고품질 채권·듀레이션 선호이며 11월 17일 Seidner의 AI 신용집중 경계를 이전 문맥으로 유지합니다."
+      "summary_ko": "11월 24일 실제 재검색: Ivascyn/Balls/Wilding의 새 독립 발언 0건. 마지막 직접 확인은 11월 16일 Ivascyn의 고품질 채권·듀레이션 선호이며 11월 17일 Seidner의 AI 신용집중 경계를 이전 문맥으로 유지합니다."
     }
   ],
   "coverage": [
     {
       "name": "Shawn Tuteja",
-      "note": "Goldman 공식 Insights·팟캐스트와 공개 웹을 재검색. 최근 24시간 새 독립 발언 0건; 마지막 직접 자료는 2026년 8월 21일.",
+      "note": "Goldman 공식 Insights·팟캐스트와 공개 웹 재검색. 최근 24시간 새 독립 발언 0건; 마지막 직접 자료는 8월 21일.",
       "status": "checked",
       "url": "https://www.goldmansachs.com/insights/the-markets"
     },
     {
       "name": "Michael Hartnett · BofA Flow Show/FMS",
-      "note": "11월 22일 게시물은 11월 20일 Flow Show 동일 사건 재전송으로 확인. 새 독립 발언 0건.",
+      "note": "공개 웹·재전문 재검색. 최근 24시간 새 독립 발언 0건; 마지막 확인은 11월 20일.",
       "status": "checked",
       "url": "https://www.investing.com/news/stock-market-news/2-questions-will-decide-risk-assets-heading-into-2027-bofas-hartnett-says-5041695"
     },
     {
       "name": "PIMCO · Ivascyn/Balls/Wilding",
-      "note": "PIMCO 공식 Insights와 공개 웹을 재검색. 최근 24시간 세 대상의 새 독립 발언 0건.",
+      "note": "PIMCO 공식 Insights와 공개 웹 재검색. 최근 24시간 세 대상의 새 독립 발언 0건.",
       "status": "checked",
       "url": "https://www.pimco.com/us/en/insights"
     },
     {
       "name": "글로벌 헤지펀드·프라임브로커 gross/net·롱/숏",
-      "note": "전일 Goldman 인용 순레버리지 저점은 이전 문맥으로 유지. 새 공개 글의 42.3% net·98백분위 gross는 2차 인용이라 community/unverified로 분리.",
+      "note": "Goldman PB 재전문에서 3주 연속 순매도·개별주 쇼트/롱 1.4배·극단적 낮은 순레버리지를 확인. 원 보고서는 비공개.",
       "status": "partial",
-      "url": "https://seekingalpha.com/instablog/910351-robert-p-balan/6364395-the-positioning-map-and-the-s-and-p-500-options-map-are-in-sync-fast-money-is-short-real"
+      "url": "https://seekingalpha.com/news/4675555-hedge-funds-short-single-stocks-at-fastest-weekly-pace-since-2022-goldman"
     },
     {
       "name": "CTA·변동성 목표·딜러 감마",
-      "note": "SpotGamma의 만기 후 COR1M·VVIX·감마 변화를 전문 확인. 전체 딜러 장부와 새 CTA·vol-control 체결액은 미공개.",
+      "note": "Cboe 공식 변동성 분해와 전일 SpotGamma 문맥을 확인. Cboe 게시시각 미확인으로 경계일 판단 근거에서 제외. 새 vol-control 체결액은 미공개.",
       "status": "partial",
-      "url": "https://spotgamma.com/negative-gamma-selloff-vix-40/"
+      "url": "https://www.cboe.com/insights/posts/week-of-11-23-2026-vix-jumps-to-1-year-high-but-no-panic-as-ai-trade-unwinds/"
     },
     {
       "name": "펀드·ETF 자금흐름",
-      "note": "Reuters의 바닥·매수대기 의견과 이전 EPFR/LSEG 흐름을 확인. 급락 뒤 최신 일간 펀드 환매 집계는 미확인.",
+      "note": "Goldman PB의 지수·ETF 순매수와 개별주 순매도를 구분. 급반등 당일 뮤추얼펀드·ETF 실제 일간 유입은 미확인.",
       "status": "partial",
-      "url": "https://www.investing.com/news/stock-market-news/analysiscorrection-or-deeper-reckoning-investors-seek-signs-us-stock-selling-will-abate-5043939"
+      "url": "https://seekingalpha.com/news/4675555-hedge-funds-short-single-stocks-at-fastest-weekly-pace-since-2022-goldman"
     },
     {
       "name": "국채 베이시스·레포·마진·엔 캐리",
-      "note": "공식 NY Fed·CFTC 확인이 되지 않은 $42bn basis unwind 주장은 판단에서 제외. 새 repo 경색·margin call 직접 관측 0건; 이전 엔 캐리 문맥 유지.",
+      "note": "단기금리·10년물·달러 반응과 이전 CFTC·StoneX 문맥을 확인. 새 repo 경색·basis margin call·광범위 엔 캐리 청산 직접 관측 0건.",
       "status": "partial",
-      "url": "https://www.cftc.gov/MarketReports/CommitmentsofTraders/index.htm"
+      "url": "https://www.investing.com/news/economy-news/trading-day-market-euphoria-as-huang-returns-to-nvidia-5046578"
     },
     {
       "name": "13F·CFTC 공시",
-      "note": "새 공시 0건. 최신 CFTC TFF 관측일은 11월 17일이며 선물 전용입니다. 새 13F는 없고 13F는 쇼트·현금을 포함하지 않습니다.",
+      "note": "새 공시 0건. 최신 CFTC TFF 관측은 11월 17일 선물 전용이며 현물·swap·repo·옵션 제외. 새 13F는 없고 쇼트·현금 미포함.",
       "status": "checked",
       "url": "https://www.cftc.gov/MarketReports/CommitmentsofTraders/index.htm"
     },
     {
       "name": "한국 직접 전달 경로",
-      "note": "개장 전 MSCI Korea ETF·코스피200 야간선물·정책 기대를 확인. 당일 현물 외국인·기관 수급은 아직 미확인.",
-      "status": "partial",
-      "url": "https://view.asiae.co.kr/en/article/2026112308124363442"
+      "note": "11월 23일 KOSPI 종가, 외국인·기관·개인 현물 수급, 반도체, 원/달러를 확인.",
+      "status": "checked",
+      "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=281957"
     },
     {
       "name": "언론·공식 원문",
-      "note": "Reuters·SpotGamma·아시아경제 전문을 확인. Bloomberg는 공개 추출이 도입부에서 끊겨 partial_text로만 기록.",
-      "status": "partial",
-      "url": "https://news.bgov.com/capital-markets/investors-brave-stock-market-fragility-as-ai-trade-falters"
+      "note": "Cboe·Reuters·BusinessKorea 원문과 Goldman PB 재전문을 열어 관측일·접근 한계를 확인.",
+      "status": "checked",
+      "url": "https://www.investing.com/news/economy-news/trading-day-market-euphoria-as-huang-returns-to-nvidia-5046578"
     },
     {
       "name": "공개 커뮤니티",
-      "note": "Reddit에서 직접 URL·시각을 함께 확인한 새 주장은 0건. Seeking Alpha 공개 블로그의 2차 인용 포지션 주장을 community/unverified로 분리.",
-      "status": "partial",
-      "url": "https://seekingalpha.com/instablog/910351-robert-p-balan/6364395-the-positioning-map-and-the-s-and-p-500-options-map-are-in-sync-fast-money-is-short-real"
+      "note": "Reddit·공개 투자 커뮤니티를 재검색했으나 직접 URL·게시시각·독립 포지션 주장을 함께 확인한 새 게시물 0건.",
+      "status": "checked",
+      "url": "https://www.reddit.com/r/stocks/new/"
     },
     {
       "name": "기사 후보 수집",
-      "note": "discovery/latest.json 후보 2건을 확인. 기사 후보 수집과 검증 일보 발행을 분리하고 원문 검증된 자료만 승격.",
+      "note": "discovery/latest.json 후보 7건을 확인. 후보 수집과 검증 일보를 분리하고 재전송·시각 미확인·원문 미확인 자료는 판단에서 제외.",
       "status": "checked",
       "url": "https://github.com/33hankei-afk/radar-telegram-reports/blob/main/global-position/discovery/latest.json"
     },
     {
       "name": "검색 경로",
-      "note": "핵심 대상·PB·CTA/vol-control/gamma·펀드흐름·repo/basis·엔 캐리·CFTC/13F·한국·커뮤니티 검색과 원문 확인을 완료.",
+      "note": "핵심 대상·PB·CTA/gamma·펀드흐름·repo/basis·엔 캐리·CFTC/13F·한국·커뮤니티 검색과 원문 확인 완료.",
       "status": "checked",
       "url": "https://exa.ai/"
     }
   ],
-  "coverage_note": "2026-11-22T08:58:08+09:00~2026-11-23T08:58:08+09:00 KST. 신규 원문 5건을 확인했습니다. Reuters의 불완전한 바닥 신호, SpotGamma의 만기 후 감마 완화·잔존 위험, 한국 개장 전 야간선물·MSCI Korea 충격, 미검증 커뮤니티 포지션 주장, 부분 접근 Bloomberg 보도를 구분해 반영했습니다. 전일 대비 기계적 매도 압력은 일부 완화됐지만 추세 반전은 미확인입니다. Tuteja, Hartnett/BofA Flow Show, PIMCO Ivascyn/Balls/Wilding의 새 독립 발언은 0건입니다. repo 경색·basis margin call과 급락 뒤 최신 펀드 환매는 확인되지 않았습니다.",
-  "date_kst": "2026-11-23",
+  "coverage_note": "2026-11-23T08:51:43+09:00~2026-11-24T08:51:43+09:00 KST. 신규 원문 4건을 확인했습니다. Goldman PB 재전문의 개별주 신규 쇼트·낮은 순레버리지, 한국 외국인 7거래일 연속 매도와 기관 완충, Nvidia발 미국 AI 안도랠리, Cboe의 질서 있는 VIX 급등 분해를 반영했습니다. 미국 반등은 쇼트커버가 기여했을 가능성이 크지만 실제 커버 체결액이 없어 신규 롱과 분해하지 않았습니다. Tuteja, Hartnett/BofA Flow Show, PIMCO Ivascyn/Balls/Wilding의 새 독립 발언은 0건입니다. 새 repo 경색·basis margin call·검증 가능한 커뮤니티 주장은 확인되지 않았습니다.",
+  "date_kst": "2026-11-24",
   "entries": [
     {
       "access": "full_text",
       "actors": [
-        "Reuters",
-        "State Street Investment Management",
-        "Nationwide",
-        "Edward Jones",
-        "Glenmede"
+        "Cboe",
+        "Mandy Xu",
+        "옵션 투자자",
+        "AI 주식 투자자"
       ],
-      "claim_type": "opinion",
+      "claim_type": "observed_metric",
       "direction": "mixed",
       "event_date": "2026-11-20",
-      "event_key": "reuters-us-correction-bottom-signals-20261122",
+      "event_key": "cboe-vix-orderly-ai-unwind-20261123",
       "id": "E01",
       "mechanisms": [
-        "crowding",
-        "fund_flows",
-        "long_liquidation",
-        "other"
-      ],
-      "published_at_kst": "2026-11-22T21:03:38+09:00",
-      "published_date": "2026-11-22",
-      "publisher": "Reuters · Investing.com 재전문",
-      "source_kind": "news",
-      "summary_ko": "Reuters는 S&P 500이 10월 6일 고점 대비 11.6% 하락해 2025년 3월 이후 첫 조정에 진입한 뒤, 시장 내부지표가 바닥 신호에 가까워졌지만 아직 완전한 washout은 아니라고 보도했습니다. 개별 종목의 52주 고점 대비 낙폭과 동조화는 과매도에 접근했고, NYSE 신저가 대비 신고가 지표 하나는 바닥 신호를 냈지만 50일 이동평균 상회 종목 비율은 아직 미달했습니다. VIX 35.89는 2025년 4월 이후 최고이며 일부 운용자는 40 부근을 peak fear 후보로 봤습니다. 반면 AI 투자 지속성·연준 인상·과도한 일부 밸류에이션과 음의 가격 모멘텀 때문에 추가 하락 가능성도 유지됐습니다.",
-      "title_ko": "미국 주식 조정의 바닥 신호 접근, 그러나 모멘텀·AI 밸류에이션 위험 지속",
-      "title_original": "Analysis-Correction or deeper reckoning? Investors seek signs US stock selling will abate",
-      "url": "https://www.investing.com/news/stock-market-news/analysiscorrection-or-deeper-reckoning-investors-seek-signs-us-stock-selling-will-abate-5043939"
-    },
-    {
-      "access": "full_text",
-      "actors": [
-        "SpotGamma",
-        "Sherry An",
-        "S&P 500 옵션 딜러",
-        "변동성 투자자"
-      ],
-      "claim_type": "observed_metric",
-      "direction": "mixed",
-      "event_date": "2026-11-20",
-      "event_key": "spotgamma-post-opex-fragility-20261122",
-      "id": "E02",
-      "mechanisms": [
         "dealer_gamma",
         "crowding",
-        "long_liquidation",
         "other"
       ],
-      "published_at_kst": "2026-11-23T06:45:00+09:00",
+      "published_at_kst": null,
       "published_date": "2026-11-23",
-      "publisher": "SpotGamma · Sherry An",
+      "publisher": "Cboe · Mandy Xu",
       "source_kind": "primary",
-      "summary_ko": "SpotGamma 모델에서 COR1M은 4일 만에 13에서 46으로 뛰어 분산거래 청산과 주식 동조화를 나타냈고, 급락 구간에는 TRACE가 광범위한 음의 딜러 감마를 표시했습니다. 11월 20일 만기에는 약 9,000억달러 델타가 만료됐고 풋 비중이 80%를 넘었습니다. 만기 해소 뒤 SPX 7,000 부근 음의 감마는 줄어 시장 취약성이 일부 낮아졌지만 다음 주 전체 감마는 아직 음(-)으로 추정됐습니다. VVIX는 102에서 146으로 상승했습니다. SPX 7,000 회복과 단기 변동성 매도 재개는 안정 조건, 7,000 회복 실패나 VIX 40 부근 유지는 추가 스트레스 조건입니다. 이는 SpotGamma 모델이며 전체 딜러 실제 장부가 아닙니다.",
-      "title_ko": "월물 만기 뒤 음의 감마는 완화됐지만 SPX 7,000 아래 취약성은 잔존",
-      "title_original": "Violent Capitulation & Volatility: What’s Next?",
-      "url": "https://spotgamma.com/negative-gamma-selloff-vix-40/"
-    },
-    {
-      "access": "full_text",
-      "actors": [
-        "아시아경제",
-        "키움증권",
-        "한국 주식 투자자",
-        "MSCI Korea ETF",
-        "KOSPI 200 야간선물"
-      ],
-      "claim_type": "observed_metric",
-      "direction": "risk_reduce",
-      "event_date": "2026-11-23",
-      "event_key": "korea-preopen-ai-shock-20261123",
-      "id": "E03",
-      "mechanisms": [
-        "fund_flows",
-        "crowding",
-        "long_liquidation",
-        "other"
-      ],
-      "published_at_kst": "2026-11-23T08:16:21+09:00",
-      "published_date": "2026-11-23",
-      "publisher": "아시아경제 · 키움증권",
-      "source_kind": "news",
-      "summary_ko": "11월 23일 개장 전 아시아경제는 직전 미국장에서 필라델피아 반도체지수가 10.73%, Nvidia 14.01%, Micron 13.89% 하락한 뒤 MSCI Korea ETF가 8.42%, 코스피200 야간선물이 6.99% 내렸다고 보도했습니다. 이는 한국 현물 개장 전 위험회피 신호이며 실제 당일 외국인 현물 수급은 아직 아닙니다. 코스피가 직전 거래일 이미 5.21% 하락했고 미국 월물 옵션 만기가 끝나 일부 헤지 매도가 완화될 수 있다는 반론과, 증시안정펀드 준비가 수급 불안을 완화할 수 있다는 조건도 함께 제시됐습니다.",
-      "title_ko": "한국 개장 전: MSCI Korea ETF 8.42%·코스피200 야간선물 6.99% 하락",
-      "title_original": "[Good Morning Stock Market] U.S. Semiconductors Plunge 10.7%... KOSPI Braces for Further Shock from 'AI Sell-Off'",
-      "url": "https://view.asiae.co.kr/en/article/2026112308124363442"
-    },
-    {
-      "access": "full_text",
-      "actors": [
-        "Seeking Alpha 커뮤니티",
-        "Robert P. Balan",
-        "헤지펀드",
-        "옵션 딜러"
-      ],
-      "claim_type": "unverified",
-      "direction": "mixed",
-      "event_date": "2026-11-20",
-      "event_key": "community-fast-money-gamma-map-20261122",
-      "id": "E04",
-      "mechanisms": [
-        "net_exposure",
-        "gross_deleveraging",
-        "dealer_gamma",
-        "short_covering"
-      ],
-      "published_at_kst": "2026-11-23T01:38:21+09:00",
-      "published_date": "2026-11-23",
-      "publisher": "Seeking Alpha 커뮤니티 블로그 · Robert P. Balan",
-      "source_kind": "community",
-      "summary_ko": "공개 투자 블로그는 11월 13~19일 미국 개별주 쇼팅이 2022년 6월 이후 최대이고 헤지펀드 순레버리지가 42.3%로 5년 최저, gross는 98백분위라고 주장했습니다. 또한 11월 20일 종가 스냅숏에서 6,925 위쪽은 음의 감마, 6,825 아래는 양의 감마 층이라고 제시했습니다. 그러나 Goldman·JPMorgan·BofA 수치 상당수는 X·Longbridge·다른 재전문을 거친 2차 인용이며 글 자체도 원문 미확인을 명시합니다. 따라서 미검증 커뮤니티 주장으로만 기록하고 판단 근거로 사용하지 않았습니다.",
-      "title_ko": "커뮤니티 주장: 패스트머니는 쇼트, 실물자금은 롱·만기 후 감마는 위쪽 음·아래쪽 양",
-      "title_original": "The Positioning Map And The S&P 500 Options Map Are In Sync: Fast Money Is Short, Real Money Is Long",
-      "url": "https://seekingalpha.com/instablog/910351-robert-p-balan/6364395-the-positioning-map-and-the-s-and-p-500-options-map-are-in-sync-fast-money-is-short-real"
+      "summary_ko": "Cboe는 금요일 VIX 7.4포인트 상승의 약 90%가 SPX 현물 3.7% 하락과 고정행사가 변동성 3.2포인트 상승에서 왔고, skew·convexity 기여는 0.9포인트에 그쳤다고 분석했습니다. 11월 5일과 달리 하방 풋 수요가 핵심이 아니었고 1개월 SPX skew는 95백분위가 아닌 80백분위까지 완만히 상승했습니다. 주식 변동성이 다른 자산보다 훨씬 크게 올라 광범위한 매크로 디레버리징보다 AI 포지션 회전 성격이 강했고, QQQ 1개월 내재변동성은 주간 20포인트 넘게 상승했습니다. 게시일만 확인되고 시각이 없어 경계일 신규 판단 근거에는 사용하지 않았습니다.",
+      "title_ko": "Cboe: VIX 급등의 90%는 현물·고정행사가 변동성, 꼬리풋 패닉은 제한",
+      "title_original": "Week of 11/23/2026: VIX® Jumps to 1-Year High, but No Panic as AI Trade Unwinds",
+      "url": "https://www.cboe.com/insights/posts/week-of-11-23-2026-vix-jumps-to-1-year-high-but-no-panic-as-ai-trade-unwinds/"
     },
     {
       "access": "partial_text",
       "actors": [
-        "Bloomberg News",
-        "옵션 투자자",
-        "파생상품 전략가"
+        "Goldman Sachs Prime Brokerage",
+        "헤지펀드",
+        "CTA",
+        "Seeking Alpha News"
       ],
-      "claim_type": "opinion",
-      "direction": "hedge",
+      "claim_type": "reported_flow",
+      "direction": "risk_reduce",
       "event_date": "2026-11-20",
-      "event_key": "bloomberg-options-fragility-20261122",
-      "id": "E05",
+      "event_key": "goldman-pb-us-equities-week-20261120",
+      "id": "E02",
       "mechanisms": [
-        "dealer_gamma",
-        "crowding",
-        "other"
+        "net_exposure",
+        "gross_deleveraging",
+        "cta",
+        "crowding"
       ],
-      "published_at_kst": "2026-11-23T00:00:00+09:00",
+      "published_at_kst": "2026-11-23T23:21:47+09:00",
       "published_date": "2026-11-23",
-      "publisher": "Bloomberg News · Bloomberg Government",
+      "publisher": "Seeking Alpha News · Goldman Sachs Prime Brokerage 인용",
       "source_kind": "news",
-      "summary_ko": "확인 가능한 부분에서 Bloomberg는 목요일·금요일 Nasdaq 100의 약 8% 하락 뒤 옵션 투자자들이 추가 변동성에 대비하고 있으며, 파생전략가들이 장기간의 평온 뒤 큰 폭 움직임이 반복되는 'fragility' 증가를 지적했다고 보도했습니다. 공개 추출이 기사 도입부에서 끊겨 구체적 포지션 수치와 전체 반론은 확인하지 못했습니다. 부분 본문 기반 요약이며 핵심 판단 근거에는 사용하지 않았습니다.",
-      "title_ko": "옵션 투자자들이 AI 매도 이후 추가 변동성에 대비",
-      "title_original": "Investors Brave Stock Market ‘Fragility’ as AI Trade Falters",
-      "url": "https://news.bgov.com/capital-markets/investors-brave-stock-market-fragility-as-ai-trade-falters"
+      "summary_ko": "Goldman Sachs Prime Brokerage 재전문에 따르면 헤지펀드는 미국 주식을 3주 연속 순매도했고, 개별주 쇼트 추가가 롱 매수보다 1.4배 많았습니다. 11개 업종 중 9개가 순매도였지만 지수·ETF는 순매수였습니다. 베타조정 순레버리지는 최근 3년 중 1백분위까지 낮아졌고 Nasdaq 100 CTA 포지션은 10년 범위의 저점 부근이었습니다. 이는 순노출 감소가 롱 청산만이 아니라 신규 개별주 쇼트의 영향도 컸음을 시사합니다. Goldman 원 보고서는 비공개이며 재전문으로 확인한 수치입니다.",
+      "title_ko": "Goldman PB: 헤지펀드 3주 연속 미국주식 순매도, 개별주 쇼트는 2022년 이후 최고 속도",
+      "title_original": "Hedge funds short single stocks at fastest weekly pace since 2022 - Goldman",
+      "url": "https://seekingalpha.com/news/4675555-hedge-funds-short-single-stocks-at-fastest-weekly-pace-since-2022-goldman"
+    },
+    {
+      "access": "full_text",
+      "actors": [
+        "KRX",
+        "한국 외국인 투자자",
+        "한국 기관 투자자",
+        "한국 개인 투자자",
+        "Samsung Electronics",
+        "SK hynix"
+      ],
+      "claim_type": "observed_metric",
+      "direction": "risk_reduce",
+      "event_date": "2026-11-23",
+      "event_key": "korea-close-flows-20261123",
+      "id": "E03",
+      "mechanisms": [
+        "fund_flows",
+        "long_liquidation",
+        "net_exposure",
+        "crowding"
+      ],
+      "published_at_kst": "2026-11-23T18:25:19+09:00",
+      "published_date": "2026-11-23",
+      "publisher": "BusinessKorea · KRX/서울외환시장",
+      "source_kind": "news",
+      "summary_ko": "11월 23일 코스피는 장중 5.11%까지 밀려 이틀 연속 사이드카가 발동된 뒤 3.31% 내린 4,708.54로 마감했습니다. 외국인은 2,636억원을 순매도해 7거래일 연속 매도했고 개인도 3,954억원 순매도했지만 기관은 3,838억원 순매수했습니다. 삼성전자는 3.06%, SK하이닉스는 2.52% 하락했습니다. 원/달러는 9.7원 오른 1,345.9원에 마감했고 장중 1,351.6원까지 올랐습니다. 외국인 매도와 원화 약세가 위험회피를 보여주지만 기관의 저가매수·안정조치 기대가 낙폭을 완충했습니다.",
+      "title_ko": "코스피 3.31% 하락: 외국인·개인 매도, 기관 순매수로 낙폭 일부 축소",
+      "title_original": "[Closing Market] KOSPI Plunges 3.3%, Barely Holding 4,700 As Selling Deepens",
+      "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=281957"
+    },
+    {
+      "access": "full_text",
+      "actors": [
+        "Reuters",
+        "Nvidia",
+        "Jensen Huang",
+        "미국 주식 투자자",
+        "Federal Reserve"
+      ],
+      "claim_type": "observed_metric",
+      "direction": "risk_add",
+      "event_date": "2026-11-23",
+      "event_key": "us-ai-relief-rally-20261123",
+      "id": "E04",
+      "mechanisms": [
+        "short_covering",
+        "fund_flows",
+        "rates_credit",
+        "crowding"
+      ],
+      "published_at_kst": "2026-11-24T07:06:42+09:00",
+      "published_date": "2026-11-24",
+      "publisher": "Reuters · Investing.com 재전문",
+      "source_kind": "news",
+      "summary_ko": "11월 23일 Nvidia의 Jensen Huang CEO 복귀 발표 뒤 Nvidia는 31%, 반도체지수는 12%, Nasdaq은 6.5%, S&P 500은 4.7% 상승했습니다. S&P 500 11개 업종 중 9개가 올랐고 기술주는 9% 상승했습니다. 달러는 0.5% 올라 2025년 3월 이후 최고, 미 단기금리는 약 7bp 상승했지만 10년물은 약 1bp 상승에 그쳤습니다. Reuters는 이를 대규모 안도랠리로 규정하면서도 Nvidia 조사와 AI 투자수익성 문제는 남아 있다고 지적했습니다. 전주 신규 쇼트·낮은 순레버리지와 결합하면 쇼트커버가 기여했을 가능성이 있지만 실제 커버 물량은 공개되지 않아 신규 롱 유입과 분해할 수 없습니다.",
+      "title_ko": "Nvidia 31% 급등에 Nasdaq 6.5%·S&P 500 4.7% 반등, 금리·달러는 긴축 재가격",
+      "title_original": "Trading Day: Market euphoria as Huang returns to Nvidia",
+      "url": "https://www.investing.com/news/economy-news/trading-day-market-euphoria-as-huang-returns-to-nvidia-5046578"
     }
   ],
-  "generated_at_kst": "2026-11-23T08:58:08+09:00",
+  "generated_at_kst": "2026-11-24T08:51:43+09:00",
   "producer": "gpt_verified",
   "schema": "global_position_v1",
-  "window_end_kst": "2026-11-23T08:58:08+09:00",
-  "window_start_kst": "2026-11-22T08:58:08+09:00"
+  "window_end_kst": "2026-11-24T08:51:43+09:00",
+  "window_start_kst": "2026-11-23T08:51:43+09:00"
 }
