@@ -1,9 +1,9 @@
 {
   "date_kst": "2026-11-23",
   "status": "running",
-  "stage": "collecting",
+  "stage": "publishing",
   "started_at_kst": "2026-11-23T21:40:33+09:00",
-  "updated_at_kst": "2026-11-23T21:42:32+09:00",
+  "updated_at_kst": "2026-11-23T21:43:32+09:00",
   "ended_at_kst": null,
   "attempt": 1,
   "verified_posts": 908,
@@ -30,5 +30,11 @@
   "source_evidence_path": "collection/snapshots/20261123T214040p0900-daily23.json",
   "source_started_at_kst": "2026-11-23T21:40:52.089660+09:00",
   "source_ended_at_kst": "2026-11-23T21:42:17.948681+09:00",
-  "source_report_published": false
+  "source_report_published": false,
+  "publishing_results": {
+    "reports/2026-11-23.json": "pending",
+    "reports/2026-11-23.md": "pending",
+    "latest.md": "pending",
+    "latest.json": "pending"
+  }
 }
