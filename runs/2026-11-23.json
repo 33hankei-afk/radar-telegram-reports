@@ -1,10 +1,10 @@
 {
   "date_kst": "2026-11-23",
-  "status": "running",
-  "stage": "verifying",
+  "status": "partial",
+  "stage": "finished",
   "started_at_kst": "2026-11-23T21:40:33+09:00",
-  "updated_at_kst": "2026-11-23T21:44:22+09:00",
-  "ended_at_kst": null,
+  "updated_at_kst": "2026-11-23T21:44:41+09:00",
+  "ended_at_kst": "2026-11-23T21:44:41+09:00",
   "attempt": 1,
   "verified_posts": 908,
   "checked_channels": 59,
@@ -42,5 +42,18 @@
     "latest.md": "success",
     "latest.json": "success"
   },
-  "latest_json_commit": "84e43959209ceb37749ef2e356b5115a347748c9"
+  "latest_json_commit": "84e43959209ceb37749ef2e356b5115a347748c9",
+  "verification": {
+    "reports/2026-11-23.json": "exact_match",
+    "reports/2026-11-23.md": "exact_match",
+    "latest.md": "exact_match",
+    "latest.json": "exact_match",
+    "date_kst": "2026-11-23",
+    "latest_json_matches_date_report": true,
+    "ci_workflow": "Validate domestic Telegram reports",
+    "ci_status": "completed",
+    "ci_conclusion": "success",
+    "ci_run_id": 45177122352,
+    "ci_url": "https://github.com/33hankei-afk/radar-telegram-reports/actions/runs/45177122352"
+  }
 }
