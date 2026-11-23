@@ -1,9 +1,9 @@
 {
   "date_kst": "2026-11-23",
   "status": "running",
-  "stage": "publishing",
+  "stage": "verifying",
   "started_at_kst": "2026-11-23T21:40:33+09:00",
-  "updated_at_kst": "2026-11-23T21:43:32+09:00",
+  "updated_at_kst": "2026-11-23T21:44:22+09:00",
   "ended_at_kst": null,
   "attempt": 1,
   "verified_posts": 908,
@@ -14,7 +14,12 @@
     "aetherjapanresearch",
     "report_figure_by_offset"
   ],
-  "published_paths": [],
+  "published_paths": [
+    "reports/2026-11-23.json",
+    "reports/2026-11-23.md",
+    "latest.md",
+    "latest.json"
+  ],
   "errors": [
     "searfin: public read failed: ValueError: not an approved public channel preview",
     "bulls_pirates: #5064: view counter missing/invalid",
@@ -30,11 +35,12 @@
   "source_evidence_path": "collection/snapshots/20261123T214040p0900-daily23.json",
   "source_started_at_kst": "2026-11-23T21:40:52.089660+09:00",
   "source_ended_at_kst": "2026-11-23T21:42:17.948681+09:00",
-  "source_report_published": false,
+  "source_report_published": true,
   "publishing_results": {
-    "reports/2026-11-23.json": "pending",
-    "reports/2026-11-23.md": "pending",
-    "latest.md": "pending",
-    "latest.json": "pending"
-  }
+    "reports/2026-11-23.json": "success",
+    "reports/2026-11-23.md": "success",
+    "latest.md": "success",
+    "latest.json": "success"
+  },
+  "latest_json_commit": "84e43959209ceb37749ef2e356b5115a347748c9"
 }
