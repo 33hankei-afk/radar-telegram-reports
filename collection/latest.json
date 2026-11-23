@@ -1,31 +1,24 @@
 {
   "schema": "telegram_collection_status_v1",
-  "request_id": "20261122T211034p0900-daily22",
-  "date_kst": "2026-11-22",
-  "execution_date_kst": "2026-11-22",
-  "status": "partial",
-  "stage": "finished",
-  "started_at_kst": "2026-11-22T21:10:48.884038+09:00",
-  "updated_at_kst": "2026-11-22T21:11:48.244259+09:00",
-  "ended_at_kst": "2026-11-22T21:11:48.244304+09:00",
-  "checked_channels": 59,
-  "verified_full_channels": 55,
-  "verified_posts": 295,
+  "request_id": "20261123T214040p0900-daily23",
+  "date_kst": "2026-11-23",
+  "execution_date_kst": "2026-11-23",
+  "status": "running",
+  "stage": "collecting",
+  "started_at_kst": "2026-11-23T21:40:52.089660+09:00",
+  "updated_at_kst": "2026-11-23T21:41:01.416679+09:00",
+  "ended_at_kst": null,
+  "checked_channels": 4,
+  "verified_full_channels": 4,
+  "verified_posts": 193,
   "searfin_status": "failed",
   "failed_channels": [
-    "searfin",
-    "aetherjapanresearch",
-    "report_figure_by_offset"
+    "searfin"
   ],
   "errors": [
-    "searfin: public read failed: ValueError: not an approved public channel preview",
-    "gaoshoukorea: #65933: view counter missing/invalid",
-    "gaoshoukorea: #65935: view counter missing/invalid",
-    "aetherjapanresearch: public read failed: ValueError: not an approved public channel preview",
-    "habit4117: #88578: view counter missing/invalid",
-    "report_figure_by_offset: public read failed: ValueError: not an approved public channel preview"
+    "searfin: public read failed: ValueError: not an approved public channel preview"
   ],
-  "evidence_path": "collection/snapshots/20261122T211034p0900-daily22.json",
+  "evidence_path": "collection/snapshots/20261123T214040p0900-daily23.json",
   "report_published": false,
-  "status_path": "collection/status/20261122T211034p0900-daily22.json"
+  "status_path": "collection/status/20261123T214040p0900-daily23.json"
 }
