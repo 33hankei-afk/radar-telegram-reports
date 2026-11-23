@@ -3,18 +3,25 @@
   "status": "running",
   "stage": "collecting",
   "started_at_kst": "2026-11-23T21:40:33+09:00",
-  "updated_at_kst": "2026-11-23T21:41:00+09:00",
+  "updated_at_kst": "2026-11-23T21:41:27+09:00",
   "ended_at_kst": null,
   "attempt": 1,
-  "verified_posts": 0,
-  "checked_channels": 0,
-  "verified_full_channels": 0,
-  "failed_channels": [],
+  "verified_posts": 372,
+  "checked_channels": 14,
+  "verified_full_channels": 13,
+  "failed_channels": [
+    "searfin"
+  ],
   "published_paths": [],
-  "errors": [],
+  "errors": [
+    "searfin: public read failed: ValueError: not an approved public channel preview",
+    "bulls_pirates: #5064: view counter missing/invalid"
+  ],
   "collection_request_id": "20261123T214040p0900-daily23",
   "collection_request_commit": "b4f6e6e1069127be69ef6dcad1fb54354f68866b",
   "workflow_run_id": 45176583969,
   "source_status": "running",
-  "source_stage": "collecting"
+  "source_stage": "collecting",
+  "searfin_status": "failed",
+  "source_evidence_path": "collection/snapshots/20261123T214040p0900-daily23.json"
 }
