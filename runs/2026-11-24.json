@@ -3,12 +3,12 @@
   "status": "running",
   "stage": "collecting",
   "started_at_kst": "2026-11-24T21:25:57+09:00",
-  "updated_at_kst": "2026-11-24T21:27:23+09:00",
+  "updated_at_kst": "2026-11-24T21:27:46+09:00",
   "ended_at_kst": null,
   "attempt": 1,
-  "verified_posts": 861,
-  "checked_channels": 54,
-  "verified_full_channels": 50,
+  "verified_posts": 960,
+  "checked_channels": 59,
+  "verified_full_channels": 55,
   "failed_channels": [
     "searfin",
     "aetherjapanresearch",
@@ -23,8 +23,11 @@
     "pikachu_aje: #8505: view counter missing/invalid",
     "report_figure_by_offset: public read failed: ValueError: not an approved public channel preview"
   ],
-  "source_status": "running",
-  "source_stage": "collecting",
+  "source_status": "partial",
+  "source_stage": "finished",
   "searfin_status": "failed",
-  "source_evidence_path": "collection/snapshots/20261124T212604p0900-daily24.json"
+  "source_evidence_path": "collection/snapshots/20261124T212604p0900-daily24.json",
+  "source_started_at_kst": "2026-11-24T21:26:15.586333+09:00",
+  "source_ended_at_kst": "2026-11-24T21:27:18.763995+09:00",
+  "source_report_published": false
 }
