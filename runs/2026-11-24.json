@@ -1,15 +1,25 @@
 {
   "date_kst": "2026-11-24",
   "status": "running",
-  "stage": "started",
+  "stage": "collecting",
   "started_at_kst": "2026-11-24T21:25:57+09:00",
-  "updated_at_kst": "2026-11-24T21:25:57+09:00",
+  "updated_at_kst": "2026-11-24T21:26:50+09:00",
   "ended_at_kst": null,
   "attempt": 1,
-  "verified_posts": 0,
-  "checked_channels": 0,
-  "verified_full_channels": 0,
-  "failed_channels": [],
+  "verified_posts": 429,
+  "checked_channels": 14,
+  "verified_full_channels": 13,
+  "failed_channels": [
+    "searfin"
+  ],
   "published_paths": [],
-  "errors": []
+  "errors": [
+    "searfin: public read failed: ValueError: not an approved public channel preview",
+    "gaoshoukorea: #66030: view counter missing/invalid",
+    "gaoshoukorea: #66032: view counter missing/invalid"
+  ],
+  "source_status": "running",
+  "source_stage": "collecting",
+  "searfin_status": "failed",
+  "source_evidence_path": "collection/snapshots/20261124T212604p0900-daily24.json"
 }
