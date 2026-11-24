@@ -6,22 +6,24 @@
   "status": "running",
   "stage": "collecting",
   "started_at_kst": "2026-11-24T21:26:15.586333+09:00",
-  "updated_at_kst": "2026-11-24T21:27:02.840614+09:00",
+  "updated_at_kst": "2026-11-24T21:27:11.022082+09:00",
   "ended_at_kst": null,
-  "checked_channels": 44,
-  "verified_full_channels": 41,
-  "verified_posts": 760,
+  "checked_channels": 54,
+  "verified_full_channels": 50,
+  "verified_posts": 861,
   "searfin_status": "failed",
   "failed_channels": [
     "searfin",
-    "aetherjapanresearch"
+    "aetherjapanresearch",
+    "report_figure_by_offset"
   ],
   "errors": [
     "searfin: public read failed: ValueError: not an approved public channel preview",
     "gaoshoukorea: #66030: view counter missing/invalid",
     "gaoshoukorea: #66032: view counter missing/invalid",
     "aetherjapanresearch: public read failed: ValueError: not an approved public channel preview",
-    "pikachu_aje: #8505: view counter missing/invalid"
+    "pikachu_aje: #8505: view counter missing/invalid",
+    "report_figure_by_offset: public read failed: ValueError: not an approved public channel preview"
   ],
   "evidence_path": "collection/snapshots/20261124T212604p0900-daily24.json",
   "report_published": false
