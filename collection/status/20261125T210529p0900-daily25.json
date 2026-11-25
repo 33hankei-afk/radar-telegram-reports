@@ -3,11 +3,11 @@
   "request_id": "20261125T210529p0900-daily25",
   "date_kst": "2026-11-25",
   "execution_date_kst": "2026-11-25",
-  "status": "running",
+  "status": "failed",
   "stage": "collecting",
   "started_at_kst": "2026-11-25T21:05:40.809496+09:00",
-  "updated_at_kst": "2026-11-25T21:06:24.723937+09:00",
-  "ended_at_kst": null,
+  "updated_at_kst": "2026-11-25T21:06:29.725746+09:00",
+  "ended_at_kst": "2026-11-25T21:06:29.725765+09:00",
   "checked_channels": 34,
   "verified_full_channels": 32,
   "verified_posts": 694,
@@ -19,7 +19,8 @@
   "errors": [
     "searfin: public read failed: ValueError: not an approved public channel preview",
     "aetherjapanresearch: public read failed: ValueError: not an approved public channel preview",
-    "pharmbiohana: #12051: view counter missing/invalid"
+    "pharmbiohana: #12051: view counter missing/invalid",
+    "collector/checkpoint failed: ValueError"
   ],
   "evidence_path": "collection/snapshots/20261125T210529p0900-daily25.json",
   "report_published": false
