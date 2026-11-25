@@ -1,9 +1,9 @@
 {
   "date_kst": "2026-11-25",
   "status": "running",
-  "stage": "publishing",
+  "stage": "verifying",
   "started_at_kst": "2026-11-25T21:05:22+09:00",
-  "updated_at_kst": "2026-11-25T21:08:44+09:00",
+  "updated_at_kst": "2026-11-25T21:09:39+09:00",
   "ended_at_kst": null,
   "attempt": 1,
   "verified_posts": 694,
@@ -13,7 +13,12 @@
     "searfin",
     "aetherjapanresearch"
   ],
-  "published_paths": [],
+  "published_paths": [
+    "reports/2026-11-25.json",
+    "reports/2026-11-25.md",
+    "latest.md",
+    "latest.json"
+  ],
   "errors": [
     "searfin: public read failed: ValueError: not an approved public channel preview",
     "aetherjapanresearch: public read failed: ValueError: not an approved public channel preview",
@@ -28,11 +33,12 @@
   "source_stage": "collecting",
   "searfin_status": "failed",
   "source_evidence_path": "collection/snapshots/20261125T210529p0900-daily25.json",
-  "source_report_published": false,
+  "source_report_published": true,
   "publishing_results": {
-    "reports/2026-11-25.json": "pending",
-    "reports/2026-11-25.md": "pending",
-    "latest.md": "pending",
-    "latest.json": "pending"
-  }
+    "reports/2026-11-25.json": "success",
+    "reports/2026-11-25.md": "success",
+    "latest.md": "success",
+    "latest.json": "success"
+  },
+  "latest_json_commit": "c2204f76047f4f535c2e9b53fe218248f29ab835"
 }
