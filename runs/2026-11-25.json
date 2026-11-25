@@ -3,23 +3,27 @@
   "status": "running",
   "stage": "collecting",
   "started_at_kst": "2026-11-25T21:05:22+09:00",
-  "updated_at_kst": "2026-11-25T21:06:17+09:00",
+  "updated_at_kst": "2026-11-25T21:06:56+09:00",
   "ended_at_kst": null,
   "attempt": 1,
-  "verified_posts": 421,
-  "checked_channels": 14,
-  "verified_full_channels": 14,
+  "verified_posts": 694,
+  "checked_channels": 34,
+  "verified_full_channels": 32,
   "failed_channels": [
-    "searfin"
+    "searfin",
+    "aetherjapanresearch"
   ],
   "published_paths": [],
   "errors": [
-    "searfin: public read failed: ValueError: not an approved public channel preview"
+    "searfin: public read failed: ValueError: not an approved public channel preview",
+    "aetherjapanresearch: public read failed: ValueError: not an approved public channel preview",
+    "pharmbiohana: #12051: view counter missing/invalid",
+    "collector/checkpoint failed: ValueError"
   ],
   "collection_request_id": "20261125T210529p0900-daily25",
   "collection_request_commit": "64190ad04b8ef6f08c737f0e4c94a8ec8e66cd38",
   "workflow_run_id": 45610460949,
-  "source_status": "running",
+  "source_status": "failed",
   "source_stage": "collecting",
   "searfin_status": "failed",
   "source_evidence_path": "collection/snapshots/20261125T210529p0900-daily25.json"
