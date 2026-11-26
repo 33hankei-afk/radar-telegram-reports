@@ -1,9 +1,9 @@
 {
   "date_kst": "2026-11-26",
   "status": "running",
-  "stage": "collecting",
+  "stage": "publishing",
   "started_at_kst": "2026-11-26T21:53:37+09:00",
-  "updated_at_kst": "2026-11-26T21:55:18+09:00",
+  "updated_at_kst": "2026-11-26T21:57:04+09:00",
   "ended_at_kst": null,
   "attempt": 1,
   "verified_posts": 461,
@@ -15,9 +15,12 @@
   "published_paths": [],
   "errors": [
     "searfin: public read failed: ValueError: not an approved public channel preview",
-    "collector/checkpoint failed: ValueError"
+    "collector/checkpoint failed: ValueError",
+    "limited retry attempt 2 failed at the same collector/checkpoint stage",
+    "45 fixed channels unprocessed after collector failure"
   ],
   "collection_request_id": "20261126T215416p0900-daily26",
   "source_workflow_run_id": 45824008795,
-  "source_status": "failed"
+  "source_status": "failed",
+  "publication_results": {}
 }
