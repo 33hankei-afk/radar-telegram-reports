@@ -3,7 +3,7 @@
   "status": "running",
   "stage": "publishing",
   "started_at_kst": "2026-11-26T21:53:37+09:00",
-  "updated_at_kst": "2026-11-26T21:57:23+09:00",
+  "updated_at_kst": "2026-11-26T21:57:37+09:00",
   "ended_at_kst": null,
   "attempt": 1,
   "verified_posts": 461,
@@ -13,7 +13,8 @@
     "searfin"
   ],
   "published_paths": [
-    "reports/2026-11-26.json"
+    "reports/2026-11-26.json",
+    "reports/2026-11-26.md"
   ],
   "errors": [
     "searfin: public read failed: ValueError: not an approved public channel preview",
@@ -28,6 +29,10 @@
     "reports/2026-11-26.json": {
       "status": "success",
       "commit_sha": "08b691323065fb5f0f5df8dee3dc360b1ebf8577"
+    },
+    "reports/2026-11-26.md": {
+      "status": "success",
+      "commit_sha": "d0963a89c768359f0d8b9ae50fdb6394a99298b9"
     }
   }
 }
