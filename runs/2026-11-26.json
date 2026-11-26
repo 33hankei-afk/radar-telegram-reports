@@ -1,10 +1,10 @@
 {
   "date_kst": "2026-11-26",
-  "status": "running",
-  "stage": "verifying",
+  "status": "partial",
+  "stage": "finished",
   "started_at_kst": "2026-11-26T21:53:37+09:00",
-  "updated_at_kst": "2026-11-26T21:58:06+09:00",
-  "ended_at_kst": null,
+  "updated_at_kst": "2026-11-26T21:58:42+09:00",
+  "ended_at_kst": "2026-11-26T21:58:42+09:00",
   "attempt": 1,
   "verified_posts": 461,
   "checked_channels": 14,
@@ -22,7 +22,8 @@
     "searfin: public read failed: ValueError: not an approved public channel preview",
     "collector/checkpoint failed: ValueError",
     "limited retry attempt 2 failed at the same collector/checkpoint stage",
-    "45 fixed channels unprocessed after collector failure"
+    "45 fixed channels unprocessed after collector failure",
+    "SEARFin revisions unverified; zero rows must not be interpreted as no revisions"
   ],
   "collection_request_id": "20261126T215416p0900-daily26",
   "source_workflow_run_id": 45824008795,
@@ -44,5 +45,16 @@
       "status": "success",
       "commit_sha": "2e3f90b38e9490c23d8976b975602131919e40da"
     }
+  },
+  "validation_workflow_run_id": 45824585880,
+  "validation_conclusion": "success",
+  "verification": {
+    "remote_reread": true,
+    "date_kst": "2026-11-26",
+    "latest_json_matches_dated": true,
+    "latest_md_matches_dated": true,
+    "url_references_valid": true,
+    "artifact_digest_verified": true,
+    "body_hashes_verified": true
   }
 }
