@@ -3,20 +3,21 @@
   "request_id": "20261126T215416p0900-daily26",
   "date_kst": "2026-11-26",
   "execution_date_kst": "2026-11-26",
-  "status": "running",
+  "status": "failed",
   "stage": "collecting",
   "started_at_kst": "2026-11-26T21:54:28.067712+09:00",
-  "updated_at_kst": "2026-11-26T21:54:38.095950+09:00",
-  "ended_at_kst": null,
-  "checked_channels": 4,
-  "verified_full_channels": 4,
-  "verified_posts": 209,
+  "updated_at_kst": "2026-11-26T21:54:57.335395+09:00",
+  "ended_at_kst": "2026-11-26T21:54:57.335410+09:00",
+  "checked_channels": 14,
+  "verified_full_channels": 14,
+  "verified_posts": 461,
   "searfin_status": "failed",
   "failed_channels": [
     "searfin"
   ],
   "errors": [
-    "searfin: public read failed: ValueError: not an approved public channel preview"
+    "searfin: public read failed: ValueError: not an approved public channel preview",
+    "collector/checkpoint failed: ValueError"
   ],
   "evidence_path": "collection/snapshots/20261126T215416p0900-daily26.json",
   "report_published": false
