@@ -3,7 +3,7 @@
   "status": "running",
   "stage": "publishing",
   "started_at_kst": "2026-11-27T21:25:40+09:00",
-  "updated_at_kst": "2026-11-27T21:28:53+09:00",
+  "updated_at_kst": "2026-11-27T21:29:09+09:00",
   "ended_at_kst": null,
   "attempt": 1,
   "verified_posts": 466,
@@ -13,7 +13,9 @@
     "searfin",
     "aetherjapanresearch"
   ],
-  "published_paths": [],
+  "published_paths": [
+    "reports/2026-11-27.json"
+  ],
   "errors": [
     "searfin: public read failed: ValueError: not an approved public channel preview",
     "gaoshoukorea: #66175: view counter missing/invalid",
@@ -26,5 +28,10 @@
   "collection_request_id": "20261127T212556p0900-daily27",
   "source_workflow_run_id": 45998589678,
   "source_status": "failed",
-  "publication_results": {}
+  "publication_results": {
+    "reports/2026-11-27.json": {
+      "status": "success",
+      "commit_sha": "fe268def71aae0253c1251b409fb09c8cb139b8f"
+    }
+  }
 }
