@@ -3,21 +3,25 @@
   "request_id": "20261127T212556p0900-daily27",
   "date_kst": "2026-11-27",
   "execution_date_kst": "2026-11-27",
-  "status": "running",
+  "status": "failed",
   "stage": "collecting",
   "started_at_kst": "2026-11-27T21:26:06.205992+09:00",
-  "updated_at_kst": "2026-11-27T21:26:23.344205+09:00",
-  "ended_at_kst": null,
-  "checked_channels": 14,
-  "verified_full_channels": 13,
-  "verified_posts": 366,
+  "updated_at_kst": "2026-11-27T21:26:33.685893+09:00",
+  "ended_at_kst": "2026-11-27T21:26:33.685914+09:00",
+  "checked_channels": 24,
+  "verified_full_channels": 21,
+  "verified_posts": 466,
   "searfin_status": "failed",
   "failed_channels": [
-    "searfin"
+    "searfin",
+    "aetherjapanresearch"
   ],
   "errors": [
     "searfin: public read failed: ValueError: not an approved public channel preview",
-    "gaoshoukorea: #66175: view counter missing/invalid"
+    "gaoshoukorea: #66175: view counter missing/invalid",
+    "hanachina: #72883: view counter missing/invalid",
+    "aetherjapanresearch: public read failed: ValueError: not an approved public channel preview",
+    "collector/checkpoint failed: ValueError"
   ],
   "evidence_path": "collection/snapshots/20261127T212556p0900-daily27.json",
   "report_published": false
