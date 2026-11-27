@@ -6,17 +6,18 @@
   "status": "running",
   "stage": "collecting",
   "started_at_kst": "2026-11-27T21:26:06.205992+09:00",
-  "updated_at_kst": "2026-11-27T21:26:12.026661+09:00",
+  "updated_at_kst": "2026-11-27T21:26:23.344205+09:00",
   "ended_at_kst": null,
-  "checked_channels": 4,
-  "verified_full_channels": 4,
-  "verified_posts": 168,
+  "checked_channels": 14,
+  "verified_full_channels": 13,
+  "verified_posts": 366,
   "searfin_status": "failed",
   "failed_channels": [
     "searfin"
   ],
   "errors": [
-    "searfin: public read failed: ValueError: not an approved public channel preview"
+    "searfin: public read failed: ValueError: not an approved public channel preview",
+    "gaoshoukorea: #66175: view counter missing/invalid"
   ],
   "evidence_path": "collection/snapshots/20261127T212556p0900-daily27.json",
   "report_published": false
