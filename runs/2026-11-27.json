@@ -3,7 +3,7 @@
   "status": "running",
   "stage": "publishing",
   "started_at_kst": "2026-11-27T21:25:40+09:00",
-  "updated_at_kst": "2026-11-27T21:29:09+09:00",
+  "updated_at_kst": "2026-11-27T21:29:23+09:00",
   "ended_at_kst": null,
   "attempt": 1,
   "verified_posts": 466,
@@ -14,7 +14,8 @@
     "aetherjapanresearch"
   ],
   "published_paths": [
-    "reports/2026-11-27.json"
+    "reports/2026-11-27.json",
+    "reports/2026-11-27.md"
   ],
   "errors": [
     "searfin: public read failed: ValueError: not an approved public channel preview",
@@ -32,6 +33,10 @@
     "reports/2026-11-27.json": {
       "status": "success",
       "commit_sha": "fe268def71aae0253c1251b409fb09c8cb139b8f"
+    },
+    "reports/2026-11-27.md": {
+      "status": "success",
+      "commit_sha": "74bb2f18b4eb9e2fb16f1aa209ac1ad26823c637"
     }
   }
 }
