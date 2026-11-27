@@ -1,10 +1,10 @@
 {
   "date_kst": "2026-11-27",
-  "status": "running",
-  "stage": "verifying",
+  "status": "partial",
+  "stage": "finished",
   "started_at_kst": "2026-11-27T21:25:40+09:00",
-  "updated_at_kst": "2026-11-27T21:29:51+09:00",
-  "ended_at_kst": null,
+  "updated_at_kst": "2026-11-27T21:30:23+09:00",
+  "ended_at_kst": "2026-11-27T21:30:23+09:00",
   "attempt": 1,
   "verified_posts": 466,
   "checked_channels": 24,
@@ -26,7 +26,8 @@
     "aetherjapanresearch: public read failed: ValueError: not an approved public channel preview",
     "collector/checkpoint failed: ValueError",
     "limited retry attempt 2 failed at the same collector/checkpoint stage",
-    "35 fixed channels unprocessed after collector failure"
+    "35 fixed channels unprocessed after collector failure",
+    "SEARFin revisions unverified; zero rows must not be interpreted as no revisions"
   ],
   "collection_request_id": "20261127T212556p0900-daily27",
   "source_workflow_run_id": 45998589678,
@@ -48,5 +49,20 @@
       "status": "success",
       "commit_sha": "1fc77e1c2136d672909d0748cb89c7cee9d56040"
     }
+  },
+  "partial_channels": [
+    "gaoshoukorea",
+    "hanachina"
+  ],
+  "validation_workflow_run_id": 45999114005,
+  "validation_conclusion": "success",
+  "verification": {
+    "remote_reread": true,
+    "date_kst": "2026-11-27",
+    "latest_json_matches_dated": true,
+    "latest_md_matches_dated": true,
+    "url_references_valid": true,
+    "artifact_digest_verified": true,
+    "body_hashes_verified": true
   }
 }
