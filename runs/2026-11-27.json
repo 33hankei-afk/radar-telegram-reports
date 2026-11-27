@@ -1,9 +1,9 @@
 {
   "date_kst": "2026-11-27",
   "status": "running",
-  "stage": "collecting",
+  "stage": "publishing",
   "started_at_kst": "2026-11-27T21:25:40+09:00",
-  "updated_at_kst": "2026-11-27T21:27:22+09:00",
+  "updated_at_kst": "2026-11-27T21:28:53+09:00",
   "ended_at_kst": null,
   "attempt": 1,
   "verified_posts": 466,
@@ -19,9 +19,12 @@
     "gaoshoukorea: #66175: view counter missing/invalid",
     "hanachina: #72883: view counter missing/invalid",
     "aetherjapanresearch: public read failed: ValueError: not an approved public channel preview",
-    "collector/checkpoint failed: ValueError"
+    "collector/checkpoint failed: ValueError",
+    "limited retry attempt 2 failed at the same collector/checkpoint stage",
+    "35 fixed channels unprocessed after collector failure"
   ],
   "collection_request_id": "20261127T212556p0900-daily27",
   "source_workflow_run_id": 45998589678,
-  "source_status": "failed"
+  "source_status": "failed",
+  "publication_results": {}
 }
