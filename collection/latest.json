@@ -1,25 +1,24 @@
 {
   "schema": "telegram_collection_status_v1",
-  "request_id": "20261127T212556p0900-daily27",
-  "date_kst": "2026-11-27",
-  "execution_date_kst": "2026-11-27",
+  "request_id": "20261128T212513p0900-daily28",
+  "date_kst": "2026-11-28",
+  "execution_date_kst": "2026-11-28",
   "status": "running",
   "stage": "collecting",
-  "started_at_kst": "2026-11-27T21:26:06.205992+09:00",
-  "updated_at_kst": "2026-11-27T21:26:23.344205+09:00",
+  "started_at_kst": "2026-11-28T21:25:23.023052+09:00",
+  "updated_at_kst": "2026-11-28T21:25:27.572876+09:00",
   "ended_at_kst": null,
-  "checked_channels": 14,
-  "verified_full_channels": 13,
-  "verified_posts": 366,
+  "checked_channels": 4,
+  "verified_full_channels": 4,
+  "verified_posts": 55,
   "searfin_status": "failed",
   "failed_channels": [
     "searfin"
   ],
   "errors": [
-    "searfin: public read failed: ValueError: not an approved public channel preview",
-    "gaoshoukorea: #66175: view counter missing/invalid"
+    "searfin: public read failed: ValueError: not an approved public channel preview"
   ],
-  "evidence_path": "collection/snapshots/20261127T212556p0900-daily27.json",
+  "evidence_path": "collection/snapshots/20261128T212513p0900-daily28.json",
   "report_published": false,
-  "status_path": "collection/status/20261127T212556p0900-daily27.json"
+  "status_path": "collection/status/20261128T212513p0900-daily28.json"
 }
