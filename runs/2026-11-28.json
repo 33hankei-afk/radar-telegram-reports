@@ -1,10 +1,10 @@
 {
   "date_kst": "2026-11-28",
-  "status": "running",
-  "stage": "verifying",
+  "status": "partial",
+  "stage": "finished",
   "started_at_kst": "2026-11-28T21:25:00+09:00",
-  "updated_at_kst": "2026-11-28T21:28:23+09:00",
-  "ended_at_kst": null,
+  "updated_at_kst": "2026-11-28T21:28:50+09:00",
+  "ended_at_kst": "2026-11-28T21:28:50+09:00",
   "attempt": 1,
   "verified_posts": 240,
   "checked_channels": 59,
@@ -23,7 +23,8 @@
   "errors": [
     "searfin: public read failed: ValueError: not an approved public channel preview",
     "aetherjapanresearch: public read failed: ValueError: not an approved public channel preview",
-    "report_figure_by_offset: public read failed: ValueError: not an approved public channel preview"
+    "report_figure_by_offset: public read failed: ValueError: not an approved public channel preview",
+    "SEARFin revisions unverified; zero rows must not be interpreted as no revisions"
   ],
   "collection_request_id": "20261128T212513p0900-daily28",
   "source_workflow_run_id": 46144566311,
@@ -45,5 +46,17 @@
       "status": "success",
       "commit_sha": "27e7c8d0d715d60561cb83f63c475cbefa1abd11"
     }
+  },
+  "partial_channels": [],
+  "validation_workflow_run_id": 46144823618,
+  "validation_conclusion": "success",
+  "verification": {
+    "remote_reread": true,
+    "date_kst": "2026-11-28",
+    "latest_json_matches_dated": true,
+    "latest_md_matches_dated": true,
+    "url_references_valid": true,
+    "artifact_digest_verified": true,
+    "body_hashes_verified": true
   }
 }
