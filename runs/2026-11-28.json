@@ -1,9 +1,9 @@
 {
   "date_kst": "2026-11-28",
   "status": "running",
-  "stage": "collecting",
+  "stage": "publishing",
   "started_at_kst": "2026-11-28T21:25:00+09:00",
-  "updated_at_kst": "2026-11-28T21:26:44+09:00",
+  "updated_at_kst": "2026-11-28T21:27:32+09:00",
   "ended_at_kst": null,
   "attempt": 1,
   "verified_posts": 240,
@@ -22,5 +22,6 @@
   ],
   "collection_request_id": "20261128T212513p0900-daily28",
   "source_workflow_run_id": 46144566311,
-  "source_status": "partial"
+  "source_status": "partial",
+  "publication_results": {}
 }
